@@ -1,0 +1,1 @@
+In the three years since **Heather Beauregard** was "convinced" to start running the Dresden Files RPG she's finished two full campaigns and is in the middle of a third. She's a Fate enthusiast, a dedicated video gamer, and an aspiring author. She lives in Phoenix with her loving husband and two cats.

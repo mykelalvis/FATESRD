@@ -1,0 +1,1 @@
+**Phil Lewis** was featured on Hoarders Episode 302: “Too Many RPGs.” When not involved in an intervention, he spends his time developing his competitive kingdom-building RPG Wrath of the Autarch, playing games with his friends and family, and studying the rules to Magic Realm.

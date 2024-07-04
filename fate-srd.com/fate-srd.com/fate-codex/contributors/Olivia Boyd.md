@@ -1,0 +1,1 @@
+**Olivia Boyd** is a Chicago-based illustrator and designer, currently studying at Columbia College Chicago. When she's not drinking gallons of coffee or trying to keep houseplants alive, you can find her designing characters, developing graphic novels, and collaborating with other creatives.

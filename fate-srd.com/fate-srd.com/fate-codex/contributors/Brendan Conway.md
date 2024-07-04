@@ -1,0 +1,1 @@
+**Brendan Conway** is a long time gamer who has more recently started writing for and contributing to RPGs. He wrote for the Firefly RPG and will soon be releasing a Dungeon World supplement. He is an Assistant Developer for Magpie Games. He enjoys bacon, egg, and ketchup sandwiches.

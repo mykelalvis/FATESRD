@@ -1,0 +1,1 @@
+**Quinn Murphy** thinks about games constantly. When he's not ranting on twitter ([@qh_murphy](https://twitter.com/qh_murphy)) or his blog ([ThoughtCrimeGames.net](https://thoughtcrimegames.net/)), he is designing material for any number of game systems or designing the next great RPG (he hopes).

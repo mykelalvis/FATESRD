@@ -1,0 +1,1 @@
+**Jason Corley** is a lawyer living in Southern Arizona. He has been rolling _Fudge_ dice since the days of _Heartquest_. (Don't tell him you've never heard of _Heartquest_.)

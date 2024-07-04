@@ -1,0 +1,1 @@
+**Alex Innocenti** graduated from the Maryland Institute College of Art with a BFA in Illustration in 2014, and is currently Living in Brooklyn. When he isn't making art, Alex fancies himself a root beer connoisseur and is probably watching Die Hard somewhere. `alexinnocenti.com](https://alexinnocenti.com/)

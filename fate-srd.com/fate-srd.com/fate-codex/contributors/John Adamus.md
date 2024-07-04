@@ -1,0 +1,2 @@
+**John Adamus** is a frequent editor and player of many Fate-powered games, and his work can be found in both Fate Worlds books, the forthcoming _Paranet Papers_ supplement for _The Dresden Files Roleplaying Game_, and _Iron Edda_. He spends his days helping game designers and authors be more awesome. He frequently tweets about game design and writing techniques on Twitter at [@awesome_john](https://twitter.com/awesome_john.html) and blogs regularly at [writernextdoor.com](http://writernextdoor.com/).
+

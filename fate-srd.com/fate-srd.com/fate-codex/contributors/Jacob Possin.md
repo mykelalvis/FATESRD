@@ -1,0 +1,1 @@
+**Jacob Possin** is a writer and game designer. He is currently co-developer of the Jadepunk line and Serial Tales: Iconic Adventures for Reroll Productions. When he is not playing or designing games, he is thinking about games. Seriously, it's a real problem. Right now, as you read this, Jake is thinking about games. True story.

@@ -1,0 +1,1 @@
+**Philippe Saner** is a statistician from Ottawa and quite possibly the world's biggest _Dresden Files RPG_ fan. He goes by Sanctaphrax online, and runs the DFRPG [[Resources]] Wiki at [dfrpg-resources.wikispaces.com](http://dfrpg-resources.wikispaces.com/).

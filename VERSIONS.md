@@ -1,0 +1,2 @@
+- The clone of the [Fate Github Content Repo](https://github.com/fate-srd/fate-srd-content) was on 2022-10-16.
+- The data for the initial draft of this was scraped on 2022-10-14.  

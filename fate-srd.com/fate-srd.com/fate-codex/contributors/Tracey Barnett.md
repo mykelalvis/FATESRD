@@ -1,0 +1,3 @@
+Found one day on the side of a lonely road, clutching a broken laptop and a battered copy of the 2nd Edition DMG, **Tracy Barnett** writes and devlopes as one half of Exploding Rogue Studios. Tracy's first game, _School Daze_, won a Judge's Spotlight ENnie in 2013. In 2014, Tracy pioneered the Swedish Duck school of martial arts training, quickly adopted by the Secret Global Police. You can find Tracy at [@TheOtherTracy](https://twitter.com/TheOtherTracy.html). 
+
+There is no such thing as the Secret Global Police.

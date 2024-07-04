@@ -1,0 +1,1 @@
+**Joshua Yearsley** is a professional editor of roleplaying games, board games, and technical literature. He works with Evil Hat Productions as the lead editor of their _Fate Worlds_ and _Adventures_ line of supplements, along with a variety of other small and independent publishers.

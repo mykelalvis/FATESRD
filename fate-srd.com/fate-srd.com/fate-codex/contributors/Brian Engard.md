@@ -1,0 +1,1 @@
+**Brian Engard** spends most of his days walking his dogs, procuring live badgers for Leonard Balsera, and writing furiously about things that don't exist. He likes karaoke, coffee, and running dungeons with his wife, Nicole.

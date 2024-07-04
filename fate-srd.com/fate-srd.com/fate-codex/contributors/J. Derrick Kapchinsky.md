@@ -1,0 +1,1 @@
+**J. Derrick Kapchinsky** is the Director of Operations for Magpie Games. In addition to his operational and financial duties at Magpie, he is also a developmental editor, proofer, and indexer. His indices will appear in games such as _Epyllion_, _Masks: A New Generation_, and _7th Sea: Second Edition_. He also likes cats. He, in fact, likes cats more than he likes people.

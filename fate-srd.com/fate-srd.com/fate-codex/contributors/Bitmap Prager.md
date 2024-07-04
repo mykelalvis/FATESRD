@@ -1,0 +1,1 @@
+**Bitmap Prager** is a digital artist, a trans woman, and the creator of the webcomic `catchadreameater.com](http://catchadreameater.com/). She is 27, her favorite color is yellow with pink shadows, and she works all the time and is made of 95% coffee and 105% swirling vortex of ideas.
