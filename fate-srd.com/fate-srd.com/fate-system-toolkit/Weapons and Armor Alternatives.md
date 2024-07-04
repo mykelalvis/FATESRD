@@ -23,7 +23,7 @@ _Armor ratings trump Weapon ratings_. This means that someone with Weapon 5 atta
 
 ## Armor and Weapon Aspects
 
-In [Gear Aspects](../gear-aspects/index.html) we told you that you could model important gear as aspects. This works for most gear, but some people may still want a little more when it comes to weapons and armor. This rules mod is meant to be layered on top of that system, though there's no reason you couldn't use it on its own---it would just mean that _only_ weapons and armor are aspects, and other gear isn't.
+In [[Gear Aspects]] we told you that you could model important gear as aspects. This works for most gear, but some people may still want a little more when it comes to weapons and armor. This rules mod is meant to be layered on top of that system, though there's no reason you couldn't use it on its own---it would just mean that _only_ weapons and armor are aspects, and other gear isn't.
 
 Weapons are divided into **light**, **standard**, and **heavy**. A light weapon could be a small knife or truncheon, a standard weapon is something like a sword or pistol, and a heavy weapon might be a shotgun, sniper rifle, or massive two-handed sword.
 
