@@ -914,7 +914,7 @@ resources.wikispaces.com/Stunts)
 - **Lightfoot.** It’s difficult to track you when you take care to walk lightly. +2 to Stealth when overcoming traps based on weight or pressure. (adapted from Spirit of the Century SRD, §6.27.3)
 - **Master of Shadows.** (requires In Plain Sight.) After you use In Plain Sight, you may move one zone per exchange without becoming visible. If there is an aspect in play that would normally justify the use of Stealth to hide, you may pay a fate point to be able to make an overcome action with Athletics without becoming visible. (adapted from Spirit of the Century SRD, §6.27.1)
 - **Not a Threat.** Choose Deceive or Stealth when you take this stunt. When you create an advantage with that skill to make yourself as non-threatening or unobtrusive as possible, enemies will find other targets for as long as that aspect exists. As soon as you successfully attack someone, the aspect goes away. (Fate System Toolkit, p.42)
-- **Silent Tank.** For some strange reason, you are capable of sneaking around while wearing 30 pounds of steel plating. You never suffer increased difficulty on Stealth rolls from being armoured. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
+- **Silent Tank.** For some strange reason, you are capable of sneaking around while wearing 30 pounds of steel plating. You never suffer increased difficulty on Stealth rolls from being armored. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 
 ## Will Stunts
 
@@ -997,7 +997,7 @@ resources.wikispaces.com/Stunts)
 > If you want to offer particularly potent stunts, consider bundling the benefit of multiple stunts together to produce a single big effect. For example, you could create a stunt that provides a monstrous 4-shift effect —that’s a combination of two stunts, and as such would cost two refresh. (You may recognize this as the method used for constructing the supernatural powers in _The Dresden Files_ RPG.) This kind of focused benefit can throw a game out of whack quickly, though. Consider limiting access to such “super-stunts,” either in quantity—e.g., “everyone only gets one double-stunt”—or in selection and permission—“only these stunts are available to werewolves.” (Fate System Toolkit, p.35)
 
 ---
-More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wikispaces.com/Stunts
+More from <https://web.archive.org/web/20180722134712/https://dfrpg-resources.wikispaces.com/Stunts>
 
 # Alertness
 
@@ -1010,9 +1010,6 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **Inspector:** Short-term and long term inspection of something are essentially the same thing. You may use your Alertness skill for the Examination trapping of Investigation.  
 **Notice the Unseen:** You have an uncanny knack for noticing things that are magically hidden. Add three to your Alertness skill when using it to notice things that are either invisible or veiled.  
   
-  
-  
-
 # Athletics
 
 **War Mount:** You work together with your rider in order to defend yourselves. Add two to your Athletics skill when using it for defense while being ridden.  
@@ -1023,8 +1020,8 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **I Grew Up Doing This:** You are very familiar with a certain environment, and you find it easy to navigate its obstacles. Pick an environment. Add two to your Athletics skill when using it to bypass barriers in that environment. For the purposes of this stunt, a valid environment is any area or type of area that you expect to spend a significant amount of time outside of.  
 **Highly Mobile:** You move abnormally easily, and you find it easy to do other things while moving. You may move one zone each turn as a supplemental action without taking the normal -1 penalty.  
 **Evasion:** Like the members of certain character classes from Dungeons And Dragons (version 3.5), you have an amazing ability to remain unharmed when caught within the area of effect of an explosion. Add two to your Athletics-based defence rolls against area attacks.  
-**Unhindered Defences:** Armour and weapons are wonderful things, but they tend to slow a fellow down. So you don't carry weapons or wear armour. Add two to your Athletics defence rolls as long as you are unarmed and unarmoured.  
-**Land On Your Feet:** Like a cat, you are able to fall from great heights without great harm. When making an Athletics roll to resist falling damage, do not halve the result before converting it to armour.  
+**Unhindered Defences:** Armor and weapons are wonderful things, but they tend to slow a fellow down. So you don't carry weapons or wear armor. Add two to your Athletics defence rolls as long as you are unarmed and unarmored.  
+**Land On Your Feet:** Like a cat, you are able to fall from great heights without great harm. When making an Athletics roll to resist falling damage, do not halve the result before converting it to armor.  
 **Spring-Heeled:** Maybe you don't actually have springs in your heels, but it sure looks as though you do. Add two to your Athletics skill when using it to jump.  
 **Fight By Jumping:** (Requires Spring-Heeled) It is normally a very bad idea to jump up high while fighting, but you make it work. Increase your Athletics skill by a further two when making a jump-based maneuver in combat, but all aspects created this way are automatically fragile.  
 **Out Of Reach:** (Requires Fight By Jumping) It isn't easy to hit a guy who's five feet above your head. So long as you possess an aspect created through Fight By Jumping, add two to your defence rolls against melee attacks.  
@@ -1034,9 +1031,6 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **Deadly Grace:** Your speed and agility let you take people down before they realise what's going on. You may use your Athletics skill for the Ambush trapping of the Stealth skill.  
 **Like a Ninja:** You've seen enough fights to know that dodging is the best way to go. Gain a +2 to Athletics when dodging.  
   
-  
-  
-
 # Burglary
 
 **Security Expert:** Knowing how to case a place means that you know how to protect a place against other people with the same idea. You may use your Burglary skill to perform blocks against the future use of Burglary upon a target that you have successfully assessed with the Casing trapping. This block represents your efforts to correct the security flaws that you notice. Its duration and the time taken to set it up will vary according to the GM's discretion.  
@@ -1046,9 +1040,6 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **Burglar's Signature:** Some aspect of your character makes you an expert thief. Pick one of your aspects. Add two to the result of any Burglary roll that you invoke that aspect on.  
 **Disable Device:** If you can take apart a lock, you can take apart a clock. You may use your Burglary skill for the Breaking trapping of the Craftsmanship skill.  
   
-  
-  
-
 # Contacts
 
 **Absolute Authority:** You are good at being in charge. Add two to your Contacts skill as long as you are in a position of authority over those you intend to contact.  
@@ -1070,9 +1061,6 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **Network of Informants:** You know people who know things about the things that you want to know things about. Pick a subject roughly as broad as “the Red Court” or “academic politics”. Add two to your Contacts skill when using it to Gather Information or Get The Tip Off about that subject.  
 **Discreet Investigations:** You are unusually subtle when it comes to gathering information. It isn't obvious when you use the Gathering Information trapping of the Contacts skill; people need to beat your Contacts roll with one of their own to notice it.  
   
-  
-  
-
 # Conviction
 
 **Sermonize:** Your speeches are more about passion than presentation. Add a new trapping called Preaching to your Conviction skill. The Preaching trapping is used to make social attacks, social maneuvers, and public speeches that are related to religious or moral issues.  
@@ -1093,9 +1081,6 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **Set in My Ways:** You're old. It took you decades to form your beliefs and you're not about to abandon them. Add two to your Conviction skill when using it to resist attempts to change your deeply-held beliefs or your core identity.  
 **My Magic Protects Me:** Your faith in your powers keep your foes at bay. Your Magic satisfies the catch for creatures vulnerable to tokens of faith or holy objects (unless they are only susceptible to a particular religion)  
   
-  
-  
-
 # Craftsmanship
 
 **Percussive Maintenance:** Sometimes a malfunctioning gadget just needs a good swift kick. You may spend a fate point to make any repair attempt in one exchange. Treat all such repairs as Jury-Rigged repairs.  
@@ -1112,9 +1097,6 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **Sneaky Bastard:** You are an expert in the subtle art of booby-trapping an area. If given time to prepare a location, you may create traps in that location. When in an area that you have booby-trapped, you may make physical attacks with your Craftsmanship skill. The weapon ratings and ranges of these attacks depend upon the traps used to make them. The time required to set a trap and the time that they last for will vary based on GM discretion.  
 **Locksmith:** If you can take apart a clock, you can take apart a lock. You may use your Craftsmanship skill for the Lockpicking trapping of the Burglary skill.  
   
-  
-  
-
 # Deceit
 
 **Feint:** When it looks like you're going to go right, you go left. And vice versa. Add two to your Deceit skill when using it for maneuvers to create Aspects that have to do with confusion and misdirection in physical combat.  
@@ -1137,9 +1119,6 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **Dishonest Persuasion:** If being charming doesn't make people do what you want them to do, lie your ass off. You may use your Deceit skill instead of your Rapport skill to make social attacks based off of persuasion.  
 **Feint:** Pretend to attack one area and then quickly hit another. You may use your Deceit skill to attack with melee weapons. Any character that you use this stunt on adds two to their defence rolls against your further use of this stunt for the rest of the scene.  
   
-  
-  
-
 # Discipline
 
 **Determinate:** Your astonishing determination allows you to push yourself beyond your limits. Use your Discipline skill for the Long-Term Action trapping of the Endurance skill. (A similar stunt could exist in Conviction.)  
@@ -1161,9 +1140,6 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **Cool Under Pressure:** You've learned to control your mind in battle. Gain a +2 to Discipline when in combat.  
 **Mind Over Body:** You are the master of your body, not the other way around. Use Discipline instead of Endurance to roll for pushing through pain or exhaustion.  
   
-  
-  
-
 # Driving
 
 **City Driver:** You've spent most of your life driving up and down the same streets. Add one to your Driving skill on city streets and ignore one point worth of increased difficulty due to traffic.  
@@ -1173,9 +1149,6 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **Signature Ride:** You’ve used a certain type of vehicle so much that its operation is instinctive to you. Pick a type of vehicle. Add two to your Driving skill when using that sort of vehicle.  
 **Traffic Watcher:** You really know how to use those rear-view mirrors. You may use your Driving skill instead of your Alertness skill to notice vehicles and road conditions, to detect vehicular ambushes, and to determine initiative while operating a vehicle.  
   
-  
-  
-
 # Empathy
 
 **Read You Like A Book:** People's emotions are pretty damn obvious to you. Add two to your Empathy skill when using it to read people.  
@@ -1183,24 +1156,18 @@ More from https://web.archive.org/web/20180722134712/https://dfrpg-resources.wik
 **One Breath:** A true samurai can size up a foe within a single breath. You may use your Empathy skill for Assessments and Declarations intended to determine when an opponent or potential opponent will attack you and what their combat skills are like.  
 **Disturbingly Insightful:** You always know just what people don't want to hear. You may use your Empathy skill to make social attacks intended to unnerve, annoy, and generally mess with people.  
   
-  
-  
-
 # Endurance
 
 **Tough as Nails:** You don’t seem to feel pain the way normal people do. When an opponent tags or invokes one of your consequences when attacking you in a physical conflict they only receive +1 to their roll. If they choose to reroll, you may lock down one of their dice and leave them only 3 to reroll.  
 **Inexhaustible Power:** You always have a bit more juice to draw upon. You may take two additional mild mental consequences when facing the stress incurred from using Evocation.*  
-**Fireproof:** You are incredibly resistant to fire and extreme heat in general. You have a natural armour value of 2 against fire. This bonus stacks with other sources of armour.  
+**Fireproof:** You are incredibly resistant to fire and extreme heat in general. You have a natural armor value of 2 against fire. This bonus stacks with other sources of armor.  
 **Effortless Recovery:** You don’t just heal fast. You heal easily. You take no penalty when erasing a consequence as a supplemental action with a Recovery power.*  
 **Was That Supposed To Hurt?:** You are TOUGH. You don't avoid attacks, you just take them right. You may use your Endurance skill to defend against any physical attack that could plausibly strike you without inflicting a significant injury.  
-**Shrug It Off:** You don't bother to dodge; you don't need to. When you are attacked in a physical conflict, you may choose to make your defense Mediocre. If you do so, roll your Endurance skill and gain armour against that attack equal to the result. Armour from this stunt stacks with all other forms of armour.  
+**Shrug It Off:** You don't bother to dodge; you don't need to. When you are attacked in a physical conflict, you may choose to make your defense Mediocre. If you do so, roll your Endurance skill and gain armor against that attack equal to the result. Armor from this stunt stacks with all other forms of armor.  
 **The King Still Stands:** You are the king! An army of commoners is nothing more than fodder for your sword to cut down. When fighting against multiple opponents on your own, you may take two additional mild physical consequences.  
 **Toughness Of Mind And Body:** A guy as tough as you has no need to be afraid. You may use your Endurance skill to resist fear.  
 Always Healthy: You are always healthy. Duh. Add two to your Endurance skill when using it to defend against poisons and diseases.  
   
-  
-  
-
 # Fists
 
 **Patterns:** Martial arts are actually a lot like dancing. You may use Fists instead of Performance to demonstrate martial arts moves.  
@@ -1230,9 +1197,6 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Light You On Fire:** Anyone can light people on fire, but only a skilled fire-lighter like you can do it safely. As long as you have a lighter or some matches or a magical flaming fist or some other source of fire, your Fists attacks inflict two additional stress to anyone wearing or carrying flammable things.  
 **Martial Scholar:** (Requires Martial Artist) Once you know your opponent's style, defending against them is easy. Add two to your Fists skill when using it to defend against the attacks of someone whose style you have successfully Assessed with Martial Artist.  
   
-  
-  
-
 # Guns
 
 **Trained As A Unit:** You were trained alongside the rest of your unit, and now that unit is like a single organism. Add two to your Guns skill when using it to make a maneuver while working together with at least one other character who has this stunt for the same unit as you. (A similar stunt could exist in many other skills.)  
@@ -1252,9 +1216,6 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Pistols Akimbo:** You have two hands, why use only one gun? When wielding two guns, you may add half of the weapon rating of the second gun to that of the first.  
 **Gun Kata:** You have trained in using pistols in melee combat. When dual-wielding pistols, you may use your Guns skill to defend against attacks made by other characters in your zone. Add one to your Guns skill when using this stunt to defend against firearms.  
   
-  
-  
-
 # Intimidation
 
 **Scare 'em Straight:** You are an authority figure. Part of your job is to put the fear of the law in potential miscreants. Add one to your Intimidation skill when using it against someone under your authority (ie: students for a teacher, magical practitioners for a Warden).  
@@ -1273,9 +1234,6 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Grisly Display:** When people see what you do to the people you take down, they think twice about fighting you. Once per scene, when you take someone out with physical stress, you may create a taggable GRISLY DISPLAY Aspect for free. If you do so, add one to your Intimidation skill for the rest of the scene.  
 **Domination:** Your minions may be weak-minded, but you've scared them into submission. Your Intimidation skill complements the social and mental defence skills of any character who directly serves you.  
   
-  
-  
-
 # Investigation
 
 **Improved Psychometry:** Your investigative skills are geared more to the magical than to the mundane. Add two to your Investigation skill when using it with the Psychometry power.*  
@@ -1293,13 +1251,10 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Excellent Journalist:** (Requires Investigative Reporter) It’s not complicated: you’re just a good journalist. Add two to your Investigation skill when using it to replace your Performance skill.  
 **Specialized Detective:** You might not be the most versatile investigator, but you’re good at what you do. Pick a topic. Add two to your Investigation skill when investigating that topic.  
   
-  
-  
-
 # Lore
 
 **Blindingly Fast Change:** You are able to shift forms in the blink of an eye – so fast that opponents are caught unprepared. You take no penalty to your main action when using a supplemental action to change shape (using the Beast Change or True Shapeshifting powers). Once per scene, when shifting forms and attacking as part of the same action, you may spend a Fate Point to add three to your attack roll.*  
-**Spell Resistance:** Your extensive practical experience with hostile magic helps you mitigate its effects. You have an armour value of 1 against all stress originating from direct applications of magic. This armour stacks with all other sources of armour that may be effective against a magical attack.  
+**Spell Resistance:** Your extensive practical experience with hostile magic helps you mitigate its effects. You have an armor value of 1 against all stress originating from direct applications of magic. This armor stacks with all other sources of armor that may be effective against a magical attack.  
 **I Know Fairies:** Your knowledge of the supernatural includes personal familiarity with the fey. You may use your Lore skill instead of your Contacts skill when dealing with the fey.  
 **A Potion For Everything:** You always have exactly the right potion for any situation. Add two to your Lore skill when using it to declare that you have a certain potion.*  
 **Occult Crafts:** There are some things you just don’t learn to build in shop class. Choose a type of item that has some connection to the occult, like shrunken heads or voodoo dolls. You may use your Lore skill to create or repair items of that type.  
@@ -1311,9 +1266,6 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **I've Fought A Lot Of Monsters:** You've been in a position to see how a lot of supernatural nasties fight--usually because they've been swinging their claws at you--and that knowledge is almost as good as just being quick on your feet. When fighting non-human supernatural creatures, you may use your Lore skill instead of your Athletics skill to dodge their melee attacks.  
 **Sufficiently Advanced Technology:** Some technology is basically magic. The underlying principles are different, but for all practical intents and purposes it's magic. And so you treat it that way. You may use your Lore skill to know about and sort-of understand any technology that's utterly beyond modern scientific understanding. Like an alien spaceship or the gun of a time traveller from the 45th century.  
   
-  
-  
-
 # Might
 
 **Heavy Object Attack:** Pure strength can compensate pretty well for a lack of skill sometimes. You may use your Might skill to make attacks with heavy objects.  
@@ -1325,9 +1277,6 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Built Like An Ox:** You are a solid block of muscle, and that lets you take a lot of punishment. Use your Might skill to determine the length of your physical stress track.  
 **Muscle Your Way Up:** Climbing is basically like weightlifting, except you are the weight. You may use your Might skill for the Climbing trapping of Athletics.  
   
-  
-  
-
 # Performance
 
 **Artist:** You are an artist, obviously. Pick a genre and a medium. Add one to your Performance skill when dealing with something that is part of either your chosen medium or your chosen genre, and add two to your Performance skill when dealing with something that is part of both your chosen genre and your chosen medium.  
@@ -1344,9 +1293,6 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Building Upon The Mood:** You know how to use the local ambience to maximum effect. Add two to your Performance skill when tagging or invoking a scene aspect to boost a Performance roll.  
 **Artistic Spirit:** You might not actually be much of an artist, but you could have been a great one if your life had gone differently. Your Performance skill is considered to be infinite whenever it would complement, restrict, or otherwise modify another skill.  
   
-  
-  
-
 # Presence
 
 **Famous:** You are very well known. Add two to your Presence skill when using it to determine your reputation.  
@@ -1358,21 +1304,18 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Spin Doctor:** You are an expert in social damage control. You may take 2 additional mild social consequences as long as you have an audience.  
 **Pretty Fly For A Dead Guy:** It’s not easy to pull of the “decomposing carcass” look, but you manage it somehow. Ignore two shifts worth of social penalties from Living Dead.*  
 **Regal Attitude:** You understand how to be powerful, which is much more difficult than it sounds. Use your Presence skill plus one to make Declarations related to power and who has it in any given social situation.  
-**The Opinions Of Your Sort Are Irrelevant to Me:** You just don’t really care about what certain beings have to say. Pick a type of being. You have armour: 1 against social attacks from that type of being.  
+**The Opinions Of Your Sort Are Irrelevant to Me:** You just don’t really care about what certain beings have to say. Pick a type of being. You have armor: 1 against social attacks from that type of being.  
 **Respect The Power:** You have an inherent advantage in social conflicts because of your personal power. When you are in a position of obvious power, add two to your Presence skill.  
-**Protected By Prejudice:** The preconceptions of others make it difficult for them to act against you socially. Choose a common (but not universal) prejudice, like “the elderly should be treated with respect”. As long as that prejudice applies, you have armour 1 against all social attacks. This bonus stacks with other sources of social armour.  
+**Protected By Prejudice:** The preconceptions of others make it difficult for them to act against you socially. Choose a common (but not universal) prejudice, like “the elderly should be treated with respect”. As long as that prejudice applies, you have armor 1 against all social attacks. This bonus stacks with other sources of social armor.  
 **Professional Attitude:** You take your job so seriously that it’s hard to believe that you have a life outside of it. Add two to your Presence skill when you are at work.  
 **Welcome To My World:** In your domain, you are more confident and people treat you better. Pick a place. Add two to your Presence skill when in that place.  
 **Bolstered Presence:** A person with some minions is always more powerful-seeming than someone with none. Add two to your Presence skill as long as you have some subordinates around.  
 **Presence Of The Alpha:** You look exactly the way an alpha male should. Add two to your Presence skill when using your physical appearance to impress people.  
 **Animal Magnetism:** Your natural charisma and confidence carry over to the animal kingdom. You may use your Presence skill for the Animal Handling trapping of Survival.  
-**I Do What I Want:** You don't take no orders from nobody. You have social armour 1 against social attacks phrased as commands.  
+**I Do What I Want:** You don't take no orders from nobody. You have social armor 1 against social attacks phrased as commands.  
 **Strategist:** Unlike most people, you have been trained in the science of military strategy. Add a new trapping called Strategy to your Presence skill. The Strategy trapping is used to make Assessments, Declarations, and other rolls related to strategy either in battle or in games. (A similar stunt could exist in Scholarship.)  
 **Don't Mess with My Friends:** You give your allies comfort. Your Presence skill complements the social defence skills of your allies as long as you are present.  
   
-  
-  
-
 # Rapport
 
 **Nothing Suits Me Like A Suit:** The right suit can make a lousy point seem brilliant. If you're so well dressed, how could you possibly be wrong? As long as you are wearing a tailored suit, your Rapport attacks inflict two additional stress.  
@@ -1389,9 +1332,6 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Interviewer:** You have been trained to ask effective questions. Add two to your Rapport skill when using it to extract information from someone. Reduce the bonus provided by this stunt to one when it applies to a social attack.  
 **Looks Can Be Deceiving:** You're especially good at making people think you're on the level. You may use your Rapport skill for the False Face Forward trapping of the Deceit skill.  
   
-  
-  
-
 # Resources
 
 **Licenses for Everything:** You have a licence, real or fake, to own everything under the sun. You may ignore up to two shifts of increased Resources difficulty that result from legal restrictions.  
@@ -1400,7 +1340,7 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Shut Up And Take My Money:** You're very good at bribery, be it subtle or overt. Bribery-based attacks that you make with the Resources skill inflict two additional stress.  
 **Professional Gambler:** Your funds at a given time are determined by chance more than anything else. Whenever you roll Resources, flip a coin. If heads, add two to your roll.  
 **Arsenal:** You have access to an impressive supply of weaponry. Add two to your Resources skill when using it to buy or already own weaponry.  
-**Improved Arsenal:** (Requires Arsenal) You have access to an armoury better than that of some national armies. Ignore all legal restrictions when purchasing weaponry.  
+**Improved Arsenal:** (Requires Arsenal) You have access to an armory better than that of some national armies. Ignore all legal restrictions when purchasing weaponry.  
 **Money Talks:** For some bizarre reason, everyone wants to talk to the guy who hands out money. You may use your Resources skill for the Gathering Information trapping of the Contacts skill.  
 **Treasure:** Your resources are rather old-fashioned: where most people have stocks and bonds, you have gold and jewels. Add two to your Resources skill when using it to buy or already own gold, jewels, and other such things.  
 **Sponsored Resources:** You have a powerful patron who will sometimes let you borrow money and goods. When you take this stunt, select an entity or organization of great wealth to be your sponsor. Once per adventure, you may add four to your Resources skill for a single roll as long as that roll somehow benefits the agenda of your sponsor. If you do, you take a point of sponsor debt as if you had used Sponsored Magic. This is not related to and may be used in concert with the standard rules for using someone else's Resources.  
@@ -1408,9 +1348,6 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Banker:** Your wealth isn't just a stack of cash; it's an entire system of investments that you can manipulate. You may use your Resources skill to perform maneuvers based on controlling the flow of money through various markets and to notice things that affect those markets.  
 **Good Luck Charms:**** You buy, sell, and own good luck charms of questionable effectiveness. Add a Good Luck Charms trapping to your Resources skill. The Good Luck Charms trapping is used to make Maneuvers and Declarations related to luck, protection against evil, and people's perceptions of those things.  
   
-  
-  
-
 # **Scholarship**
 
 **Cracker:** Using a computer and hacking one are pretty much the same thing. You may use your Scholarship skill to defeat computerized security.  
@@ -1431,22 +1368,16 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **I Have Lived History:** You know the history of the world very well because you were around for most of it. Add two to your Scholarship skill when using it for knowledge of the past.  
 **Meteorologist:** You are trained as a meteorologist and so you are skilled at predicting the weather. You may use your Scholarship skill plus one to make Assessments and Declarations about the weather.  
   
-  
-  
-
 # Stealth
 
 **Sneak Attack:** You prefer to attack by surprise. When preparing or carrying out an ambush, add two to your Stealth skill.  
 **Deadly Shadows:** It's easy to kill someone who can't see you, regardless of your skills. When attacking a character that cannot see you, you may use your Stealth skill to instead of your Fists, Weapons, or Guns skills.  
 **Traceless:** You don’t seem to leave footprints. The difficulty of any attempt to track your movements is three shifts higher then it normally would be.  
 **Among The Seaweed:** You are a master of submersible subterfuge. Add two to your Stealth skill as long as you are at least partially underwater, and reduce the difficulty of moving stealthily through water-based borders by two.  
-**Silent Tank:** For some strange reason, you are capable of sneaking around while wearing 30 pounds of steel plate armour. You may ignore up to two shifts worth of penalties to your Stealth rolls from encumbrance.  
+**Silent Tank:** For some strange reason, you are capable of sneaking around while wearing 30 pounds of steel plate armor. You may ignore up to two shifts worth of penalties to your Stealth rolls from encumbrance.  
 **Hide Underground:** You can quickly and effectively dig out a little hidey-hole for yourself. Add two to your Stealth skill when using it to hide in a place with soft ground that you can burrow into.  
 **Stalker:** You like to watch people who don't know they're being watched. You may use your Stealth skill for the Surveillance trapping of the Investigation skill.  
   
-  
-  
-
 # Survival
 
 **Outdoorsman:** Your extensive field experience helps you operate in the wild. You may have your Survival skill complement your Stealth and Investigation skills as long as you are in the wilderness.  
@@ -1455,16 +1386,13 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Supernatural Survivalism:** You've spent time in the Nevernever and have a pretty good idea of how to survive there. Add two to your Survival skill as long as you are in the Nevernever.  
 **They're In the Trees:** Basic wilderness survival includes a great deal of stealth. You may use your Survival skill for the Hiding and Ambush trappings of the Stealth skill as long as you are outdoors.  
 **Fisherman:** You fish. It’s how you get your food. When attempting to Live Off The Land in an area of water, add three to your Survival skill.  
-**Maelstrom-Weathering Indifference:** Thunderstorms don't scare you. Sometimes you don't even notice them. You have an armour value of 1 against all physical environmental stress. This armour stacks with all other sources of armour.  
+**Maelstrom-Weathering Indifference:** Thunderstorms don't scare you. Sometimes you don't even notice them. You have an armor value of 1 against all physical environmental stress. This armor stacks with all other sources of armor.  
 **Frontiersmen Have To Improvise:** Making stuff out of the things around you is an integral part of wilderness survival. You may use your Survival skill instead of your Craftsmanship skill to build things out of scavenged materials.  
 **Superior Tracking:** You could track a bacterium across ten parsecs of glass in a rainstorm with your eyes closed. Add two to your Survival skill when using it to track.  
 **Caveman Lifestyle:** You know how to live naked in the wilderness. Ignore two shifts worth of increased Survival difficulty from lack of tools.  
 **Actions Speak Louder Than Words:** Dealing with animals, who don't talk, has given you an excellent grasp of body language. You may use your Survival skill to see through the Disguise and Distraction and Misdirection trappings of Deceit.  
 **Animal Magnetism:** It's a bit demeaning to equate seduction to animal training, but in your experience there isn't all that much difference between the two activities. You may use your Survival skill instead of your Rapport skill to seduce people.  
   
-  
-  
-
 # Weapons
 
 **Footwork:** With skilled footwork you can parry or avoid anything your opponents throw at you, as long as you have the familiar weight of a melee weapon in your hands to guide you. You may use your Weapons skill for the defence trapping of Athletics as long as you are wielding a melee weapon.  
@@ -1476,11 +1404,11 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Backstab:** You aren’t so much a warrior as an assassin. Once per scene, when ambushing someone, you may spend a Fate Point to inflict four additional stress on a successful attack. This stacks with all other damage-increasing stunts.  
 **Hidden Weapons:** Your knowledge of weapons helps you conceal them. You may use your Weapons skill to conceal weaponry.  
 **Twist the Knife:** You know how to exploit the wounds of your opponents. Add one to your Weapons skill when tagging or invoking one of a character's consequences to benefit a Weapons attack against that character.  
-**Defeat Armour:** You are a master of finding weak spots in a coat of armour. All of your attacks with the Weapons skill ignore two points worth of worn armour.  
+**Defeat Armor:** You are a master of finding weak spots in a coat of armor. All of your attacks with the Weapons skill ignore two points worth of worn armor.  
 **Mounted Combat:** You know how to fight from atop a horse. Add one to your Weapons skill when using it to attack while riding an animal.  
 **Power Attack:** You put all your strength into an attack, increasing power at the expense of precision. You may take a -1 penalty to an attack roll before rolling to increase the stress inflicted by that attack by 3.  
-**Shield Carrier:** You know how to use a shield. Add one to your physical armour score as long as you are carrying a shield.  
-**Phalanx Fighting:** (Requires Shield Carrier) You know how to use a shield in a formation. Whenever you take a full defence action while carrying a shield, you may select two other characters in the same zone as you who have this stunt. Increase each of their physical armour scores by one until your next turn.  
+**Shield Carrier:** You know how to use a shield. Add one to your physical armor score as long as you are carrying a shield.  
+**Phalanx Fighting:** (Requires Shield Carrier) You know how to use a shield in a formation. Whenever you take a full defence action while carrying a shield, you may select two other characters in the same zone as you who have this stunt. Increase each of their physical armor scores by one until your next turn.  
 **Quick Draw:** You can draw and use a weapon in a single motion. You take no penalty when drawing a weapon as a supplemental action (page YS:213); if you're in a race to see who draws first, or anything else having to do with your speed or ability to draw, gain a +1 on the roll.  
 **Iaijutsu:** (Requires Quick Draw) You are trained in iaijutsu, the art of drawing a sword. The first attack you make with a sword each scene inflicts two additional stress. Furthermore, you may add one to your Weapons skill when making it.  
 **Bows Are Weapons:** They totally are. You may use your Weapons skill to wield bows, including crossbows.  
@@ -1511,22 +1439,16 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 
 ---
 
-Questionable ones from https://web.archive.org/web/20180722134733/https://dfrpg-resources.wikispaces.com/Questionable%20Stunts
+Questionable ones from <https://web.archive.org/web/20180722134733/https://dfrpg-resources.wikispaces.com/Questionable%20Stunts>
 
 # Athletics
 
 **Magic Dodge:** You only need to will a spell not to affect you if it can hit you in the first place. Use Athletics instead of Discipline to dodge any magical attack whose physical trappings mean getting out of the way is a valid option. Examples: a burst of fire, spikes of ice, a blast of energy, etc... Any ritual magic using a ritual link to you automatically bypasses this stunt.  
   
-  
-  
-
 # Discipline
 
 **I've Seen It All:** You've seen and done things that would make most beings cringe, and have become practiced at ignoring such stress. You may use Discipline in place of Conviction to determine your mental stress track.  
   
-  
-  
-
 # Lore
 
 **Lore is My Strength:** Your vast knowledge of magic and its effects enable you to get much stronger results than normal from your spellcrafting. Use Lore in place of Conviction for spellcasting. Should not be taken with **Lore is My Guide.**  
@@ -1536,31 +1458,19 @@ Questionable ones from https://web.archive.org/web/20180722134733/https://dfrpg-
 **Transparent Veils:** You have a knack for making a good veil. Veils you create do not impede outward visibility at all.  
 **Lasting Portals:** The portals you create are solid and durable. You may increase the duration of portals you create by two steps without increasing the complexity of the spell.  
   
-  
-  
-
 # Performance
 
 **Spellsinger**: Music is magic, at least for you. You may use your Performance skill for spellcasting control.  
 **Song Of Emotion:** Your art has a real impact on the emotions of those who hear it. You may use your Performance skill for the Incite Emotion power.  
   
-  
-  
-
 # Presence
 
 **Battle Tactician:** Your leadership allows you to coordinate your allies' strengths effectively. Presence can normally be used to lead people in battle, placing an aspect or two on a teammate. With this stunt, you can place aspects on multiple allies with a single roll, provided they respect your leadership and carry out your orders.  
   
-  
-  
-
 # Rapport
 
 **Good First Impression:** You gain +2 to your first rapport roll when meeting someone.  
   
-  
-  
-
 # Stealth
 
 **Stealth Fighter:** You're adept at using the chaos of battle to your advantage. You may sneak up behind any enemy that has already been attacked this round a supplemental action. If your attempt is successful, your attack counts as a sneak attack, and your opponent gets no benefit from any skill to dodge.
