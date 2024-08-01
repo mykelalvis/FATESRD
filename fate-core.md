@@ -17,7 +17,7 @@ This book uses the OGL version of this text. License found at the end of this do
 
 ## THE BASICS
 
-### Welcome to Fate!
+### Welcome to Fate
 
 If you’ve never played a roleplaying game before, here’s the basic idea: you and a bunch of friends get together to tell an interactive story about a group of characters you make up. You get to say what challenges and obstacles those characters face, how they respond, what they say and do, and what happens to them.
 
@@ -165,7 +165,6 @@ Here’s the ladder:
 | -1 | Poor      |
 | -2 | Terrible  |
 
-
 It doesn’t really matter which side of the ladder you use—some people remember the words better, some people remember the numbers better, and some people like using both. So you could say, “I got a Great,” or “I got a +4,” and it means the same thing. As long as everyone understands what you’re communicating, you’re fine.
 
 Results can go below and above the ladder. We encourage you to come up with your own names for results above Legendary, such as “Zounds!” and “Ridiculously Awesome.” We do.
@@ -232,7 +231,7 @@ Anyone at the table is free to suggest when a compel might be appropriate for an
 
 {Insert description of a compel being offered and accepted}
 
-### Start Playing!
+### Start Playing
 
 These are the basic things you need to know to play Fate. The following chapters go into greater detail on everything we’ve covered above, and will show you how to get your game off the ground.
 
@@ -274,7 +273,7 @@ This doesn’t mean they spend all their time wallowing in misery and pain, or t
 
 Any Fate game that you play should provide the potential and opportunity for drama among and between the characters, and give you a chance to relate to them as people. A game about adventurers mindlessly punching increasing numbers of bigger, badder bad guys is not Fate. A game about adventurersstruggling to lead normal lives despite being destined to fight ultimate evil is.
 
-### WHEN CREATING YOUR GAME:
+### WHEN CREATING YOUR GAME
 
 - **Setting:** Decide what the world that surrounds the protagonists is like.
 - **Scale:** Decide how epic or personal your story will be.
@@ -282,7 +281,7 @@ Any Fate game that you play should provide the potential and opportunity for dra
 - **NPCs:** Decide who the important people and locations are.
 - **Skills and Stunts:** Decide what sorts of things characters in the setting are likely to want to do.
 
-### Character Creation: Make the PCs.
+### Character Creation: Make the PCs
 
 #### Setting Up Your Game
 
@@ -323,7 +322,7 @@ You’ll come up with two issues as a group and write them down on index cards o
 The issues should reflect the scale of your game and what the characters will face. They’re broad ideas; they don’t just affect your characters, but many people in the world. Issues take two forms:
 
 - **Current Issues:** These are problems or threats that exist in the world already, possibly for a long time. Protagonists tackling these issues are trying to change the world, to make it a better place. Examples: a corrupt regime, organized crime, rampant poverty and disease, a generations-long war.
-- **Impending Issues:** These are things that have begun to rear their ugly heads, and threaten to make the world worse if they come to pass or achieve a goal. Protagonists tackling these issues are trying to keep the world from slipping into chaos or destruction. Examples: an invasion from a neighbouring country, the sudden rising of a zombie horde, the imposition of martial law.
+- **Impending Issues:** These are things that have begun to rear their ugly heads, and threaten to make the world worse if they come to pass or achieve a goal. Protagonists tackling these issues are trying to keep the world from slipping into chaos or destruction. Examples: an invasion from a neighboring country, the sudden rising of a zombie horde, the imposition of martial law.
 
 Game and character creation involve making aspects. If you’re new to Fate, read over the Aspects and Fate Points chapter.
 
@@ -409,7 +408,7 @@ You’ll want to keep good notes on this process. You can use the character shee
 
 Start by determining your character’s high concept and trouble. Then build your character’s backstory, a process that takes place over three phases. Once you have that figured out, flesh out your character’s skills and stunts. Then you’re ready to play!
 
-#### WHEN CREATING YOUR CHARACTER:
+#### WHEN CREATING YOUR CHARACTER
 
 - **Aspects:** Come up with your character’s high concept and trouble aspects.
 - **Name:** Name your character.
@@ -704,7 +703,7 @@ You can add stress tracks if the characters in your game suffer unique kinds of 
 
 {example}
 
-##### You’re All Set!
+##### You’re All Set
 
 At the end of this process, you should have a character with:
 
@@ -796,9 +795,9 @@ Character aspects are just as permanent, but smaller in scope, attached to an in
 - **Significant personality traits or beliefs** (Sucker for a Pretty Face, Never Leave a Man Behind, The Only Good Tsyntavian Is a Dead Tsyntavian).
 - **The character’s background or profession** (Educated at the Academy of Blades, Born a Spacer, Cybernetic Street Thief).
 - **An important possession or noticeable feature** (My Father’s Bloodstained Sword, Dressed to the Nines, Sharp Eyed Veteran).
-- **Relationships to people and organisations** (In League with the Twisting Hand, The King’s Favor, Proud Member of the Company of Lords).
+- **Relationships to people and organizations** (In League with the Twisting Hand, The King’s Favor, Proud Member of the Company of Lords).
 - **Problems, goals, or issues the character is dealing with** (A Price on My Head, The King Must Die, Fear of Heights).
-- **Titles, reputations, or obligations the character may have** (Self-Important Merchant Guildmaster, Silver-Tongued Scoundrel, Honour-Bound to Avenge My Brother).
+- **Titles, reputations, or obligations the character may have** (Self-Important Merchant Guildmaster, Silver-Tongued Scoundrel, Honor-Bound to Avenge My Brother).
 
 You can invoke or call for a compel on any of your character aspects whenever they’re relevant. GMs, you can always propose compels to any PC. Players, you can suggest compels for other people’s characters, but the GM is always going to get the final say on whether or not it’s a valid suggestion.
 
@@ -1874,7 +1873,7 @@ Contests of [[Will]] might reflect particularly challenging games, like chess, o
 
 ## ACTIONS AND OUTCOMES
 
-### IT’S TIME FOR ACTION!
+### IT’S TIME FOR ACTION
 
 You roll the dice when there’s some kind of interesting opposition keeping you from achieving your goals. If there’s no interesting opposition, you just accomplish whatever you say you’re trying to do.
 
@@ -2034,7 +2033,7 @@ He describes how he hastily dismantles the ballista, applying rather violent sab
 
 Use the [[create advantage]] action to make a [[situation aspect]] that gives you a benefit, or to claim a benefit from any aspect you have access to.
 
-The [[create advantage]] action covers a broad range of endeavours, unified around the theme of using your skills to take advantage (hence the name) of the environment or situation you’re in.
+The [[create advantage]] action covers a broad range of endeavors, unified around the theme of using your skills to take advantage (hence the name) of the environment or situation you’re in.
 
 Sometimes, that means you’re doing something to actively change your circumstances (like throwing sand in an opponent’s eyes or setting something on fire), but it could also mean that you’re discovering new information that helps you (like learning the weakness of a monster through research), or taking advantage of something you’ve previously observed (like your opponent’s predisposition to a bad temper).
 
@@ -2147,7 +2146,7 @@ Technically, no. The defend action is there to stop you from taking stress, cons
 
 But! You can roll active opposition if you’re in the way of any action, as per the guidelines. So if someone’s doing an overcome action that might fail because you’re in the way, you should speak up and say, “Hey, I’m in the way!” and roll to oppose it. You don’t get any extra benefits like the defend action gives you, but you also don’t have to worry about the aforementioned bad stuff if you lose.
 
-###### NO STACKED EFFECTS!
+###### NO STACKED EFFECTS
 
 You’ll notice that the defend action has outcomes that mirror some of the outcomes in attack and create an advantage. For example, it says that when you tie a defense, you grant your opponent a boost. Under attack, it says that when you tie, you receive a boost.
 
@@ -2874,7 +2873,7 @@ The downside, of course, is that unless you’re working from a pre-existing set
 
 If you’re going bottom-up, though, you’ll start with whatever’s immediately important to the PCs. That might be anything from a few notable NPCs in their hometown to the name of the guy who works in the next cubicle over. Then the group figures out the details as the story goes along. There’s no need to have an idea of how things fit into the world, because everyone will make that up as you go. The world just spirals out from whatever you start with.
 
-The potential downside here is that it requires quite a bit of improvisation and thinking on your feet. That goes for everyone at the table, GM and players alike. For you, the GM, that might not be such a big deal—running a game almost always involves a degree of flying by the seat of one’s pants—but not all players are going to be ready for that sort of responsibility. In addition, if your players like to immerse themselves in their characters and see the game world through their eyes, they may find it jarring to occasionally break from that perspective to, say, invent a name on the spot for the enchanted axe they just found or tell you what happened to the last Shadow Director of the CIA.
+The potential downside here is that it requires quite a bit of improvization and thinking on your feet. That goes for everyone at the table, GM and players alike. For you, the GM, that might not be such a big deal—running a game almost always involves a degree of flying by the seat of one’s pants—but not all players are going to be ready for that sort of responsibility. In addition, if your players like to immerse themselves in their characters and see the game world through their eyes, they may find it jarring to occasionally break from that perspective to, say, invent a name on the spot for the enchanted axe they just found or tell you what happened to the last Shadow Director of the CIA.
 
 Fate can handle either, but the system’s support for player-driven contributions to the narrative in the form of aspects and story details really makes the bottom-up method sing. If that’s the way you like to play anyway, great! If not, no pressure—but give it a try sometime.
 
@@ -2923,20 +2922,20 @@ It’s totally fine to assign a mild consequence of Glass in My Hand in that cas
 As with the Golden Rule, make sure everyone’s on the same page before you do stuff like this.
 
 >Due to a failure on a previous roll, Cynere has accidentally set off a deadly magical trap while in pursuit of the Idol of Karlon-Kar, an ancient god of destruction. Amanda describes the hall as continually filled with fiery bolts of death, seemingly in a random configuration, with the pedestal holding the idol located on the far end of the hall from where Cynere’s currently standing.
-> 
+>
 > Lily says, “Well, there’s nothing for it. I’m going after the idol. I take off down the hall, keeping my eye out for fiery death bolts.”
-> 
+>
 > Amanda thinks, because she knows that dice are going to have to come out on this. If Cynere is moving through the hall, it looks most like an overcome action to do the movement. But with the fiery death bolts in the room, it seems more like Lily would need to defend herself. There are also two ways she could handle the trap—it’s technically just passive opposition against Lily to prevent her passing through the room safely, but because it can do damage, it seems more like an attack.
-> 
+>
 > So Amanda asks, “Lily, we need to go to dice, but what exactly do you want to accomplish here? Are you mainly trying to make sure you don’t get hit, or are you blasting through the hall to get to the idol?”
 > Lily doesn’t hesitate. “Oh, the idol, for sure.”
-> 
+>
 > Amanda asks, “So you’re willing to take damage in the process?”
-> 
+>
 > Lily says, “Yeah. Throwing myself into danger as usual.”
-> 
+>
 > Amanda says, “Okay, so we can do it in one roll. Here’s how we’ll handle it. You roll [[Athletics]] against Fantastic (+6) opposition. If you make it, you’re through the trap and don’t take any harm. If you don’t make it, you’re stuck in the hallway and will have to try again to make it all the way through. We’re also going to treat that failure like a failed defense roll, so you’re going to take a hit as well. Because of all the fiery death and whatnot.”
-> 
+>
 > Lily winces, but nods and gathers up her dice.
 
 In this example, Amanda combined effects from overcome and defend to determine what happens to Cynere. This is totally okay, because it fits their intent and it makes sense given the situation they described. She might have decided to do both rolls separately, and that would have been fine too—she just wanted to get it all into one roll.
@@ -3434,16 +3433,16 @@ Nameless NPCs don’t have to remain nameless. If the players decide to get to k
 {example}
 
 Tavern-Keeper (Average)
-Aspects:	I Don’t Want No Trouble in My Place
-Skills:	Average (+1) [[Contacts]]
+Aspects: I Don’t Want No Trouble in My Place
+Skills: Average (+1) [[Contacts]]
 
 Trained Thug (Fair)
 Aspects: The Ways of the Streets, Violent Criminal
 Skills: Fair (+2) [[Fight]], Average (+1) [[Athletics]] and [[Physique]]
 
 Collegia Arcana Court Mage (Good)
-Aspects:	Haughty Demeanor, Devoted to the Arcane Arts
-Skills:	Good (+3) [[Lore]], Fair (+2) [[Deceive]], Average (+1) [[Will]] and [[Empathy]]
+Aspects: Haughty Demeanor, Devoted to the Arcane Arts
+Skills: Good (+3) [[Lore]], Fair (+2) [[Deceive]], Average (+1) [[Will]] and [[Empathy]]
 
 ##### Supporting NPCs
 
@@ -3463,19 +3462,19 @@ Finally, it implicitly demonstrates to the players that, when things are despera
 {example}
 
 Old Finn, Landon’s mentor
-Aspects:	Retired Vinfeld Militia Captain, Too Old For This Shit, Landon’s Mentor
-Skills:	Great (+4) [[Shoot]], Good (+3) [[Fight]], Fair (+2) [[Will]], Average (+1) [[Athletics]]
-Stunts:	Battlefield Expert. Can use [[Fight]] to create advantages in large-scale tactical situations.
+Aspects: Retired Vinfeld Militia Captain, Too Old For This Shit, Landon’s Mentor
+Skills: Great (+4) [[Shoot]], Good (+3) [[Fight]], Fair (+2) [[Will]], Average (+1) [[Athletics]]
+Stunts: Battlefield Expert. Can use [[Fight]] to create advantages in large-scale tactical situations.
 
 Teran the Swift, Thief Extraordinaire
-Aspects:	Cutpurse and Scoundrel, I Just Can’t Help Myself
-Skills:	Superb (+5) [[Burglary]], Great (+4) [[Stealth]], Good (+3) [[Lore]], Fair (+2) [[Fight]], Average (+1) [[Physique]] [Note: 3 physical stress boxes]
-Stunts:	Inside Man. +2 to [[Stealth]] in an indoor, urban environment.
+Aspects: Cutpurse and Scoundrel, I Just Can’t Help Myself
+Skills: Superb (+5) [[Burglary]], Great (+4) [[Stealth]], Good (+3) [[Lore]], Fair (+2) [[Fight]], Average (+1) [[Physique]] [Note: 3 physical stress boxes]
+Stunts: Inside Man. +2 to [[Stealth]] in an indoor, urban environment.
 
 Og the Strong
-Aspects:	Og Smash!, Og Not Terribly Bright
-Skills:	Fantastic (+6) [[Fight]], Superb (+5) [[Physique]] [Note: 4 physical stress boxes, 1 extra mild consequence for physical conflicts], Great (+4) [[Athletics]]
-Stunts:	none
+Aspects: Og Smash!, Og Not Terribly Bright
+Skills: Fantastic (+6) [[Fight]], Superb (+5) [[Physique]] [Note: 4 physical stress boxes, 1 extra mild consequence for physical conflicts], Great (+4) [[Athletics]]
+Stunts: none
 
 ##### Main NPCs
 
@@ -3515,7 +3514,7 @@ Good (+3) [[Contacts]] and [[Notice]]
 Fair (+2) [[Crafts]] and [[Stealth]]
 Average (+1) [[Lore]] and [[Physique]]
 
-Stress:	3 physical boxes, 4 mental boxes
+Stress: 3 physical boxes, 4 mental boxes
 Stunts:
 Takes One to Know One. Use [[Deceive]] instead of [[Empathy]] to [[create advantage]] in social situations.
 Feint Master. +2 to use [[Deceive]] to [[create advantage]] in a physical conflict.

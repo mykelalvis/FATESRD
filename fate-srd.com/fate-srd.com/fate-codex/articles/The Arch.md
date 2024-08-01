@@ -8,7 +8,6 @@ Fate Codex
 
 by [[André La Roche]]
 
-
 ![[Crum_Arch_FINAL.png]]
 
 ## The Founders
@@ -94,7 +93,6 @@ In addition to a countdown clock, fronts also contain a number of special rule r
 **Arch Activity:** In addition to the events described in the front, every two hours there's a chance of Arch activity occurring. Roll four fate dice. Starting in the top-left corner, move one column right for each +, and one row down for each -. The result determines what, if anything, comes out of the Arch.
 
 ![[Screenshot 2019-11-01 20.15.43.png]]
-
 
 ### Fronts in Play
 

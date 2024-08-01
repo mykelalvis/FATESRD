@@ -55,4 +55,3 @@ Here's an example of a kung fu stunt tree, for the Drunken Fist Style of kung fu
 
 **Steady the Drunkard**: (Requires Drunkard Swings Wide) You stagger and seem about to fall, so you reach out and grab your opponent's arm to steady yourself. This seemingly unintentional grip blocks chi and paralyzes your opponent. You may place a [Chi Blocked] [[situation aspect]] with a free invocation on your opponent. Your opponent may not use any kung fu stunts until they remove this aspect.
 
-

@@ -97,6 +97,5 @@ After Quick, players act in the following order: Flashy, Forceful, Clever, Sneak
 
 Fate isn't usually known for its nuance or gritty realism. While this is a staple of the system for many players, it can be a critique for others. Bringing Fate Accelerated's approaches to [[Fate Core]] offers a new degree of specific nuance while still remaining true to Fate's essence and distinct style.
 
-
 [[skills-and-approaches-character-sheet.pdf|Download the character sheet]]
 

@@ -21,7 +21,7 @@
 - **The Drunkard’s Stagger.** You sway and stagger on your feet, evading enemy blows seemingly by chance. When you succeed in a defensive Athletics roll using this technique, you gain +1 on your next attack against the opponent who tried to hit you. If you succeed with style, gain +2. (Fate System Toolkit, p.150)
 - **Evasion.** You have an amazing ability to remain unharmed when caught within the blast radius of an explosion. +2 to defend with Athletics against area attacks. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **The Falling Drunkard.** (requires Drunkard’s Stagger.) When an enemy attacks, you lose your balance and fall to the ground, rolling back to your feet quickly, but your enemy now finds himself dangerously overextended. Roll Athletics to dodge. On a success, place a boost on your opponent such as _Overextended_ or _Off-Balance_ that anyone may use against him. On a success with style, place a second boost on your opponent. (Fate System Toolkit, p.150)
-- **Favored Enemy Dodge.** Choose an organisation. You gain +2 to defend with Athletics against members of that group. (Peter Blake)
+- **Favored Enemy Dodge.** Choose an organization. You gain +2 to defend with Athletics against members of that group. (Peter Blake)
 - **Lightning Reflexes.** +2 to defend with Athletics for the first exchange after you become aware of a threat. (Peter Blake)
 - **Protector.** You are an expert bodyguard. +2 to defend with Athletics whenever you pull someone out of harm's way at great personal risk to yourself. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **Reading the Line of Fire.** You can tell where the bullets will go before the trigger is pulled. +2 to Athletics when using it to dodge gunfire. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
@@ -139,11 +139,11 @@
 ### Specific Groups or Subjects
 
 - **Absolute Authority.** You are good at being in charge. +2 to Contacts as long as you are in a position of direct authority over those you intend to contact.
-- **Chain of Command.** You are a soldier, and other soldiers answer to you. Add two to your Contacts skill when using it to deal with soldiers from your organisation. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
+- **Chain of Command.** You are a soldier, and other soldiers answer to you. Add two to your Contacts skill when using it to deal with soldiers from your organization. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **Common Interests/On the Watch.** You know people who know things about the things that you want to know about. Pick a broad subject (e.g. the royal court, baseball, university politics). Add +2 to Contacts when using it to enquire about that subject. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **Eye for Talent.** +2 to Contacts when seeking promising young people. (Peter Blake)
 - **I'm Looking for Mr. Brown.** You are extremely good at tracking people down. +2 to Contacts whenever you are seeking a specific person whose name you know. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
-- **Member.** Pick a specific organisation. You belong to that organisation. Whenever you want to get in touch with its other members, gain +2 to Contacts. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
+- **Member.** Pick a specific organization. You belong to that organization. Whenever you want to get in touch with its other members, gain +2 to Contacts. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **Noble Born.** +2 to Contacts when seeking another member of the aristocracy. (Peter Blake)
 - **Renowned Courtesan.** +2 to Contacts when seeking lonely people who would be sexually attracted to you. (Peter Blake)
 - **Salesman's Network.** All good salesmen build up a network of satisfied customers over time. Pick a type of product. Add two to your Contacts skill when looking for or dealing with makers, sellers, or notable consumers of that type of product. ([http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
@@ -152,7 +152,7 @@
 
 ### New Actions
 
-- **Big Man.** Pick a specific field of endeavour, such as crime, business, politics, espionage, or the occult. Within this field, you are considered a person of great importance. You may roll Contacts instead of Resources for anything which might fall under the auspices of members of that field. (adapted from Spirit of the Century SRD, §6.7.2)
+- **Big Man.** Pick a specific field of endeavor, such as crime, business, politics, espionage, or the occult. Within this field, you are considered a person of great importance. You may roll Contacts instead of Resources for anything which might fall under the auspices of members of that field. (adapted from Spirit of the Century SRD, §6.7.2)
 - **Big Name.** (requires Big Man.) You’re so well known that an awareness of your name has crossed over into other areas as well. The first time you deal with someone who’s heard of you (spending a fate point can assure that they have), and you’re using your name, you get a +2 bonus to a Provoke or Rapport roll. (adapted from Spirit of the Century SRD, §6.7.2)
 - **Big Reputation.** (requires Big Name.) Your reputation has reached great proportions, and people are willing to believe all sorts of things about you. For a fate point, you may use your Contacts skill instead of Deceive, Rapport, Provoke, or Will, provided those you are dealing with are aware of your reputation (a second fate point will nearly always assure that they are). This stunt combines with the bonus from Big Name, getting the character a +2 to Contacts when using it instead of Provoke or Rapport. (adapted from Spirit of the Century SRD, §6.7.2)
 - **Ear to the Ground.** Whenever someone initiates a conflict against you in an area where you’ve built a network of contacts, you use Contacts instead of Notice to determine turn order, because you got tipped off in time. (Fate Core, p.101)
@@ -379,8 +379,8 @@
 
 - **Advanced Warmaster.** (requires Warmaster.) When you’re fighting anyone who is armed with a sword, you get a further +2 bonus to creating an advantage using Warmaster. (Fate Core, p.94)
 - **Destroyer of Abominations.** You hit harder when your enemy is something blasphemous. You gain +2 to attacks with Fight against creatures that are unusually offensive to your faith. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
-- **Favored Enemy.** Choose an organisation or ethnic group. You gain +2 on attacks made with Fight against a member of that group. (Exercise discretion in the use of this stunt. A racist villain is probably OK, but a racist PC is almost certainly not.) (Peter Blake)
-- **Favored Enemy Parry.** Choose an organisation. You gain +2 to defend with Fight against members of that group. (Peter Blake)
+- **Favored Enemy.** Choose an organization or ethnic group. You gain +2 on attacks made with Fight against a member of that group. (Exercise discretion in the use of this stunt. A racist villain is probably OK, but a racist PC is almost certainly not.) (Peter Blake)
+- **Favored Enemy Parry.** Choose an organization. You gain +2 to defend with Fight against members of that group. (Peter Blake)
 - **Mirror Stance.** Your unusual fighting style lets you defend effortlessly when you and your opponent are similarly armed. +2 to defend with Fight whenever your opponent attacks you with the same kind of weapon as you wield. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **Reflection Shatters the Mirror.** (requires Mirror Stance.) You can switch in a heartbeat from matching your opponent move for move to doing precisely the opposite. +2 to attack with Fight whenever your opponent wields the same kind of weapon as you do. (adapted from [http://dfrpg](http://dfrpg/)-* **Unorthodox Fighting.** People with formal training are less able to defend against your tomfoolery in combat. +2 to attacks with Fight against opponents who strictly adhere to a formal style of combat. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 
@@ -626,7 +626,7 @@ resources.wikispaces.com/Stunts)
 
 ### Other
 
-- **The Advantage of Familiarity.** There are benefits to knowing a place really well. Pick a location or a small neighbourhood. +2 to Notice while you are in that area. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
+- **The Advantage of Familiarity.** There are benefits to knowing a place really well. Pick a location or a small neighborhood. +2 to Notice while you are in that area. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **Attention!** You have been trained to follow orders instantly in combat. When determining turn order for a physical conflict, you may use an ally's Notice skill instead of your own. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **Game Hunter’s Eye.** Choose a type of animal. You gain +2 to create advantage or overcome with Notice to spot that kind of animal. (Peter Blake)
 - **Heightened Awareness.** +2 to defend with Notice during a physical conflict. (Peter Blake)
@@ -689,7 +689,7 @@ resources.wikispaces.com/Stunts)
 
 - **Bend Bars, Lift Gates.** You may spend a fate point to automatically overcome a Physique obstacle, even if you’ve already rolled for it, provided you’re trying to accomplish something through brute strength. (Fate System Toolkit, p.41)
 - **Charge Like Ox.** Because you are _Strong Like Ox_, once per scene, as a single action, you may move two zones in a straight line then make a physical attack. (Fate System Toolkit, p.34)
-- **Favored Enemy Tackle.** Choose an organisation. You gain +2 to create advantage with Physique against members of that group. (Peter Blake)
+- **Favored Enemy Tackle.** Choose an organization. You gain +2 to create advantage with Physique against members of that group. (Peter Blake)
 - **Give As Good As I Get.** Sometimes you have to do something crazy in order to win a fight. Once per conflict, when you take physical stress, you may choose to incur an additional physical consequence. In exchange, you may create a situation aspect on your opponent with a number of free invocations: two for a minor consequence, three for a moderate, four for a severe. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **Herculean Strength.** +2 to overcome or create advantage rolls with Physique that involve lifting great weights. (adapted from Spirit of the Century SRD, §6.19.1)
 - **Hulking Rage.** While you have the aspect _Enraged_ on you, you gain +2 to overcome and create advantage with Physique. (Peter Blake)
@@ -744,7 +744,7 @@ resources.wikispaces.com/Stunts)
 
 - **Bad Cop.** Cruelty is more effective when given a basis for comparison. Once per scene, gain +2 to Provoke when invoking an aspect created by someone who has the Good Cop stunt. (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
 - **Berate the Underlings.** +2 to create advantage or attack with Provoke when you interact with your subordinates. (Peter Blake)
-- **Favored Enemy Rattle.** Choose an organisation. You gain +2 to attack or create advantage with Provoke against members of that group. (Peter Blake)
+- **Favored Enemy Rattle.** Choose an organization. You gain +2 to attack or create advantage with Provoke against members of that group. (Peter Blake)
 - **Not to Be Trifled With.** When you make it clear how dangerous you are, roll Provoke against your target’s Will. If you succeed, that target will not attack you or willingly come near you unless you take action against him first. If you succeed with style, neither will anyone with a lower Will than your target. (Fate System Toolkit, p.35)
 - **Provoke Violence.** When you create an advantage on an opponent using Provoke, you can use your free invocation to become the target of that character’s next relevant action, drawing their attention away from another target. (Fate Core, p.120)
 - **Scare 'Em Straight.** You are an authority figure. Part of your job is to put the fear of the law in potential miscreants. +2 to Provoke when using it to frighten someone under your authority (e.g. students for a teacher). (adapted from [http://dfrpg-resources.wikispaces.com/Stunts](http://dfrpg-resources.wikispaces.com/Stunts))
@@ -779,7 +779,7 @@ resources.wikispaces.com/Stunts)
 - **Master of the Mob.** +2 to Rapport when dealing with a crowd or mob. (Peter Blake)
 - **Negotiator.** +2 to Rapport when you try to broker an end to an armed conflict. (Peter Blake)
 - **Scion of the Court.** (requires Child of the Court.) When you overcome an obstacle with Child of the Court, you may additionally create a situation aspect that describes how the general attitude turns in your favor. If anyone wants to try and get rid of this aspect, they must overcome Fair (+2) opposition. (Fate Core, p.94)
-- **Target Audience.** Pick a specific field of endeavour, such as crime, business, politics, espionage, or the occult. Gain +2 to Rapport rolls whenever dealing with someone from that field. (adapted from Spirit of the Century SRD, §6.7.2)
+- **Target Audience.** Pick a specific field of endeavor, such as crime, business, politics, espionage, or the occult. Gain +2 to Rapport rolls whenever dealing with someone from that field. (adapted from Spirit of the Century SRD, §6.7.2)
 
 ### New Actions
 
@@ -1002,7 +1002,7 @@ More from <https://web.archive.org/web/20180722134712/https://dfrpg-resources.wi
 # Alertness
 
 **Attention!:** You have been trained to follow orders instantly in combat. When in a physical conflict, you may replace your initiative with that of a friendly character with this stunt.  
-**The Advantage Of Familiarity:** There are benefits to knowing a place really well. Pick a location or a small neighbourhood. Add two to your Alertness skill while you are in this area.  
+**The Advantage Of Familiarity:** There are benefits to knowing a place really well. Pick a location or a small neighborhood. Add two to your Alertness skill while you are in this area.  
 **Sentry:** You have the ability to wait, devoting your full effort to watchfulness, for hours on end. Your Endurance skill never restricts your Alertness skill owing to a lack of rest. In addition, add one to your Alertness skill when using its Passive Awareness and Avoiding Surprise trappings while in the same zone that you were in during the previous exchange.  
 **Notice Tell:** Your keen senses allow you to pick up on the subtle clues that indicate when a person is lying. You may use your Alertness skill to defend against Deceit-based social maneuvers and attacks.  
 **Master of the Tell:** (Requires Notice Tell) Long practice has made you incomparably good at noticing the mannerisms that accompany deception. Add two to your Alertness skill when using it to defend against Deceit-based maneuvers and attacks.  
@@ -1208,7 +1208,7 @@ Always Healthy: You are always healthy. Duh. Add two to your Endurance skill whe
 **Way Of The Gun:** Guns are your area of expertise. You may use your Guns skill to build and repair firearms, and to make Declarations related to the modifications that you've made to your firearms. Add one to the stress inflicted by each attack you make with a gun that you either made or modified heavily.  
 **Favoured Enemy:** You've studied how to kill certain magical creatures. Choose a type of supernatural being. All attacks that you make with your Guns skill inflict two additional stress to that type of being. (A similar stunt could exist in Fists or in Weapons.)  
 **Personal Arsenal:** You own a great number of weapons, and you get new ones all the time. Use your Guns skill instead of your Resources skill when dealing with weaponry. (A similar stunt could exist in Weapons.)  
-**Scope User:** You know how to use a scope. Add two to your Guns skill when using it to make manoeuvres related to aiming while using a scope or laser sight.  
+**Scope User:** You know how to use a scope. Add two to your Guns skill when using it to make maneuvers related to aiming while using a scope or laser sight.  
 **Ammo Selection:** There are many different types of bullet in the world, and each of them is suitable for a different situation. Given the chance to select and use ammunition appropriate to the situation, all of your attacks with Guns inflict two additional stress.  
 **Sea Urchin Launcher Wielder:** You are proficient in the use of the weapons of the Fomor people who live beneath the sea. Add one to your Guns skill when using it to attack with Fomor weapons.  
 **This... Is My BOOMSTICK!:** Somehow, talking like an action hero helps you shoot like one. Add one to your Guns skill when using it to attack with a shotgun, as long as you say a cheesy one-liner each time you attack.  

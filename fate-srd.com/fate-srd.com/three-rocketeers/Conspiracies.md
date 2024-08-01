@@ -51,4 +51,3 @@ Approaches can also be used in place of NPC approaches or skilled actions by moo
 Note that spending a [[fate point]] in this way replaces the entirety of a mob's skill bonus including any teamwork bonus from additional mooks. Aspects may still be invoked as normal and add to the total after the fact.
 
 
-

@@ -1181,7 +1181,6 @@ When improving a skill rating, you must maintain a “column” structure. Each 
 
 Ruth wants to increase her [[Lore]] from Average (+1) to Fair (+2), but this means she’d have four Fair (+2) skills and only three Average (+1)…that won’t do. Luckily, she has saved a second skill point from an earlier milestone, so she also increases her Mediocre (+0) [[Empathy]] to Average (+1). Now she has one Great (+4), two Good (+3), four Fair (+2), and four Average (+1) skills.
 
-
 #TODO Rebuild table shown [here](https://fate-srd.com/fate-condensed/advancement#improving-skill-ratings)
 
 ## Sessions and Arcs

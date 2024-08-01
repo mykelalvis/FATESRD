@@ -118,5 +118,4 @@ Grab your plasma rifles, spell components, and jetpacks! Name your game; [[Fate 
 - [[Fred Hicks]]
 - [[Rob Donoghue]]
 
-
 ![[FateSRDLogo.svg]] [YouTube](https://www.youtube.com/FateSRD.html)

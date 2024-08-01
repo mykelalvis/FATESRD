@@ -50,4 +50,3 @@ Don't feel the need to answer every story question if you've brought things to a
 
 The end of a scenario usually triggers a significant milestone. When this happens, you should also see if the game [world needs advancing](../world-advancement/index.html "World Advancement") too.
 
-

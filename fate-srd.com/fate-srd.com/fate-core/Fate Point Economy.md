@@ -75,7 +75,6 @@ does.
 >
 > Late in the conflict, Barathar is forced to concede so she can get away with her skin intact. She has taken two consequences in the conflict, meaning that she gets three [[fate point]]s for conceding. Those three [[fate point]]s carry over to the next scene.
 
-
 ### GM Fate Point Gain Clarifications
 
 [[Leonard Balsera]] has commented with two clarifications:

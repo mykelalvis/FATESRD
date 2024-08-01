@@ -132,7 +132,7 @@ The ability to spend a [[fate point]] and declare something to be true in the ga
 
 To help with this, you can charge an additional cost for every declaration made during a horror scene. A declaration that provides a minor convenience like a flashlight requires a minor cost, a declaration that helps with a major problem or significantly lowers the tension requires a serious cost.
 
-The "Yes, but" improvisation tool is useful when you're coming up with narrative costs for declarations.
+The "Yes, but" improvization tool is useful when you're coming up with narrative costs for declarations.
 
 > Blake is trapped in a stone-lined pit with no apparent exits and the big bad evil monster waiting for him at the top. He has the aspect [Experienced Spelunker] so he spends a [[fate point]] to declare that his knowledge and experience of underground caverns means that he knows what to look for; he discovers an old escape tunnel leading out of the pit that was concealed behind some loose earth. You nod and say, "Yes, but the tunnel is cramped and narrow---barely wide enough for your shoulders. You cram yourself into the tunnel, scraping up your back, and start to make your escape. But you've only made it a few feet when you see luminescent green tentacles questing along the tunnel in front of you in search of food..."
 

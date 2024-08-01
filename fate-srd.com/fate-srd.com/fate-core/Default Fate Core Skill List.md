@@ -31,7 +31,6 @@ Each skill description contains a list of game actions that you can use the skil
 | [[Stealth]]     |               X               |                    X                   |                              |               X              |
 | [[Will]]        |               X               |                    X                   |                              |               X              |
 
-
 ### Creating Setting With Skills
 
 Skills are one of your primary mechanical ways to reinforce the setting you're using or creating for your game. The skills provided in this list are deliberately generic so that they can be used in a variety of settings, and the stunts provided continue this trend by not being tied to any particular setting.

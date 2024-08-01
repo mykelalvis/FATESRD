@@ -437,11 +437,11 @@ events is increased by +2.
 
 ![](https://sites/default/files/images/codex/v3issue5/Innocenti_Innocent_3.jpg)
 
-## Running Innocence Lost as an Improvisational Mystery
+## Running Innocence Lost as an Improvizational Mystery
 
 This same issue of the Fate Codex provides rules and guidelines for
-running mystery games that are improvisational in nature. (See
-[Improvisational Mysteries](../improvisational-mysteries/index.html) by
+running mystery games that are improvizational in nature. (See
+[Improvizational Mysteries](../improvizational-mysteries/index.html) by
 Felipe Real). The scenes described in this Quick Start provide you with
 the basic outlines of the information necessary to run this scenario.
 Using those rules, when the PCs investigate, have them roll [[Notice]] to
@@ -453,7 +453,7 @@ potential suspects in this mystery. Or, instead of suspects, have each
 clue lead the PCs to eventually discovering the truth about the Arch.
 
 The ultimate question for you as a GM, though, is how far do you follow
-the improvisational nature of the mystery? Do you tie it back in to the
+the improvizational nature of the mystery? Do you tie it back in to the
 plotline articulated here, or do you follow the theories and thoughts of
 the players, no matter how far afield from the written scenes in this
 Quick Start? This is something to think about as you prepare for the
@@ -1276,11 +1276,11 @@ events is increased by +2.
 
 ![](https://sites/default/files/images/codex/v3issue5/Innocenti_Innocent_3.jpg)
 
-## Running Innocence Lost as an Improvisational Mystery
+## Running Innocence Lost as an Improvizational Mystery
 
 This same issue of the Fate Codex provides rules and guidelines for
-running mystery games that are improvisational in nature. (See
-[Improvisational Mysteries](../improvisational-mysteries/index.html) by
+running mystery games that are improvizational in nature. (See
+[Improvizational Mysteries](../improvizational-mysteries/index.html) by
 Felipe Real). The scenes described in this Quick Start provide you with
 the basic outlines of the information necessary to run this scenario.
 Using those rules, when the PCs investigate, have them roll [[Notice]] to
@@ -1292,7 +1292,7 @@ potential suspects in this mystery. Or, instead of suspects, have each
 clue lead the PCs to eventually discovering the truth about the Arch.
 
 The ultimate question for you as a GM, though, is how far do you follow
-the improvisational nature of the mystery? Do you tie it back in to the
+the improvizational nature of the mystery? Do you tie it back in to the
 plotline articulated here, or do you follow the theories and thoughts of
 the players, no matter how far afield from the written scenes in this
 Quick Start? This is something to think about as you prepare for the

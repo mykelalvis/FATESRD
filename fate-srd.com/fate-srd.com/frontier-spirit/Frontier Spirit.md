@@ -28,5 +28,4 @@ Despite its long history, the Commonwealth has only civilized a fraction of the 
 
 ## Author(s):
 
-
 - Nick Pilon![[FateSRDLogo.svg]]OTHER](../index.html)- [YouTube](https://www.youtube.com/FateSRD.html)

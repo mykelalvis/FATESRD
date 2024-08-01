@@ -19,7 +19,6 @@ Fractal):
 >
 > This is called this the Bronze Rule, but you may also have heard of it as the Fate Fractal if you pay attention to the Internet. You've already seen some examples of this in other places on the site; you give your game its own aspects during creation, you place situation aspects on the environment as well as on characters, and the GM can let environmental hazards attack as if they had skills.
 
-
 That there are [[bronze-rule|limitations]] gets a bit touched on in the [[Fate System Toolkit]], but not well. This post is intended to be a better explanation of when you can apply [[The Bronze Rule]] with full effect. To start, my quick rewriting of [[The Bronze Rule]] is:
 
 > In Fate, you can treat anything in the game world _capable of taking action_ like it's a character. They can have aspects, skills/approaches, stunts, stress tracks, and consequences if you need them to. Everything else can have difficulty ratings, aspects, stunts, stress tracks, and consequences as needed, but only things that can take action can have skills or approaches.

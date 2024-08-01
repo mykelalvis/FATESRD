@@ -11,7 +11,6 @@ We call this the Bronze Rule, but you may also have heard of it as the Fate Frac
 
 See [[What To Do During Play#Environmental Hazards|environmental hazards]], [[The Silver Rule]], and [[The Golden Rule]]
 
-
 ---
 
 The following is extracted from the [[Fate System Toolkit]]

@@ -36,7 +36,7 @@ Gods use the six approaches from [[FAE|Fate Accelerated Edition]], but here they
 
 - _Bold_ covers the doing of deeds with great fanfare, and generally making yourself the center of attention. It replaces the Flashy approach.
 - _Subtle_ is the opposite partner to Bold; it encompasses hiding, sneaking, subtle manipulation, and otherwise getting what you want by remaining unnoticed. It replaces Sneaky.
-- _Clever_ is the approach of quick thinking, fast talking, and improvisation. It is the same as the usual Clever approach.
+- _Clever_ is the approach of quick thinking, fast talking, and improvization. It is the same as the usual Clever approach.
 - _Mighty_ is the brute force approach, and the opposite of Clever. Whether you're lifting, pulling, throwing, or smashing, Mighty is the approach to use. It replaces Forceful.
 - _Wise_ is action that relies on planning, preparedness, and knowledge of the world. It replaces Careful.
 - _Swift_ is the opposed partner of Wise, and deals with physical speed and precision. It replaces the Quick approach.

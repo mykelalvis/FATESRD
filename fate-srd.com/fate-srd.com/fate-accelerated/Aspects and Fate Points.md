@@ -74,7 +74,6 @@ How can you increase the size of your pool? When a player compels one of an NPC'
 
 [[Fate Point]]s you award for compels do NOT come from this pool. You never have to worry about running out of [[fate point]]s to award for compels.
 
-
 ## Composing Good Aspects
 
 When you need to think of a good aspect (we're mainly talking about character and situation aspects here), think about two things:

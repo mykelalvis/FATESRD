@@ -59,4 +59,3 @@ If the PCs resolve a quest aspect, it's a milestone. The scope of the
 milestone depends on the difficulty and length of the quest. [Learn more
 about milestones](https://fate-core/advancement-change/index.html).
 
-

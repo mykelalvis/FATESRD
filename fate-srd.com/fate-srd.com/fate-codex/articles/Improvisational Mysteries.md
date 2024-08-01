@@ -4,7 +4,7 @@ date created: 2022-10-18 08:07
 
 Fate Codex
 
-# Improvisational Mysteries
+# Improvizational Mysteries
 
 by Felipe Real
 
@@ -18,7 +18,7 @@ Mystery is one of those.
 However, both [[Fate Core]] and Accelerated are not only great when it comes
 to telling mystery stories, they are also some of the best RPG systems
 to do so. The gaming framework of Fate provides a unique experience when
-it comes to the genre---that of an improvisational mystery game.
+it comes to the genre---that of an improvizational mystery game.
 
 ## What Is a Mystery?
 
@@ -94,7 +94,7 @@ CoC to deserve its own way of approaching mysteries---one that relies on
 the robust narrative framework of the game to explore the genre from a
 somewhat different angle.
 
-### The Improvisational Mystery
+### The Improvizational Mystery
 
 What would happen if instead of deciding before sitting down to play who
 the culprit is and why, you only presented the PCs with a number of
@@ -104,7 +104,7 @@ mystery through careful investigation. Second---and more
 importantly---you'd be enjoying the experience of investigating as much
 as the other players at the table.
 
-The improvisational mystery is, then, a way of running a mystery in Fate
+The improvizational mystery is, then, a way of running a mystery in Fate
 by playing on the strengths of the system, as well as adhering to the
 traditionally fundamental characteristics of the fiction it's trying to
 model. The main precept is that, as long as you present all the
@@ -133,7 +133,7 @@ pieces? Maybe a couple missing pieces wouldn't derail the endeavor at
 large, but what about those that connect and give meaning to the whole?
 Those that really help you reveal the big picture?
 
-In the case of improvisational mysteries, then, the solution is simple:
+In the case of improvizational mysteries, then, the solution is simple:
 you give all the relevant information to the PCs at all times, no matter
 the result of the dice. You don't withhold information from them
 because, in fact, you don't have any extra information; you're
@@ -167,13 +167,13 @@ one logical and coherent story.
 #### When to Roll---and What the Results Mean
 
 The correct place of rolls---and their interpretation---in an
-improvisational mystery isn't whether or not the clues can be uncovered,
+improvizational mystery isn't whether or not the clues can be uncovered,
 but in how they are uncovered.
 
 Or, in other words, at what cost they're obtained.
 
 Imagine that the investigators are working on an unsolved murder and
-you, running an improvisational mystery, are willing to provide them
+you, running an improvizational mystery, are willing to provide them
 with all the relevant information necessary to solve it. The question
 is, how do you provide that information while still integrating skill
 rolls?
@@ -233,13 +233,13 @@ the PCs to invent them.
 What you should not do here is intervene and say what they find;
 instead, let the investigators decide. They're leading the investigation
 and you're just making the necessary connections in order to give shape
-to the overall story. In an improvisational mystery game, your role is
+to the overall story. In an improvizational mystery game, your role is
 not to hide the necessary information behind the rolls, but to string
 together the results in such a manner that moves the story forward.
 
 #### It Starts with the Victim
 
-The best way to run a successful improvisational mystery is to develop
+The best way to run a successful improvizational mystery is to develop
 robust suspects. This is the only part that's truly yours as a GM, and
 it should be the focus of your pre-game preparation. In order to do
 this, you need to start with the center of the mystery: the victim.
@@ -288,7 +288,7 @@ run the suspect properly.
 
 ### Give every suspect an alibi.
 
-This is what allows you to run a truly improvisational mystery. If
+This is what allows you to run a truly improvizational mystery. If
 everybody has a reason to be the culprit and a good explanation for it
 not being them, everything is up in the air. The result of this
 combination is that, even though you can have some idea of who could
@@ -322,17 +322,17 @@ workings. The more you develop a suspect, the less flexible you'll be at
 the table to accommodate the investigators' findings. Even worse, too
 much development---especially the kind that's inclined toward specific
 descriptions and convoluted motivations---creates suspects that end up
-being neither useful nor easy to run on an improvisational mystery,
+being neither useful nor easy to run on an improvizational mystery,
 defeating their purpose.
 
 ## At the Table
 
 Here are some techniques, tips, and advice that may help you to run an
-improvisational mystery at the table.
+improvizational mystery at the table.
 
 ### The More You Improvise, the More Structure You Need
 
-Sounds like an oxymoron, but the truth is that improvisational mysteries
+Sounds like an oxymoron, but the truth is that improvizational mysteries
 require quite structured game play. Even more so than in other Fate
 games, you must be aware of beginning---and, more importantly,
 ending---scenes when necessary. Don't tarry or delay on irrelevant
@@ -416,7 +416,7 @@ suspects to escalate the stakes of the investigation.
 
 ### In Conclusion
 
-Running an improvisational mystery may seem like a daunting task at
+Running an improvizational mystery may seem like a daunting task at
 first, but with the right mindset can be one of the most satisfying
 experiences. The excitement of discovering the truth along with the
 players---instead of frustratingly waiting for them to figure out your

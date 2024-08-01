@@ -38,7 +38,6 @@ The number of KGB sleeper agents that were, or are currently, residing in the Un
 
 Michael Jackson performed the first Moonwalk in 1983. Return of the Jedi completed the Star Wars trilogy. Sally Ride was the first American woman in space, and Vanessa Williams was the first black Miss America. 1983 was also the year the world came close to nuclear disaster, when the Soviet early warning system malfunctioned and reported American missiles launched at Russia. The Illegals is set in the early 80s---an era often characterized as one of big hair and shoulder pads, synthesizers and skinny ties. It's not always remembered as a time of paranoia and dread, when the people lived under the shadow of nuclear annihilation.
 
-
 ## Setting Creation
 
 The Illegals is a Quick Start with everything you need to get right into your first session. Before you begin, talk about the broader setting with your group, maybe even reading aloud Cold War, Imperialist Superpower and Evil Empire, The Illegals Program, Sleeper Cells, and Living in the 80s so everyone is on the same page. At the start of play, explain the **current issue** to your players and ask them to fill in one or two additional faces associated with [The Cold War in the Heartland]. These additional characters will provide new plot hooks and twists that will tie your players more deeply to the lives they're about to lead.

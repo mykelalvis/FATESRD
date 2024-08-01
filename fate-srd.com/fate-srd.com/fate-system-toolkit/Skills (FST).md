@@ -4,7 +4,6 @@ date created: 2022-10-18 08:09
 
 ![[FateSRDLogo.svg]]
 
-
 [[Fate System Toolkit]]
 
 # Skills

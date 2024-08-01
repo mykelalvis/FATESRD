@@ -14,7 +14,6 @@ Sometimes, however, you'll be in a situation where you're doing something really
 
 We have three ways for you to zoom in on the action in Fate:
 
-
 - [[Challenge]]s, when one or more characters try to achieve something dynamic or complicated
 - [[Contest]]s, when two or more characters are competing for a goal
 - [[Conflict]]s, when two or more characters are trying to directly harm each other

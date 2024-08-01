@@ -1,6 +1,5 @@
 # The Golden Rule of Fate
 
-
  > ***Decide what you’re trying to accomplish first, then consult the rules to help you do it.***
 
 This might seem like common sense, but we call it out because the order is important. In other words, don’t look at the rules as a straitjacket or a hard limit on an action. Instead, use them as a variety of potential tools to model whatever you’re trying to do. Your intent, whatever it is, always takes precedence over the mechanics.

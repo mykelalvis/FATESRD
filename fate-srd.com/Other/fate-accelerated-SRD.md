@@ -402,7 +402,6 @@ Use defend when you’re actively trying to stop someone from doing any of the o
 
 - If you succeed with style: Your opponent doesn’t get what they want, plus you gain a boost.
 
-
 ###>Getting Help</h3>
 
 An ally can help you perform your action. When an ally helps you, they give up their action for the exchange and describe how they’re providing the help; you get a +1 to your roll for each ally that helps this way. Usually only one or two people can help this way before they start getting in each other’s way; the GM decides how many people can help at once.
@@ -662,7 +661,6 @@ You invoke an aspect to give yourself a bonus or make things a bit harder for yo
 
 ---
 
-
 What does invoking the aspect get you? Choose one of the following effects:
 
 - Add a +2 bonus to your total. This costs a [[fate point]].
@@ -854,7 +852,6 @@ A campaign is a series of games you play with the same characters, where the sto
 Being a GM and running games can seem intimidating and difficult at first. It’s a skill that takes some practice to master, so don’t worry—you’ll get better the more you do it. If you’d like to read more about the art of GMing Fate, there are several chapters in the Fate Core rules that you should check out: Running the Game, Scenes, Sessions, and Scenarios, and The Long Game are particularly helpful. Fate Core is available for free at <a href="http://www.evilhat.com"><i>[www.evilhat.com](http://www.evilhat.com)</i></a>. 
 ---
 
-
     ##>Build Scenarios and Run Game Sessions
 
 A scenario is one short story arc, the sort of thing you might see wrapped up in one or two episodes of an adventure television show, even if it’s a smaller part of a bigger story. Usually you can wrap up a scenario in one to three game sessions, assuming you play for three or four hours at a time. But what is a scenario, and how do you build one?
@@ -885,7 +882,6 @@ That said, there are a bunch of tasks the GM needs to perform to run the session
       - Keep things moving: If the players don’t know what to do next, it’s your job to give them a nudge. Never let things get too bogged down in indecision or because they don’t have enough information—do something to shake things up.
 
       - Make sure everyone has a chance to be awesome: Your goal isn’t to defeat the players, but to challenge them. Make sure every PC gets a chance to be the star once in a while, from the big bad warrior to the little sneaky thief.
-
 
     ##>Setting Difficulty Levels
 

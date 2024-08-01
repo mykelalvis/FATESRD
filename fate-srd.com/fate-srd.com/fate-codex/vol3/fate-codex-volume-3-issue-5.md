@@ -12,7 +12,7 @@ In this issue
 - [[About The Fate Codex]]
 - [[Plague of Pulps]]
 - [[Escalation Dice]]
-- [[Improvisational Mysteries]]
+- [[Improvizational Mysteries]]
 - [[Innocence Lost]]
 - Credits
 	- [[Don Bisdorf]]

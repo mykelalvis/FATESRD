@@ -79,7 +79,7 @@ Gods use the six approaches from _Fate Accelerated Edition_, but here they have 
 
 - _Bold_ covers the doing of deeds with great fanfare, and generally making yourself the center of attention. It replaces the Flashy approach.
 - _Subtle_ is the opposite partner to Bold; it encompasses hiding, sneaking, subtle manipulation, and otherwise getting what you want by remaining unnoticed. It replaces Sneaky.
-- _Clever_ is the approach of quick thinking, fast talking, and improvisation. It is the same as the usual Clever approach.
+- _Clever_ is the approach of quick thinking, fast talking, and improvization. It is the same as the usual Clever approach.
 - _Mighty_ is the brute force approach, and the opposite of Clever. Whether you’re lifting, pulling, throwing, or smashing, Mighty is the approach to use. It replaces Forceful.
 - _Wise_ is action that relies on planning, preparedness, and knowledge of the world. It replaces Careful.
 - _Swift_ is the opposed partner of Wise, and deals with physical speed and precision. It replaces the Quick approach.
@@ -390,7 +390,7 @@ Whenever a god creates or changes a region’s refinement, this creates a new su
 
 Whenever a god changes the refinement aspect of a sub-region, they can either alter the nature of the entire sub-region or create a new sub-region inside the old—their choice.
 
-> Herakhty and Cassia tell the tale of how they drove a road through the Wild Wood as part of their goal to create and bolster civilisation. When they do this, they could replace the refinement aspect [Life Hungers for Life] with [The Wilderness Bows Before Mankind] across the entire sub-region—which would effectively replace the Wild Wood with The Road, which remains a sub-region of the Forest Primeval. Otherwise, they could choose to make The Road a sub-region of the Wild Wood, creating the fairy-tale situation where the road is safe, but the moment you set foot off it you’re in mortal danger. Naturally, they choose the latter.
+> Herakhty and Cassia tell the tale of how they drove a road through the Wild Wood as part of their goal to create and bolster civilization. When they do this, they could replace the refinement aspect [Life Hungers for Life] with [The Wilderness Bows Before Mankind] across the entire sub-region—which would effectively replace the Wild Wood with The Road, which remains a sub-region of the Forest Primeval. Otherwise, they could choose to make The Road a sub-region of the Wild Wood, creating the fairy-tale situation where the road is safe, but the moment you set foot off it you’re in mortal danger. Naturally, they choose the latter.
 
 If the actions of the story support it, and the GM agrees, you can use an explanation of a tale to change the concept of a sub-region, splitting off from its parent region to become a completely new region. In this case, the group will need to invent a new regional stunt.
 
