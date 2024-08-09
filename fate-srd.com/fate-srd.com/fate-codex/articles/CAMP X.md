@@ -30,7 +30,7 @@ From 1941 to 1945, Camp X trained more than five hundred Allied covert operative
 
 ### Mayhem and Murder
 
-Camp X is filled with accents. There's a range of Brits both training and teaching, from across London and the countryside; French-Canadians that can switch between languages with startling accuracy; Americans from East to West, some that sound closer to the Canadians than anyone else. There are women as well as men: training alongside male officers, working in the communications centre, leading teams already deployed.
+Camp X is filled with accents. There's a range of Brits both training and teaching, from across London and the countryside; French-Canadians that can switch between languages with startling accuracy; Americans from East to West, some that sound closer to the Canadians than anyone else. There are women as well as men: training alongside male officers, working in the communications center, leading teams already deployed.
 
 They call it the school of "mayhem and murder," and it's a fair assessment. Reasonable, upstanding officers and citizens teach unimaginable death and destruction---burglary, interrogation, close combat, demolition, silent killing, assassination. The rumor is, when agents graduate, they can kill a man with their bare hands in fifteen seconds. Other lessons include disguise, sabotage, surveillance, and recruitment, along with Morse code and basic encryption to communicate across the ocean while in the field.
 
@@ -152,7 +152,7 @@ In the field, it's not just what languages you speak, but how you speak them: ho
 
 ![[att_r.svg|30 ]][[Attack]]: You can't attack with Language.
 
-![[def_r.svg|30 ]][[Defend]]: Language isn't used to defend. 
+![[def_r.svg|30 ]][[Defend]]: Language isn't used to defend.
 
 ### STUNTS
 

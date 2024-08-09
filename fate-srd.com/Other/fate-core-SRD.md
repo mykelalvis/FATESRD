@@ -102,7 +102,7 @@ If for some reason you need to make a roll using a skill your character doesn’
 
 #### Stunts
 
-Stunts are special tricks that your character knows that allow you to get an extra benefit out of a skill or alter some other game rule to work in your favour. Stunts are like special moves in a video game, letting you do something unique or distinctive compared to other characters. Two characters can have the same rating in a skill, but their stunts might give them vastly different benefits.
+Stunts are special tricks that your character knows that allow you to get an extra benefit out of a skill or alter some other game rule to work in your favor. Stunts are like special moves in a video game, letting you do something unique or distinctive compared to other characters. Two characters can have the same rating in a skill, but their stunts might give them vastly different benefits.
 
 ??? has a stunt called ??? It gives the character a bonus to ???
 
@@ -193,7 +193,7 @@ When you beat a roll or a set obstacle, the difference between your opposition a
 
 ### Fate Points
 
-You use tokens to represent how many [[fate point]]s you have at any given time during play. [[Fate Point]]s are one of your most important resources in Fate—they’re a measure of how much influence you have to make the story go in your character’s favour.
+You use tokens to represent how many [[fate point]]s you have at any given time during play. [[Fate Point]]s are one of your most important resources in Fate—they’re a measure of how much influence you have to make the story go in your character’s favor.
 
 You can spend [[fate point]]s to invoke an aspect, to declare a story detail, or to activate certain powerful stunts.
 

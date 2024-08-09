@@ -64,7 +64,7 @@ Set the dial to medium plausibility when you want a game that’s grounded in re
 
 This view is somewhat antithetical to the spirit of Fate, whose relatively low granularity means it’s always flexible. Some aspect may always be invoked to transform a potential disaster into a triumph. In some cases, this generous approach to modeling reality can conflict with the desire for scientific verisimilitude.
 
-However, one way to deal with this conflict is to rely on the players’ own sense of scientific plausibility. In a high- or medium-plausibility game, if any player believes that something being described is a little too scientifically optimistic, they may call for “Cold Equations.” The player challenged by the Cold Equations may reply in one of two ways before they roll the dice:
+However, one way to deal with this conflict is to rely on the players’ own sense of scientific plausibility. In a high- or medium-plausibility game, if any player believes that something being described is a little too scientifically optimiztic, they may call for “Cold Equations.” The player challenged by the Cold Equations may reply in one of two ways before they roll the dice:
 
 - “Science is a harsh mistress”: If the roll is a failure, invoking aspects can improve the result only up to a tie; it’s not possible to succeed or succeed with style.
 - “The human spirit always prevails”: Invoking an aspect for this roll only gives a +1 bonus, not +2, making it much more difficult—but still possible—to succeed or even succeed with style.
@@ -82,7 +82,7 @@ Finally, we lay out five sample settings for a Fate Space game, which provide co
 - The Gods Know Future Things: Posthuman space opera at subluminal speeds!
 - The High Frontiersmen: Gritty Cold War political intrigue in orbit for high stakes.
 - Mass Drivers: Realistic space drama among the interplanetary working class.
-- Millennials: Optimistic space exploration and alien encounter in a spirit of discovery.
+- Millennials: Optimiztic space exploration and alien encounter in a spirit of discovery.
 - Pax Galactica: Transgalactic travelogue against a somewhat baroque backdrop.
 
 We intend for the _Fate Space Toolkit_ to offer a coherent picture of how to design a space-based science fiction adventure setting for Fate, with numerous alternatives and examples. But we also invite readers to go in either of two directions from using this book as a guide to setting design. GMs, you might want to _adopt a setting whole cloth_, developing and altering it as needed to suit your play group. Or you might want to dip into this book to _steal specific ideas_ and approaches as desired, regardless of whether or not you’ll incorporate them into a Fate Space adventure game.

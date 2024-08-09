@@ -250,7 +250,7 @@ Faces:
 - Carla Powdrell, an established African-American community organizer
   in Seattle
 - Wesley C. Ulhman, the young mayor of Seattle, elected in 1969 by an
-  optimistic youth movement
+  optimiztic youth movement
 
 ### Pike's Place Preservation
 

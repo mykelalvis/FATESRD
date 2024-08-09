@@ -843,7 +843,7 @@ Average (+1) [[Athletics]], [[Deceive]], [[Lore]], [[Provoke]]
 
 ### Stunts
 
-**Optimistic Charmer.** Once per session you can reduce someone else's
+**Optimiztic Charmer.** Once per session you can reduce someone else's
 consequence by one level of severity (severe to moderate, moderate to
 mild, mild to nothing at all) by succeeding on an [[Empathy]] roll with a
 difficulty of Fair (+2) for a mild consequence, Good (+3) for moderate,
