@@ -1167,7 +1167,7 @@ You are a powerhouse, a wall of muscle, an unstoppable force. Are you strong? Li
 
 ### Collateral Damage Effects
 
-**POW!:** It's pretty trivial for you to just pick someone up and toss ‘em through the scenery. You can take out a nameless NPC entirely, or deal a mild consequence to anyone else, at the expense of the structural integrity of the buildings around you.
+**POW!:** It's pretty trivial for you to just pick someone up and toss 'em through the scenery. You can take out a nameless NPC entirely, or deal a mild consequence to anyone else, at the expense of the structural integrity of the buildings around you.
 
 **SMASH!:** You can raise your mighty fists and hit the ground with enough force that the whole earth seems to shake, attacking everyone in your zone with [[Physique]].
 

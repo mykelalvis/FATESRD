@@ -2855,11 +2855,11 @@ This job gets a whole chapter all on its own. See Scenes, Sessions, and Scenario
 
 As outlined in Game Creation, inventing or deciding on a setting is often a collaborative effort between you and your players. In that sense, the best thing you can do as GM during the game-creation process is to be open to new ideas and be generous with your own, just like everyone else. Play off of and expand upon the suggestions that the others offer up. Your players will be more invested in the game if they feel like they've had a hand in building it.
 
-Of course, if everyone's amenable, there's nothing stopping you from showing up with a clear vision of exactly what you want to run. “Okay, this is going to be a game about the Cold War in the ‘60s, except it's all steampunk and mechs. Go!” Just make sure everyone's on board if you go that route. Even one player who isn't into it, and doesn't really feel inclined to get into it, can really affect the game.
+Of course, if everyone's amenable, there's nothing stopping you from showing up with a clear vision of exactly what you want to run. “Okay, this is going to be a game about the Cold War in the '60s, except it's all steampunk and mechs. Go!” Just make sure everyone's on board if you go that route. Even one player who isn't into it, and doesn't really feel inclined to get into it, can really affect the game.
 
 ##### Out There vs. Down Here
 
-Speaking of steampunk mechs in a ‘60s-era Soviet Union, it's a good idea to consider just how “out there” you want to get. High-concept ideas are a lot of fun, but if they're too difficult to relate to then your players may have trouble wrapping their heads around the game you're proposing. Where that line is exactly will vary from group to group (and player to player), so there's no definitive answer here. Just be aware that every departure from the familiar—whether that's the real world or well-established genre conventions—has the potential to be a conceptual hurdle for your players. Get everyone on the same page and make sure to go over any questions in advance.
+Speaking of steampunk mechs in a '60s-era Soviet Union, it's a good idea to consider just how “out there” you want to get. High-concept ideas are a lot of fun, but if they're too difficult to relate to then your players may have trouble wrapping their heads around the game you're proposing. Where that line is exactly will vary from group to group (and player to player), so there's no definitive answer here. Just be aware that every departure from the familiar—whether that's the real world or well-established genre conventions—has the potential to be a conceptual hurdle for your players. Get everyone on the same page and make sure to go over any questions in advance.
 
 The opposite approach is to set the game down here, in the real world, with perhaps only one or two notable departures with greater ramifications that you can explore as you go. The easiest way to communicate a setting like this is to name a time and place you're all familiar with, then tack on the exception. For example, “It's like modern-day London, but robots are commonplace” or “It's post-World War II Los Angeles, but some returning veterans have supernatural powers.”
 
@@ -3243,7 +3243,7 @@ Lenny rolls a –3, and adds his Fair (+2) [[Provoke]] for a total of Poor (–1
 
 Lenny doesn't hesitate. He writes down a mild mental consequence: This Guy is Bigger Than I Thought....
 
-“Cool. They look at you, then back to Gorlok. He waves a hand dismissively. ‘Go, find another to kill,' he growls. ‘This one's mine.'”
+“Cool. They look at you, then back to Gorlok. He waves a hand dismissively. 'Go, find another to kill,' he growls. 'This one's mine.'”
 
 Things get more complicated when you want to filter specific targets, rather than just affect a whole zone or scene. When that happens, divide your resulting total up against every target, who all get to defend as per normal. Anyone who fails to defend either takes stress or gains an aspect, depending on what you were trying to do. (Note: If you [[create advantage]] to put an aspect on multiple targets, you do get a free invocation for each one.)
 
@@ -3286,7 +3286,7 @@ Cynere, Landon, and Zird are exploring the Caverns of Kazak-Thorn, in pursuit of
 
 They come to the bottom floor of the cave system, only to find it full of wisps of inky darkness, writhing around snakelike and cutting off the light where they whip about. Zird rolls [[Lore]], and Amanda tells him that they are magical hunger spirits—not individual entities so much as pure expressions of hunger, ready to devour anything they touch. He throws a stone into the corridor and watches the tendrils turn it to ash.
 
-“I think I speak for us all when I say ‘Yikes,'” Ryan says.
+“I think I speak for us all when I say 'Yikes,'” Ryan says.
 
 He asks about banishing the monsters. Amanda shakes her head a touch. “You're in Asahandra's place of power, and the whole place is just flooded with those things—it'd take days to dismantle an enchantment this strong. You might, however, be able to use your magic to keep them at bay as you look for Asahandra herself.”
 
@@ -3868,7 +3868,7 @@ So they're understandably surprised by the three armed strangers who ambush them
 
 “Fair enough,” Lenny says, and they both accept the compel.
 
-“Cynere, no sooner have you entered your safehouse than a hooded figure has a sword at your throat. The hood comes off—it's Anna! And she's pissed. ‘Where's the Jewel, you cultist scum?'”
+“Cynere, no sooner have you entered your safehouse than a hooded figure has a sword at your throat. The hood comes off—it's Anna! And she's pissed. 'Where's the Jewel, you cultist scum?'”
 
 If you have a clear purpose going into every scene and you start just before some significant piece of action, it's hard to go wrong.
 
@@ -3957,7 +3957,7 @@ Amanda's still stuck on Anna's unexpected demise. She'd planned on making her an
 
 She decides that, while the death of a member of the Sun and Moon Society would go unnoticed by most of Riverton, a guy like Hugo the Charitable would certainly hear about it. He'd already taken notice of Landon after he fought off a few Scar Triad goons. And now this. This newcomer is clearly dangerous, potentially a threat. Worst, he doesn't seem to be working for anyone.
 
-Given Hugo's high concept aspect of Everyone in Riverton Fears Me, he sees Landon as a potential asset for the Scar Triad. If you can't beat ‘em, recruit ‘em.
+Given Hugo's high concept aspect of Everyone in Riverton Fears Me, he sees Landon as a potential asset for the Scar Triad. If you can't beat 'em, recruit 'em.
 
 #### RESOLVING THE SCENARIO
 

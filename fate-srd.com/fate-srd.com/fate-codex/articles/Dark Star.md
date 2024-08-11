@@ -73,7 +73,7 @@ mission, babysitting a scientific phenomenon at the edge of an empire.## The Vic
 
 **High Concept:** `Dark Star Mission Escort]
 **Trouble:** `Scheduled for Decommission]
-`Capital Class Armaments] • `"They Don't Make 'Em Like They Used To!"] • `Captained by Rlynn Reznik]
+`[[Capital]] Class Armaments] • `"They Don't Make 'Em Like They Used To!"] • `Captained by Rlynn Reznik]
 
 ### Skills
 
@@ -238,7 +238,7 @@ In _**Dark Star**_, ships have five skills (Engines, Hull, Sensors, Systems, and
 
 **Weapons:** One of the most versatile skills, the weapons on a ship can overcome obstacles, create advantages through suppressive fire, and attack other ships. It cannot be used to defend.
 
-These five skills cover nearly everything pilots want to do in space, including dogfights and runs on capital ships. For new ships, pilots assign the following skill ratings to the skills above: +3, +2, +1, +1, +0. Capital ships and transports are built the same way: a peak skill, one skill at one less than the peak skill, two skills at two less than the peak skill, and one skill at three less than the peak skill. The largest Imperial capital ship---a Sunwrecker-class battleship---has ship skills at +9, +8, +7, +7, and +6.
+These five skills cover nearly everything pilots want to do in space, including dogfights and runs on capital ships. For new ships, pilots assign the following skill ratings to the skills above: +3, +2, +1, +1, +0. [[Capital]] ships and transports are built the same way: a peak skill, one skill at one less than the peak skill, two skills at two less than the peak skill, and one skill at three less than the peak skill. The largest Imperial capital ship---a Sunwrecker-class battleship---has ship skills at +9, +8, +7, +7, and +6.
 
 ### Stress and Consequences
 
