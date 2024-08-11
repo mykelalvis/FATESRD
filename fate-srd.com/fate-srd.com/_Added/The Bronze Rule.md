@@ -5,9 +5,9 @@ aliases:
 date updated: 2022-10-21 04:25
 ---
 
-> ***In Fate, you can treat anything in the game world like it’s a character. Anything can have aspects, skills, stunts, stress tracks, and consequences if you need it to.***
+> ***In Fate, you can treat anything in the game world like it's a character. Anything can have aspects, skills, stunts, stress tracks, and consequences if you need it to.***
 
-We call this the Bronze Rule, but you may also have heard of it as the Fate Fractal if you pay attention to the Internet. We’ve already seen some examples of this earlier in the book; you give your game its own aspects during creation, you place situation aspects on the environment as well as on characters, and the GM can let environmental hazards attack as if they had skills.
+We call this the Bronze Rule, but you may also have heard of it as the Fate Fractal if you pay attention to the Internet. We've already seen some examples of this earlier in the book; you give your game its own aspects during creation, you place situation aspects on the environment as well as on characters, and the GM can let environmental hazards attack as if they had skills.
 
 See [[What To Do During Play#Environmental Hazards|environmental hazards]], [[The Silver Rule]], and [[The Golden Rule]]
 

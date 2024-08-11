@@ -12,13 +12,13 @@ This work is based on the No-Skill Swashbuckling SRD (found at http://www.faterp
 
 Each PC has six aspects that describe the character.
 
-**Hero:** This is about the character’s status and history as a hero.
+**Hero:** This is about the character's status and history as a hero.
 
 **Trouble:** Despite being heroes, PCs all have a flaw that humanizes them. Your trouble will bring drama and tension into the game.
 
-**Swordplay:** Every PC has a unique fencing style. This is represented both by the swordplay aspect, which describes the style narratively and thematically, and by a fencing stunt talked about later on page 8. The swordplay aspect should be evocative of the PC’s overall approach to combat when armed with a blade. It needn’t be incredibly specific but should give everyone at the table an idea of what it looks like or where it comes from.
+**Swordplay:** Every PC has a unique fencing style. This is represented both by the swordplay aspect, which describes the style narratively and thematically, and by a fencing stunt talked about later on page 8. The swordplay aspect should be evocative of the PC's overall approach to combat when armed with a blade. It needn't be incredibly specific but should give everyone at the table an idea of what it looks like or where it comes from.
 
-**Family:** One’s lineage and family has great importance in the game. There are numerous advantages to being of noble blood but opportunities exist for commoners of skill and bravery, as well. The gentry and the working classes tend to have different skill sets due to upbringing.
+**Family:** One's lineage and family has great importance in the game. There are numerous advantages to being of noble blood but opportunities exist for commoners of skill and bravery, as well. The gentry and the working classes tend to have different skill sets due to upbringing.
 
 **Free:** Lastly, each PC receives two free aspects that can be used to flesh out the character to your satisfaction.
 
@@ -32,7 +32,7 @@ When a player takes an action, they begin by declaring which character aspects (
 
 As an added benefit, the hero aspect always adds a +2 to the action because being a hero is the heart of the game. Go forth and do bold, swashbuckling, daring things!
 
-It’s important to note that none of the aspects selected are invoked—they are merely counted for the purposes of establishing a bonus and may be invoked later. This also means players do not have to pay a [[fate point]] simply to roll the dice.
+It's important to note that none of the aspects selected are invoked—they are merely counted for the purposes of establishing a bonus and may be invoked later. This also means players do not have to pay a [[fate point]] simply to roll the dice.
 
 As every PC has a hero aspect and a swordplay aspect, it is reasonable to assume that they will generally have at least a +3 bonus to their roll when engaged in swordplay.
 
@@ -40,11 +40,11 @@ As every PC has a hero aspect and a swordplay aspect, it is reasonable to assume
 
 A few general guidelines are important for playing without a skill list.
 
-First, this means that any character can attempt any action but it is the character’s history—that is, the character’s aspects—that determine their level of proficiency. This means players should be especially aware of how aspects are phrased. It is good to have some overlap, but too much can easily hold a character back in many circumstances.
+First, this means that any character can attempt any action but it is the character's history—that is, the character's aspects—that determine their level of proficiency. This means players should be especially aware of how aspects are phrased. It is good to have some overlap, but too much can easily hold a character back in many circumstances.
 
 Second, there should be a consensus from the players at the table about whether an aspect really adds a bonus. Everyone should freely call out unbelievable stretches and bogus attempts. Roleplaying games are collaborative. Work together to build the story.
 
-Third, don’t feel that every aspect used in every action needs an explanation—other players will perk up with questions or objections if something seems suspect and you can explain the aspect’s relevance then. Simply list the aspects and tally the bonus unless there’s an objection at the table.
+Third, don't feel that every aspect used in every action needs an explanation—other players will perk up with questions or objections if something seems suspect and you can explain the aspect's relevance then. Simply list the aspects and tally the bonus unless there's an objection at the table.
 
 Lastly, you must establish your bonus _before_ rolling the dice.
 
@@ -56,14 +56,14 @@ Even more than most [[Fate Core]] games, the players need to be clear as to what
 
 - Attacks harm your opponent.
 - Defense prevents harm.
-- [[create advantage]] changes the story for someone’s benefit by introducing new aspects into play.
+- [[create advantage]] changes the story for someone's benefit by introducing new aspects into play.
 - Overcome removes some obstacle, often an aspect, that stands in the way.
 
 What action is being taken should be clearly stated before the dice are picked up or skill bonuses are tallied.
 
 ## Turn Order
 
-At the start of a conflict, establish the turn order. Rocketeers tally a bonus from their character aspects as if they were taking an action. Any aspect that implies the character is quick or good at spotting incoming trouble will work. Major NPCs use their **Quick** approach while mooks default to Mediocre (+0) unless they are skilled at something relevant, like fencing or vigilance. Keep in mind that some swordplay stunt elements may modify a character’s bonus when establishing turn order.
+At the start of a conflict, establish the turn order. Rocketeers tally a bonus from their character aspects as if they were taking an action. Any aspect that implies the character is quick or good at spotting incoming trouble will work. Major NPCs use their **Quick** approach while mooks default to Mediocre (+0) unless they are skilled at something relevant, like fencing or vigilance. Keep in mind that some swordplay stunt elements may modify a character's bonus when establishing turn order.
 
 ## Stunts
 
@@ -98,7 +98,7 @@ Since _Three Rocketeers_ does not have a skill list, stunts need to be handled a
 In addition to the Swordplay aspect, players can build a custom swordplay stunt. A swordplay stunt consists of four elements: appearance, edge, main hand, and off-hand.
 
 - **Appearance:** The qualities an observer might notice about the fencing style. It can be flamboyant or crude, straightforward or sly. Appearance is often used to create an advantage.
-- **Edge:** A particular trick or set of maneuvers the fencer uses to seize the upper hand or score the final blow. Both appearance and edge can be used with any weapon as they are the product of technique and not tied to a fencer’s equipment.
+- **Edge:** A particular trick or set of maneuvers the fencer uses to seize the upper hand or score the final blow. Both appearance and edge can be used with any weapon as they are the product of technique and not tied to a fencer's equipment.
 - **Main Hand:** Every fencing style requires a sword and each blade offers a unique benefit that only a fencer trained in the blade can use.
 - **Off Hand:** Fencers employ a variety of off-hand techniques and weapons, usually for defensive purposes. A fencer only gains the benefit of a main hand or off hand weapon when using the appropriate gear.
 
@@ -106,7 +106,7 @@ To create a swordplay stunt, pick one item from each list of elements at charact
 
 ### Armor and Weapon Ratings
 
-Armor and Weapon ratings improve a character’s defense and offense, respectively. A Weapon rating adds to the [[shift]]s of a successful hit while an armor rating reduces the [[shift]]s of a successful hit. Weapon and Armor values effectively cancel one another.
+Armor and Weapon ratings improve a character's defense and offense, respectively. A Weapon rating adds to the [[shift]]s of a successful hit while an armor rating reduces the [[shift]]s of a successful hit. Weapon and Armor values effectively cancel one another.
 
 Weapon and Armor do not change the total of an action. Success with style still requires beating the opponent by three [[shift]]s or more. If the attacker has a Weapon rating, a tie results in a hit of [[shift]]s equal to the Weapon rating.
 
@@ -144,7 +144,7 @@ Weapon and Armor do not change the total of an action. Success with style still 
 
 # NPCs
 
-To keep the GM’s turns snappy and the focus on the main characters, NPCs are created just like in _Fate Accelerated Edition_. (See Bad Guys on page 38 of FAE).
+To keep the GM's turns snappy and the focus on the main characters, NPCs are created just like in _Fate Accelerated Edition_. (See Bad Guys on page 38 of FAE).
 
 Major NPCs use the standard six approaches from FAE: Careful, Clever, Flashy, Forceful, Quick, and Sneaky. They receive three aspects and a stunt. If you want to make a major NPC an expert fencer like a hero, make one of their aspects a fencing aspect and give them one item from each swordplay element.
 
@@ -154,11 +154,11 @@ To make the mooks your hero will face, follow these steps:
 
 **1.** Pick the quality of the mook. Light mooks are Average (+1) when they are skilled, Terrible (-2) when bad, and have no stress boxes. Medium mooks are Fair (+2) when they are skilled, Poor (-1) when bad, but also have one stress box each. Heavy mooks are Good (+3) when skilled and Poor (-1) when bad at something. They have two stress boxes.
 
-**2.** Choose two or three things the mooks are skilled at and two things they’re bad at.
+**2.** Choose two or three things the mooks are skilled at and two things they're bad at.
 
 **3.** Give the mook an aspect or two.
 
 **4.** Give each mook stress boxes as appropriate for the quality.
 
-Each mook in a mob after the first adds +1 to actions when doing something the mooks are skilled at. A group of four Cardinal’s Guards—medium mooks—are skilled at fencing, giving them a Fair (+2) to start, so the extra three mooks add +3 for a total of Superb (+5) when fencing. Each mook also brings its stress track to the mob. When a mob takes a hit, [[shift]]s in excess of what’s needed to take out one mook are applied to the next mooks in the mob, one at a time. This means a single attack from a Rocketeer can take out multiple mooks in a mob but it also means a large mob can be very hard to take down. It’s best to keep the mooks in groups of three.
+Each mook in a mob after the first adds +1 to actions when doing something the mooks are skilled at. A group of four Cardinal's Guards—medium mooks—are skilled at fencing, giving them a Fair (+2) to start, so the extra three mooks add +3 for a total of Superb (+5) when fencing. Each mook also brings its stress track to the mob. When a mob takes a hit, [[shift]]s in excess of what's needed to take out one mook are applied to the next mooks in the mob, one at a time. This means a single attack from a Rocketeer can take out multiple mooks in a mob but it also means a large mob can be very hard to take down. It's best to keep the mooks in groups of three.
 

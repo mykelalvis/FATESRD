@@ -13,7 +13,7 @@ license. Please check the bottom of this page for the details._
 
 ## Creating Factions
 
-After your group has decided your setting's [[fate-core#The Setting’s Big Issues|Big Issues]], each
+After your group has decided your setting's [[fate-core#The Setting's Big Issues|Big Issues]], each
 player names a Faction, a collection of individuals within the community
 who have a perspective on the issues the community faces. These Factions
 might be formal organizations, like a professional guild or a political

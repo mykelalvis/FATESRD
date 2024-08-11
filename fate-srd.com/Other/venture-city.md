@@ -10,47 +10,47 @@ This work is based on the Venture City SRD (found at http://www.faterpg.com/), a
 
 When you make your character, do so exactly as in [[Fate Core]], but with one addition: you get powers.
 
-Powers are a lot like stunts, except bigger, flashier, more powerful, and more complex. Each power you build costs a certain number of stunts, but don’t worry about not having enough! We’re giving you three bonus stunts on top of what you normally get from [[Fate Core]] to use exclusively for building powers. To add to your powers or build new ones, you can also spend refresh and use your normal allotment of free stunts as you would when building normal stunts. The three free stunts you’re getting in this adventure _have_ to be used for powers, though.
+Powers are a lot like stunts, except bigger, flashier, more powerful, and more complex. Each power you build costs a certain number of stunts, but don't worry about not having enough! We're giving you three bonus stunts on top of what you normally get from [[Fate Core]] to use exclusively for building powers. To add to your powers or build new ones, you can also spend refresh and use your normal allotment of free stunts as you would when building normal stunts. The three free stunts you're getting in this adventure _have_ to be used for powers, though.
 
-Most characters have a single power. Some might have two, but that’s where it tops off. Powers are big and complex enough that more than two would be a bit unwieldy. What you _can_ do, however, is build multiple effects into a single power, creating a power suite that does a bunch of related things.
+Most characters have a single power. Some might have two, but that's where it tops off. Powers are big and complex enough that more than two would be a bit unwieldy. What you _can_ do, however, is build multiple effects into a single power, creating a power suite that does a bunch of related things.
 
 To build powers, you can use the list of powers to create a working power suite in just a few minutes. As a player, if you know the basic sort of super you want to play, you can jump straight into the action. As a GM, this can help you come up with powers quickly when players encounter new super-powered NPCs.
 
 ### Power Budget
 
-NPCs’ power suites aren’t usually as complex as the player characters’, so when you’re designing powers for them, you’ll be spending fewer stunts. Nameless NPCs, when they have powers at all, have one or at most two stunts’ worth of powers, and they don’t get collateral damage or special effects. Supporting NPCs may have three to four stunts’ worth of powers, including a collateral damage effect.
+NPCs' power suites aren't usually as complex as the player characters', so when you're designing powers for them, you'll be spending fewer stunts. Nameless NPCs, when they have powers at all, have one or at most two stunts' worth of powers, and they don't get collateral damage or special effects. Supporting NPCs may have three to four stunts' worth of powers, including a collateral damage effect.
 
 Main NPCs are built the same way as PCs, including their powers.
 
 ## Basic Power
 
-To start, think about what you want your power to do. What is your character’s shtick? What’s the big flashy thing you do that other people can’t do? Maybe you’re inhumanly fast, or super strong, or you can fly, or you shoot energy blasts from your hands.
+To start, think about what you want your power to do. What is your character's shtick? What's the big flashy thing you do that other people can't do? Maybe you're inhumanly fast, or super strong, or you can fly, or you shoot energy blasts from your hands.
 
-Then, find a power that matches your concept and buy its basic form. This is the stunt-like ability that covers the absolute minimum of what the power can do, and purchasing it costs one stunt. This is just the most stripped-down form of your power, so don’t worry if sounds a little generic; you’ll make it more exciting in a moment.
+Then, find a power that matches your concept and buy its basic form. This is the stunt-like ability that covers the absolute minimum of what the power can do, and purchasing it costs one stunt. This is just the most stripped-down form of your power, so don't worry if sounds a little generic; you'll make it more exciting in a moment.
 
-> Miles isn’t sure what sort of hero he’ll be playing, but he knows that he wants to fly, so he starts with Flight. After purchasing Basic Flight, he still has two stunts that he must spend on powers, three free stunts, and three refresh he can trade in for stunts if he wants.
+> Miles isn't sure what sort of hero he'll be playing, but he knows that he wants to fly, so he starts with Flight. After purchasing Basic Flight, he still has two stunts that he must spend on powers, three free stunts, and three refresh he can trade in for stunts if he wants.
 
 ## Enhancements
 
 An enhancement is an extra effect that you stack onto your basic power. Every enhancement costs one stunt. You can purchase as many enhancements as you can afford, and some enhancements can be purchased multiple times. For instance, most powers have an enhancement titled **Master [Power Name]**, which just improves the basic power, usually by adding a +2 bonus to the appropriate rolls. You can buy that enhancement as many times as you want, knocking the bonus up to +4, +6, or beyond.
 
-> Miles wants to be a great flyer, so he invests in Master Flight, purchasing the enhancement twice. In total, this adds a +4 bonus to his [[Athletics]] rolls while in the air. He’s now used the three stunts that must be spent on powers, but still has three free stunts and three refresh left.
+> Miles wants to be a great flyer, so he invests in Master Flight, purchasing the enhancement twice. In total, this adds a +4 bonus to his [[Athletics]] rolls while in the air. He's now used the three stunts that must be spent on powers, but still has three free stunts and three refresh left.
 
 ## Power Synergy
 
-A power synergy is another basic power added to your foundational power. You’re not making a new power from scratch: your power suite will still only have one drawback and one collateral damage effect. The synergy just adds a new facet to the power suite you’re creating. Purchasing a power synergy costs one stunt.
+A power synergy is another basic power added to your foundational power. You're not making a new power from scratch: your power suite will still only have one drawback and one collateral damage effect. The synergy just adds a new facet to the power suite you're creating. Purchasing a power synergy costs one stunt.
 
 Each power has a short list of common synergies: powers that often work well with the foundational power. Your synergy might be a set of complementary powers—like being super strong _and_ super tough—or perhaps your synergy lets you use a power in a specific, new way—like combining your abilities to summon fire and to shoot energy blasts in order to throw fireballs at your enemy.
 
-You are not limited to the suggested synergies, though. You can take any other power you want, as long as you can justify how they’re part of the same power suite. For instance, Wall-Crawling and Energy Blast don’t necessarily go together, but if you explain that the energy blast is really a concentrated ball of the same sticky stuff you use to climb walls, then you have a power synergy.
+You are not limited to the suggested synergies, though. You can take any other power you want, as long as you can justify how they're part of the same power suite. For instance, Wall-Crawling and Energy Blast don't necessarily go together, but if you explain that the energy blast is really a concentrated ball of the same sticky stuff you use to climb walls, then you have a power synergy.
 
-When you purchase a power synergy, you can also purchase any enhancements that apply to your new power. In addition, when it comes time to pick special effects, drawbacks, and collateral damage effects, you can pull from your foundational power or any of the power synergies you’ve added to it.
+When you purchase a power synergy, you can also purchase any enhancements that apply to your new power. In addition, when it comes time to pick special effects, drawbacks, and collateral damage effects, you can pull from your foundational power or any of the power synergies you've added to it.
 
-> Miles sees Super Speed on the list of power synergies for Flight, and thinks it would be a good addition: he’ll be able to move quickly when he needs to, though he’ll still focus on deft maneuvering. He purchases it, as well as the Improved Reaction Time enhancement for Super Speed, so he’ll be able to jump into a fight faster. He spent two stunts, leaving him with one free stunt and three refresh.
+> Miles sees Super Speed on the list of power synergies for Flight, and thinks it would be a good addition: he'll be able to move quickly when he needs to, though he'll still focus on deft maneuvering. He purchases it, as well as the Improved Reaction Time enhancement for Super Speed, so he'll be able to jump into a fight faster. He spent two stunts, leaving him with one free stunt and three refresh.
 
 ## Power Themes
 
-Power themes are like enhancements and power synergies, but they don’t add new abilities to your power suite. Instead, they color how your power presents itself. You might add an elemental effect to your power, or make it based on technology rather than on the superpower gene.
+Power themes are like enhancements and power synergies, but they don't add new abilities to your power suite. Instead, they color how your power presents itself. You might add an elemental effect to your power, or make it based on technology rather than on the superpower gene.
 
 Because the actual effects of power themes are limited, you may purchase one for free. Each theme beyond the first added to a power costs one stunt. Like power synergies, each theme has a short list of enhancements, drawbacks, and collateral damage effects, which become available to purchase or select when you purchase the theme.
 
@@ -58,9 +58,9 @@ Because the actual effects of power themes are limited, you may purchase one for
 
 ## Special Effects and Improved Special Effects
 
-A _special effect_ is an extra-special thing you can pull off when you succeed with style. Whenever you succeed with style on a roll that utilizes one of your powers, you can forgo the normal benefits of succeeding with style to add one of your special effects instead. You can also spend a [[fate point]] to add a special effect to any successful roll, even if you’ve already got a special effect attached to that action. Special effects _always_ happen in addition to the normal effects of success.
+A _special effect_ is an extra-special thing you can pull off when you succeed with style. Whenever you succeed with style on a roll that utilizes one of your powers, you can forgo the normal benefits of succeeding with style to add one of your special effects instead. You can also spend a [[fate point]] to add a special effect to any successful roll, even if you've already got a special effect attached to that action. Special effects _always_ happen in addition to the normal effects of success.
 
-Your power starts with two special effects. If you want more, you can buy them with a stunt or refresh; each stunt or refresh you spend gets you two more special effects. If you need special effects, use the following list. If our suggestions don’t suffice, you can create your own special effects using this list as a guideline.
+Your power starts with two special effects. If you want more, you can buy them with a stunt or refresh; each stunt or refresh you spend gets you two more special effects. If you need special effects, use the following list. If our suggestions don't suffice, you can create your own special effects using this list as a guideline.
 
 - **Forced Movement:** You move your target up to two zones.
 - **Area Attack:** Attack everyone in a zone.
@@ -70,31 +70,31 @@ Your power starts with two special effects. If you want more, you can buy them w
 - **Mental Recovery:** You recover from all mental stress.
 - **Extra Action:** You can split your [[shift]]s between two different yet related actions, adding a +1 to each action.
 
-In addition, some powers have an _improved special effect_. An improved special effect works just like a special effect: you can use the effect when you succeed with style or spend a [[fate point]] while using your power. However, improved special effects are unique to their power and do bigger stuff than regular ones. The trade-off is that they’re more expensive: one stunt buys one improved special effect.
+In addition, some powers have an _improved special effect_. An improved special effect works just like a special effect: you can use the effect when you succeed with style or spend a [[fate point]] while using your power. However, improved special effects are unique to their power and do bigger stuff than regular ones. The trade-off is that they're more expensive: one stunt buys one improved special effect.
 
-> Miles really likes the look of the Bullrush improved special effect for Flight. He picks Physical Recovery and Inflict Condition as his two free special effects, and purchases Bullrush. He converts one refresh into a stunt, allowing him to purchase Bullrush. Now he’s down to two refresh and thinks he should stop there.
+> Miles really likes the look of the Bullrush improved special effect for Flight. He picks Physical Recovery and Inflict Condition as his two free special effects, and purchases Bullrush. He converts one refresh into a stunt, allowing him to purchase Bullrush. Now he's down to two refresh and thinks he should stop there.
 
 ## Drawbacks
 
-Every power has a short list of possible drawbacks. These highlight problems that the power may bring you—a limitation on the power or a nasty side effect. Drawbacks are aspects, like a power’s trouble, but do not replace your character’s trouble. Choose one drawback or create one of your own.
+Every power has a short list of possible drawbacks. These highlight problems that the power may bring you—a limitation on the power or a nasty side effect. Drawbacks are aspects, like a power's trouble, but do not replace your character's trouble. Choose one drawback or create one of your own.
 
-> Miles looks at the drawbacks associated with his powers. He’s tickled by the idea of a hero with giant, visible bird wings, so he picks [Very Noticeable] as his drawback for Flight. He imagines that the wings crackle with lightning as he flies.
+> Miles looks at the drawbacks associated with his powers. He's tickled by the idea of a hero with giant, visible bird wings, so he picks [Very Noticeable] as his drawback for Flight. He imagines that the wings crackle with lightning as he flies.
 
 ## Collateral Damage Effects
 
 Super-beings throw a lot of power around, power that often has unintended consequences. Sometimes city blocks get leveled; sometimes innocent bystanders get hurt. Your collateral damage effect is an extra benefit—something super-potent you can do with your power, often to great narrative effect.
 
-Each power lists a number of collateral damage effects. Choose one from a power you’ve chosen, or make one of your own.
+Each power lists a number of collateral damage effects. Choose one from a power you've chosen, or make one of your own.
 
-You can choose to use this effect at any time, but using it comes at a cost: you inflict a [[situation aspect]] on the area around you that represents the collateral damage you’ve caused. The GM gets to determine the exact nature of that aspect each time you use it.
+You can choose to use this effect at any time, but using it comes at a cost: you inflict a [[situation aspect]] on the area around you that represents the collateral damage you've caused. The GM gets to determine the exact nature of that aspect each time you use it.
 
-> Miles really wants the Megaton Punch effect so he can attack every target in a zone. However, because he’s also a super-speedster, he decides that instead of smashing the ground to make a shockwave, he uses his lighting-infused speed to zip around and shock everyone in the zone, tearing up the place with random flying sparks.
+> Miles really wants the Megaton Punch effect so he can attack every target in a zone. However, because he's also a super-speedster, he decides that instead of smashing the ground to make a shockwave, he uses his lighting-infused speed to zip around and shock everyone in the zone, tearing up the place with random flying sparks.
 
 ### Other Collateral Damage Options
 
-Instead of picking the collateral damage effect for a power you’ve purchased, you can pick a power that you don’t have, and either use a collateral damage effect from its list, or create a collateral damage effect from the basic power itself. This can represent an aspect of your character’s power suite that they haven’t trained with, or an application of their power that’s a bit outside what it should be able to do, which is why it causes collateral damage. Building a collateral damage effect like this is especially useful for adding versatility to a character, granting someone with a lot of utility powers a strong attack, or giving a character who’s built for fighting a way to get out of trouble fast.
+Instead of picking the collateral damage effect for a power you've purchased, you can pick a power that you don't have, and either use a collateral damage effect from its list, or create a collateral damage effect from the basic power itself. This can represent an aspect of your character's power suite that they haven't trained with, or an application of their power that's a bit outside what it should be able to do, which is why it causes collateral damage. Building a collateral damage effect like this is especially useful for adding versatility to a character, granting someone with a lot of utility powers a strong attack, or giving a character who's built for fighting a way to get out of trouble fast.
 
-> Miles changes his mind about the Megaton Punch: he wants a power that makes him more mobile. Seeing Phasing on the list of power synergies for Super Speed, he decides to make that his collateral damage effect. It’s something his power lets him do, but it’s too outside of his comfort zone to do safely. He turns it into a new collateral damage effect: If he needs to, he can build up enough speed to phase right through virtually any amount of solid matter, but doing so leaves lasting damage in whatever structure he moved through.
+> Miles changes his mind about the Megaton Punch: he wants a power that makes him more mobile. Seeing Phasing on the list of power synergies for Super Speed, he decides to make that his collateral damage effect. It's something his power lets him do, but it's too outside of his comfort zone to do safely. He turns it into a new collateral damage effect: If he needs to, he can build up enough speed to phase right through virtually any amount of solid matter, but doing so leaves lasting damage in whatever structure he moved through.
 
 # Powers Catalog
 
@@ -104,7 +104,7 @@ You can walk with the animals, talk with the animals, and fight with the animals
 
 **Basic Animal Control:** Choose one favored type of animal. You may communicate with favored animals of this type as if they were human NPCs, although their understanding of the world is limited. In addition, you gain a +2 bonus to [[Rapport]] when asking an animal of that type to do something for you.
 
-“Type” is an intentionally broad category. It doesn’t necessarily line up with a taxonomic category, but rather how useful the animal is and how often you’ll see it. Only multicellular animals can be controlled; bacteria are too simple to order around. Some types of animals you might control include fish, birds, insects, rodents, and dogs.
+“Type” is an intentionally broad category. It doesn't necessarily line up with a taxonomic category, but rather how useful the animal is and how often you'll see it. Only multicellular animals can be controlled; bacteria are too simple to order around. Some types of animals you might control include fish, birds, insects, rodents, and dogs.
 
 ### Enhancements
 
@@ -112,7 +112,7 @@ You can walk with the animals, talk with the animals, and fight with the animals
 
 **Zoological Polyglot:** You may speak to any animal as if it were a human NPC. However, your bonus to [[Rapport]] only applies to your favored type of animal.
 
-**Animal Telepathy:** You can communicate with animals of your favored type telepathically. In addition, you are aware when animals of that type are around you, even if you can’t see or otherwise sense them.
+**Animal Telepathy:** You can communicate with animals of your favored type telepathically. In addition, you are aware when animals of that type are around you, even if you can't see or otherwise sense them.
 
 ### Common Power Synergies
 
@@ -122,7 +122,7 @@ You can walk with the animals, talk with the animals, and fight with the animals
 
 ### Drawbacks
 
-- Your animal friends don’t just like you, they love you, and want to be around you all the time. You have an [Unwanted Menagerie] at all times.
+- Your animal friends don't just like you, they love you, and want to be around you all the time. You have an [Unwanted Menagerie] at all times.
 - Your connection to the minds of animals works both ways: their psyches rub off on you, and you need to contend with [Overwhelming Animal Instincts].
 - You have control over an animal with certain environmental needs—say fish, or hawks—which means your powers are [Not Useful Indoors].
 
@@ -134,9 +134,9 @@ You can walk with the animals, talk with the animals, and fight with the animals
 
 Creature Summoning
 
-You’ve always got someone, or something, to watch your back.
+You've always got someone, or something, to watch your back.
 
-**Basic Creature Summoning:** Once per scene, you can generate a creature that’s under your control. You might bring forth an elemental, or something mundane like a sidekick shows up to help out. When you take this power, create a creature with one aspect to describe it and one Good (+3) skill. Your creature has two physical and mental stress boxes, and it can take mild and moderate consequences. Your creature will dissipate or wander away at the end of the scene, clearing its consequences.
+**Basic Creature Summoning:** Once per scene, you can generate a creature that's under your control. You might bring forth an elemental, or something mundane like a sidekick shows up to help out. When you take this power, create a creature with one aspect to describe it and one Good (+3) skill. Your creature has two physical and mental stress boxes, and it can take mild and moderate consequences. Your creature will dissipate or wander away at the end of the scene, clearing its consequences.
 
 Your summoned creature is not an NPC, but another character under your control. When your creature is active during a conflict, it acts on your turn. Both of you take a free movement, but only one of you can take an action.
 
@@ -156,9 +156,9 @@ Your summoned creature is not an NPC, but another character under your control. 
 
 ### Drawbacks
 
-- The thing you summon is not quite as under your control as you’d like people to think. You can tell it what to do, but [It Has a Mind of Its Own].
+- The thing you summon is not quite as under your control as you'd like people to think. You can tell it what to do, but [It Has a Mind of Its Own].
 - Your little summoned buddy might be as friendly as anything, but since [It Looks Like a Living Nightmare], people tend to freak out.
-- Saying you _choose_ to summon your creature isn’t quite right. It’s more accurate to say that you [Can’t Get Rid of Your Creature], no matter how hard you try.
+- Saying you _choose_ to summon your creature isn't quite right. It's more accurate to say that you [Can't Get Rid of Your Creature], no matter how hard you try.
 
 ### Collateral Damage Effects
 
@@ -178,25 +178,25 @@ Your ability to disguise yourself as another person is uncanny. Who are you, rea
 
 **Sartorial Doubling:** Your ability to copy a person extends beyond their body. You can also change the clothes you are wearing, and even imitate guns or other props—although they are, of course, non-functional.
 
-**Close Observation:** You can mimic a target without getting close; you only need to spend a few minutes observing them at a distance. You can even double a target you’ve only seen on video.
+**Close Observation:** You can mimic a target without getting close; you only need to spend a few minutes observing them at a distance. You can even double a target you've only seen on video.
 
 ### Common Power Synergies
 
 **Shape-Shifting:** Altering your face and body is good practice for your fine detail work, but you can change your entire shape when you need to.
 
-**Illusion:** You aren’t actually altering your face; you’re just projecting a disguise over it, using your mastery of illusions.
+**Illusion:** You aren't actually altering your face; you're just projecting a disguise over it, using your mastery of illusions.
 
 ### Drawbacks
 
-- There’s a reason you spend most or all of your time wearing someone else’s face: your own is an [Inhuman Visage].
-- Too much time spent being someone else. Too many faces, too many lives. You’ve reached the point where you [Don’t Know Who You Are Anymore].
-- You can’t consciously control the way your face changes. Instead, your power is [Touch-Activated]; it only triggers when you physically touch your target.
+- There's a reason you spend most or all of your time wearing someone else's face: your own is an [Inhuman Visage].
+- Too much time spent being someone else. Too many faces, too many lives. You've reached the point where you [Don't Know Who You Are Anymore].
+- You can't consciously control the way your face changes. Instead, your power is [Touch-Activated]; it only triggers when you physically touch your target.
 
 ### Collateral Damage Effects
 
-**Killing Disguise:** You might take a target’s identity completely—not just appearance and voice, but also their mannerisms and memories, perfectly duplicated. Anyone attempting to see through your disguise faces Legendary (+8) opposition. This is an invasive procedure, and you need to physically poke around in your target’s brain. You can use this effect to take out and then imitate a nameless NPC, but to imitate a named NPC or PC, you will need to kill them or otherwise access their fresh corpse.
+**Killing Disguise:** You might take a target's identity completely—not just appearance and voice, but also their mannerisms and memories, perfectly duplicated. Anyone attempting to see through your disguise faces Legendary (+8) opposition. This is an invasive procedure, and you need to physically poke around in your target's brain. You can use this effect to take out and then imitate a nameless NPC, but to imitate a named NPC or PC, you will need to kill them or otherwise access their fresh corpse.
 
-**Demonic Gaze:** While you’re generally limited to a human disguise, you have a face in your repertoire that’s grotesque and terrifying, which you can pull out when you need to scare a crowd. Everyone who can see you must defend using [[Will]] against Great (+4) opposition or get a mild mental consequence.
+**Demonic Gaze:** While you're generally limited to a human disguise, you have a face in your repertoire that's grotesque and terrifying, which you can pull out when you need to scare a crowd. Everyone who can see you must defend using [[Will]] against Great (+4) opposition or get a mild mental consequence.
 
 ## Duplication
 
@@ -216,29 +216,29 @@ You can be an entire team, all by yourself.
 
 **Teleportation:** By creating a duplicate some distance away and then willing away your original body, your consciousness jumps into the spare body, effectively teleporting you. There are metaphysical concerns here, but you try not to think about them.
 
-**Energy Blast:** You…there’s no clean way to put this. You can try to create a copy of yourself inside someone else. It’s unsettling. But effectively it works like throwing a blast of energy at them.
+**Energy Blast:** You…there's no clean way to put this. You can try to create a copy of yourself inside someone else. It's unsettling. But effectively it works like throwing a blast of energy at them.
 
 ### Improved Special Effect
 
-**Duplicate Action:** You can split your [[shift]]s between two different actions, each performed by a separate iteration of you. Your duplicate cannot succeed with style in this way, and the opposition to its action can’t be higher than the opposition to your action.
+**Duplicate Action:** You can split your [[shift]]s between two different actions, each performed by a separate iteration of you. Your duplicate cannot succeed with style in this way, and the opposition to its action can't be higher than the opposition to your action.
 
 ### Drawbacks
 
-- You would think that you and your duplicate get along smashingly, but you don’t. Trouble brews when you [Don’t Get Along with Yourself].
-- Your duplicates are, if anything, too perfect. Sure, you don’t get hurt when they do, but you do [Feel Their Pain].
+- You would think that you and your duplicate get along smashingly, but you don't. Trouble brews when you [Don't Get Along with Yourself].
+- Your duplicates are, if anything, too perfect. Sure, you don't get hurt when they do, but you do [Feel Their Pain].
 - It would be great to send duplicates off on adventures without you, but when they get a hundred yards away from you they just fall over, dead. You have [Short-Range Control].
 
 ### Collateral Damage Effects
 
-**Army of Me:** It’s exhausting, but you can duplicate yourself well beyond your stated limits…at the expense of your ability to control them. This creates a swarm of you-NPCs under the GM’s control.
+**Army of Me:** It's exhausting, but you can duplicate yourself well beyond your stated limits…at the expense of your ability to control them. This creates a swarm of you-NPCs under the GM's control.
 
-**Extra Copies:** You can make an extra clone of yourself, even after you’ve reached your limit for the scene. It’s straining to create these new clones, though, so something goes wrong: they burst in knocking things around, or move sluggishly and clumsily, or just aren’t right.
+**Extra Copies:** You can make an extra clone of yourself, even after you've reached your limit for the scene. It's straining to create these new clones, though, so something goes wrong: they burst in knocking things around, or move sluggishly and clumsily, or just aren't right.
 
 Elasticity
 
-You’ve got a body as stretchy as rubber and twice as resilient.
+You've got a body as stretchy as rubber and twice as resilient.
 
-**Basic Elasticity:** Your body stretches to incredible lengths. By stretching yourself, you can interact with objects and make melee attacks in an adjacent zone without moving. Additionally, you can contort your body into rough approximations of animals, objects, and tools, although your mass doesn’t change and you still very much look like yourself.
+**Basic Elasticity:** Your body stretches to incredible lengths. By stretching yourself, you can interact with objects and make melee attacks in an adjacent zone without moving. Additionally, you can contort your body into rough approximations of animals, objects, and tools, although your mass doesn't change and you still very much look like yourself.
 
 ### Enhancements
 
@@ -250,28 +250,28 @@ You’ve got a body as stretchy as rubber and twice as resilient.
 
 ### Common Power Synergies
 
-**Super Toughness:** Your body is a shifting, inconsistent mass of vague stuff. It’s hard for it to get hurt in a meaningful way.
+**Super Toughness:** Your body is a shifting, inconsistent mass of vague stuff. It's hard for it to get hurt in a meaningful way.
 
-**Disguise:** With a little careful manipulation, you can reshape your face, body, and even voice into convincing facsimiles of someone else’s.
+**Disguise:** With a little careful manipulation, you can reshape your face, body, and even voice into convincing facsimiles of someone else's.
 
 **Natural Weapon:** Your elastic arms can turn into blades, hammers, clubs…all manner of built-in weaponry.
 
 ### Drawbacks
 
 - Because all of your bones [[shift]] and slide around, you can never really bring good leverage to bear during physical tasks. You are actually quite [Weak].
-- You aren’t so much “elastic” as you are a formless, shapeless horror. You might be able to put on a fairly humanoid form, but you [Need to Concentrate to Stay Solid].
+- You aren't so much “elastic” as you are a formless, shapeless horror. You might be able to put on a fairly humanoid form, but you [Need to Concentrate to Stay Solid].
 
 ### Collateral Damage Effects
 
 **Balloon:** You can swell up like a balloon, large enough to completely fill your zone. This is an attack on everyone, friend and foe, in your zone, which deals 2 physical stress. Every target who takes stress is moved into an adjacent zone of your choice. Meanwhile, everything else in the zone gets moved or crushed.
 
-**Rubber Vengeance:** When you bounce back, you do so with style. When someone attacks you with a projectile, you can use your body’s rubbery quality to reflect it back at them. If you do, both you and your attacker must defend against your attacker’s roll, and any special effects created by the attack apply to both of you. Doing this may send wayward projectiles in the direction of innocent bystanders, however.
+**Rubber Vengeance:** When you bounce back, you do so with style. When someone attacks you with a projectile, you can use your body's rubbery quality to reflect it back at them. If you do, both you and your attacker must defend against your attacker's roll, and any special effects created by the attack apply to both of you. Doing this may send wayward projectiles in the direction of innocent bystanders, however.
 
 Energy Absorption
 
 You are a human capacitor, able to absorb pure energy into your body and release it at will.
 
-**Basic Energy Absorption:** You may use [[Physique]], with a +2 bonus, to defend against any energy-based attack and to overcome energy-based obstacles, simply by absorbing the energy into your body. Energy-based threats include electricity—such as stun guns and tasers—radiation, fire, and most super-powered blasts; in short, things that can hurt you but aren’t solid objects.
+**Basic Energy Absorption:** You may use [[Physique]], with a +2 bonus, to defend against any energy-based attack and to overcome energy-based obstacles, simply by absorbing the energy into your body. Energy-based threats include electricity—such as stun guns and tasers—radiation, fire, and most super-powered blasts; in short, things that can hurt you but aren't solid objects.
 
 ### Enhancements
 
@@ -281,22 +281,22 @@ You are a human capacitor, able to absorb pure energy into your body and release
 
 ### Common Power Synergies
 
-**Energy Blast:** The energy you absorb doesn’t bleed away slowly; you release it with force. As an energy blaster, you can shoot out energy of the same type that you most recently absorbed.
+**Energy Blast:** The energy you absorb doesn't bleed away slowly; you release it with force. As an energy blaster, you can shoot out energy of the same type that you most recently absorbed.
 
 **Harm:** People need energy to live, and you can take grim advantage of this fact by draining it out of them.
 
-**Super Toughness:** Kinetic energy is energy too, after all. You can’t stop a physical attack, but you can slow it enough that it doesn’t hurt so bad.
+**Super Toughness:** Kinetic energy is energy too, after all. You can't stop a physical attack, but you can slow it enough that it doesn't hurt so bad.
 
 ### Drawbacks
 
-- The human body is not a perfect battery, which is why you’ve blown out a few walls without meaning to. You suffer from [Involuntary Bursts of Energy].
-- Wherever you go, lights flicker, TVs show static, and cars won’t start. You tend to stay away from hospitals because you [Can’t Shut It Off].
+- The human body is not a perfect battery, which is why you've blown out a few walls without meaning to. You suffer from [Involuntary Bursts of Energy].
+- Wherever you go, lights flicker, TVs show static, and cars won't start. You tend to stay away from hospitals because you [Can't Shut It Off].
 
 ### Collateral Damage Effects
 
 **Killswitch:** You can suck out basically every last joule in the area to empower yourself. This instantly shuts down anything electrically powered in your zone, but clears all your physical stress and erases a mild consequence.
 
-**Grounded Discharge:** You can release all the latent energy you’ve stored up in one deadly burst, right through the heart of one target in your zone, dealing a moderate consequence. But it’s not a perfectly accurate discharge: random bolts of energy flare around you.
+**Grounded Discharge:** You can release all the latent energy you've stored up in one deadly burst, right through the heart of one target in your zone, dealing a moderate consequence. But it's not a perfectly accurate discharge: random bolts of energy flare around you.
 
 Energy Blast
 
@@ -316,9 +316,9 @@ A classic power with innumerable variations: you can shoot stuff. Lasers from yo
 
 ### Common Power Synergies
 
-**Projection:** What you fire isn’t just a blast of undifferentiated energy; it’s a specific element. Pick from Fire Projection, Electricity Projection, Frost Projection, or Shadow Projection.
+**Projection:** What you fire isn't just a blast of undifferentiated energy; it's a specific element. Pick from Fire Projection, Electricity Projection, Frost Projection, or Shadow Projection.
 
-**Item Summoning:** You aren’t throwing pure energy; you’re just throwing stuff that you pull out of thin air.
+**Item Summoning:** You aren't throwing pure energy; you're just throwing stuff that you pull out of thin air.
 
 **Flight:** Basic physics. Point your energy blasts down, and you go up!
 
@@ -326,13 +326,13 @@ A classic power with innumerable variations: you can shoot stuff. Lasers from yo
 
 - Your energy blast takes the form of lasers shooting from your eyes. This is great for sniping at a distance, but not for tracking nearby targets. You are [Inaccurate at Close Range].
 - Your blasts come with huge bursts of concussive force, which generate [Lots of Collateral Damage].
-- You don’t have true control over your blasts: energy pours out of you non-stop, but you have safety equipment to hold it in check until you need to fire. You [Need a Mask to Protect Those Around You].
+- You don't have true control over your blasts: energy pours out of you non-stop, but you have safety equipment to hold it in check until you need to fire. You [Need a Mask to Protect Those Around You].
 
 ### Collateral Damage Effects
 
-**Rapid Fire:** You can shoot every target within your zone at full strength. If you throw out that many shots, though, you can’t help but hit something you don’t mean to.
+**Rapid Fire:** You can shoot every target within your zone at full strength. If you throw out that many shots, though, you can't help but hit something you don't mean to.
 
-**Charged Shot:** If you take a few seconds to concentrate, you can generate a blast with enough force to blow open the door to a bank vault, destroy a reinforced wall, or otherwise eradicate an obstacle. Of course, a blast this big is slow and imprecise. It’ll tear up the entire room.
+**Charged Shot:** If you take a few seconds to concentrate, you can generate a blast with enough force to blow open the door to a bank vault, destroy a reinforced wall, or otherwise eradicate an obstacle. Of course, a blast this big is slow and imprecise. It'll tear up the entire room.
 
 Flight
 
@@ -346,7 +346,7 @@ For many people, flight is the reason to activate their super gene. You are one 
 
 **Eagle-Eyed:** You can, in fact, see your house from up there. Gain +2 to [[Notice]] and [[Investigate]] rolls that involve seeing distant things.
 
-**Supersonic Flight:** Without gravity getting in your way, it’s surprising how quickly you can get around. During conflicts, you may move up to two zones in an exchange, rather than one, in addition to your action.
+**Supersonic Flight:** Without gravity getting in your way, it's surprising how quickly you can get around. During conflicts, you may move up to two zones in an exchange, rather than one, in addition to your action.
 
 ### Common Power Synergies
 
@@ -359,8 +359,8 @@ For many people, flight is the reason to activate their super gene. You are one 
 ### Drawbacks
 
 - Your ability to fly comes from the pair of great big wings sprouting out of your shoulder blades. You are [Very Noticeable].
-- You can’t actually fly on your own. Instead, you have artificial assistance, whether it’s a drug cocktail to stimulate your super gene or an honest-to-goodness jetpack. Your power has [Limited Fuel].
-- Humans aren’t actually built to fly; without wings or a tail to act as a rudder, you find that it is [Hard to Maneuver in Flight].
+- You can't actually fly on your own. Instead, you have artificial assistance, whether it's a drug cocktail to stimulate your super gene or an honest-to-goodness jetpack. Your power has [Limited Fuel].
+- Humans aren't actually built to fly; without wings or a tail to act as a rudder, you find that it is [Hard to Maneuver in Flight].
 
 ### Collateral Damage Effects
 
@@ -386,22 +386,22 @@ You have special insight into how stuff works, letting you assemble incredible d
 
 **Super Gadgeteering:** Virtually any power can become an ability that you have thanks to a gadget you have created. You might have jetpack-powered Flight, a device which lets you Phase through walls, or a ray to create energy Shields. Even though these powers come from devices, the devices only work because of your superhuman craft, so they can be affected as standard powers can by Power Amplification, Power Nullification, and other means.
 
-**Technology:** Your mechanical aptitude is superior, but it’s not quite superhuman. Likewise, the devices you create aren’t super-gadgets, just bleeding-edge pieces of tech.
+**Technology:** Your mechanical aptitude is superior, but it's not quite superhuman. Likewise, the devices you create aren't super-gadgets, just bleeding-edge pieces of tech.
 
 ### Drawbacks
 
 - You learned to build things out of sheer necessity, not because you like it. It turns out, despite your skills, [Machinery Tends to Fail Around You].
-- If not for your gadgeteering, you wouldn’t be here today. After a horrible accident some time ago, you are [Kept Alive by Your Own Devices].
+- If not for your gadgeteering, you wouldn't be here today. After a horrible accident some time ago, you are [Kept Alive by Your Own Devices].
 
 ### Collateral Damage Effects
 
-**Highly Experimental Device:** Once per scene, if someone is taken out (including you), you can pull a highly experimental device out of your pocket, prepared for just such an occasion. Not only does your device completely negate all the stress which would have caused the target to be taken out, it also clears your target’s highest consequence. After that, your device explodes, misfires, goes rogue, or otherwise renders itself inoperable while dishing out some collateral damage.
+**Highly Experimental Device:** Once per scene, if someone is taken out (including you), you can pull a highly experimental device out of your pocket, prepared for just such an occasion. Not only does your device completely negate all the stress which would have caused the target to be taken out, it also clears your target's highest consequence. After that, your device explodes, misfires, goes rogue, or otherwise renders itself inoperable while dishing out some collateral damage.
 
-**Handmade Off Button:** You’ve got a very useful little remote control in your pocket, which you can use to just shut off one or more devices in the scene—anything as technologically advanced as a flashlight is a viable target. You can choose what to target, but your control isn’t perfect. Also, sometimes you “shut things off” by making them explode. You’re trying to work that bug out.
+**Handmade Off Button:** You've got a very useful little remote control in your pocket, which you can use to just shut off one or more devices in the scene—anything as technologically advanced as a flashlight is a viable target. You can choose what to target, but your control isn't perfect. Also, sometimes you “shut things off” by making them explode. You're trying to work that bug out.
 
 Harm
 
-You have a deadly touch. You don’t have to hit people to hurt them; just brushing up against them can be fatal.
+You have a deadly touch. You don't have to hit people to hurt them; just brushing up against them can be fatal.
 
 **Basic Harm:** By maintaining skin-to-skin contact with another person for a moment, you deal them 2 physical stress. Additionally, when you attack a target using your bare hands, add 2 physical stress to result.
 
@@ -413,17 +413,17 @@ You have a deadly touch. You don’t have to hit people to hurt them; just brush
 
 **Lasting Harm:** When you cause harm, if your target does not have a mild consequence, you may instead choose to inflict a mild consequence.
 
-**Piercing Damage:** Your ability ignores the target’s Armor rating. Additionally, you do not have to maintain skin contact for your power to work; you can cause harm through multiple layers of clothing.
+**Piercing Damage:** Your ability ignores the target's Armor rating. Additionally, you do not have to maintain skin contact for your power to work; you can cause harm through multiple layers of clothing.
 
 ### Common Power Synergies
 
-**Healing:** It’s not unusual for someone with your power to trade damage for healing or vice versa.
+**Healing:** It's not unusual for someone with your power to trade damage for healing or vice versa.
 
 ### Drawbacks
 
-- The cause harm in the form of strange, cancerous lesions all over your target’s skin. Unfortunately, you show them as well, making you look [Grotesque].
-- Despite your best attempts to keep it in check, your power is always active in small ways: pencils rot in your hand, and food spoils when you touch it. You [Can’t Turn It Off].
-- Your power is usually inactive, which means you aren’t accidentally damaging those around you, but it means you can’t always bring your ability to bear; you have to be furious at a target to harm them. Your power is [Fueled By Rage].
+- The cause harm in the form of strange, cancerous lesions all over your target's skin. Unfortunately, you show them as well, making you look [Grotesque].
+- Despite your best attempts to keep it in check, your power is always active in small ways: pencils rot in your hand, and food spoils when you touch it. You [Can't Turn It Off].
+- Your power is usually inactive, which means you aren't accidentally damaging those around you, but it means you can't always bring your ability to bear; you have to be furious at a target to harm them. Your power is [Fueled By Rage].
 
 ### Collateral Damage Effects
 
@@ -435,21 +435,21 @@ Healing
 
 You are, invariably, the most popular person to have on hand during a fight. You make hurt people not hurt so much.
 
-**Basic Healing:** You can make a [[Will]] roll against Fair (+2) opposition to clear another character’s physical stress. A character may only benefit from your ability once per scene. Additionally, you can use [[Will]] to start healing any kind of physical consequence on another character.
+**Basic Healing:** You can make a [[Will]] roll against Fair (+2) opposition to clear another character's physical stress. A character may only benefit from your ability once per scene. Additionally, you can use [[Will]] to start healing any kind of physical consequence on another character.
 
 ### Enhancements
 
-**Master Healing:** You gain +2 to [[Will]] when you roll to start healing another character’s consequence.
+**Master Healing:** You gain +2 to [[Will]] when you roll to start healing another character's consequence.
 
-**Fast Healing:** When you cause another character’s consequence to begin healing, its severity decreases by one step if the lower consequence slot is available. If it’s a mild consequence, it disappears altogether.
+**Fast Healing:** When you cause another character's consequence to begin healing, its severity decreases by one step if the lower consequence slot is available. If it's a mild consequence, it disappears altogether.
 
-**Overhealing:** When you heal a target’s physical stress, they gain another physical stress box, which lasts until the end of the scene.
+**Overhealing:** When you heal a target's physical stress, they gain another physical stress box, which lasts until the end of the scene.
 
 ### Common Power Synergies
 
-**Regeneration:** Most doctors can’t operate on themselves, but there’s no reason you can’t turn your power inward.
+**Regeneration:** Most doctors can't operate on themselves, but there's no reason you can't turn your power inward.
 
-**Harm:** Medicine and poison are the same thing, really. It’s all about the proportions.
+**Harm:** Medicine and poison are the same thing, really. It's all about the proportions.
 
 ### Improved Special Effect
 
@@ -457,19 +457,19 @@ You are, invariably, the most popular person to have on hand during a fight. You
 
 ### Drawbacks
 
-- Your healing is tied to your emotional state and your ability to feel compassion for your target. No matter how pressed, you [Can’t Heal Someone You Don’t Like].
-- Your healing ability isn’t perfect; like any healer, you’ve lost patients before, and like any healer, you’re [Racked with Guilt] about it.
+- Your healing is tied to your emotional state and your ability to feel compassion for your target. No matter how pressed, you [Can't Heal Someone You Don't Like].
+- Your healing ability isn't perfect; like any healer, you've lost patients before, and like any healer, you're [Racked with Guilt] about it.
 - The human body is incredibly complex, which means you [Require Complete Concentration] to heal your targets.
 
 ### Collateral Damage Effects
 
 **Invulnerability Charge:** If someone in your zone is attacked, you can turn the full extent of your power onto them, causing them to ignore the damage entirely. The damage still has to go somewhere, though: Bullets or energy blasts would pass right through your target, and kinetic energy from powerful punches would pour into the ground.
 
-**Pacifist Aura:** You can turn up your power to such a point that it’s almost physically impossible for people to get hurt in your presence. Everyone in your zone gains Armor:6 until scene ends or you end the power. However, the vital energy filling the area tends to make inanimate objects leap about in unpredictable ways.
+**Pacifist Aura:** You can turn up your power to such a point that it's almost physically impossible for people to get hurt in your presence. Everyone in your zone gains Armor:6 until scene ends or you end the power. However, the vital energy filling the area tends to make inanimate objects leap about in unpredictable ways.
 
 Illusion
 
-You can make things that aren’t there…there.
+You can make things that aren't there…there.
 
 **Basic Illusion:** You can project an illusory image, up to about human size, as far as one zone away. You can also generate sounds, including voices. You must concentrate to keep the illusion active. Others must actively try to see through your illusion. This is an overcome roll using [[Investigate]], which you actively oppose using [[Deceive]].
 
@@ -485,13 +485,13 @@ You can make things that aren’t there…there.
 
 **Shielding:** By combining the sensory input of your illusions with physical barriers to reinforce them, you can create incredibly convincing simulacra. You can encase the shields you generate within illusory walls.
 
-**Telepathy:** While you generate your illusions in the minds of those around you, you can poke around in those minds. This is especially useful if you want to project someone’s darkest secret or hidden fear.
+**Telepathy:** While you generate your illusions in the minds of those around you, you can poke around in those minds. This is especially useful if you want to project someone's darkest secret or hidden fear.
 
 ### Drawbacks
 
-- Everyone has demons, of course. Not everyone has the latent ability to bring their subconscious thoughts into the real world when they aren’t paying attention. You suffer from a [Subconscious Made Real].
-- Your illusions aren’t projections; they’re hallucinations you make people have. This means your [Illusions Don’t Show Up on Video].
-- You spin your illusions together out of shadows. Indoors or at night they’re perfectly serviceable, but your [Illusions Dissipate in Daylight].
+- Everyone has demons, of course. Not everyone has the latent ability to bring their subconscious thoughts into the real world when they aren't paying attention. You suffer from a [Subconscious Made Real].
+- Your illusions aren't projections; they're hallucinations you make people have. This means your [Illusions Don't Show Up on Video].
+- You spin your illusions together out of shadows. Indoors or at night they're perfectly serviceable, but your [Illusions Dissipate in Daylight].
 
 ### Collateral Damage Effects
 
@@ -501,7 +501,7 @@ You can make things that aren’t there…there.
 
 ## Influence
 
-You are a natural people person—whether people like it or not. You can’t control minds outright, but you can make them malleable.
+You are a natural people person—whether people like it or not. You can't control minds outright, but you can make them malleable.
 
 **Basic Influence:** You can use [[Rapport]] to attack, defended against with [[Will]]. If you succeed against a nameless NPC, you may give them a task, which they will then attempt to fulfill. Against a named NPC or a PC, they may follow your order or take mental stress from the attack, their choice. Anyone you give a task to will try their best to accomplish it until they succeed or the scene ends, whichever comes first. The tasks you assign are short-term objectives, such as “Give me that gun,” or “Go away.” Because even the weakest-willed are driven by self-preservation, you cannot force someone to directly harm themself or put themself in an inevitably fatal position, such as jumping off a building, but you can force them to take riskier actions than they would like to.
 
@@ -513,28 +513,28 @@ You are a natural people person—whether people like it or not. You can’t con
 
 **Convincing:** Because people tend to believe what you say, you gain +2 to [[Deceive]] when lying to someone.
 
-**Familiar Presence:** Your power makes you seem vaguely familiar to everyone. As a result, as long as you don’t interact with them directly, security guards and other official personnel will assume that you have the right to be wherever you are, and won’t demand ID. If you draw attention to yourself, or are forced to speak to personnel—for instance, because they are guarding a door you are trying to go through—the effect will wear off.
+**Familiar Presence:** Your power makes you seem vaguely familiar to everyone. As a result, as long as you don't interact with them directly, security guards and other official personnel will assume that you have the right to be wherever you are, and won't demand ID. If you draw attention to yourself, or are forced to speak to personnel—for instance, because they are guarding a door you are trying to go through—the effect will wear off.
 
 ### Common Power Synergies
 
-**Telepathy:** Your power already lets you rewire someone’s brain. Might as well pick up some information while you’re there.
+**Telepathy:** Your power already lets you rewire someone's brain. Might as well pick up some information while you're there.
 
 ### Drawbacks
 
 - Something about always being able to get everything you want has left you, well, a little dead inside. You have [No [[Empathy]]].
-- While you can direct your power, you can’t turn it off. You have an incessant aura of likability, so you always wind up [Surrounded by Admirers].
+- While you can direct your power, you can't turn it off. You have an incessant aura of likability, so you always wind up [Surrounded by Admirers].
 
 ### Collateral Damage Effects
 
-**“DIE!”:** Normally your orders are limited to things your target might be willing to do, but if you’re mad enough, you can instruct an entire zone to just die. Nameless NPCs are taken out instantly, while named NPCs and PCs must use [[Will]] to successfully overcome a Fair (+2) obstacle or take a moderate physical consequence as their own body tears itself apart.
+**“DIE!”:** Normally your orders are limited to things your target might be willing to do, but if you're mad enough, you can instruct an entire zone to just die. Nameless NPCs are taken out instantly, while named NPCs and PCs must use [[Will]] to successfully overcome a Fair (+2) obstacle or take a moderate physical consequence as their own body tears itself apart.
 
-**Puppetry:** You can attempt to control someone else’s body entirely. They can still take actions in a conflict as normal, but on your turn you may either take an action yourself or have your target take an action. You cannot make someone attack themself or cause themself purposeful harm—for instance, by leaping off a rooftop when they can’t fly—but you can have them target their allies and move into disadvantageous positions. Collateral damage tends to stem from the imperfect control you have over their body, or the psychological damage you cause to the both of you.
+**Puppetry:** You can attempt to control someone else's body entirely. They can still take actions in a conflict as normal, but on your turn you may either take an action yourself or have your target take an action. You cannot make someone attack themself or cause themself purposeful harm—for instance, by leaping off a rooftop when they can't fly—but you can have them target their allies and move into disadvantageous positions. Collateral damage tends to stem from the imperfect control you have over their body, or the psychological damage you cause to the both of you.
 
 Invisibility
 
 Sorry, who said that?
 
-**Basic Invisibility:** You can completely fade from view, including your clothes and anything you’re carrying. Cameras and similar devices cannot detect you at all, and you gain +2 to [[Stealth]] against being seen by living targets.
+**Basic Invisibility:** You can completely fade from view, including your clothes and anything you're carrying. Cameras and similar devices cannot detect you at all, and you gain +2 to [[Stealth]] against being seen by living targets.
 
 ### Enhancements
 
@@ -542,11 +542,11 @@ Sorry, who said that?
 
 **Sharable Invisibility:** You can render other objects invisible along with you. This includes other people, pieces of furniture, or even walls. You must maintain contact with the invisible object.
 
-**Precise Invisibility:** You don’t need to turn invisible all at once; you can make parts of yourself invisible, like your head or arms, or keep objects you’re holding invisible while you can be seen.
+**Precise Invisibility:** You don't need to turn invisible all at once; you can make parts of yourself invisible, like your head or arms, or keep objects you're holding invisible while you can be seen.
 
 ### Common Power Synergies
 
-**Phasing:** When you’re invisible, you’re practically a ghost, able to walk through walls.
+**Phasing:** When you're invisible, you're practically a ghost, able to walk through walls.
 
 **Illusion:** You are the master of what is seen and unseen.
 
@@ -554,19 +554,19 @@ Sorry, who said that?
 
 - Your invisibility is not actually visual; your power works by effectively writing yourself out of the minds of those around you. Unfortunately, you still have a [Completely Visible Reflection].
 - Your power is a reflection of your personality: you were always a meek, background sort of person, even before you learned to fade from view. You are [Easily Forgotten], even by your companions.
-- Unfortunately, your invisibility is only skin deep, it [Doesn’t Work on Clothes].
+- Unfortunately, your invisibility is only skin deep, it [Doesn't Work on Clothes].
 
 ### Collateral Damage Effects
 
 **Hyper-Visibility:** You can apply your power in reverse, turning the world dim and making you the most visible thing around for several minutes. During this time you are extremely noticeable; anyone in your zone or an adjacent zone must overcome a Great (+4) obstacle with [[Investigate]] to see anything other than you.
 
-**Perfect Evasion:** If you are in a conflict, you can duck briefly out of sight and turn invisible to evade everyone’s notice. On any subsequent turn of yours, you can appear in any zone. Furthermore, if you attack a target in your zone on the turn you reappear, you gain +4 to that attack. Alternately, you can just leave the conflict. Unfortunately, your sudden disappearance will make your enemies more paranoid, which may encourage them to call in reinforcements.
+**Perfect Evasion:** If you are in a conflict, you can duck briefly out of sight and turn invisible to evade everyone's notice. On any subsequent turn of yours, you can appear in any zone. Furthermore, if you attack a target in your zone on the turn you reappear, you gain +4 to that attack. Alternately, you can just leave the conflict. Unfortunately, your sudden disappearance will make your enemies more paranoid, which may encourage them to call in reinforcements.
 
 Item Summoning
 
 You always have what you need close at hand.
 
-**Basic Item Summoning:** You can create simple items, such as hand tools or weapons, just by willing them into existence. If you want something with no moving parts that you can hold in one hand, roll [[Will]] against Average (+1) opposition; larger or more complex items will increase that opposition. While the item you summon can have multiple parts—for instance, a sack of marbles—you can’t summon electronic gadgets, explosives, or items that require precise manufacturing, like firearms. You may only summon one item at a time, but you can summon as often as you’d like. Increase the opposition by +2 for every other item summoned by you in the scene. You can cause summoned objects to dissipate at will, but they’ll disappear on their own after a few minutes or the end of the scene, whichever comes first.
+**Basic Item Summoning:** You can create simple items, such as hand tools or weapons, just by willing them into existence. If you want something with no moving parts that you can hold in one hand, roll [[Will]] against Average (+1) opposition; larger or more complex items will increase that opposition. While the item you summon can have multiple parts—for instance, a sack of marbles—you can't summon electronic gadgets, explosives, or items that require precise manufacturing, like firearms. You may only summon one item at a time, but you can summon as often as you'd like. Increase the opposition by +2 for every other item summoned by you in the scene. You can cause summoned objects to dissipate at will, but they'll disappear on their own after a few minutes or the end of the scene, whichever comes first.
 
 ### Enhancements
 
@@ -578,26 +578,26 @@ You always have what you need close at hand.
 
 ### Common Power Synergies
 
-**Natural Weapon:** You can summon a weapon right into your hands; you don’t even need to think about it.
+**Natural Weapon:** You can summon a weapon right into your hands; you don't even need to think about it.
 
 **Shielding:** By summoning small walls or just piles of junk, you can create ad hoc shields.
 
 ### Drawbacks
 
-- You aren’t summoning physical objects; you’re actually constructing hard-light holograms. But the light isn’t that hard—your [Summons are as Fragile as Glass].
+- You aren't summoning physical objects; you're actually constructing hard-light holograms. But the light isn't that hard—your [Summons are as Fragile as Glass].
 - Your idle thoughts constantly create a stream of things. It disappears eventually, but you still [Leave a Trail of Random Stuff].
 
 ### Collateral Damage Effects
 
-**Sweet Ride:** You can concentrate for a moment to summon forth a cool car. It’s destructive when it appears—cracking the ground, possibly knocking down walls and scattering people—but once it arrives, you can drive it wherever you need to go.
+**Sweet Ride:** You can concentrate for a moment to summon forth a cool car. It's destructive when it appears—cracking the ground, possibly knocking down walls and scattering people—but once it arrives, you can drive it wherever you need to go.
 
-**Bad Ride:** You can concentrate for a moment to summon forth a cool car, in midair, right above someone you don’t like. Gravity does the rest. The car is totaled, and the target must overcome a Great (+4) obstacle. If the target ties or succeeds, they take 2 physical stress that cannot be negated by any armor; if they fail, they take an additional 3 unpreventable stress.
+**Bad Ride:** You can concentrate for a moment to summon forth a cool car, in midair, right above someone you don't like. Gravity does the rest. The car is totaled, and the target must overcome a Great (+4) obstacle. If the target ties or succeeds, they take 2 physical stress that cannot be negated by any armor; if they fail, they take an additional 3 unpreventable stress.
 
 Material Mimic
 
 You are what you touch.
 
-**Basic Material Mimicry:** While in contact with any material—iron, stone, wood, and so on—you can alter your body to mimic that substance, turning into a living statue. To do so, [[create advantage]] using [[Physique]] against Fair (+2) opposition. If you succeed, you gain an aspect reflecting your new state, such as [Body of Steel]. You may only have one such aspect at once, and it goes away if you break contact with the substance you’re mimicking.
+**Basic Material Mimicry:** While in contact with any material—iron, stone, wood, and so on—you can alter your body to mimic that substance, turning into a living statue. To do so, [[create advantage]] using [[Physique]] against Fair (+2) opposition. If you succeed, you gain an aspect reflecting your new state, such as [Body of Steel]. You may only have one such aspect at once, and it goes away if you break contact with the substance you're mimicking.
 
 ### Enhancements
 
@@ -605,11 +605,11 @@ You are what you touch.
 
 **Multiple Mimicry:** If you concentrate, you can mimic multiple forms of matter at once, becoming, for instance, a wood-and-iron hybrid. You may have two Material Mimicry aspects at once.
 
-**Mimicry Memory:** When you break contact with the substance you’re mimicking, you do not lose your Material Mimicry aspect. Instead, the aspect lasts until the end of the scene or until you begin mimicking a new substance.
+**Mimicry Memory:** When you break contact with the substance you're mimicking, you do not lose your Material Mimicry aspect. Instead, the aspect lasts until the end of the scene or until you begin mimicking a new substance.
 
 ### Common Power Synergies
 
-**Super Toughness:** You can be literally made of iron at a moment’s notice; of course you’re hard to hurt.
+**Super Toughness:** You can be literally made of iron at a moment's notice; of course you're hard to hurt.
 
 **Natural Weapon:** When you change form, you can sharpen your hands into impressive blades or form them into a mighty warhammer.
 
@@ -617,18 +617,18 @@ You are what you touch.
 
 ### Drawbacks
 
-- You can’t turn into just anything you want; your power is [Limited to Organic Materials].
+- You can't turn into just anything you want; your power is [Limited to Organic Materials].
 - You often trigger your power without meaning to. You suffer from [Involuntary Mimicry].
 
 ### Collateral Damage Effects
 
-**Bulking Up:** If you’re mimicking something sufficiently massive, like a brick wall or the asphalt in the street, you can actually absorb the material. You become huge, up to eight feet tall, and gain +2 to [[Physique]] while you mimic that substance. This transformation lasts a few minutes before the extra mass begins to leech out, and the absorption does a lot of damage to whatever you stole the mass from.
+**Bulking Up:** If you're mimicking something sufficiently massive, like a brick wall or the asphalt in the street, you can actually absorb the material. You become huge, up to eight feet tall, and gain +2 to [[Physique]] while you mimic that substance. This transformation lasts a few minutes before the extra mass begins to leech out, and the absorption does a lot of damage to whatever you stole the mass from.
 
 **Untouchably Airy:** If an attack would hit you, you can take on a body of air, allowing it to pass right through you. You take no stress and can move up to two zones away before you resolidify. The attack, however, still goes somewhere and causes collateral damage.
 
 Natural Weapon
 
-You come pre-armed for everyone’s inconvenience.
+You come pre-armed for everyone's inconvenience.
 
 **Basic Natural Weapon:** You have some sort of built-in weaponry, whether it be claws or crackling energy that surrounds your fists. You gain +2 to [[Fight]] while brawling unarmed in close quarters.
 
@@ -636,7 +636,7 @@ You come pre-armed for everyone’s inconvenience.
 
 **Master Natural Weapon:** Your weapon is deadlier than most. Gain an additional +2 bonus to [[Fight]] when unarmed in close combat.
 
-**Critical Hit:** Whenever you cause stress using your natural weapon, you may instead cause a mild consequence, if the target doesn’t already have one.
+**Critical Hit:** Whenever you cause stress using your natural weapon, you may instead cause a mild consequence, if the target doesn't already have one.
 
 **Bloody Weapon:** When you attack with your natural weapon and succeed with style, give the defender the [[situation aspect]] [Bleeding] with one free invocation. If they are already [Bleeding], add another free invocation to the aspect.
 
@@ -648,27 +648,27 @@ You come pre-armed for everyone’s inconvenience.
 
 ### Drawbacks
 
-- You don’t know which came first, the retractile claws or the animal sensibilities, but you can’t have one without the other. While you’re armed with a natural weapon, you are also [Half-Feral].
-- Your weapon isn’t as simple as jutting bone spurs; your fists generate a strange energy that you can’t entirely shut off. It makes you dangerous to foes, but you’re also [A Danger to Anyone Nearby].
-- Your natural weapon isn’t attached to your hands, but to your elbows or knees. It’s no less effective, but you’re [Only Good Up Close].
+- You don't know which came first, the retractile claws or the animal sensibilities, but you can't have one without the other. While you're armed with a natural weapon, you are also [Half-Feral].
+- Your weapon isn't as simple as jutting bone spurs; your fists generate a strange energy that you can't entirely shut off. It makes you dangerous to foes, but you're also [A Danger to Anyone Nearby].
+- Your natural weapon isn't attached to your hands, but to your elbows or knees. It's no less effective, but you're [Only Good Up Close].
 
 ### Collateral Damage Effects
 
 **Eviscerate:** If you are unconcerned with the damage you cause to the city, let alone the psyches of those around you, you can dive weapons-first into action. You can instantly take out a nameless NPC, or cause a mild consequence to a named NPC or PC.
 
-**Berserk:** Of course someone with knives jutting from their fists has a berserk mode! If you fall into an incomprehensible rage, you become an especially deadly combatant, gaining Armor:2 and +1 to all attacks. Because you are in a berserk rage, though, you can’t stop yourself from causing collateral damage. This rage lasts until the end of the scene or you choose to end it.
+**Berserk:** Of course someone with knives jutting from their fists has a berserk mode! If you fall into an incomprehensible rage, you become an especially deadly combatant, gaining Armor:2 and +1 to all attacks. Because you are in a berserk rage, though, you can't stop yourself from causing collateral damage. This rage lasts until the end of the scene or you choose to end it.
 
 Machine Control
 
-You have a powerful psychic bond with machines of all sorts. They do what you tell them to. You don’t even need a manual.
+You have a powerful psychic bond with machines of all sorts. They do what you tell them to. You don't even need a manual.
 
-**Basic Machine Control:** You can control machines up to one zone away without touching them. Most machines won’t resist you at all, but something computerized will put up Fair (+2) opposition, and more complex and powerful computers will offer greater opposition; you use [[Empathy]] to overcome this opposition. You can only make a machine do something it’s capable of; while you couldn’t make a toaster float, for instance, you could make a car drive itself.
+**Basic Machine Control:** You can control machines up to one zone away without touching them. Most machines won't resist you at all, but something computerized will put up Fair (+2) opposition, and more complex and powerful computers will offer greater opposition; you use [[Empathy]] to overcome this opposition. You can only make a machine do something it's capable of; while you couldn't make a toaster float, for instance, you could make a car drive itself.
 
 ### Enhancements
 
 **Master Machine Control:** You gain +2 to [[Empathy]] when telling machines what to do.
 
-**Machine Language:** You can communicate with machines psychically, although their intelligence is limited by their capabilities. For example, a toaster couldn’t tell you who all has passed through the room, but it could tell you if someone has made toast recently.
+**Machine Language:** You can communicate with machines psychically, although their intelligence is limited by their capabilities. For example, a toaster couldn't tell you who all has passed through the room, but it could tell you if someone has made toast recently.
 
 **Built-in Wi-Fi:** Your brain is able to pick up signals of all sorts. You have a permanently active Internet connection, and you can hear both sides of nearby cell phone conversations.
 
@@ -682,7 +682,7 @@ You have a powerful psychic bond with machines of all sorts. They do what you te
 
 - Because you have a bond with machinery, it has a bond with you. In a technologically advanced city, that means [The Machines Never Stop Talking!]
 - Your ability to control machinery is psychic in nature and tied into your emotional state. This can cause [Unwanted Feedback].
-- You might be able to sense machinery near you, and control it when it’s away from you, but the only way to access a psychic link is by physically touching the machine you want to influence. Your power [Requires Physical Contact].
+- You might be able to sense machinery near you, and control it when it's away from you, but the only way to access a psychic link is by physically touching the machine you want to influence. Your power [Requires Physical Contact].
 
 ### Collateral Damage Effects
 
@@ -706,14 +706,14 @@ You have a green thumb and then some: plants respond to you.
 
 ### Common Power Synergies
 
-**Slowing:** No matter where you go, there’s enough grass or weeds underfoot to let you tangle up an opponent.
+**Slowing:** No matter where you go, there's enough grass or weeds underfoot to let you tangle up an opponent.
 
 **Harm:** You have a natural expertise with plant-based toxins. You might even secrete them.
 
 ### Drawbacks
 
 - Occasionally, you curse the fact that you developed your powers in the city, because you are [Not Very Useful Indoors].
-- You are part plant yourself, or too much time in their presence has caused chlorophyll to leech into your flesh. Either way, you’re walking around with [Bright Green Skin].
+- You are part plant yourself, or too much time in their presence has caused chlorophyll to leech into your flesh. Either way, you're walking around with [Bright Green Skin].
 
 ### Collateral Damage Effects
 
@@ -723,7 +723,7 @@ You have a green thumb and then some: plants respond to you.
 
 Phasing
 
-Walls are something other people have to deal with. You’ve always found it easier to ghost on through.
+Walls are something other people have to deal with. You've always found it easier to ghost on through.
 
 **Basic Phasing:** You can use [[Burglary]] to walk through walls and other physical barriers. A standard interior wooden door is a Fair (+2) obstacle, while thicker barriers of sturdier materials provide more opposition.
 
@@ -743,18 +743,18 @@ Walls are something other people have to deal with. You’ve always found it eas
 
 ### Drawbacks
 
-- Your control over your power isn’t as absolute as you’d like. You can keep solid most of the time, but [Sometimes Things Drop Right Through Your Hands].
-- If you’re out of phase with the world, you’re out of phase with everything, even the air. You [Can’t Breathe While Phasing].
+- Your control over your power isn't as absolute as you'd like. You can keep solid most of the time, but [Sometimes Things Drop Right Through Your Hands].
+- If you're out of phase with the world, you're out of phase with everything, even the air. You [Can't Breathe While Phasing].
 
 ### Collateral Damage Effects
 
-**Missed Me:** If you aren’t worried about where the shots actually end up, you can phase out as someone is attacking you. You can ignore all physical damage from a single source, because it strikes everything around you instead.
+**Missed Me:** If you aren't worried about where the shots actually end up, you can phase out as someone is attacking you. You can ignore all physical damage from a single source, because it strikes everything around you instead.
 
 **Armor Piercing:** By imparting some of your intangibility to a rock or other small object and then tossing it, you can have it become solid inside a target. This will make the projectile shatter violently, sending shards ricocheting around the area, which deals a mild consequence to anyone in your zone or an adjacent zone.
 
 Power Amplification
 
-You don’t do much on your own. But when there are other super-powered fighters around, you are vital.
+You don't do much on your own. But when there are other super-powered fighters around, you are vital.
 
 **Basic Power Amplification:** By touching a super-powered individual, you can give them the boost [Empowered], which they may invoke during any use of their power. You may only have one such boost in play at a time; if you generate another, the first goes away. If unused, the boost goes away at the end of the scene. Additionally, you always know who around you is super-powered and generally what their power is.
 
@@ -770,12 +770,12 @@ You don’t do much on your own. But when there are other super-powered fighters
 
 **Power Nullification:** You can give power, and you can take it away. That makes you pretty scary in a super-powered melee.
 
-**Electricity Projection:** You amplify others’ powers with bolts of crackling red lightning. You’re not sure how it works, but it’s effective.
+**Electricity Projection:** You amplify others' powers with bolts of crackling red lightning. You're not sure how it works, but it's effective.
 
 ### Drawbacks
 
 - Your ability is less than short-range; you [Must Maintain Physical Contact] to keep someone empowered.
-- When you empower an ally, they’re taking some of your energy away. Your power [Leaves You Weakened] while your allies are empowered.
+- When you empower an ally, they're taking some of your energy away. Your power [Leaves You Weakened] while your allies are empowered.
 
 ### Collateral Damage Effects
 
@@ -783,9 +783,9 @@ You don’t do much on your own. But when there are other super-powered fighters
 
 Power Nullification
 
-The guys who amplify powers are more popular, but you’re arguably more important, if only as a jailer.
+The guys who amplify powers are more popular, but you're arguably more important, if only as a jailer.
 
-**Basic Power Nullification:** You can render your zone inhospitable to the use of superpowers. If someone attempts to use a power in your zone, and that power prompts opposition, increase its opposition by +2. If the power doesn’t prompt opposition, they must overcome a Fair (+2) obstacle with [[Will]] to use it. This nullification field does not affect you, and you can dismiss it at will. Additionally, you always know who around you is super-powered and generally what their power is.
+**Basic Power Nullification:** You can render your zone inhospitable to the use of superpowers. If someone attempts to use a power in your zone, and that power prompts opposition, increase its opposition by +2. If the power doesn't prompt opposition, they must overcome a Fair (+2) obstacle with [[Will]] to use it. This nullification field does not affect you, and you can dismiss it at will. Additionally, you always know who around you is super-powered and generally what their power is.
 
 ### Enhancements
 
@@ -799,7 +799,7 @@ The guys who amplify powers are more popular, but you’re arguably more importa
 
 **Power Amplification:** You can take powers away, but you can give them back and even make them better.
 
-**Frost Projection:** When your ability is active, the affected zone isn’t just resistant to powers, it is a frigid and inhospitable place.
+**Frost Projection:** When your ability is active, the affected zone isn't just resistant to powers, it is a frigid and inhospitable place.
 
 ### Drawbacks
 
@@ -812,30 +812,30 @@ The guys who amplify powers are more popular, but you’re arguably more importa
 
 Power Replication
 
-You never need to suffer from power envy. If you can find someone with the power, you’ll have it too.
+You never need to suffer from power envy. If you can find someone with the power, you'll have it too.
 
-**Basic Power Replication:** If you are touching a super-powered individual, you can mimic their power. If they resist, you may make an attack using [[Fight]] to grab them against their will. You may use one stunt’s worth of effect from their power suite, but you cannot access their special effects or collateral damage effects. You can change which effect you can access, but you cannot use two effects at the same time. Additionally, you always know who around you is super-powered and generally what their power is. If you are touching someone with super powers, you know exactly how their power works.
+**Basic Power Replication:** If you are touching a super-powered individual, you can mimic their power. If they resist, you may make an attack using [[Fight]] to grab them against their will. You may use one stunt's worth of effect from their power suite, but you cannot access their special effects or collateral damage effects. You can change which effect you can access, but you cannot use two effects at the same time. Additionally, you always know who around you is super-powered and generally what their power is. If you are touching someone with super powers, you know exactly how their power works.
 
 ### Enhancements
 
 **Master Power Replication:** When the power you are replicating requires you to roll—for instance, to attack—you gain +2 to that roll.
 
-**Lingering Power Replication:** You can keep one stunt’s worth of power after you let go of the person you took the power from. This power goes away at the end of the scene or if you replicate another power.
+**Lingering Power Replication:** You can keep one stunt's worth of power after you let go of the person you took the power from. This power goes away at the end of the scene or if you replicate another power.
 
-**Power Vampire:** While you are replicating someone’s power, their ability to use superpowers is hampered. If they attempt to use any superpower, and it prompts opposition, its opposition increases by +2. If the power prompts no opposition, they must overcome a Fair (+2) obstacle with [[Will]] to use it.
+**Power Vampire:** While you are replicating someone's power, their ability to use superpowers is hampered. If they attempt to use any superpower, and it prompts opposition, its opposition increases by +2. If the power prompts no opposition, they must overcome a Fair (+2) obstacle with [[Will]] to use it.
 
-**Power Suite Duplication:** By spending several minutes closely concentrating on a super-powered individual, you can copy most or all of their power suite. During this time, you gain one stunt’s worth of effect from your target’s power suite for each stunt’s worth of effect you purchased in your power suite. Stunts in excess have no effect. You also gain their special effects, improved special effects, and collateral damage effects, and you lose access to all of your powers, including special effects and collateral damage effects. You keep these powers for a full scenario or until you willingly get rid of them, at which point your original powers return.
+**Power Suite Duplication:** By spending several minutes closely concentrating on a super-powered individual, you can copy most or all of their power suite. During this time, you gain one stunt's worth of effect from your target's power suite for each stunt's worth of effect you purchased in your power suite. Stunts in excess have no effect. You also gain their special effects, improved special effects, and collateral damage effects, and you lose access to all of your powers, including special effects and collateral damage effects. You keep these powers for a full scenario or until you willingly get rid of them, at which point your original powers return.
 
 ### Common Power Synergies
 
 **Power Amplification and Nullification:** If you know how to replicate powers, improving or hampering them should be easy.
 
-**Harm:** You’re stealing someone’s power. You’re stealing a very real part of who they are. That’s gonna hurt.
+**Harm:** You're stealing someone's power. You're stealing a very real part of who they are. That's gonna hurt.
 
 ### Drawbacks
 
 - Too much time thinking about how powers work and how to get access to them has left you a little psychologically damaged: you are [Power-Hungry].
-- A light tap on the arm isn’t enough for you to borrow someone’s ability; your power-theft [Requires Sustained Physical Contact].
+- A light tap on the arm isn't enough for you to borrow someone's ability; your power-theft [Requires Sustained Physical Contact].
 
 ### Collateral Damage Effects
 
@@ -855,14 +855,14 @@ You have a bit of insight into how things are going to go; mainly you know how t
 
 ### Common Power Synergies
 
-**Super Senses:** Your senses aren’t actually heightened, but you have an uncanny knack for looking in the right spot at the right time.
+**Super Senses:** Your senses aren't actually heightened, but you have an uncanny knack for looking in the right spot at the right time.
 
 **Telepathy:** Your mind has a unique construction; it allows you to see into the future and also to read the minds of those around you.
 
 ### Drawbacks
 
-- There are so many different futures that you can half-see; it’s overwhelming, leaving you with [Constant Migraines].
-- Your ability to see the near-future is so finely tuned that it eclipses your ability to stay in the now, leading you to answer questions before they’re asked and dodge blows before they’re thrown. You [Have Trouble Seeing the Present].
+- There are so many different futures that you can half-see; it's overwhelming, leaving you with [Constant Migraines].
+- Your ability to see the near-future is so finely tuned that it eclipses your ability to stay in the now, leading you to answer questions before they're asked and dodge blows before they're thrown. You [Have Trouble Seeing the Present].
 
 ### Collateral Damage Effects
 
@@ -872,13 +872,13 @@ You have a bit of insight into how things are going to go; mainly you know how t
 
 Regeneration
 
-You aren’t made of iron. You can get stabbed just as easily as the next guy. Difference is, once the knife gets pulled out, you’re ready to fight again.
+You aren't made of iron. You can get stabbed just as easily as the next guy. Difference is, once the knife gets pulled out, you're ready to fight again.
 
 **Basic Regeneration:** Whenever one of your physical consequences begins to recover, it gets renamed and moved to the next lower consequence slot, if available. This clears away mild consequences immediately. Additionally, at the end of a scene, if you have any mild physical consequences—whether they are recovering or not—they get cleared away automatically.
 
 ### Enhancements
 
-**Master Regeneration:** It’s easier for you to start the healing process. Anyone, including yourself, attempting to begin healing one of your physical consequences gets +2 to their roll.
+**Master Regeneration:** It's easier for you to start the healing process. Anyone, including yourself, attempting to begin healing one of your physical consequences gets +2 to their roll.
 
 **Human Pincushion:** Sometimes you got a spear sticking out of your chest, and you just gotta deal with that. Gain a mild consequence slot, which you can use for physical injuries.
 
@@ -888,20 +888,20 @@ You aren’t made of iron. You can get stabbed just as easily as the next guy. D
 
 ### Common Power Synergies
 
-**Super Toughness:** It’s not that you don’t get hurt, it’s that the things that hurt normal people just don’t matter that much for you.
+**Super Toughness:** It's not that you don't get hurt, it's that the things that hurt normal people just don't matter that much for you.
 
 **Harm:** Part of your enhanced regenerative ability is an immune system so powerful it actually attacks anyone who gets too close to you.
 
 ### Drawbacks
 
-- You don’t heal perfectly. Every time you come back from an injury, there’s a scar, even if it’s just a little one, and those things add up. By this point, you are [Grotesquely Scarred].
+- You don't heal perfectly. Every time you come back from an injury, there's a scar, even if it's just a little one, and those things add up. By this point, you are [Grotesquely Scarred].
 - You are older than you look—much, much older. You may have lived several lifetimes, or spent a few decades trapped in ice before you were revived. Either way, you are [From Another Time].
 
 ### Collateral Damage Effects
 
-**Horror Show:** If there is a way of breaking enemy morale that’s more efficient than tearing off your own head and running, screaming, into a crowd, you don’t know what it is. You can perform an act of horrifying self-mutilation in front of everyone in your zone. When you do, nameless NPCs will flee in fear, and named NPCs and PCs must roll [[Will]] against Fair (+2) difficulty to avoid taking a moderate mental consequence.
+**Horror Show:** If there is a way of breaking enemy morale that's more efficient than tearing off your own head and running, screaming, into a crowd, you don't know what it is. You can perform an act of horrifying self-mutilation in front of everyone in your zone. When you do, nameless NPCs will flee in fear, and named NPCs and PCs must roll [[Will]] against Fair (+2) difficulty to avoid taking a moderate mental consequence.
 
-**Foreign Objects:** Your body is full of bullets, blades, bones, and all kinds of detritus from past battles. If you don’t mind embedding all that stuff in the walls and people around you, you can force your body to eject the foreign material en masse at top speed. By doing so, you attack everyone in your zone and one adjacent zone using [[Shoot]].
+**Foreign Objects:** Your body is full of bullets, blades, bones, and all kinds of detritus from past battles. If you don't mind embedding all that stuff in the walls and people around you, you can force your body to eject the foreign material en masse at top speed. By doing so, you attack everyone in your zone and one adjacent zone using [[Shoot]].
 
 Shape-Shifting
 
@@ -925,20 +925,20 @@ You are what you want to be.
 
 ### Drawbacks
 
-- Your transformations aren’t perfect; whenever you return to human shape, some animal features remain. You [Don’t Look Quite Human].
-- While your transformations are impressive, you can only tweak your form a little bit; you can’t change it entirely. You are [Limited to Terrestrial Mammals].
+- Your transformations aren't perfect; whenever you return to human shape, some animal features remain. You [Don't Look Quite Human].
+- While your transformations are impressive, you can only tweak your form a little bit; you can't change it entirely. You are [Limited to Terrestrial Mammals].
 
 ### Collateral Damage Effects
 
-**T-Rex:** You can turn into a giant dinosaur or similarly massive force of destruction, able to crush everything around you. You can only hold this form for a few minutes, though, and you’re sure to tear up everything around you. While massive, you gain +1 to attack rolls and your attacks are Weapon:2.
+**T-Rex:** You can turn into a giant dinosaur or similarly massive force of destruction, able to crush everything around you. You can only hold this form for a few minutes, though, and you're sure to tear up everything around you. While massive, you gain +1 to attack rolls and your attacks are Weapon:2.
 
-**Stegosaurus:** You can turn yourself into an armored dinosaur or similarly unstoppable juggernaut, unfazed by anything around you. You can only hold this form for a few minutes, though, and you’re sure to crush everything around you. While armored, you gain +2 to defend rolls and can knock down obstacles like thick concrete walls just by walking through them.
+**Stegosaurus:** You can turn yourself into an armored dinosaur or similarly unstoppable juggernaut, unfazed by anything around you. You can only hold this form for a few minutes, though, and you're sure to crush everything around you. While armored, you gain +2 to defend rolls and can knock down obstacles like thick concrete walls just by walking through them.
 
 Shielding
 
-You keep people safe with invisible walls of force. It’s not flashy, but it’s a solid defensive ability.
+You keep people safe with invisible walls of force. It's not flashy, but it's a solid defensive ability.
 
-**Basic Shielding:** With a moment’s concentration, you can erect a barrier between your zone and an adjacent zone, which lasts until the end of the scene or you will it away. This barrier is transparent, but no matter can pass through it. When someone attempts to attack through the barrier, or attacks the barrier itself, you intercept the attack, using [[Will]] to defend. If the attack succeeds, you may either take the [[shift]]s as mental stress or allow the barrier to shatter and take mental stress equal to half of the [[shift]]s, rounded down. You may erect multiple barriers, but each active barrier after the first reduces your [[Will]] roll to defend by one.
+**Basic Shielding:** With a moment's concentration, you can erect a barrier between your zone and an adjacent zone, which lasts until the end of the scene or you will it away. This barrier is transparent, but no matter can pass through it. When someone attempts to attack through the barrier, or attacks the barrier itself, you intercept the attack, using [[Will]] to defend. If the attack succeeds, you may either take the [[shift]]s as mental stress or allow the barrier to shatter and take mental stress equal to half of the [[shift]]s, rounded down. You may erect multiple barriers, but each active barrier after the first reduces your [[Will]] roll to defend by one.
 
 ### Enhancements
 
@@ -954,12 +954,12 @@ You keep people safe with invisible walls of force. It’s not flashy, but it’
 
 **Telekinesis:** With a little concentration, you can demonstrate finer control over your shields, letting you manipulate objects in your own zone or an adjacent zone.
 
-**Invisibility:** Light doesn’t pass through your shields quite cleanly; it bends a little. With practice, you’ve learned to get light to bend all the way around your shield, making everything within invisible to the naked eye.
+**Invisibility:** Light doesn't pass through your shields quite cleanly; it bends a little. With practice, you've learned to get light to bend all the way around your shield, making everything within invisible to the naked eye.
 
 ### Drawbacks
 
-- Because you can throw up protective barriers with ease, you’ve never had to really defend yourself. As result, anyone who breaks through your shield will find that you’re [Quite Frail].
-- Your barriers don’t appear instantly; instead, they coalesce as the air solidifies. Your shields are [Slow to Form].
+- Because you can throw up protective barriers with ease, you've never had to really defend yourself. As result, anyone who breaks through your shield will find that you're [Quite Frail].
+- Your barriers don't appear instantly; instead, they coalesce as the air solidifies. Your shields are [Slow to Form].
 
 ### Collateral Damage Effects
 
@@ -995,12 +995,12 @@ You have the ability to stop a person in their tracks.
 
 ### Drawbacks
 
-- You don’t slow someone by force of will alone; you hit them with a bola, a sticky web, or something of that nature. Whatever the precise form, you [Require a Prop] to make it work.
-- Your ability to slow others is a reflection of your own personality; you’re just a [Lethargic] person.
+- You don't slow someone by force of will alone; you hit them with a bola, a sticky web, or something of that nature. Whatever the precise form, you [Require a Prop] to make it work.
+- Your ability to slow others is a reflection of your own personality; you're just a [Lethargic] person.
 
 ### Collateral Damage Effects
 
-**Mass Slowing:** When pressed, you can apply your slowing effect on a massive scale, targeting everyone in your zone and every adjacent zone. Of course, by affecting so many targets, you’re likely to damage something in the environment as well.
+**Mass Slowing:** When pressed, you can apply your slowing effect on a massive scale, targeting everyone in your zone and every adjacent zone. Of course, by affecting so many targets, you're likely to damage something in the environment as well.
 
 **Timeless Zone:** Your power comes from an ability to manipulate time itself. You can turn your zone into a bubble of stopped time; nobody and nothing—not even you—can enter or pass through it, and nobody within it can take any actions, until you release the effect or the scene ends. However, the border between regular and timeless space is a strange and dangerous thing, which will kick up powerful winds and potentially destroy whatever gets too close.
 
@@ -1014,7 +1014,7 @@ You are an acrobat without compare, a position you show off best with your grace
 
 **Master Super Agility:** You gain an additional +2 bonus to [[Athletics]] when demonstrating your superior agility.
 
-**Cat’s Landing:** You know just how to land after even the highest fall. When you fall, you land on your feet and take no damage, regardless of the height you fall from, as long as you are conscious.
+**Cat's Landing:** You know just how to land after even the highest fall. When you fall, you land on your feet and take no damage, regardless of the height you fall from, as long as you are conscious.
 
 **Uncanny Dodge:** If you can see a projectile coming, you can get out of its way with some clever gymnastics. You gain +2 to defense rolls when dodging ranged attacks.
 
@@ -1026,9 +1026,9 @@ You are an acrobat without compare, a position you show off best with your grace
 
 ### Drawbacks
 
-- Your legs are perpetually coiled springs, and they don’t like being still. When you aren’t leaping through the air, you are [Restless].
+- Your legs are perpetually coiled springs, and they don't like being still. When you aren't leaping through the air, you are [Restless].
 - While your leaps are decent enough, what actually moves you are lines of sticky webbing that work like grappling hooks. You [Need Solid Anchor Points] in order to move.
-- Your leaps are amazing, but not incredibly accurate. Outside that’s not a problem, but you are [Accident-Prone While Indoors].
+- Your leaps are amazing, but not incredibly accurate. Outside that's not a problem, but you are [Accident-Prone While Indoors].
 
 ### Collateral Damage Effects
 
@@ -1046,9 +1046,9 @@ You are the smartest person in the room, whatever room you happen to be in.
 
 **Master Super Intelligence:** You gain an additional +2 to [[Will]] when demonstrating your mental acuity.
 
-**Walking Library:** You’ve forgotten more than most people will ever know. By spending a [[fate point]], you can use [[Will]] in place of [[Lore]] and gain the bonus to [[Will]] from Super Intelligence, even if it’s not a mentally absorbing task.
+**Walking Library:** You've forgotten more than most people will ever know. By spending a [[fate point]], you can use [[Will]] in place of [[Lore]] and gain the bonus to [[Will]] from Super Intelligence, even if it's not a mentally absorbing task.
 
-**Chessmastery:** You don’t just understand facts; you understand how people operate. You gain +2 to [[Empathy]] when attempting to predict someone’s future actions.
+**Chessmastery:** You don't just understand facts; you understand how people operate. You gain +2 to [[Empathy]] when attempting to predict someone's future actions.
 
 **Taskmastery:** Once you see how someone fights, you can exploit their weaknesses. When someone deals physical stress to you in a conflict, you gain +2 to all attack rolls against them until the end of the scene.
 
@@ -1058,18 +1058,18 @@ You are the smartest person in the room, whatever room you happen to be in.
 
 **Influence:** People are just complex systems that a clever mind can manipulate with the right words, and your clever mind always knows just what to say.
 
-**Natural Weapon:** Your fists are no stronger than anyone else’s, but your ability to read an opponent means you know exactly where to strike for maximum effect.
+**Natural Weapon:** Your fists are no stronger than anyone else's, but your ability to read an opponent means you know exactly where to strike for maximum effect.
 
 ### Drawbacks
 
-- Perhaps unsurprisingly, it’s sometimes difficult for the very brilliant to get along with the more normal. You [Think You’re Better than Everyone].
-- Your brain just. Doesn’t. Shut. Off. Because of your endlessly bubbling, productive mind, you are [Intensely Sleep-Deprived].
+- Perhaps unsurprisingly, it's sometimes difficult for the very brilliant to get along with the more normal. You [Think You're Better than Everyone].
+- Your brain just. Doesn't. Shut. Off. Because of your endlessly bubbling, productive mind, you are [Intensely Sleep-Deprived].
 
 ### Collateral Damage Effects
 
 **Pawn Interception:** You can use your gift for analysis to divert an incoming attack. When an attack would hit you, you can have it instead strike a nameless NPC in your zone—they just happened to wander into the line of fire at the exact right moment. When this happens, you take no damage and the NPC is taken out.
 
-**Battle Plan:** Your tactical mind has figured out exactly how a given conflict will shape up—you just need to remind your companions what to do. You can shout out a battle plan to give yourself and every ally in the scene the boost [We’ve Planned for This]. Unfortunately, doing so will give whomever you’re fighting a little insight into your tactics.
+**Battle Plan:** Your tactical mind has figured out exactly how a given conflict will shape up—you just need to remind your companions what to do. You can shout out a battle plan to give yourself and every ally in the scene the boost [We've Planned for This]. Unfortunately, doing so will give whomever you're fighting a little insight into your tactics.
 
 Super Senses
 
@@ -1083,30 +1083,30 @@ Some of your senses are much more acute than is normal. It sometimes surprises y
 
 **Sensory Suite:** Pick another sense for your bonus to apply to.
 
-**Alertness:** Your senses are heightened even when you aren’t really trying. You gain +2 to [[Notice]] against anything you could identify with your superior sense.
+**Alertness:** Your senses are heightened even when you aren't really trying. You gain +2 to [[Notice]] against anything you could identify with your superior sense.
 
 ### Common Power Synergies
 
 **Super Agility:** Included among your enhanced senses is proprioception—your ability to recognize where your body is in space. That lets you pull off some superhuman gymnastics.
 
-**Precognition:** Included among your enhanced senses is one we don’t have a name for just yet; you can sense things before they occur.
+**Precognition:** Included among your enhanced senses is one we don't have a name for just yet; you can sense things before they occur.
 
 ### Drawbacks
 
-- The human brain wasn’t meant to deal with this much input all at once. You are [Easily Overwhelmed].
-- You can’t tune out or narrow your super senses, which makes it hard to focus on what’s important at the moment. As a result, you suffer from a [Slowed Reaction Time].
+- The human brain wasn't meant to deal with this much input all at once. You are [Easily Overwhelmed].
+- You can't tune out or narrow your super senses, which makes it hard to focus on what's important at the moment. As a result, you suffer from a [Slowed Reaction Time].
 
 ### Collateral Damage Effects
 
-**Mental Map:** Your senses are so finely tuned that you can create a full mental map of an entire floor of a building in an instant; all you need to do is clap your hands and listen to the echoes, or perhaps light a fire and watch the way the air currents move the smoke. Whatever the method, it gets you the layout of the building, but it’ll likely attract unwanted attention.
+**Mental Map:** Your senses are so finely tuned that you can create a full mental map of an entire floor of a building in an instant; all you need to do is clap your hands and listen to the echoes, or perhaps light a fire and watch the way the air currents move the smoke. Whatever the method, it gets you the layout of the building, but it'll likely attract unwanted attention.
 
-**Hyperfocus:** You can focus the full power of your super sense on someone anywhere in the scene. Because of your superior focus, you gain +4 to all attack and defense rolls against your target until you end this effect or the target is taken out. However, you cannot attack anyone else while hyperfocused, and you are liable to cause collateral damage because you’ve stopped paying attention to your surroundings.
+**Hyperfocus:** You can focus the full power of your super sense on someone anywhere in the scene. Because of your superior focus, you gain +4 to all attack and defense rolls against your target until you end this effect or the target is taken out. However, you cannot attack anyone else while hyperfocused, and you are liable to cause collateral damage because you've stopped paying attention to your surroundings.
 
 Super Speed
 
 Gotta go fast, gotta go fast!
 
-**Basic Super Speed:** You gain +2 to [[Athletics]] rolls that involve moving quickly. Additionally, you can move quickly enough to run across liquids or up sheer vertical surfaces—although if you slow down or stop, you’ll fall.
+**Basic Super Speed:** You gain +2 to [[Athletics]] rolls that involve moving quickly. Additionally, you can move quickly enough to run across liquids or up sheer vertical surfaces—although if you slow down or stop, you'll fall.
 
 ### Enhancements
 
@@ -1120,7 +1120,7 @@ Gotta go fast, gotta go fast!
 
 **Natural Weapon:** When you fight, you might not hit harder than anyone else, but you get a whole flurry of hits in at once, which is just as good.
 
-**Super Intelligence:** It’s not just your body that moves quickly; your mind also operates at light speed.
+**Super Intelligence:** It's not just your body that moves quickly; your mind also operates at light speed.
 
 ### Improved Special Effects
 
@@ -1135,7 +1135,7 @@ Gotta go fast, gotta go fast!
 
 **Quantum Tunneling:** If pressed, you can run fast enough to break through time itself. You and anyone and anything you are holding onto disappear completely, reappearing in the same position in the future—as little as one exchange later, but up to a week, with no time having passed for you. The spontaneous return to the natural flow of time, however, is sudden and potentially violent.
 
-**Speed Demon:** If you’re willing to tear up the streets—shattering glass, injuring pedestrians, and such—you can travel pretty much anywhere in the same city in the span of a single exchange.
+**Speed Demon:** If you're willing to tear up the streets—shattering glass, injuring pedestrians, and such—you can travel pretty much anywhere in the same city in the span of a single exchange.
 
 Super Strength
 
@@ -1145,9 +1145,9 @@ You are a powerhouse, a wall of muscle, an unstoppable force. Are you strong? Li
 
 ### Enhancements
 
-**Master Super Strength:** There’s strong, and then there’s you. Gain an additional +2 bonus to [[Physique]] in situations requiring pure strength.
+**Master Super Strength:** There's strong, and then there's you. Gain an additional +2 bonus to [[Physique]] in situations requiring pure strength.
 
-**Stand Fast:** You aren’t going to get pushed around so easily. You are immune to all forced movement.
+**Stand Fast:** You aren't going to get pushed around so easily. You are immune to all forced movement.
 
 ### Common Power Synergies
 
@@ -1161,25 +1161,25 @@ You are a powerhouse, a wall of muscle, an unstoppable force. Are you strong? Li
 
 ### Drawbacks
 
-- Your super strength also makes you super aggressive. Sometimes you can’t help but fly into a [Destructive Rage].
-- Your power isn’t as supernormal as some others; it comes from having muscles on muscles on muscles. You are big and beefy but, unfortunately, [Clumsy].
-- Super strength isn’t quite the gift everyone makes it out to be; just ask the trail of broken doors, shattered plates, and other chaos you leave in your wake. It’s not fun when you [Don’t Know Your Own Strength].
+- Your super strength also makes you super aggressive. Sometimes you can't help but fly into a [Destructive Rage].
+- Your power isn't as supernormal as some others; it comes from having muscles on muscles on muscles. You are big and beefy but, unfortunately, [Clumsy].
+- Super strength isn't quite the gift everyone makes it out to be; just ask the trail of broken doors, shattered plates, and other chaos you leave in your wake. It's not fun when you [Don't Know Your Own Strength].
 
 ### Collateral Damage Effects
 
-**POW!:** It’s pretty trivial for you to just pick someone up and toss ‘em through the scenery. You can take out a nameless NPC entirely, or deal a mild consequence to anyone else, at the expense of the structural integrity of the buildings around you.
+**POW!:** It's pretty trivial for you to just pick someone up and toss ‘em through the scenery. You can take out a nameless NPC entirely, or deal a mild consequence to anyone else, at the expense of the structural integrity of the buildings around you.
 
 **SMASH!:** You can raise your mighty fists and hit the ground with enough force that the whole earth seems to shake, attacking everyone in your zone with [[Physique]].
 
 Super Toughness
 
-It’s not that you’re too strong to show that you’re hurt, or that you recover especially well from being hurt. It’s that you just don’t get hurt.
+It's not that you're too strong to show that you're hurt, or that you recover especially well from being hurt. It's that you just don't get hurt.
 
 **Basic Super Toughness:** You gain Armor:2 against any purely physical damage.
 
 ### Enhancements
 
-**Master Super Toughness:** Pain don’t hurt. You gain an additional physical stress box.
+**Master Super Toughness:** Pain don't hurt. You gain an additional physical stress box.
 
 **Implacable:** The best defense it not even noticing that someone is attacking you. You gain Armor:4 against physical damage.
 
@@ -1198,8 +1198,8 @@ It’s not that you’re too strong to show that you’re hurt, or that you reco
 ### Drawbacks
 
 - Your toughness is actually a form of armor, either literal armor that you have to put on or armor that you can encase your body in at will. Either way, it impedes your mobility, leaving you [Slow].
-- You’re super tough and can’t really feel pain, but that’s because your entire sense of touch has been dialed down to 1. You [Can’t Feel Much of Anything].
-- The source of your super toughness isn’t internal; it’s in the series of chitinous plates sprouting from your joints, or the shadowy clouds that always surround you, or something else similarly [Horrifying to Behold].
+- You're super tough and can't really feel pain, but that's because your entire sense of touch has been dialed down to 1. You [Can't Feel Much of Anything].
+- The source of your super toughness isn't internal; it's in the series of chitinous plates sprouting from your joints, or the shadowy clouds that always surround you, or something else similarly [Horrifying to Behold].
 
 ### Collateral Damage Effects
 
@@ -1234,7 +1234,7 @@ You are a genuine spoon-bending, mind-over-matter psychic, able to enforce your 
 ### Drawbacks
 
 - A lifetime of pulling things toward you with your mind, rather than your arms, either led to or was a result of your own [Weak and Frail Body].
-- There’s no easy way to say this, but your mental prowess is tied to your [Huge, Visible, Pulsating Brain].
+- There's no easy way to say this, but your mental prowess is tied to your [Huge, Visible, Pulsating Brain].
 
 ### Collateral Damage Effects
 
@@ -1262,22 +1262,22 @@ You know what everyone is thinking.
 
 **Influence:** Not only can you read minds, but you can also tweak them. Just a little. Just to your advantage.
 
-**Animal Control:** Human minds aren’t the only ones worth reading; animal minds are versatile and very malleable as well.
+**Animal Control:** Human minds aren't the only ones worth reading; animal minds are versatile and very malleable as well.
 
 ### Drawbacks
 
-- When you can read others’ thoughts but nobody’s reading your own, you [Tend to Abuse Your Power].
-- Delving too deep into someone’s brain is risky; their thoughts may start to resonate with yours and generate [Psychic Feedback].
+- When you can read others' thoughts but nobody's reading your own, you [Tend to Abuse Your Power].
+- Delving too deep into someone's brain is risky; their thoughts may start to resonate with yours and generate [Psychic Feedback].
 
 ### Collateral Damage Effects
 
-**Psychic Lockdown:** You can mentally overwhelm everyone else in the scene, effectively freezing them. They can’t take physical actions, but they can still invoke aspects and perform mental tasks. They can attempt to break out by overcoming with [[Will]], opposed by your [[Will]]. On each of your turns, you must concentrate, using your action, to keep them frozen. The psychic brain-lock will definitely have lasting effects on their brains.
+**Psychic Lockdown:** You can mentally overwhelm everyone else in the scene, effectively freezing them. They can't take physical actions, but they can still invoke aspects and perform mental tasks. They can attempt to break out by overcoming with [[Will]], opposed by your [[Will]]. On each of your turns, you must concentrate, using your action, to keep them frozen. The psychic brain-lock will definitely have lasting effects on their brains.
 
 **Psychic Maelstrom:** You open your mind, and your entire zone becomes inundated with psychic energy. Anyone who ends their turn in your zone takes 2 mental stress, and anyone who ends in a zone adjacent to yours takes 1 mental stress. This effect persists until you choose to end it or the end of the scene.
 
 Teleportation
 
-You go where you want, whether there’s a path there or not.
+You go where you want, whether there's a path there or not.
 
 **Basic Teleportation:** You can move up to three zones as an action, provided that you can see where you are moving to.
 
@@ -1291,9 +1291,9 @@ You go where you want, whether there’s a path there or not.
 
 ### Common Power Synergies
 
-**Energy Blast:** You don’t actually fire bolts of energy, but you can teleport bursts of fire, plasma, or similar nastiness directed at your foes, and that works pretty much the same.
+**Energy Blast:** You don't actually fire bolts of energy, but you can teleport bursts of fire, plasma, or similar nastiness directed at your foes, and that works pretty much the same.
 
-**Item Summoning:** Back home you’ve got a big collection of useful things, which you can teleport into your hands whenever you need to.
+**Item Summoning:** Back home you've got a big collection of useful things, which you can teleport into your hands whenever you need to.
 
 ### Drawbacks
 
@@ -1329,17 +1329,17 @@ Gravity is something that other people have to worry about; you just need a surf
 ### Drawbacks
 
 - Fact is, the ability to hang onto a wall comes from the strange, viscous substance oozing out of your hands and feet. You are [Sticky-Fingered (Literally)].
-- You can get a finger hold on even the tiniest, most insignificant nooks and crannies of a wall, but you [Can’t Climb Perfectly Smooth Surfaces].
+- You can get a finger hold on even the tiniest, most insignificant nooks and crannies of a wall, but you [Can't Climb Perfectly Smooth Surfaces].
 
 ### Collateral Damage Effects
 
-**Gravity Manipulation:** Your wall-crawling ability actually comes from your ability to adjust the pull of gravity on yourself so that “down” is where you want it to be, at least for a few minutes. You can expand this gravity trick to cover an entire zone, pulling everyone and everything not nailed down into the wall you’re standing on. Anyone who hasn’t braced for impact must overcome a Fair (+2) obstacle using [[Athletics]]; otherwise, they land poorly and take a mild consequence.
+**Gravity Manipulation:** Your wall-crawling ability actually comes from your ability to adjust the pull of gravity on yourself so that “down” is where you want it to be, at least for a few minutes. You can expand this gravity trick to cover an entire zone, pulling everyone and everything not nailed down into the wall you're standing on. Anyone who hasn't braced for impact must overcome a Fair (+2) obstacle using [[Athletics]]; otherwise, they land poorly and take a mild consequence.
 
-**Hold Fast:** You can bring any moving object, up to the size and speed of a train, to a complete halt, provided you can hold onto it with one hand and onto something reasonably solid, like the ground, with the other. Doing this doesn’t hurt you—your body is built to handle these forces—but it will probably damage whatever you’re trying to stop.
+**Hold Fast:** You can bring any moving object, up to the size and speed of a train, to a complete halt, provided you can hold onto it with one hand and onto something reasonably solid, like the ground, with the other. Doing this doesn't hurt you—your body is built to handle these forces—but it will probably damage whatever you're trying to stop.
 
 Weather Control
 
-You can rain on anyone’s parade.
+You can rain on anyone's parade.
 
 **Basic Weather Control:** You can fill your zone with specific weather patterns by creating an advantage using [[Will]]. The opposition is generally Fair (+2), but increases with especially difficult weather, such as tornadoes, or especially inclement weather, such as snow during high summer. These weather patterns fade away when you will them to, when you leave the zone, or otherwise at the end of the scene.
 
@@ -1347,7 +1347,7 @@ You can rain on anyone’s parade.
 
 **Master Weather Control:** You gain +2 to [[Will]] when creating a weather pattern.
 
-**Weather Precision:** You can use [[Will]] to attack any target in a zone in which you’ve created a weather pattern.
+**Weather Precision:** You can use [[Will]] to attack any target in a zone in which you've created a weather pattern.
 
 **Lingering Weather:** Weather patterns you create linger while you are in an adjacent zone. In addition, you can create weather patterns in adjacent zones.
 
@@ -1363,8 +1363,8 @@ You can rain on anyone’s parade.
 
 ### Drawbacks
 
-- Your moods tend to leech into the room’s weather, no matter how hard you try. You suffer from [Sympathetic Weather Patterns].
-- The weather you create can be impressive, but it’s easily overpowered by nature. That’s why you’re [Only Effective While Indoors]
+- Your moods tend to leech into the room's weather, no matter how hard you try. You suffer from [Sympathetic Weather Patterns].
+- The weather you create can be impressive, but it's easily overpowered by nature. That's why you're [Only Effective While Indoors]
 
 ### Collateral Damage Effects
 
@@ -1376,17 +1376,17 @@ You can rain on anyone’s parade.
 
 ## Corruption
 
-You are…unfortunate. Whatever turned on your superpowers did not do so nicely, and you’ve been rendered an almost-inhuman mess.
+You are…unfortunate. Whatever turned on your superpowers did not do so nicely, and you've been rendered an almost-inhuman mess.
 
 **Basic Corruption:** Your powers have a particularly disturbing aesthetic. You might be obviously mutated or disfigured, you might look like a corpse or a monster, or you might simply seem “wrong” to everyone around you on a subtle, psychological level. Regardless of the specifics, your presence is unnerving.
 
 ### Enhancements
 
-**Horrifying to Behold:** Something about your appearance is so unsettling that it actually hurts people to get close to you. Anyone who attacks you using [[Fight]] takes a mild mental consequence if they don’t already have one.
+**Horrifying to Behold:** Something about your appearance is so unsettling that it actually hurts people to get close to you. Anyone who attacks you using [[Fight]] takes a mild mental consequence if they don't already have one.
 
 **Ongoing Mutations:** Once per scene, you can spend a [[fate point]] to undergo a dramatic sudden mutation. This lets you to switch the ranks of any two skills of adjacent rank.
 
-**Obvious Target:** You don’t need to work hard to get someone to want you dead. You gain +2 to [[Provoke]] when attempting to make a target attack or follow you.
+**Obvious Target:** You don't need to work hard to get someone to want you dead. You gain +2 to [[Provoke]] when attempting to make a target attack or follow you.
 
 ### Common Power Synergies
 
@@ -1394,7 +1394,7 @@ You are…unfortunate. Whatever turned on your superpowers did not do so nicely,
 
 **Harm:** The corruption in you can spread to others with a little physical contact.
 
-**Regeneration:** You’re basically falling apart already—your power just makes you good at pulling yourself together.
+**Regeneration:** You're basically falling apart already—your power just makes you good at pulling yourself together.
 
 ### Drawbacks
 
@@ -1409,7 +1409,7 @@ You are…unfortunate. Whatever turned on your superpowers did not do so nicely,
 
 You are filled with enough electrical potential to make Tesla blush.
 
-**Basic Electricity Projection:** Your powers are electrical in nature, and you’re infused with electrical energy. Whenever you use your power, you create sparks and bolts of lightning.
+**Basic Electricity Projection:** Your powers are electrical in nature, and you're infused with electrical energy. Whenever you use your power, you create sparks and bolts of lightning.
 
 ### Enhancements
 
@@ -1423,13 +1423,13 @@ You are filled with enough electrical potential to make Tesla blush.
 
 **Energy Blast:** You can pull a lightning bolt out of nowhere and hurl it like a spear.
 
-**Machine Control:** The power you create isn’t just normal electricity; it’s got a bit of your essence in it. It’s starting a machine with your own energy that puts it under your control.
+**Machine Control:** The power you create isn't just normal electricity; it's got a bit of your essence in it. It's starting a machine with your own energy that puts it under your control.
 
 ### Drawbacks
 
-- As a walking, talking nexus of electrical activity, you find that [Modern Tech Just Doesn’t Like You].
-- You are filled with electrical energy, just all the time. It’s like being hopped up on sugar and caffeine, only more so! You are [Hyperactive].
-- People notice that you tend to keep your superheroics indoors on rainy days. It’s not your fault: [Water Shorts You Out].
+- As a walking, talking nexus of electrical activity, you find that [Modern Tech Just Doesn't Like You].
+- You are filled with electrical energy, just all the time. It's like being hopped up on sugar and caffeine, only more so! You are [Hyperactive].
+- People notice that you tend to keep your superheroics indoors on rainy days. It's not your fault: [Water Shorts You Out].
 
 ### Collateral Damage Effects
 
@@ -1437,7 +1437,7 @@ You are filled with enough electrical potential to make Tesla blush.
 
 ## Fire Projection
 
-You like fire. Fire likes you. It doesn’t have to get more complex than that to be fun.
+You like fire. Fire likes you. It doesn't have to get more complex than that to be fun.
 
 **Basic Fire Projection:** Your powers are infused with flame, creating fireballs and billowing smoke when you use them.
 
@@ -1451,7 +1451,7 @@ You like fire. Fire likes you. It doesn’t have to get more complex than that t
 
 ### Improved Special Effects
 
-**Flame On:** You light yourself on fire. It’s GREAT. You gain the [[situation aspect]] [On Fire] with one free invoke. If you are already [On Fire], gain another free invoke and clear your highest marked physical stress box.
+**Flame On:** You light yourself on fire. It's GREAT. You gain the [[situation aspect]] [On Fire] with one free invoke. If you are already [On Fire], gain another free invoke and clear your highest marked physical stress box.
 
 ### Common Power Synergies
 
@@ -1462,12 +1462,12 @@ You like fire. Fire likes you. It doesn’t have to get more complex than that t
 ### Drawbacks
 
 - Some personality traits just go well with the ability to summon flames. You are [Hot-Tempered].
-- You aren’t wreathed in flames at all times, but you’re never entirely extinguished; even if it’s just a little smoke drifting from your hair, you are [Always On Fire].
-- You can induce a small flame to become huge, but you can’t create fire from nothing at all. At a minimum, [You Need a Spark].
+- You aren't wreathed in flames at all times, but you're never entirely extinguished; even if it's just a little smoke drifting from your hair, you are [Always On Fire].
+- You can induce a small flame to become huge, but you can't create fire from nothing at all. At a minimum, [You Need a Spark].
 
 ### Collateral Damage Effects
 
-**Flaming:** You can surround yourself in flames that burn everything and everyone. Fires start near you, and anyone who touches you gets a mild physical consequence, or 1 physical stress if they don’t have the open slot. This effect lasts until the end of the scene, but you can end it at will.
+**Flaming:** You can surround yourself in flames that burn everything and everyone. Fires start near you, and anyone who touches you gets a mild physical consequence, or 1 physical stress if they don't have the open slot. This effect lasts until the end of the scene, but you can end it at will.
 
 ## Frost Projection
 
@@ -1498,15 +1498,15 @@ You bring winter wherever you go.
 ### Drawbacks
 
 - Weather that others would consider merely chilly is, to you, sweltering. You can [Only Live in the Cold].
-- You aren’t just cold to the touch; you bring the temperature down all around you, whether you like it or not. You don’t mind it, but you are [Always Freezing].
+- You aren't just cold to the touch; you bring the temperature down all around you, whether you like it or not. You don't mind it, but you are [Always Freezing].
 
 ### Collateral Damage Effects
 
-**Blizzard:** You can dial down the temperature so quickly that snow forms in your zone and every adjacent zone. You can move through the snow without a problem, but to everyone else it’s a Fair (+2) obstacle that persists until the end of the scene.
+**Blizzard:** You can dial down the temperature so quickly that snow forms in your zone and every adjacent zone. You can move through the snow without a problem, but to everyone else it's a Fair (+2) obstacle that persists until the end of the scene.
 
 ## Shadow Projection
 
-You can surround yourself with shadows and use them to fuel your powers. It doesn’t actually make sense as far as physics is concerned, but it works for you.
+You can surround yourself with shadows and use them to fuel your powers. It doesn't actually make sense as far as physics is concerned, but it works for you.
 
 **Basic Shadow Projection:** Your power is expressed in the creation and manipulation of shadows; whenever you use your power, you create swathes of living darkness.
 
@@ -1514,7 +1514,7 @@ You can surround yourself with shadows and use them to fuel your powers. It does
 
 **Dark Sight:** You are built for the shadows. You can see perfectly well in any lighting, down to and including pitch blackness.
 
-**Shadow Dodge:** While you’re hiding in the shadows, you gain +2 to defend against ranged attacks.
+**Shadow Dodge:** While you're hiding in the shadows, you gain +2 to defend against ranged attacks.
 
 **Out of the Shadows:** If you initiate a conflict, you always act first, ignoring any other factors that might determine turn order.
 
@@ -1524,28 +1524,28 @@ You can surround yourself with shadows and use them to fuel your powers. It does
 
 **Invisibility:** You can wrap yourself in the shadows even in the brightest room.
 
-**Teleportation:** Shadows are connected in a metaphysical way even you can’t quite understand. But you can use this fact to step into one shadow and out of a distant one.
+**Teleportation:** Shadows are connected in a metaphysical way even you can't quite understand. But you can use this fact to step into one shadow and out of a distant one.
 
 ### Drawbacks
 
 - You can never actually leave the shadows—if you try to peel away, the darkness clings to you. You are [Always Shrouded in Darkness].
-- Your powers don’t just create shadows; they require shadows. You work best in the dark, and you’re [Weakened by Daylight].
+- Your powers don't just create shadows; they require shadows. You work best in the dark, and you're [Weakened by Daylight].
 
 ### Collateral Damage Effects
 
-**Shadow Beast:** You can summon a creature made out of darkness itself into your zone. This shadow beast has Great (+4) [[Physique]], [[Fight]], and [[Athletics]], as well as the aspects [Made of Shadows] and [Bestial Fury]. The beast is an NPC who will attack nearby targets at random, although characters can use [[Provoke]] to get it going after a particular target. It will not attack you; however, there’s nothing preventing it from attacking your allies. The beast will dissolve away at the end of the scene or when you dismiss it.
+**Shadow Beast:** You can summon a creature made out of darkness itself into your zone. This shadow beast has Great (+4) [[Physique]], [[Fight]], and [[Athletics]], as well as the aspects [Made of Shadows] and [Bestial Fury]. The beast is an NPC who will attack nearby targets at random, although characters can use [[Provoke]] to get it going after a particular target. It will not attack you; however, there's nothing preventing it from attacking your allies. The beast will dissolve away at the end of the scene or when you dismiss it.
 
 ## Super-Form
 
-You’ll be ready for action as soon as your transformation sequence finishes up.
+You'll be ready for action as soon as your transformation sequence finishes up.
 
-**Basic Super-Form:** Your power isn’t always active; instead, you need to take a moment before battle to change form. You might grow a shell of metal around your body, or charge up with cosmic energy, or just turn big and green. Converting to your super-form requires an action, but while you’re not super it’s impossible for anyone or anything to detect that you have a power at all.
+**Basic Super-Form:** Your power isn't always active; instead, you need to take a moment before battle to change form. You might grow a shell of metal around your body, or charge up with cosmic energy, or just turn big and green. Converting to your super-form requires an action, but while you're not super it's impossible for anyone or anything to detect that you have a power at all.
 
 ### Enhancements
 
 **Growth:** You can use your super form to grow massive! While in this form, you are at least twice your normal height, and you gain +1 to all attack rolls because of your overwhelming power.
 
-**Shrinking:** You can use your super form to become tiny! While in this form, you’re a quarter of your normal size or less, and you gain +1 to all defense rolls because you’re so hard to hit.
+**Shrinking:** You can use your super form to become tiny! While in this form, you're a quarter of your normal size or less, and you gain +1 to all defense rolls because you're so hard to hit.
 
 **Cocoon:** In addition to your standard super-form, you can use your ability to encase yourself in a protective shell. While in the shell you cannot move or take actions, but you have Armor:8 against all physical damage. You can only hold onto this form for a few minutes at a time.
 
@@ -1553,12 +1553,12 @@ You’ll be ready for action as soon as your transformation sequence finishes up
 
 **Super Toughness:** When you enter into your super-form, you surround yourself with a layer of metal, rock, or some other material—or in some other way you create your own armor.
 
-**Natural Weapon:** It takes a moment for you to unsheathe your claws, but it’s worth the wait.
+**Natural Weapon:** It takes a moment for you to unsheathe your claws, but it's worth the wait.
 
 ### Drawbacks
 
-- Your super-form is so powerful that you can’t dive into it instantly; you suffer from an [Extended Transformation Sequence].
-- Your normal and super selves aren’t the same person—they have distinct minds and personalities that happen to share a body. They don’t hate one another, but you are still [Often Arguing with Yourself].
+- Your super-form is so powerful that you can't dive into it instantly; you suffer from an [Extended Transformation Sequence].
+- Your normal and super selves aren't the same person—they have distinct minds and personalities that happen to share a body. They don't hate one another, but you are still [Often Arguing with Yourself].
 
 ### Collateral Damage Effects
 
@@ -1568,7 +1568,7 @@ You’ll be ready for action as soon as your transformation sequence finishes up
 
 Not everyone can take advantage of their superpower gene. Some people come by their powers honestly.
 
-**Basic Technology:** Your power isn’t actually a superpower in the traditional sense. Instead, it’s an ability that comes from advanced technology you have access to, such as cybernetic implants. While your “power” isn’t necessarily built into you, you always have access to your superior equipment and it never breaks down. In addition, powers that affect other powers (such as Power Amplification or Power Nullification) do not affect you.
+**Basic Technology:** Your power isn't actually a superpower in the traditional sense. Instead, it's an ability that comes from advanced technology you have access to, such as cybernetic implants. While your “power” isn't necessarily built into you, you always have access to your superior equipment and it never breaks down. In addition, powers that affect other powers (such as Power Amplification or Power Nullification) do not affect you.
 
 ### Enhancements
 
@@ -1584,10 +1584,10 @@ Not everyone can take advantage of their superpower gene. Some people come by th
 
 ### Drawbacks
 
-- Your tech doesn’t work without power, and something this advanced doesn’t run on dollar-store batteries. You have [Limited Fuel].
-- Your equipment isn’t fancy. You cobbled it together in your basement with duct-table and gumption. You’ve got [Shabby Equipment].
+- Your tech doesn't work without power, and something this advanced doesn't run on dollar-store batteries. You have [Limited Fuel].
+- Your equipment isn't fancy. You cobbled it together in your basement with duct-table and gumption. You've got [Shabby Equipment].
 
 ### Collateral Damage Effects
 
-**Take Up Arms:** You can pass off your equipment to someone else. By doing so, they can use your power in addition to their own, but you will be powerless for the duration. Of course, being unfamiliar and untrained with your equipment, they’ll likely cause a lot of collateral damage just trying to use it.
+**Take Up Arms:** You can pass off your equipment to someone else. By doing so, they can use your power in addition to their own, but you will be powerless for the duration. Of course, being unfamiliar and untrained with your equipment, they'll likely cause a lot of collateral damage just trying to use it.
 

@@ -2,13 +2,13 @@
 
 The most common example of this has to do with consequences. The rules say that by default, a consequence is something a player chooses to take after getting hit by an attack in a conflict.
 
-But say you’re in a scene where a player decides that, as part of trying to intimidate his way past someone, his PC is going to punch through a glass-top table with a bare fist.
+But say you're in a scene where a player decides that, as part of trying to intimidate his way past someone, his PC is going to punch through a glass-top table with a bare fist.
 
-Everyone likes the idea and thinks it’s cool, so no one’s interested in what happens if the PC fails the roll. However, everyone agrees that it also makes sense that the PC would injure his hand in the process (which is part of what makes it intimidating).
+Everyone likes the idea and thinks it's cool, so no one's interested in what happens if the PC fails the roll. However, everyone agrees that it also makes sense that the PC would injure his hand in the process (which is part of what makes it intimidating).
 
-It’s totally fine to assign a mild consequence of [Glass in My Hand] in that case, because it fits with the narration, even though there’s no conflict and nothing technically attacked the PC.
+It's totally fine to assign a mild consequence of [Glass in My Hand] in that case, because it fits with the narration, even though there's no conflict and nothing technically attacked the PC.
 
-As with [[The Golden Rule]], make sure everyone’s on the same page before you do stuff like this.
+As with [[The Golden Rule]], make sure everyone's on the same page before you do stuff like this.
 
 ---
 

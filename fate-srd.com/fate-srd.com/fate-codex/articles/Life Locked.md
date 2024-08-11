@@ -29,7 +29,7 @@ Crunch's earpiece.
 
 Crunch's response blipped up on Jaaz's heads-up display.
 
-[OMG SRSLY I’M ON IT. ICE LIKE ANTARCTICA UP IN HERE.[
+[OMG SRSLY I'M ON IT. ICE LIKE ANTARCTICA UP IN HERE.[
 
 Jaaz sighed loudly, and closed her eyes so she didn't see Crunch's storm
 of swears. She was trying to be patient, seriously, but it was like, way
@@ -57,7 +57,7 @@ the server room. _Damn._
 
 "Crunch, can you get this?"
 
-[BRINK IS ON HER WAY. SHE’S GOT THIS ONE.[
+[BRINK IS ON HER WAY. SHE'S GOT THIS ONE.[
 
 Jaaz cringed. _I hope she doesn't hurt anyone before I get to her._ She
 loved Brink, but Brink dealt with locked doors only one way.
