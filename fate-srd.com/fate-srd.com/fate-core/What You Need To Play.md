@@ -12,6 +12,8 @@ Getting into a game of Fate is very simple. You need:
 - **A character sheet, one per player, and some extra paper for note-taking.** (GMs, any important characters you play might have a character sheet also.)
 - **Fate dice, at least four, preferably four per person.** Fate dice are a special kind of six-sided dice that are marked on two sides with a plus symbol ([+]), two with a minus symbol ([-]), and two sides are blank ([0]). You can get these dice from many hobby and game stores, often under their original name, Fudge dice. (For Fate's purposes we'll continue to call them Fate dice, but call them whatever you like!) Fate dice can be purchased at your friendly local game shop or [online](http://www.evilhat.com/home/fate-dice/ "Buy dice from Evil Hat").
  
+
+
 ### Alternatives to Fate Dice
 
 The Deck of Fate is an alternative to Fate dice that will be available from Evil Hat. It's a deck of cards that mimics the probability of Fate dice, and is designed to be used in the same way Fate dice are. 

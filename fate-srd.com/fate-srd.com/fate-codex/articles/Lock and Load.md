@@ -46,8 +46,7 @@ In this article you'll find three options for tracking ammo:
 
 ## Counting Bullets
 
-If you want a high fidelity rule that more closely represents reality
-(or at least fictional reality), you can count individual bullets. This
+If you want a high fidelity rule that more closely represents reality (or at least fictional reality), you can count individual bullets. This
 rule has the advantage of being simple to implement, but it has the
 disadvantage of imposing a lot of bookkeeping on the game, as well as
 imposing a limitation on guns and other ammo-driven weapons that Fate

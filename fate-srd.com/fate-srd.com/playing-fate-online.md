@@ -17,8 +17,7 @@ Twitter user [@PG_YYZ](https://twitter.com/PG_YYZ.html) goes into a deep
 dive on how to use Discord and/or Roll20 to play Fate and how to find a
 group online to play with!
 
-[Playing [[Fate Core]] Online v3.0
-(PDF)](../sites/default/files/downloads/Playing%20Fate%20Core%20Online%20v3.0.pdf)
+[Playing [[Fate Core]] Online v3.0 (PDF)](../sites/default/files/downloads/Playing%20Fate%20Core%20Online%20v3.0.pdf)
 
 ### Managing a Long-Term Fate RPG Campaign Online
 

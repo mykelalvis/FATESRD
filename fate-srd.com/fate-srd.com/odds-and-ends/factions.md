@@ -337,6 +337,5 @@ text:_
 _This work is based on Factions for Fate, a product of Evil Hat
 Productions, LLC, commissioned by Declan Feeney, developed and authored
 by Mark Diaz Truman, and edited by John Adamus. It is licensed for our
-use under the Creative Commons Attribution 3.0 Unported license
-([http://creativecommons.org/licenses/by/3.0/](https://../creativecommons.org/licenses/by/3.0/index.html))._
+use under the Creative Commons Attribution 3.0 Unported license ([http://creativecommons.org/licenses/by/3.0/](https://../creativecommons.org/licenses/by/3.0/index.html))._
 

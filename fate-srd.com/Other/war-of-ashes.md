@@ -1221,7 +1221,7 @@ _Since Volo Troll-Axe is captain of the_Skyhammer_, he must have a crew, but we 
 
 **Vidaar Sailor**
 
-Weight: 1 (Sentian-sized)
+Weight:1 (Sentian-sized)
 
 _Vidaar Sailor_;_We Are Skyhammers!_
 
@@ -1251,7 +1251,7 @@ _When several crew members are acting together against the PCs, Kim will treat t
 
 Press Gang of the_Skyhammer_
 
-Weight: 6 (6 crew members that are Sentian-sized)
+Weight:6 (6 crew members that are Sentian-sized)
 
 _Press Gang_;_Vidaar Sailors_;_We Are Skyhammers!_
 

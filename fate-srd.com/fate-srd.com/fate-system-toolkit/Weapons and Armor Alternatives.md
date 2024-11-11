@@ -17,7 +17,7 @@ In [[Fate Core]], weapons are _dangerous_ if you use the rules in the [[Extras]]
 
 When you use these rules, Weapon ratings still start at 1 and go up, but they can go up a bit further (say to 5 or 6, for the most lethal of weapons). Instead of simply adding a weapon's rating to the [[shift]]s you generate on a hit, though, a Weapon rating provides a _minimum_ number of [[shift]]s of stress you can score with that weapon. For example, a longsword with Weapon: 3 does 3 [[shift]]s of stress if you tie, or if you roll 1, 2, or 3 [[shift]]s on your attack. Even for a grazing hit, you'll still always deal at least 3 [[shift]]s of stress. If you roll [[shift]]s beyond that, you simply deal that much stress and ignore the Weapon rating.
 
-Armor ratings do the opposite; they tell you what the _maximum_ number of [[shift]]s of stress you'll take from an attack is. Armor ratings start at 4 (for light armor) and go down to 1 (for the heaviest plate or most advanced powered tactical armor). The exception to this is when the attacker succeeds with style---if this happens, ignore the Armor rating. The attacker does _full damage_ when she succeeds with style.
+Armor ratings do the opposite; they tell you what the _maximum_ number of [[shift]]s of stress you'll take from an attack is. Armor ratings start at4 (for light armor) and go down to1 (for the heaviest plate or most advanced powered tactical armor). The exception to this is when the attacker succeeds with style---if this happens, ignore the Armor rating. The attacker does _full damage_ when she succeeds with style.
 
 _Armor ratings trump Weapon ratings_. This means that someone with Weapon 5 attacking someone with Armor 3 will still only deal 3 stress at most, unless they succeed with style.
 

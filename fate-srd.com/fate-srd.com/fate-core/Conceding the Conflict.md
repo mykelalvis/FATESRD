@@ -34,6 +34,8 @@ That can make the difference between, say, being mistakenly left for dead and en
 >
 > Lenny says, "Bastard! I'm so getting him back for that one..."
  
+
+
 ### Further Clarification on Conceding vs getting Taken Out
 
 The following text is from a [comment in the [[Fate Core]] Google+Community](https://plus.google.com/116394742606298068145/posts/4dScLtq43oo) by [[Leonard Balsera]].

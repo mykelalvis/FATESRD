@@ -192,8 +192,7 @@ stress from their first or second stress boxes on the aspect, for
 example, until it is repaired.
 
 When an aspect is warped, the PC can try to clear its fourth stress box
-in the same way they would relieve the first or second, but against Epic
-(+7) opposition. Clearing the fourth box doesn't mean the aspect is no
+in the same way they would relieve the first or second, but against Epic (+7) opposition. Clearing the fourth box doesn't mean the aspect is no
 longer warped, but it does allow the player to mark it again to absorb
 stress.
 

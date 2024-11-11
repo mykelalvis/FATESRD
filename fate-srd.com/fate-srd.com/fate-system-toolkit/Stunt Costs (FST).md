@@ -78,8 +78,7 @@ amount of refresh a player must pay for a stunt. Maybe stunts cost two
 refresh, or maybe a single refresh buys the player two stunts.
 
 There are other ways to fiddle with stunt costs, though. Maybe a player
-has to give up a skill point in order to buy a stunt, lowering a Good
-(+3) skill to Fair (+2) in order to pick up that stunt he wants. Maybe
+has to give up a skill point in order to buy a stunt, lowering a Good (+3) skill to Fair (+2) in order to pick up that stunt he wants. Maybe
 he has to give up an aspect or devote an aspect to that stunt in order
 to get it. Having to tie an aspect to a new stunt can make for stunts
 players are more attached to, and sets a nice upper limit on the number

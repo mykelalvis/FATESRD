@@ -64,8 +64,7 @@ aspects involving poisons, toxins, and other chemicals.
 
 **Doctor:** Your alchemical studies include treating the ailments of the
 human body. You can roll Alchemy to allow another character to begin
-recovering physical consequences. Characters who have Alchemy at Average
-(+1) or higher can provide you with teamwork bonuses on recovery rolls,
+recovering physical consequences. Characters who have Alchemy at Average (+1) or higher can provide you with teamwork bonuses on recovery rolls,
 even if they don't have the Doctor stunt.
 
 ### Alchemy in Practice

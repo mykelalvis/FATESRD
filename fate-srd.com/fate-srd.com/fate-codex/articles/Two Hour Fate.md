@@ -142,6 +142,8 @@ Landing a plane on the ocean in a hurricane [total cost: three aspects, one +5 s
 
 - [The Engine is on Fire]; [Raging Wind and Waves]; [Must Save the Passengers] [three session aspects], +5 difficulty [+5 skill], two stress boxes [increase the difficulty by four], Total difficulty +9
  
+
+
 ## Game On
 
 Though we have less time for gaming as the years go by, that doesn't mean that we need to game less. Through some simple planning and some judicious application of the Bronze Rule, anyone can get their Fate games down to two hours or less. While we may not be able to play the games the way we did when we were children, we can still play the games we love.

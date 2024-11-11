@@ -41,6 +41,8 @@ For each NPC that you have, decide whether you need to make them a supporting or
 >
 > She names the arbiter Lanthus, and the corrupt barrister Pight. Now she has her NPCs, and she goes about making their sheets.
  
+
+
 ### Advantages Can Save You Work
 
 When you're establishing your NPCs for your scenario, you don't have to have everything set in stone when you get to the table---whatever you don't know, you can always establish by letting the advantages the players create become the NPCs' aspects.

@@ -33,6 +33,8 @@ Good options for situation aspects include:
 - Things you can knock over, wreck, or use as improvised weapons---bookshelves, statues, etc.
 - Things that are flammable
  
+
+
 ### Situation Aspects & Zones In Mental Conflicts
 
 In a mental conflict, it might not always make sense to use situation aspects and zones to describe a physical space. It'd make sense in an interrogation, for example, where the physical features of the space create fear, but not in a really violent argument with a loved one. Also, when people are trying to hurt each other emotionally, usually they're using their target's own weaknesses against them---in other words, their own aspects.

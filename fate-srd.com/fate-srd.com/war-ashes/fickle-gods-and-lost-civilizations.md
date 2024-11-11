@@ -254,8 +254,7 @@ a _target_---the person, place, or thing it's being cast on. Sometimes
 a ritual will also have a _subject_---the person, place, group, or thing
 which will be the focus of the ritual's effect on the target.
 
-_A Rage ritual to make Julius angry at Lilia would be cast on Julius
-(the target) and focused on Lilia (the subject)._
+_A Rage ritual to make Julius angry at Lilia would be cast on Julius (the target) and focused on Lilia (the subject)._
 
 ## Casting A Ritual
 
@@ -309,8 +308,7 @@ ritual replaces the existing one.
 Some blessings and curses have their own additional modifiers.
 
 High difficulties can be beaten by having multiple priests working
-together and by treating the ritual as a challenge
-(see**"Challenges"**.) Create as many steps as you need, assigning
+together and by treating the ritual as a challenge (see**"Challenges"**.) Create as many steps as you need, assigning
 static difficulties; the sum of these difficulties must be equal to or
 greater than the ritual difficulty you calculated.
 
@@ -367,8 +365,7 @@ Why would your priest character bother to cast a ritual and thus get a
 Divine Interest consequence for the group to worry about?
 
 Because this allows you to create effects that would not be possible
-otherwise, like a [**Sudden Gust of Wind**] created by using
-(Bad) Luck on enemy archers, harmlessly dispersing a volley of arrows.
+otherwise, like a [**Sudden Gust of Wind**] created by using (Bad) Luck on enemy archers, harmlessly dispersing a volley of arrows.
 
 Because if you are very Careful and don't mind anonymity, you can cast
 without attracting attention to yourself.
@@ -385,8 +382,7 @@ the risk!
 **You Can Always Cheat**
 Some do it all the time. Your character tells onlookers that you are
 casting a ritual, you chant some nonsense, and donothing. But if you
-really want them to believe you, consider using Deceit (skill) or Flashy
-(approach) to overcome an obstacle, and put on a good show. If you are
+really want them to believe you, consider using Deceit (skill) or Flashy (approach) to overcome an obstacle, and put on a good show. If you are
 getting paid to cast the ritual, you pocket the money and go to the
 nearest tavern to have a drink. Naturally, you can only use this trick
 so many times before your deception catches up with you. Perhaps your
@@ -687,8 +683,7 @@ movement.
 Chaka the shaman, in preparation for the upcoming battle, casts the
 ritual "Troop Movement" on his scout unit to help them make it through
 the dense forest and flank the enemy. Chaka's player rolls [+0+-]
-plus his [[Will]] (+2) versus the difficulty of Fair (+2), for a total of +1
-(Average) and a success. The scouts can now use the aspect [_**Stalking
+plus his [[Will]] (+2) versus the difficulty of Fair (+2), for a total of +1 (Average) and a success. The scouts can now use the aspect [_**Stalking
 on Leopards' Feet**_] with one free invocation. The group also
 gets one Divine Interest consequence for the use of magic.
 

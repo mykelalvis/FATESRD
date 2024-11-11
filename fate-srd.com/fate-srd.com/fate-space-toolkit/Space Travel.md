@@ -195,7 +195,7 @@ Questions to address include the following:
 
 ##### A Wormhole Network
 
-In the late 22nd century, high-energy physicists discovered a means to create artificial wormholes by using a negative-mass fluid. In a collaborative multinational effort along the lines of the Manhattan Project, a portal to the habitable exoplanet Proxima Centauri b was created in orbit around Earth, and a race to colonize Terranova began. The influx of resources through the wormhole from the planet and from a nearby planetoid belt initiated a new age of prosperity on Earth. The Autorité du Portail (AdP) was formed to build and maintain additional portals. Soon a network extending from Earth to other stars began to form.
+In the late 22nd century, high-energy physicists discovered a means to create artificial wormholes by using a negative-mass fluid. In a collaborative multinational effort along the lines of the Manhattan Project, a portal to the habitable exoplanet Proxima Centauri b was created in orbit around Earth, and a race to colonize [[Terra|Terran]]ova began. The influx of resources through the wormhole from the planet and from a nearby planetoid belt initiated a new age of prosperity on Earth. The Autorité du Portail (AdP) was formed to build and maintain additional portals. Soon a network extending from Earth to other stars began to form.
 
 A wormhole station appears as a gigantic spherical lattice that glows with the luminous blue energy of the negative-mass fluid that must be continuously powered in order to hold open the throat of the wormhole. The station creates a one-way link to a distant point that must be at least several light-years away, though greater distance requires more negative-mass fluid, to a practical maximum of perhaps a dozen light-years.
 

@@ -173,8 +173,7 @@ describe how, spend a [[fate point]], and benefit in the same way you'd
 benefit from invoking any other aspect.
 
 On your character sheet alongside your other aspects, note what corrupt
-approaches you have, so that you remember they're available to invoke
-(and to be compelled, as we discuss in the next section).
+approaches you have, so that you remember they're available to invoke (and to be compelled, as we discuss in the next section).
 
 ### More Seductive
 

@@ -394,7 +394,11 @@ Here's what a stability table with a few spaces filled in looks like:
 ---
 
                                                            
+
+
                                                            
+
+
 [The Carnivore]     [The First Sword]    
 Joyful                       Curious                      Forceful
 [The Lizard Duke]   Defiant                      Brave
@@ -424,7 +428,11 @@ should only have approaches taken from the table.
 ---
 
                                                            
+
+
                                                            
+
+
 [The Carnivore]     [The First Sword]   Graceful
 Joyful                       Curious                      Forceful
 [The Lizard Duke]   Defiant                      Brave
@@ -445,6 +453,8 @@ The fictional element becomes a pillar supporting the world's reality.
 ---
 
                                                            
+
+
 [The First Tower]                                 
 [The Carnivore]     [The First Sword]   Graceful
 Joyful                       Curious                      Forceful
@@ -544,8 +554,7 @@ no other effect.
 
 ### The World's Stability
 
-The world has a Stability score, rated from Mediocre (+0) to Superb
-(+5). In the beginning, the Stability is rated at Mediocre (+0), as the
+The world has a Stability score, rated from Mediocre (+0) to Superb (+5). In the beginning, the Stability is rated at Mediocre (+0), as the
 vulnerable world is unstable and impermanent. When every slot in a
 single row of the table is filled in, the world's Stability goes up by
 

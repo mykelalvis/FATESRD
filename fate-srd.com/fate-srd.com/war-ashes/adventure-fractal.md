@@ -58,7 +58,7 @@ Let's say we're playing D&D 5e, and our level 3 party of three adventurers have 
 AC 13; Saves +2; 66 hp (21/     21/    21/   )  
 Six Attacks at +5 (1d8 + 2 damage)
 
-66 hit points might seem like a lot for a single gnoll, but, **and** **this is important**, I want this fight to be 2-4 rounds long. Since most PCs deal 7 damage with a normal hit in tier one, each gnoll should go down with 3 well-placed hits. Now, the PCs might miss one or two hits, but they also might land a critical hit or use a spell or ability that gives them some extra damage. This all balances out to 7 damage per PC per round in tier 1 (YMMV). With 3 PCs, that's 21 hp per round that I want the fight to last, which is how I've divided the hp among the gnolls.
+66 hit points might seem like a lot for a single gnoll, but, **and** **this is important**, I want this fight to be 2-4 rounds long. Since most PCs deal 7 damage with a normal hit in tier one, each gnoll should go down with 3 well-placed hits. Now, the PCs might miss one or two hits, but they also might land a critical hit or use a spell or ability that gives them some extra damage. This all balances out to 7 damage per PC per round in tier1 (YMMV). With 3 PCs, that's 21 hp per round that I want the fight to last, which is how I've divided the hp among the gnolls.
 
 Since players tend to have a few more hit points (average is 8 per level), it would make sense to give the gnolls one attack each at the stated damage (1d8 + 2 averages out to 6.5 damage per round, round up to 7). However, I'm pretty well-versed in D&D rules and I want this to be a fight that uses some of the PCs' resources (like healing potions or spells), so I gave the gnolls double damage by allowing them to each hit twice. This makes the encounter dangerous for the PCs, as they are likely to be defeated (similar damage, similar hp, but double the number of attacks for the gnolls) unless they use those resources.
 
@@ -80,7 +80,7 @@ For completion's sake, here's that same encounter for [[Fate Core]].
 
 **Three Gnolls**  
 _**Bloodthirsty**_  
-Fighting +5, other actions and defenses +2, Stress 6 (every two stress taken reduces Fighting by 1)
+Fighting +5, other actions and defenses +2, Stress6 (every two stress taken reduces Fighting by 1)
 
 **Traps**  
 _**Burning and Web Traps**_  

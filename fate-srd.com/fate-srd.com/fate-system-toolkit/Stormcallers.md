@@ -139,7 +139,7 @@ One other important note: Barriers cut both ways, and the creator gets no specia
 
 ![[oc_r.svg|30 ]] [[Overcome]]: If what's being overcome is a physical barrier, and the caller beats the target to overcome by 2, then remove the barrier completely.
 
-![[adv_r.svg|30 ]] [[Create Advantage]]: Gain a +1 to rolls to create any barriers using the Glacier. When you create a barrier, you may actually create multiple contiguous barriers. Each additional length of the barrier---a "length" being a barrier between any two zones---reduces its rating by 1. So, if you got a +6, and wanted to create a 3-length barrier, it would have a rating of 4 (6 -- 2, remembering the first one's free).
+![[adv_r.svg|30 ]] [[Create Advantage]]: Gain a +1 to rolls to create any barriers using the Glacier. When you create a barrier, you may actually create multiple contiguous barriers. Each additional length of the barrier---a "length" being a barrier between any two zones---reduces its rating by 1. So, if you got a +6, and wanted to create a 3-length barrier, it would have a rating of4 (6 -- 2, remembering the first one's free).
 
 ![[att_r.svg|30 ]] [[Attack]]: You can opt to do half damage, rounded up, to freeze the target in place. This creates a barrier to their movement with a difficulty to overcome equal to the damage dealt.
 

@@ -577,8 +577,7 @@ fighter their action for the turn.
 
 Passive opposition means the fighter's struggling against the
 environment. If either the starting zone or destination zone has an
-aspect that suggests an obstacle to be overcome, the difficulty is Fair
-(+2). If_both_zones have such an aspect, the difficulty is Great (+4).
+aspect that suggests an obstacle to be overcome, the difficulty is Fair (+2). If_both_zones have such an aspect, the difficulty is Great (+4).
 
 > _Olivia is pinned in an**Icy**open zone by enemy archery volleys from
 > a nearby cliff. She wants to get out and under cover of the
@@ -615,8 +614,7 @@ want_them_to be---and to resist being moved where they want_you_to be.
 We've included some examples below of how you can take advantage of the
 four basic actions to create specific _maneuvers_.
 
-Most maneuvers allow your character to move to a more favorable location
-(e.g., adjacent zone with a useful aspect such as ***[Higher
+Most maneuvers allow your character to move to a more favorable location (e.g., adjacent zone with a useful aspect such as ***[Higher
 Ground] ***or [_**Good Footing**_]), or move an
 opponent to a less favorable location (adjacent zone with a troublesome
 aspect such as ***[Avalanche!] ***or where the opponent will be

@@ -292,8 +292,7 @@ case even as people tell them to mind their own business and let the
 police do their job.
 
 In order to give their relationships some structure, each character
-should tie into the impending issue selected at the start of the session
-(either [The Boeing Bust] or [Pike's Place
+should tie into the impending issue selected at the start of the session (either [The Boeing Bust] or [Pike's Place
 Preservation]) in addition to their other relationship aspects.
 These characters don't have to be good friends---a labor organizer
 working at Boeing, a mechanic who is out of work because of layoffs, and

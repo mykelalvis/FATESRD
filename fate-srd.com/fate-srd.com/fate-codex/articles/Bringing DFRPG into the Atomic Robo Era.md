@@ -247,8 +247,7 @@ magic in question.
 by relying on your knowledge of magic, perhaps by searching through
 forbidden tomes or remembering what you learned as an apprentice. This
 lets you determine the hidden weaknesses of monsters (`Allergic to
-Inherited Silver!]), figure out how to summon a Faerie Queen
-(`By Name and Blood and Deed...]), or outsmart a sphinx in a
+Inherited Silver!]), figure out how to summon a Faerie Queen (`By Name and Blood and Deed...]), or outsmart a sphinx in a
 riddle game (`It's Always the Left Door]).### Combat Is Combat
 
 Evocation in DFRPG was limited by mental stress because of how powerful

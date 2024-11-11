@@ -24,6 +24,8 @@ This skill is in the default list to give you a basic, easy way to handle wealth
 - **Savvy Investor**. You get an additional free invoke when you create advantages with [[Resources]], provided that they describe a monetary return on an investment you made in a previous session. (In other words, you can't retroactively declare that you did it, but if it happened in the course of play, you get higher returns.)
 - **Trust Fund Baby**. Twice per session, you may take a boost representing a windfall or influx of cash.
  
+
+
 ### Limiting [[Resources]]
 
 If someone is using the [[Resources]] skill a bit too often, or you just want to represent how continually tapping into your source of wealth provides diminishing returns, you can try one of the following ideas:

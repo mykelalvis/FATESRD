@@ -29,5 +29,7 @@ If you're going to do this, make sure that you have a reason for it besides peda
 - **Better than New!** Whenever you succeed with style on an overcome action to repair a piece of machinery, you can immediately give it a new [[situation aspect]] (with a free invoke) reflecting the improvements you've made, instead of just a boost.
 - **Surgical Strikes**. When using [[Crafts]] in a conflict involving machinery, you can filter out unwanted targets from whole-zone attacks without having to divide up your [[shift]]s ([[challenge|normally, you'd  need to divide your roll between your  targets]]).
  
+
+
 If building constructs and creating items is a big part of your game,check out [[Extras]] for a discussion of what might result from the use of [[Crafts]].
 

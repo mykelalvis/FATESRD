@@ -123,7 +123,7 @@ System, page 22.)
 Continue to pass the spotlight around the table and define one face for
 the impending issue and two faces for the current issue. If you limit
 the number of faces to three, you can ensure that all of the NPCs can
-enter play if needed. Name each face and give them a (public or private)
+enter play if needed. Name each face and give thema (public or private)
 goal. Faces are tied to either the impending or current issue, but they
 should also have a clear motivation and/or drive to continue being part
 of the story. Each NPC is a useful tool for signaling to your players
@@ -318,8 +318,7 @@ energy, so only introduce one and save it for last.
 Base the first encounter you present to the players around a challenge
 that uses the current issue and one of its faces. Make the first
 encounter a challenge---not a contest or a conflict---and set it at one
-of the defined places. There's no need to plot out how it should resolve
-(negatively or positively) because the major conflict hasn't played out
+of the defined places. There's no need to plot out how it should resolve (negatively or positively) because the major conflict hasn't played out
 yet. Whether your heroes go into the final act feeling prepared or just
 having taken a loss, they can still have a satisfying end scene.
 

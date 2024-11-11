@@ -54,11 +54,9 @@ your character better.
 ## Adding Skills
 
 In addition to helping you create aspects, each prompt also corresponds
-to a set of skills. Perhaps a _Flamer_ has Good (+3) [[Provoke]] and Good
-(+3) [[Shoot]]. Although the skills vary with each prompt, you get the same
+to a set of skills. Perhaps a _Flamer_ has Good (+3) [[Provoke]] and Good (+3) [[Shoot]]. Although the skills vary with each prompt, you get the same
 skill points from each table; e.g., the table in the first phase will
-always grant you one skill at Fair (+2) and three skills at Average
-(+1). If you roll through all four phases, you can count on getting
+always grant you one skill at Fair (+2) and three skills at Average (+1). If you roll through all four phases, you can count on getting
 three Good skills, three Fair skills, and four Average skills.
 
 > Tomas looks at the full prompt for Insect and finds that it gives him
@@ -540,8 +538,7 @@ Chameleon       Ghost       Metalhead    Insect         Oracle
 
 The fourth phase tells you what your problems are. Everyone rolls on the
 same table, but corporate characters set one die to + and non-corporate
-ones set one die to - before rolling. The table gives a stunt and a Fair
-(+2) skill.
+ones set one die to - before rolling. The table gives a stunt and a Fair (+2) skill.
 
 Trouble
 

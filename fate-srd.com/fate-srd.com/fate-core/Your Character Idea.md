@@ -78,6 +78,8 @@ Before you go any further, talk with the GM about your character's trouble. Make
 >
 > After seeing the other two go for personal struggles, Ryan wants to add a bit to the setting by having a problematic relationship trouble. He wants something that's involved with his high concept, someone he can't just fight openly against---he wants to see intrigue in his story. So he writes down [Rivals in the Collegia Arcana] (which also names a group of people in the setting, that Ryan's character is a part of).
  
+
+
 ### The Bright Side of Troubles
 
 Since your trouble is an aspect, it's something you should also be able to [invoke](../invoking-compelling-aspects/index.html), right? Because you've been so focused on how this complicates your character's life, it's easy to miss how a trouble also helps your character.

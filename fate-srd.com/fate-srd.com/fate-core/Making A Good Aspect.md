@@ -59,6 +59,8 @@ table what they think it means.
 - ~~[Memories, Wishes, and Regrets]~~
 - [Scars from the War]
  
+
+
 ## If You Get Stuck
 
 Now you know what makes for a good aspect, but that doesn't narrow down your potential choices any---you still have a nearly infinite set of topics and ideas to choose from.

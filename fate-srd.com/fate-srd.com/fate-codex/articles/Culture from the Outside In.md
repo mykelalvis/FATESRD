@@ -226,8 +226,7 @@ pick two Good (+3) skills. That's it!
 
 NPCs from this culture will tend to have these skills at higher than
 normal ranks for their type. Cultures that come into conflict will use
-these skills as characters would, but in the context of cultural [[shift]]s
-(explained below).
+these skills as characters would, but in the context of cultural [[shift]]s (explained below).
 
 ### Cultural Stunts
 

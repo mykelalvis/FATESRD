@@ -48,6 +48,8 @@ The Manor also has four defining aspects:
 - The **security** aspect refers to the Manor's primary defenses, whatever makes the Manor a good place in which to take shelter.
 - The **weakness** aspect refers to the Manor's inherent problems that threaten the struggling community or expose it to harm.
  
+
+
 ### Quick Start Manor
 
 Location: [Edge of a Major City]

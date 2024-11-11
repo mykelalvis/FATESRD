@@ -51,8 +51,7 @@ few enough that picking three is still fast.
 ## Ratings
 
 The usual [[Fate Core]] skill pyramid doesn't apply to skills in modes.
-Instead, each player picks three modes and rates them---one at Good
-(+3), one at Fair (+2), and one at Average (+1)---and the mode's rating
+Instead, each player picks three modes and rates them---one at Good (+3), one at Fair (+2), and one at Average (+1)---and the mode's rating
 becomes the default rating for all of its skills. Skills at this rating
 are **trained**. Skills one step above their mode's level are
 **focused**, and skills two steps above are **specialized**.

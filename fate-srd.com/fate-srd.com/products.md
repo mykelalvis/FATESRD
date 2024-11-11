@@ -488,7 +488,7 @@ something to the list, [let us know](../contact-us/index.html).
 
 - [Return to the Stars Core
   Game](https://msabalau.itch.io/return-to-the-stars-rpg)
-- [The Stellar Beacon 2: Sci-Fi Gaming and essays on Fanfiction and
+- [The Stellar Beacon 2: Sci-fiGaming and essays on Fanfiction and
   Optimizm](https://msabalau.itch.io/stellar-beacon-2)
 - [The Stellar Beacon: Hopepunk
   Issue](https://msabalau.itch.io/the-stellar-beacon-hopepunk)

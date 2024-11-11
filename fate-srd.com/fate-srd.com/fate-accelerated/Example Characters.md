@@ -15,6 +15,8 @@ Reth is 14 years of age. He has dark brown skin and dark hair that he wears in t
 
 RETH
 
+
+
 High Concept: [Suncaller of the Andral Desert]
 
 Trouble: [Steel Assassins Want Me Dead]
@@ -22,6 +24,8 @@ Trouble: [Steel Assassins Want Me Dead]
 Other Aspects: [My Kung Fu Is The Strongest]; [Crush On Avasa]; [I Can Learn from Serio's Experience]
 
 APPROACHES
+
+
 
 Careful: Fair (+2)
 
@@ -37,6 +41,8 @@ Sneaky: Average (+1)
 
 STUNTS
 
+
+
 `Stance of the Defiant Sun`: Because I have perfected the Stance of the Defiant Sun, I gain a +2 to Forcefully defend in hand-to-hand combat. 
 
 (May take two more stunts without reducing refresh!)
@@ -44,6 +50,8 @@ STUNTS
 STRESS **O** **O** **O**
 
 CONSEQUENCES
+
+
 
 Mild (2):
 
@@ -58,6 +66,8 @@ REFRESH: 3
 Voltaire is captain of the Cirrus Skimmer, a skyship that roams a vast sea of clouds. She's a cat person, her body a blend of human and feline features. She wears an ostentatious assortment of piratey clothes including a long brown jacket, knee-high boots, a feathered cap, and a basket-hilted cutlass. Being a cat person, she does have the tendency to nod off at odd moments...
 
 VOLTAIRE
+
+
 
 High Concept: [Feline Captain of Cirrus Skimmer]
 
@@ -81,12 +91,16 @@ Sneaky: Fair (+2)
 
 STUNTS
 
+
+
 `Swashbuckling Swordswoman`: Because I am a Swashbuckling Swordswoman, I gain a +2 to Flashy attacks when crossing blades with a single opponent.
 (May take two more stunts without reducing refresh!)
 
 STRESS **O** **O** **O**
 
 CONSEQUENCES
+
+
 
 Mild (2):
 
@@ -110,6 +124,8 @@ Other Aspects: [I Hate Those Guys in Cyclops House]; [Sarah Has My Back]; [Dex
 
 APPROACHES
 
+
+
 Careful: Mediocre (+0)
 
 Clever: Fair (+2)
@@ -124,12 +140,16 @@ Sneaky: Good (+3)
 
 STUNTS
 
+
+
 `Teacher's Favorite`: Because I am a Teacher's Favorite, once per session I may declare that a helpful teacher arrives in the scene. 
 (May take two more stunts without reducing refresh!)
 
 STRESS **O** **O** **O**
 
 CONSEQUENCES
+
+
 
 Mild (2):
 
@@ -145,6 +165,8 @@ Dr. Flushing is a fellow at the Institute for Gravitical and Electro-Mechanical 
 
 BETHESDA FLUSHING
 
+
+
 High Concept: [Chief Field Agent of IGEMA]
 
 Trouble: [I'll Get You, von Stendahl!]
@@ -152,6 +174,8 @@ Trouble: [I'll Get You, von Stendahl!]
 Other Aspects: [My Inventions Almost Always Work. Almost.]; [My Grad Students Come Through, Just Not How I Expect Them To]; [I Trust Dr. Alemieda's Genius]
 
 APPROACHES
+
+
 
 Careful: Fair (+2)
 
@@ -167,6 +191,8 @@ Sneaky: Mediocre (+0)
 
 STUNTS
 
+
+
 `Experimental Helo Pack`: When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly [[create advantage]] or overcome an obstacle if flying would be both possible and helpful.
 
 `Gadgeteer`: Because I am a Gadgeteer, once per session I may declare that I have an especially useful device that lets me eliminate one [[situation aspect]]. 
@@ -175,6 +201,8 @@ STUNTS
 STRESS **O** **O** **O**
 
 CONSEQUENCES
+
+
 
 Mild (2):
 

@@ -100,7 +100,7 @@ the player to choose from.
 > guards posted around the perimeter of the camp to watch for zombies.
 > He rolls his [[Rapport]] and gets (+2) Fair, but needed to get (+3) Good.
 > He spends a [[fate point]] to invoke Camping Trip in the Ozarks to remind
-> Marge of the dangers in the wild and raise his roll to a (+4) Great.
+> Marge of the dangers in the wild and raise his roll toa (+4) Great.
 
 The relationship also has a stress track. The number of stress boxes in
 it is equal to the number of bonding moments that the relationship has.

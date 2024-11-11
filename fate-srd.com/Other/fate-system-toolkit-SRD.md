@@ -643,6 +643,8 @@ Here are a few examples of power levels you can use for your own games.
 
 GRITTY NOIR
 
+
+
 - Eight skills: 3 Average (+1), 3 Fair (+2), 2 Good (+3) (15 skill points equivalent)
 - Skill cap at Good (+3)
 - Refresh 2
@@ -651,6 +653,8 @@ GRITTY NOIR
 - 5 aspects
 
 PULP ADVENTURE
+
+
 
 - Fifteen skills: 5 Average (+1), 4 Fair (+2), 3 Good (+3), 2 Great (+4), 1 Superb (+5) (35 skill points equivalent)
 - Skill cap at Superb (+5)
@@ -963,7 +967,7 @@ In [[Fate Core]], weapons are dangerous if you use the rules in the Extras chapt
 
 When you use these rules, Weapon ratings still start at 1 and go up, but they can go up a bit further (say to 5 or 6, for the most lethal of weapons). Instead of simply adding a weapon's rating to the [[shift]]s you generate on a hit, though, a Weapon rating provides a minimum number of [[shift]]s of stress you can score with that weapon. For example, a longsword with Weapon: 3 does 3 [[shift]]s of stress if you tie, or if you roll 1, 2, or 3 [[shift]]s on your attack. Even for a grazing hit, you'll still always deal at least 3 [[shift]]s of stress. If you roll [[shift]]s beyond that, you simply deal that much stress and ignore the Weapon rating.
 
-Armor ratings do the opposite; they tell you what the maximum number of [[shift]]s of stress you'll take from an attack is. Armor ratings start at 4 (for light armor) and go down to 1 (for the heaviest plate or most advanced powered tactical armor). The exception to this is when the attacker succeeds with style—if this happens, ignore the Armor rating. The attacker does full damage when she succeeds with style.
+Armor ratings do the opposite; they tell you what the maximum number of [[shift]]s of stress you'll take from an attack is. Armor ratings start at4 (for light armor) and go down to1 (for the heaviest plate or most advanced powered tactical armor). The exception to this is when the attacker succeeds with style—if this happens, ignore the Armor rating. The attacker does full damage when she succeeds with style.
 
 Armor ratings trump Weapon ratings. This means that someone with Weapon 5 attacking someone with Armor 3 will still only deal 3 stress at most, unless they succeed with style.
 
@@ -1004,6 +1008,8 @@ That doesn't mean that the concept doesn't have value, though. If you want to us
 ## If you want something that's a little more in keeping with the ethos of [[Fate Core]], and that doesn't impose a penalty, try this out.
 
 SUPPLEMENTAL ACTION
+
+
 
 ## When you perform some minor action in addition to your primary action—moving a zone, drawing a weapon, ducking behind cover, or anything else that the GM deems is a supplemental action—you create a boost such as Distracted, Obscured View, or Shaky Aim, which lasts until your next turn starts. You can perform only one such action, so you'll create only one such boost. Anyone acting against you or defending against your action can use this boost—at which point it goes away, like a normal boost. Also, the GM may compel you with it once for free—meaning that she doesn't have to offer you a [[fate point]], but you may still pay one to resist the compel—at which point it disappears.
 
@@ -1231,6 +1237,8 @@ Other advantage effects depend on the specific element invoked.
 
 BARRIERS
 
+
+
 Barrier is a shorthand term for some kind of obstacle between one zone and the next, such as a wall of ice. When a character attempts to penetrate, circumvent, or destroy a barrier, the value of the barrier is the difficulty to do so.
 
 In general, a barrier exists between two zones, but it is possible that a barrier might be longer, even completely encircling a zone. The creation of a barrier is a special case of creating an advantage using the Stormcaller skill. It creates a barrier equal to the result of the Stormcaller's roll. So, if the character rolls a Good (+3), then the barrier has a value of 3. A character who rolls less than a +1 fails to generate a substantial barrier. Specific storms may modify this roll, or offer extra options.
@@ -1267,7 +1275,7 @@ One other important note: Barriers cut both ways, and the creator gets no specia
 
 **[Overcome] Overcome:** If what's being overcome is a physical barrier, and the caller beats the target to overcome by 2, then remove the barrier completely.
 
-**[Create] Create an Advantage:** Gain a +1 to rolls to create any barriers using the Glacier. When you create a barrier, you may actually create multiple contiguous barriers. Each additional length of the barrier—a “length” being a barrier between any two zones—reduces its rating by 1. So, if you got a +6, and wanted to create a 3-length barrier, it would have a rating of 4 (6 – 2, remembering the first one's free).
+**[Create] Create an Advantage:** Gain a +1 to rolls to create any barriers using the Glacier. When you create a barrier, you may actually create multiple contiguous barriers. Each additional length of the barrier—a “length” being a barrier between any two zones—reduces its rating by 1. So, if you got a +6, and wanted to create a 3-length barrier, it would have a rating of4 (6 – 2, remembering the first one's free).
 
 **[Attack] Attack:** You can opt to do half damage, rounded up, to freeze the target in place. This creates a barrier to their movement with a difficulty to overcome equal to the damage dealt.
 
@@ -1502,6 +1510,8 @@ Depending on the time and place, the Shadow is either a roguish trickster or an 
 ## **The Name Is a Mask to the World:** Any time after you hear someone's name from their own lips, you may duplicate their face, voice, and manner until the sun has risen twice. You may never mimic the same person twice.
 
 THE POWER OF NAMES
+
+
 
 Even those who don't fully understand the nature of the Shadow understand that giving a stranger your name is a gesture of trust. How careful people are about this varies from culture to culture, but it is usually at least a consideration.
 
@@ -2327,7 +2337,7 @@ It's also possible to use this model to represent large, glowing energy construc
 
 To cosmic it up, you could reduce the cost of effects 2 and 3 by one step. This is very close to sorcery as an all-purpose skill, but for certain genres—like supers—that may be apt.
 
-With a change in color, this also becomes an excellent system to handle certain sci-fi gadgets, especially ill-defined, all-purpose tools, even those with a bit of sonic to them. In this case, the physical manifestation is replaced with technobabble and interaction with technology. Effect 0 is an array of accidental electronic effects, effect 1 is largely unchanged, but effect 3 basically allows for “magic” to be used as super-hacking, doing anything that the local equipment is capable of. Effect 4 only applies when there's an existing unit to take over—like a robot or cargo loader—and Effect 5 is pretty much off the table, unless the GM really likes “what happens if I push all the buttons?” scenarios.
+With a change in color, this also becomes an excellent system to handle certain sci-figadgets, especially ill-defined, all-purpose tools, even those with a bit of sonic to them. In this case, the physical manifestation is replaced with technobabble and interaction with technology. Effect 0 is an array of accidental electronic effects, effect 1 is largely unchanged, but effect 3 basically allows for “magic” to be used as super-hacking, doing anything that the local equipment is capable of. Effect 4 only applies when there's an existing unit to take over—like a robot or cargo loader—and Effect 5 is pretty much off the table, unless the GM really likes “what happens if I push all the buttons?” scenarios.
 
 ### The Six Profanities
 
@@ -2945,6 +2955,8 @@ A unit's quality—Average, Fair, or Good—determines how many skills, aspects,
 ---
 
 UNIT SKILLS
+
+
 
 Here's a sample list of skills taken from Fate Core that units might have.
 

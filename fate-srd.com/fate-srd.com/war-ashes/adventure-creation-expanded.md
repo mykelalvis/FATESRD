@@ -532,7 +532,7 @@ rank-and-file minions._
 
 **Vidaar Sailor**
 
-Weight: 1 (Sentian-sized)
+Weight:1 (Sentian-sized)
 
 [_Vidaar Sailor_]; [_We Are Skyhammers!_]
 
@@ -575,7 +575,7 @@ gang might look like this:_
 
 Press Gang of the _Skyhammer_
 
-Weight: 6 (6 crew members that are Sentian-sized)
+Weight:6 (6 crew members that are Sentian-sized)
 
 [_Press Gang_]; [_Vidaar Sailors_]; [_We Are
 Skyhammers!_]
@@ -602,8 +602,7 @@ doesn't, just have them flee. Minions are good at that.)
 
 **Swarms: **Remember swarms? We talked about them on page 225. Swarms
 are groups of creatures which individually have a weight of 0, meaning
-they're too small to be a serious threat to the average character
-(annoying, yes; a threat, no). But when they swarm, they can increase
+they're too small to be a serious threat to the average character (annoying, yes; a threat, no). But when they swarm, they can increase
 their weight: a small swarm, the size of an average Sentian, is weight
 1; a big swarm, one about the size of an Ur-Kuld, is weight 2; and a
 huge swarm, one as big as a Marhn, is weight 4.
@@ -670,8 +669,7 @@ circumstances are and make them pull out all the stops.
 **Rules of Thumb:** If the task isn't very tough at all, give it a
 Mediocre (+0)---or just tell the player they succeed without a roll.
 
-If you can think of at least one reason why the task is tough, pick Fair
-(+2).
+If you can think of at least one reason why the task is tough, pick Fair (+2).
 
 If the task is extremely difficult, pick Great (+4).
 

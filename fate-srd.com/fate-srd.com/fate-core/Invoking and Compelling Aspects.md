@@ -17,6 +17,8 @@ In order to invoke an aspect, explain why the aspect is relevant, spend a [[fate
 - Pass a +2 benefit to another character's roll, if it's reasonable that the aspect you're invoking would be able to help.
 - Add +2 to any source of passive opposition, if it's reasonable that the aspect you're invoking could contribute to making things more difficult. You can also use this to create passive opposition at Fair (+2) if there wasn't going to be any.
   
+
+
   ### The Reroll Vs. The +2
 
 Rerolling the dice is a little riskier than just getting the +2 bonus, but has the potential for greater benefit. We recommend you reserve this option for when you've rolled a --3 or a --4 on the dice, to maximize the chance that you'll get a beneficial result from rerolling. [The odds are better that way](../taking-action-dice-ladder/index.html#the-math-behind-the-dice).It doesn't matter when you invoke the aspect, but usually it's best to wait until after you've rolled the dice to see if you're going to need the benefit. You can invoke multiple aspects on a single roll, but you cannot invoke the same aspect multiple times on a single roll. So if your reroll doesn't help you enough, you'll have to pick another aspect (and spend another [[fate point]]) for a second reroll or that +2.

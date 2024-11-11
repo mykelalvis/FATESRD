@@ -34,7 +34,7 @@ conflicts to succeed at a cost. It's always there, in the background,
 making your character shine. But it can do so much more.
 
 Both Core and FAE use the same basic mechanics for their stress tracks:
-each box has a value from 2 to 4 (set right in the middle at 3 for FAE),
+each box has a value from 2 to4 (set right in the middle at 3 for FAE),
 and when you check a box you use its value to reduce [[shift]]s of an
 attack. Another way to look at it is this: _check a stress box to add
 its value to your roll_. If you fail a defense roll by 2 and you check

@@ -8,8 +8,7 @@ Odds and Ends
 
 This work is based on [High Fantasy Magic](<http://www.drivethrurpg.com/product/199567/High-Fantasy-Magic-A-Simple-Magic-System-for-Fate-Core--Accelerated?affiliate_id=144937>)
 is © 2017 [[Nathan Hare]] (found at <http://rpg.nathanhare.net>), and licensed
-under the Creative Commons Attribution 4.0 International license
-(<http://creativecommons.org/licenses/by/4.0/).##> Introduction
+under the Creative Commons Attribution 4.0 International license (<http://creativecommons.org/licenses/by/4.0/).##> Introduction
 
 The adventurers slowly creep down a dimly-lit corridor. The damp
 stonework glistens in the dancing of their torches. Then ahead of them
@@ -363,8 +362,7 @@ boost.
 
 [Pour this potion on a bush or ]sappling[ to automatically create the advantage Plant Elemental. The plant uproots
 itself from the ground and will follow its creator's commands as best
-as it can. It gains either one skill at Average (+1) and a one-
-point stress box or a free  #TODO
+as it can. It gains either one skill at Average (+1) and a one-point stress box or a free  #TODO
 invoke.
 
 # Disciplines & Stunts
@@ -383,8 +381,7 @@ not exhaustive and are provided as guidelines rather than rules.
 ### Air
 
 You have mastered control over the air. This discipline allows you to
-fly for short bursts ([[Athletics]]), push and pull the air
-([[Physique]]/casting skill), and even attack with it ([[Shoot]]). You can
+fly for short bursts ([[Athletics]]), push and pull the air ([[Physique]]/casting skill), and even attack with it ([[Shoot]]). You can
 [[create advantage]] to allow yourself or someone else to fly for longer
 periods of time (casting skill). The difficulty for creating an
 advantage to allow flight should be around Fantastic (+6). You can also
@@ -400,8 +397,7 @@ difficulty---although this doesn't quite make them "living" again.
 
 ### Earth
 
-You have mastered control of stone and dirt. You can move earth
-([[Physique]]), shape it ([[Crafts]]), and attack enemies at range ([[Shoot]]). You
+You have mastered control of stone and dirt. You can move earth ([[Physique]]), shape it ([[Crafts]]), and attack enemies at range ([[Shoot]]). You
 can animate piles of rocks or dirt into a creature capable of following
 commands ([[Provoke]]), starting at a Good (+3) difficulty.
 
@@ -409,8 +405,7 @@ commands ([[Provoke]]), starting at a Good (+3) difficulty.
 
 You have mastered the control of magical energy. You can manipulate
 energy into various sparkling blue, translucent forms, like a key to
-unlock a door ([[Burglary]]), a large hand to lift something out of your way
-([[Physique]]), a shield for protection ([[Crafts]]), or a lightning bolt to
+unlock a door ([[Burglary]]), a large hand to lift something out of your way ([[Physique]]), a shield for protection ([[Crafts]]), or a lightning bolt to
 attack someone at range ([[Shoot]]). You can animate objects (excluding what
 is covered by other disciplines)---such as armor, weapons, and
 rugs---into a creature capable of following commands ([[Provoke]]), starting
@@ -435,8 +430,7 @@ projections ([[Provoke]]).
 
 You have mastered the power of life force itself. With it, you can begin
 the healing process on consequences (casting skill), create wards of
-protection ([[Crafts]]), and even temporarily focus the energy into weapons
-([[Crafts]]) and angelic beings ([[Provoke]]), starting at a Good (+3)
+protection ([[Crafts]]), and even temporarily focus the energy into weapons ([[Crafts]]) and angelic beings ([[Provoke]]), starting at a Good (+3)
 difficulty.
 
 ### Mind
@@ -448,8 +442,7 @@ complete control of less-intelligent beings.
 
 ### Nature
 
-You have mastered control over nature. You can grow plants from nothing
-(casting skill), grab enemies with vines and tree limbs ([[Physique]]), fire
+You have mastered control over nature. You can grow plants from nothing (casting skill), grab enemies with vines and tree limbs ([[Physique]]), fire
 thorns at a foe from range ([[Shoot]]), and secrete poisonous toxins ([[Lore]]).
 You can animate and command plants to do your bidding ([[Provoke]]),
 starting at a Good (+3) difficulty.
@@ -457,8 +450,7 @@ starting at a Good (+3) difficulty.
 ### Sight
 
 You have mastered control over what you see and perceive. You can
-uncover hidden secrets ([[Investigate]]) and discern illusions from reality
-([[Empathy]]). You can also look or listen in on places, people, or objects
+uncover hidden secrets ([[Investigate]]) and discern illusions from reality ([[Empathy]]). You can also look or listen in on places, people, or objects
 that you know well, no matter the distance (casting skill). These spells
 should increase in difficulty due to a lack of familiarity with the
 target and greater distances.
@@ -469,13 +461,11 @@ You have mastered the art of teleportation. You can teleport to a
 location that you know well or can see ([[Athletics]]). Destinations that
 are farther away and/or not as well known to the caster call for higher
 difficulties. You can also teleport other beings and objects to your
-location or a location near you ([[Provoke]]/casting skill) and open portals
-(casting skill).
+location or a location near you ([[Provoke]]/casting skill) and open portals (casting skill).
 
 ### Transform
 
-You have mastered the art of shapeshifting. You can transform yourself
-(casting skill) or another being ([[Provoke]]) into the form of another
+You have mastered the art of shapeshifting. You can transform yourself (casting skill) or another being ([[Provoke]]) into the form of another
 creature or person that you are familiar with. This is a Create an
 Advantage action. Transforming into creatures significantly smaller or
 larger than the target make the spell much more difficult. Changing

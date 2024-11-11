@@ -85,8 +85,7 @@ adjacent zone. The target can oppose this action with [[Fight]] or
 At the end of the combat, take note of which units are uninjured,
 injured, and taken out. After combat, injured units immediately recover
 and become available for duty. If any crew members are taken out, each
-character with the Doctor stunt can roll Alchemy once against a Mediocre
-(+0) difficulty to attempt to prevent the crew members from dying.
+character with the Doctor stunt can roll Alchemy once against a Mediocre (+0) difficulty to attempt to prevent the crew members from dying.
 Characters with Alchemy at Average (+1) or higher can provide teamwork
 bonuses to these rolls, even without the Doctor stunt. Each [[shift]]
 preserves the life of ten crew members. Any crew members who were taken

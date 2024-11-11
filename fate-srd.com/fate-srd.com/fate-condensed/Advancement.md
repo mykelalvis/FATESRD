@@ -55,8 +55,7 @@ up your skill points rather than spend them immediately, allowing big
 increases all at once.
 
 Ruth wants to increase her [[Lore]] from Average (+1) to Fair (+2), but this
-means she'd have four Fair (+2) skills and only three Average
-(+1)...that won't do. Luckily, she has saved a second skill point from
+means she'd have four Fair (+2) skills and only three Average (+1)...that won't do. Luckily, she has saved a second skill point from
 an earlier milestone, so she also increases her Mediocre (+0) [[Empathy]] to
 Average (+1). Now she has one Great (+4), two Good (+3), four Fair (+2),
 and four Average (+1) skills.

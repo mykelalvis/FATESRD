@@ -499,8 +499,7 @@ stress track still works the same way. Additionally, instead of dying,
 your heart gets broken, and you move to another city far away.
 
 When taking actions, consider that you're acting to protect your
-character's heart! Same with NPCs. You can't really take physical damage
-(or really hurt anyone physically) so everything you do is pointed
+character's heart! Same with NPCs. You can't really take physical damage (or really hurt anyone physically) so everything you do is pointed
 toward emotional consequences.
 
 ## Opening Scene: The Wake

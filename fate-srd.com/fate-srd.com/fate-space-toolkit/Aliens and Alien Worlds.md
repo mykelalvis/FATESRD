@@ -80,7 +80,7 @@ When you need to create an alien world, you can use these tables. The World Type
 
 **Brimstone World**: A sulfur-rich planet with sulfur dioxide seas, sulfur shores, and an atmosphere composed primarily of sulfur dioxide vapor. Simple microbes and plants may exist under these conditions. Both fire and metals are unavailable on this sort of world.
 
-**Edenworld**: A terrestrial planet with a carbon-based, oxygen-breathing, water-solvent ecology highly compatible with Terran life. Roll again on the Habitable Worlds table.
+**Edenworld**: A terrestrial planet with a carbon-based, oxygen-breathing, water-solvent ecology highly compatible with [[Terra|Terran]] life. Roll again on the Habitable Worlds table.
 
 **Fumeworld**: A waterless planet with a corrosive atmosphere dominated by nitric oxide and nitrogen dioxide, possibly with seas of nitric acid. Metallurgy would be hard to develop on this sort of world.
 
@@ -92,7 +92,7 @@ When you need to create an alien world, you can use these tables. The World Type
 
 **Lushworld**: A warm world with a carbon dioxide atmosphere, rich in plant life. Roll again on the Habitable Worlds table.
 
-**Marginal World**: A world with an ecology in which Terran life is viable but at a disadvantage, due to local competition, rigorous conditions, or some combination. Roll again on the Habitable Worlds table.
+**Marginal World**: A world with an ecology in which [[Terra|Terran]] life is viable but at a disadvantage, due to local competition, rigorous conditions, or some combination. Roll again on the Habitable Worlds table.
 
 **Neonworld**: A relatively large terrestrial world with an atmosphere rich in the dense but chemically inert noble gas neon, allowing large flying creatures to exist if life develops. Roll again on the Habitable Worlds table.
 
@@ -193,7 +193,7 @@ You can use the Bronze Rule to give relevant skills to a planetary civilization.
 
 ## Interplanetary Trade and Commerce
 
-Trade is a good reason for characters to travel from planet to planet, and the itinerant space merchant is a classic sci-fi trope, from Nicholas van Rijn in Poul Anderson's _Trader to the Stars_ to _Star Trek's_ tribble-peddling Cyrano Jones in the episode “The Trouble with Tribbles,” as well as Vernor Vinge's STL trading culture, the Qeng Ho, in _A Deepness in the Sky_.
+Trade is a good reason for characters to travel from planet to planet, and the itinerant space merchant is a classic sci-fitrope, from Nicholas van Rijn in Poul Anderson's _Trader to the Stars_ to _Star Trek's_ tribble-peddling Cyrano Jones in the episode “The Trouble with Tribbles,” as well as Vernor Vinge's STL trading culture, the Qeng Ho, in _A Deepness in the Sky_.
 
 If spacecraft can travel between planets, the opportunity for trade will exist. Economic theory states that if it's cheaper for a planet to import some valuable good than to produce it locally, it will try to import those valuables and export some quantity of locally produced goods in exchange, all other things being equal.
 

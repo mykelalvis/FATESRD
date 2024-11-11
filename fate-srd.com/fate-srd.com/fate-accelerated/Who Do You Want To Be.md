@@ -56,6 +56,8 @@ Describe your character's appearance and give them a name.
 - You may write up to two more aspects and [choose a  stunt](../stunts/index.html) if you wish, or you may do that during
   play.
   
+
+
   ### Approaches
 
 Choose your **approaches**.

@@ -31,7 +31,7 @@ Meanwhile, humanity has strived to make a home for itself among the stars. They 
 
 ### Species Stat Blocks
 
-Quinn Murphy's [[Culture from the Outside In]] from The Fate Codex, Volume 1, Issue 2 (page 19) was used to create the different species for Pilots of EDEN.
+Quinn Murphy's [[Culture from the Outside In]] from The Fate Codex, Volume 1, Issue2 (page 19) was used to create the different species for Pilots of EDEN.
 
 ## The Grist
 
@@ -201,7 +201,7 @@ Some skills don't make sense in the setting and are completely cut ([[Contacts]]
 
 #### Hack
 
-Although humanity abandoned the Earth long ago, there is still plenty of technology around. Some of it is in surprisingly good shape. Characters have access to the Hack skill presented in [[Silicon City#New Skill: Hack|Silicon City]] in The Fate Codex, Volume 1, Issue 1 (page 35).
+Although humanity abandoned the Earth long ago, there is still plenty of technology around. Some of it is in surprisingly good shape. Characters have access to the Hack skill presented in [[Silicon City#New Skill: Hack|Silicon City]] in The Fate Codex, Volume 1, Issue1 (page 35).
 
 #### History
 
@@ -230,7 +230,7 @@ Mech Suits are meant to be as self-sufficient as possible. They are lightyears a
 
 #### Survival
 
-The Pilots of EDEN makes use of the Survival skill found in [[Changing Skills - a Matter of Survival]] in The Fate Codex, Volume 1, Issue 2 (page 9). Survival represents all the ways a character can use their knowledge and wits to overcome their environment. Characters with ranks in Survival rely on their quick instincts and perception of a situation.
+The Pilots of EDEN makes use of the Survival skill found in [[Changing Skills - a Matter of Survival]] in The Fate Codex, Volume 1, Issue2 (page 9). Survival represents all the ways a character can use their knowledge and wits to overcome their environment. Characters with ranks in Survival rely on their quick instincts and perception of a situation.
 
 #### Science
 

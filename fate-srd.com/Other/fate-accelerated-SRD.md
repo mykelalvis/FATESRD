@@ -30,11 +30,15 @@ Here's what you'll need to play:
 If you don't want to use Fudge dice, you don't have to–any set of regular six-sided dice will work. If you're using regular dice, you read 5 or 6 as [+], 1 or 2 as [-], and 3 or 4 as [ ].
 
   
+
+
 ---
 
 The Deck of Fate is an alternative to Fate Dice. It's a deck of cards that mimics the probability of Fate Dice, and it's designed to be used in the same way Fate Dice are. The Deck of Fate will be available from Evil Hat in 2013 or 2014.
 
   
+
+
     - Character sheets, one for each player. You can download these from <a href="http://www.evilhat.com/">www.evilhat.com.
 
 - Index cards or sticky notes or similar slips of paper.
@@ -98,11 +102,15 @@ Your character will have a handful of aspects (between three and five), includin
 First, decide on your character's high concept. This is a single phrase or sentence that neatly sums up your character, saying who you are, what you do, what your “deal” is. When you think about your high concept, try to think of two things: how this aspect could help you, and how it might make things harder for you. Good high concept aspects do both.
 
   
+
+
 ---
 
 Examples: Feline Captain of Cirrus Skimmer; Suncaller of the Andral Desert; Chief Field Agent of IGEMA
 
   
+
+
 ---
 
 ###>Trouble</h3>
@@ -110,11 +118,15 @@ Examples: Feline Captain of Cirrus Skimmer; Suncaller of the Andral Desert; Chie
 Next, decide on the thing that always gets you into trouble. It could be a personal weakness, or a recurring enemy, or an important obligation—anything that makes your life complicated.
 
   
+
+
 ---
 
 Examples: Steel Assassins Want Me Dead; Cast Now, Ask Questions Later; Gotta Look Out for My Little Brother
 
   
+
+
 ---
 
 ###>Another Aspect</h3>
@@ -132,6 +144,8 @@ If you prefer, you can leave one or both of these aspects blank right now and fi
 Describe your character's appearance and give them a name.
 
   
+
+
 ---
 
 **CREATING CHARACTERS: THE 30-SECOND VERSION**
@@ -163,11 +177,15 @@ Here's the ladder:
 | -2 | Terrible  |
 
   
+
+
 ---
 
 Your approaches can say a lot about who you are. Here are some examples:
 
   
+
+
     <li><span>The Brute:
 
     Forceful +3, Careful and Flashy +2, Sneaky and Quick +1, Clever +0</li>
@@ -199,6 +217,8 @@ A stunt is a special trait that changes the way an approach works for your chara
 Your refresh is the number of [[fate point]]s you begin each game session with—unless you ended the previous session with more unspent [[fate point]]s than your refresh, in which case you start with the number you had left last time. By default, your refresh starts at three and is reduced by one for each stunt after the first three you choose—essentially, your first three stunts are free! As your character advances, you'll get opportunities to add to your refresh. Your refresh may never go below one.
 
   
+
+
 ---
 
 **HOW MANY STUNTS?**
@@ -237,6 +257,8 @@ How do you know if you're successful? Often, you just succeed, because the actio
 
   </ol>
   
+
+
 ---
 
   ##>Dice or Cards
@@ -258,6 +280,8 @@ Deck of Fate: The Deck of Fate is a deck of cards that copies the statistical sp
 
 These rules are written with the assumption that you're rolling Fate Dice, but use whichever one your group prefers. Anytime you're told to roll dice, that also means you can draw from the Deck of Fate instead.
  
+
+
 ---
 
   ##>Outcomes
@@ -265,6 +289,8 @@ These rules are written with the assumption that you're rolling Fate Dice, but u
 Once you roll your dice, add your approach bonus (we'll talk about that in a moment) and any bonuses from aspects or stunts. Compare the total to a target number, which is either a  or the result of the GM's roll for an NPC. Based on that comparison, your outcome is:
 
   
+
+
     - You fail if your total is less than your opponent's total.
 
     - It's a tie if your total is equal to your opponent's total.
@@ -294,6 +320,8 @@ If you're creating a new aspect or discovering an existing one:
   <li>
 
       
+
+
         - **If you fail:** Either you don't create or discover the aspect at all, or you create or discover it but anopponent gets to invoke the aspect for free. The second option works best if the aspect you create or discover is something that other people could take advantage of (like Rough Terrain). You may have to reword the aspect to show that it benefits the other character instead of you—work it out in whatever way makes the most sense with the player who gets the free invocation. You can still invoke the aspect if you'd like, but it'll cost you a [[fate point]].
 
         - **If you tie:** If you're creating a new aspect, you get a . Name it and invoke it once for free—after that, the boost goes away. If you're trying to discover an existing aspect, treat this as a success (see below).
@@ -520,6 +548,8 @@ When you're hit by an attack, the severity of the hit is the difference between 
 Then, one of two things happens:
 
   
+
+
     - You suffer stress and/or consequences, but you stay in the fight.
 
     - You get taken out, which means you're out of the action for a while.
@@ -559,7 +589,7 @@ You can only check one stress box for any single hit, but you can check a stress
 
 ## What Are Consequences?
 
-Consequences are new aspects that you take to reflect being seriously hurt in some way. Your character sheet has three slots where you can write consequences. Each one is labeled with a number: 2 (mild consequence), 4 (moderate consequence), or 6 (severe consequence). This represents the number of [[shift]]s of the hit the consequence absorbs. You can mark off as many of these as you like to handle a single hit, but only if that slot was blank to start with. If you already have a moderate consequence written down, you can't take another one until you do something to make the first one go away!
+Consequences are new aspects that you take to reflect being seriously hurt in some way. Your character sheet has three slots where you can write consequences. Each one is labeled with a number:2 (mild consequence),4 (moderate consequence), or6 (severe consequence). This represents the number of [[shift]]s of the hit the consequence absorbs. You can mark off as many of these as you like to handle a single hit, but only if that slot was blank to start with. If you already have a moderate consequence written down, you can't take another one until you do something to make the first one go away!
 
 A major downside of consequences is that each consequence is a new aspect that your opponents can invoke against you. The more you take, the more vulnerable you are. And just like situation aspects, the character that creates it (in this case, the character that hit you) gets one free invocation on that consequence. They can choose to let one of their allies use the free invocation. 
 ---
@@ -838,6 +868,8 @@ A campaign is a series of games you play with the same characters, where the sto
 ---
 
     
+
+
       - Cat-people sky pirates in flying ships, always on the run from the Royal Navy trying to catch them.
 
       - Magic-wielding desert townsfolk stand against the invading soldiers of the evil Steel Empire.
@@ -845,6 +877,8 @@ A campaign is a series of games you play with the same characters, where the sto
       - Students at a boarding school for magical youth solve mysteries and uncover secrets of their ancient school.
 
     
+
+
 ---
 
 **LEARNING HOW TO BE A GM**
@@ -871,6 +905,8 @@ Now that your bad guy is doing something the PCs will pay attention to, it's tim
 That said, there are a bunch of tasks the GM needs to perform to run the session:
 
     
+
+
       - Run scenes: A session is made up of individual scenes. Decide where the scene begins, who's there, and what's going on. Decide when all the interesting things have played out and the scene's over.
 
       - Adjudicate the rules: When some question comes up about how to apply the rules, you get final say.
@@ -892,6 +928,8 @@ Low difficulties are best when you want to give the PCs a chance to show off and
     ###>Rules of Thumb:</h3>
 
     
+
+
       - If the task isn't very tough at all, give it a Mediocre (+0)—or just tell the player they succeed without a roll.
 
       - If you can think of at least one reason why the task is tough, pick Fair (+2).
@@ -901,6 +939,8 @@ Low difficulties are best when you want to give the PCs a chance to show off and
       - If the task is impossibly difficult, go as high as you think makes sense. The PC will need to drop some [[fate point]]s and get lots of help to succeed, but that's fine.
 
     
+
+
 ---
 
 **OPTIONAL RULE: APPROACH-RELATED TARGET NUMBERS**
@@ -929,6 +969,8 @@ Mooks: Other bad guys are mooks—unnamed thugs or monsters or goons that are th
     </ol>
 
     
+
+
 ---
 
 **CYCLOPS HOUSE BULLY**
@@ -976,9 +1018,13 @@ Groups of Mooks: If you have a lot of low-level bad guys facing the PCs, you can
       - Give them one stress box for every two individuals in the group.
     </ol>
     
+
+
 ---
 
 GANG OF THUGS
+
+
 
 Axe Handles & Crowbars
 
@@ -1002,6 +1048,8 @@ Reth is 14 years of age. He has dark brown skin and dark hair that he wears in t
 
 RETH
 
+
+
 High Concept:
 
 Suncaller of the Andral Desert
@@ -1011,6 +1059,8 @@ Trouble: Steel Assassins Want Me Dead
 Other Aspects: My Kung Fu Is The Strongest; Crush On Avasa; I Can Learn from Serio's Experience
 
 APPROACHES
+
+
 
 Careful: Fair (+2)
 
@@ -1026,11 +1076,15 @@ Sneaky: Average (+1)
 
 STUNTS
 
+
+
 Stance of the Defiant Sun: Because I have perfected the Stance of the Defiant Sun, I gain a +2 to Forcefully defend in hand-to-hand combat. (May take two more stunts without reducing refresh!)
 
 STRESS **O** **O** **O**
 
 CONSEQUENCES
+
+
 
 Mild (2):
 
@@ -1044,9 +1098,13 @@ REFRESH: 3
 
 Voltaire is captain of the Cirrus Skimmer, a skyship that roams a vast sea of clouds. She's a cat person, her body a blend of human and feline features. She wears an ostentatious assortment of piratey clothes including a long brown jacket, knee-high boots, a feathered cap, and a basket-hilted cutlass. Being a cat person, she does have the tendency to nod off at odd moments…
  
+
+
 ---
 
 VOLTAIRE
+
+
 
 High Concept:
 
@@ -1072,11 +1130,15 @@ Sneaky: Fair (+2)
 
 STUNTS
 
+
+
 Swashbuckling Swordswoman: Because I am a Swashbuckling Swordswoman, I gain a +2 to Flashy attacks when crossing blades with a single opponent. (May take two more stunts without reducing refresh!)
 
 STRESS **O** **O** **O**
 
 CONSEQUENCES
+
+
 
 Mild (2):
 
@@ -1090,6 +1152,8 @@ REFRESH: 3
 
 Abigail is a student at the School of Sorcery, and a member of Hippogriff House. She has light skin and long black hair with a pink streak. She pushes her luck with her school uniform, adding jewelry, studded belts, and dyed designs to the regulation blouse, trousers, and tie. She's especially adept at enchantments. While she loves showing up those goons in Cyclops House, she does have a tendency to act before thinking.
  
+
+
 ---
 
 **ABIGAIL ZHAO**
@@ -1106,6 +1170,8 @@ Dexter Fitzwilliam Is Going Down
 
 APPROACHES
 
+
+
 Careful: Mediocre (+0)
 
 Clever: Fair (+2)
@@ -1120,11 +1186,15 @@ Sneaky: Good (+3)
 
 STUNTS
 
+
+
 Teacher's Favorite: Because I am a Teacher's Favorite, once per session I may declare that a helpful teacher arrives in the scene. (May take two more stunts without reducing refresh!)
 
 STRESS **O** **O** **O**
 
 CONSEQUENCES
+
+
 
 Mild (2):
 
@@ -1138,9 +1208,13 @@ REFRESH: 3
 
 Dr. Flushing is a fellow at the Institute for Gravitical and Electro-Mechanical Advancement (IGEMA), and is one of IGEMA's lead test engineers and field agents. IGEMA is frequently in conflict with agents of various international organizations who seek to steal their technology, take over the world, or both. Gustaf von Stendahl, leader of a shadowy spy agency of uncertain affiliation, is frequently a thorn in her side. Dr. Flushing has bright red hair and is never without several gadgets, including her helicopter pack.
  
+
+
 ---
 
 BETHESDA FLUSHING
+
+
 
 High Concept: Chief Field Agent of IGEMA
 
@@ -1149,6 +1223,8 @@ Trouble: I'll Get You, von Stendahl!
 Other Aspects: My Inventions Almost Always Work. Almost.; My Grad Students Come Through, Just Not How I Expect Them To; I Trust Dr. Alemieda's Genius
 
 APPROACHES
+
+
 
 Careful: Fair (+2)
 
@@ -1164,6 +1240,8 @@ Sneaky: Mediocre (+0)
 
 STUNTS
 
+
+
 Experimental Helo Pack: When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly [[create advantage]] or overcome an obstacle if flying would be both possible and helpful.
 
 Gadgeteer: Because I am a Gadgeteer, once per session I may declare that I have an especially useful device that lets me eliminate one [[situation aspect]]. (May take one more stunt without reducing refresh!)
@@ -1171,6 +1249,8 @@ Gadgeteer: Because I am a Gadgeteer, once per session I may declare that I have 
 STRESS **O** **O** **O**
 
 CONSEQUENCES
+
+
 
 Mild (2):
 

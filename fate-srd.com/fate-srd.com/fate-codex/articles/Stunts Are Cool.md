@@ -77,6 +77,8 @@ A **"Once per session"** effect is the kind of thing you'd expect to see in a TV
 - Gain Armor:4 against physical attacks for one scene.
 - Have just the right tool on hand when you need it, along with a free boost to represent it.
  
+
+
 ### Once Per Significant/Major Milestone
 
 If you take this thinking to the end of the line, there's one more limiter: **"once per significant/major milestone."** If this kind of option interests you, though, the stunt's effect needs to be character-altering in some way if it's going to seem at all worthwhile. You could tie it into the usual milestone rewards, like gaining an additional skill rank (but not refresh) whenever a milestone grants one.  Or you might push boundaries a little and introduce a communal stunt that each player can use once per significant or major milestone---something to reinforce the genre or reflect their cohesion as a team.

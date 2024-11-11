@@ -310,8 +310,7 @@ Sometimes, it makes sense for skills to diverge.
 
 Character ability and player influence shine once again: one character
 can pick up another's slack (competency), while also making for more
-dynamic stories by adding something to the game that no other player can
-(influence).
+dynamic stories by adding something to the game that no other player can (influence).
 
 In some games, players focus on divergent skills to make sure everyone
 has their own niche. Not only does this ensure that their group of
@@ -323,8 +322,7 @@ is less so in [[Fate Core]].
 Tusk excels at sowing fear both among her clan and her enemies, so he
 ranks her [[Provoke]] skill at +4. Mary has already created Zub, who also
 has [[Provoke]] +4. [[Fate Core]] System points out that aspects can help to
-distinguish two characters with a similar skill profile from one another
-(page 59). Zub is scary because he's an [Orc Berserker], while
+distinguish two characters with a similar skill profile from one another (page 59). Zub is scary because he's an [Orc Berserker], while
 Tusk is scary because she has [A Fiery Shadow]. Whenever you
 can solve a problem with fictional positioning in [[Fate Core]], aspects
 will do the job.

@@ -408,8 +408,7 @@ Drazick isn't a martyr or a fool. If the players captured him, he'll try
 to strike a deal to keep himself safe at the expense of the people who
 funded his initial Hydra research. (Even if the Archons didn't capture
 Drazick, he might come forward with a deal now that his organization is
-in trouble!) He claims that he can get the Archons access to La Araña
-(The Spider), the woman who funded a number of designer drugs, including
+in trouble!) He claims that he can get the Archons access to La Araña (The Spider), the woman who funded a number of designer drugs, including
 Hydra. Since the Council knows little about the internal dealings of the
 cartels, they aren't even really sure that La Araña exists. Does Drazick
 really know who La Araña is or is he setting the Archons up for a trap?

@@ -276,11 +276,9 @@ skills are modified or "flavored" to better adapt them to the
 techno-fantasy setting: [[Crafts]] is replaced by Mystech and Glamour,
 [[Burglary]] is replaced by Intrusion, and [[Lore]] is replaced by Education.
 
-Guardians get a broad, flat list of skills: one Good (+3), four Fair
-(+2), and six Average (+1) skills.
+Guardians get a broad, flat list of skills: one Good (+3), four Fair (+2), and six Average (+1) skills.
 
-Specialists get the standard set of skills: one Great (+4), two Good
-(+3), three Fair (+2), and four Average (+1) skills.
+Specialists get the standard set of skills: one Great (+4), two Good (+3), three Fair (+2), and four Average (+1) skills.
 
 **Mystech:** Because mystech creations are complicated, this skill only
 lets you fix, upgrade, tune, or assemble mystech devices from readymade

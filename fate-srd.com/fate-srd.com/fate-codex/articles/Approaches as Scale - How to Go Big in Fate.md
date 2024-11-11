@@ -267,8 +267,7 @@ whatever someone rolls to [[create advantage]] as the target number
 needed to hit to overcome the aspect. If you're human-scale, treat that
 as normal (a 4 to create the advantage means a 4 to overcome). For
 giant-scale threats, double that number. So if a giant-scale threat ends
-up rolling a total of 4 to create an advantage, it will take Legendary
-(+8) roll to overcome. Feel free to ignore this doubling if a
+up rolling a total of 4 to create an advantage, it will take Legendary (+8) roll to overcome. Feel free to ignore this doubling if a
 giant-scale character is overcoming the advantage.
 
 You can use these same rules if you have a mixed group with giant-scale

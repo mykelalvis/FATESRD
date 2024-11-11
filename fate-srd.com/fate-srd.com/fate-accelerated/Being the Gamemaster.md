@@ -62,6 +62,8 @@ When another character is opposing a PC, their rolls provide the opposition in a
 - If the task is extremely difficult, pick Great (+4).
 - If the task is impossibly difficult, go as high as you think makes sense. The PC will need to drop some [[fate point]]s and get lots of help to succeed, but that's fine.
  
+
+
 ### Optional Rule: Approach-related Target Numbers
 
 Sometimes being Careful makes things a lot easier; sometimes it just takes too long. The GM may wish to adjust the target number up or down by 1 or 2 depending on whether you choose a fitting or a problematic approach. This makes things a bit more complex, but for some groups it's worth it.
@@ -120,6 +122,6 @@ Skilled (+2) at: Ganging up, scaring innocent people
 
 Bad (-2) at: Thinking ahead, fighting when outnumbered
 
-Stress: O O (4 thugs)
+Stress: OO (4 thugs)
 
 [[Fate Core]] has a way of handling this, called mobs (see the [[Creating and Playing the Opposition]] section of the [[Running the Game]] section in [[Fate Core]]). Feel free to use that option if you prefer. Note that it may lead to very strong mobs, unless you start with extremely weak mooks---if you want to give your PCs a serious challenge, that could be one way to do it.

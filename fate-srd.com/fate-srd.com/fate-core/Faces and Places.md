@@ -27,6 +27,8 @@ If there's a piece of your setting that's meant to be a [mystery](../using-aspec
 >
 > They could go on, but they know they'll have more ideas after character creation and as they play. That's just enough to paint a picture of what's going on at the very beginning of the story.
  
+
+
 ### Hugo the Charitable
 
 Lieutenant in the Scar Triad

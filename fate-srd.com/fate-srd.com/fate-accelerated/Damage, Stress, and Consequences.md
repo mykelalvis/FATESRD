@@ -38,7 +38,7 @@ Your character sheet has a **stress track**, a row of three boxes. When you take
 
 ## What Are Consequences?
 
-Consequences are new aspects that you take to reflect being seriously hurt in some way. Your character sheet has three slots where you can write consequences. Each one is labeled with a number: 2 (mild consequence), 4 (moderate consequence), or 6 (severe consequence). This represents the number of [[shift]]s of the hit the consequence absorbs. You can mark off as many of these as you like to handle a single hit, but only if that slot was blank to start with. If you already have a moderate consequence written down, you can't take another one until you do something to make the first one go away!
+Consequences are new aspects that you take to reflect being seriously hurt in some way. Your character sheet has three slots where you can write consequences. Each one is labeled with a number:2 (mild consequence),4 (moderate consequence), or6 (severe consequence). This represents the number of [[shift]]s of the hit the consequence absorbs. You can mark off as many of these as you like to handle a single hit, but only if that slot was blank to start with. If you already have a moderate consequence written down, you can't take another one until you do something to make the first one go away!
 
 A major downside of consequences is that each consequence is a new aspect that your opponents can invoke against you. The more you take, the more vulnerable you are. And just like situation aspects, the character that creates it (in this case, the character that hit you) gets one free invocation on that consequence. They can choose to let one of their allies use the free invocation.
 

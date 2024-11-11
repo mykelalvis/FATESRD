@@ -247,8 +247,7 @@ problem of "I can take X stress to do Y stress to opponents," then it
 feels a little less magical.
 
 [[Resources]] and opportunities can overlap a bit in the area of player
-skills. A secondary skill roll to generate mana requires both a resource
-(mana) and an opportunity (the secondary skill roll). This may seem
+skills. A secondary skill roll to generate mana requires both a resource (mana) and an opportunity (the secondary skill roll). This may seem
 muddy, but it's actually a good thing---tying more of the character's
 elements together is a good thing.
 

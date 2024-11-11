@@ -148,8 +148,7 @@ games as blank slates. When the players sit down to create the world,
 they might come to the table with a previously created setting in mind,
 or else they generate fresh game ideas collaboratively. No matter the
 source, the players always have the ability to pick and choose the rules
-of their universe. They might use the shorthand of worlds they know
-(example: "_I want this to be like Star Wars meets Leverage_") but since
+of their universe. They might use the shorthand of worlds they know (example: "_I want this to be like Star Wars meets Leverage_") but since
 they are handed the final say regarding what goes in their universe,
 they can transform that space in any way they please. "_I want to play
 in a Buffy universe_" could be the starting point, but a player might

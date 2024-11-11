@@ -1314,6 +1314,8 @@ And most of all
 
 HAVE FUN
 
+
+
 Fate is a great game but it's still a game! The point of playing is for everyone -player and GM -to have fun. If you're not having fun, FIX IT! If someone at the table isn't having fun, FIX IT!
 
 ---
@@ -1334,10 +1336,10 @@ Both Attack and [[create advantage]] give you the opportunity to buy [[shift]]s 
 
 | Margin of success | [[create advantage]] [[shift]]s | Attack [[shift]]s |
 |---|---|---|---|
-|0 | 2 (boost) | 2 (boost) |
+|0 |2 (boost) |2 (boost) |
 | 1 | 2 | 1 |
 | 2 | 2 | 2 |
-| 3 | 4 (two free invokes) | 3 |
+| 3 |4 (two free invokes) | 3 |
 | 4 | 4 | 4 |
 
 Admittedly, after a margin of success of four, Attack starts to win out -but you generally won't see that margin of success unless you've got a number of free invokes to boost you there, or burn a bunch of [[fate point]]s!

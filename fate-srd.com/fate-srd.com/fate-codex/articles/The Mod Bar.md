@@ -83,6 +83,8 @@ In addition to a countdown clock, fronts also contain a number of special rules 
 - a negative aspect that describes how they're under the influence
 - two separate +1 modifiers to any social skills a character might have (player's choice).
   
+
+
 ### Fronts in Play
 
 When events in the front tick down toward the 12:00 doom, make sure the PCs are aware of the events. Depending on their position in the fiction, they might hear about something through the grapevine or directly witness one of the NPCs making a move. Give them chances to interrupt and get mixed up in the plot!

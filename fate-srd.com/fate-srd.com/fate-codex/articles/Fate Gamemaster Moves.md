@@ -22,8 +22,7 @@ the GM by providing prompts and direction for what to say and when to
 say it.
 
 Make no mistake: these are radical changes to the [[Fate Core]] engine,
-adaptations that build on the basic tools described in [[Fate Core]] System
-(pages 177-223) to give you, the GM, new ways to keep your game moving
+adaptations that build on the basic tools described in [[Fate Core]] System (pages 177-223) to give you, the GM, new ways to keep your game moving
 and provide your players with dynamic stories in which their choices
 matter. Be prepared for a bit of a learning curve while you master these
 new tools!
@@ -57,8 +56,7 @@ story.### Success and Success with Style
 
 For the most part, you don't have to do anything differently when a
 player character succeeds on a roll. If someone tries to overcome
-opposition or create an advantage, follow the rules in [[Fate Core]] System
-(page 130-143) for success and success with style. Success is easy: the
+opposition or create an advantage, follow the rules in [[Fate Core]] System (page 130-143) for success and success with style. Success is easy: the
 player characters simply change the world with their actions.
 
 ### Minor Costs

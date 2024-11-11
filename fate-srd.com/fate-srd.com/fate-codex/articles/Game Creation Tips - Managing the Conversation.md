@@ -24,8 +24,7 @@ Here's some advice on how to manage it.
 
 For as much as we claim to value the experience, it's kind of amazing
 how little we (myself included) pay attention to what state we're in
-when we show up to game. We're all busy, burdened by the thousand tiny
-(and not so tiny) stresses of work and life. We all throw ourselves into
+when we show up to game. We're all busy, burdened by the thousand tiny (and not so tiny) stresses of work and life. We all throw ourselves into
 various forms of recreation, and we all need to recharge.
 
 Yes, gaming is fun and a great way to blow off steam. Game _creation_ is
@@ -175,8 +174,7 @@ you're trying to answer is one of the things you're going to deal with
 in play. Allow it to take on the power of mystery.
 
 In [[Fate Core]]'s Extras chapter, we tease a setting called Ancestral
-Affairs, where the PCs draw power from ancestral spirits and use them to
-(what else?) fight crime. If you're building that setting and you ask,
+Affairs, where the PCs draw power from ancestral spirits and use them to (what else?) fight crime. If you're building that setting and you ask,
 "What is the precise nature of the guardian spirits?," you might wander
 through hours of tangent as people explore different answers to that
 question.
@@ -271,8 +269,7 @@ One such goal could be like the summaries you see in TV listings such as
 TV Guide. They look like this:
 
 "In (name of game), a group of (main character tie) do (main show
-action), in a (genre) world where (major setting detail(s)). Rated
-(rating)."
+action), ina (genre) world where (major setting detail(s)). Rated (rating)."
 
 Being able to articulate what your game's about in these terms is a good
 way of making sure that everyone's on the same page and on board with

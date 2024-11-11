@@ -1,0 +1,1 @@
+**André La Roche** is a gamer and an attorney. Despite this otherwise deadly combination of character flaws, he's pretty relaxed at the gaming table. He previously worked on Margaret Weis Productions' Dragonlance game line. André aspires to be a warrior-poet, and spends his free time randomly spouting existential platitudes.

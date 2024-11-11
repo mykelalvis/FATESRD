@@ -90,7 +90,7 @@ It's also possible to use this model to represent large, glowing energy construc
 
 To cosmic it up, you could reduce the cost of effects 2 and 3 by one step. This is very close to sorcery as an all-purpose skill, but for certain genres---like supers---that may be apt.
 
-With a change in color, this also becomes an excellent system to handle certain sci-fi gadgets, especially ill-defined, all-purpose tools, even those with a bit of sonic to them. In this case, the physical manifestation is replaced with technobabble and interaction with technology. Effect 0 is an array of accidental electronic effects, effect 1 is largely unchanged, but effect 3 basically allows for "magic" to be used as super-hacking, doing anything that the local equipment is capable of. Effect 4 only applies when there's an existing unit to take over---like a robot or cargo loader---and Effect 5 is pretty much off the table, unless the GM really likes "what happens if I push _all_ the buttons?" scenarios.
+With a change in color, this also becomes an excellent system to handle certain sci-figadgets, especially ill-defined, all-purpose tools, even those with a bit of sonic to them. In this case, the physical manifestation is replaced with technobabble and interaction with technology. Effect 0 is an array of accidental electronic effects, effect 1 is largely unchanged, but effect 3 basically allows for "magic" to be used as super-hacking, doing anything that the local equipment is capable of. Effect 4 only applies when there's an existing unit to take over---like a robot or cargo loader---and Effect 5 is pretty much off the table, unless the GM really likes "what happens if I push _all_ the buttons?" scenarios.
 
 ## The Six Profanities
 

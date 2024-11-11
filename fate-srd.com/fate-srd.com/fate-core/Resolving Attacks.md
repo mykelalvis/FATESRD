@@ -114,6 +114,8 @@ Then, you just have to wait the time.
 >
 > This allows Cynere's [Nearly Gutted] aspect to be renamed [Bandaged] and start the recovery process. After the next whole scenario, she'll be able to erase that aspect from her sheet and use her severe consequence again in a subsequent conflict.
  
+
+
 ### Potions and Other Insta-Healing
 
 Many genres have some sort of mechanism by which characters can quickly recover from injuries. Fantasy settings have the ubiquitous healing potion or spell. Sci-fi has superscience dermal regenerators or biogel.  Usually, these mechanisms exists because many games express injuries in terms of a constant numerical penalty that drastically affects a character's effectiveness.

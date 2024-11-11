@@ -318,8 +318,7 @@ chased (since they only need three victories, and the chasers need as
 many as the chased have), so the GM decides that it's a bit unfair with
 everything else she's going to include. Saving Jamal is a timed contest
 with a passive opposition of Fair (+2). Learning the ritual is a short
-contest, just two victories needed, with a passive opposition of Good
-(+3).
+contest, just two victories needed, with a passive opposition of Good (+3).
 
 **Who Can Push for an Objective:** An objective could be exclusive to
 certain characters, exclusive to a side, or open to all. In the example,
@@ -401,8 +400,7 @@ Pressure objectives always scores a victory if no one challenges it on a
 given exchange, and it scores a victory if no one beats or ties its
 difficulty. In any case, it can't succeed with style no matter what
 players roll against it; since these objectives can't succeed with
-style, they should require fewer victories for their negative outcomes
-(though a GM might decide certain pressure objectives scores two
+style, they should require fewer victories for their negative outcomes (though a GM might decide certain pressure objectives scores two
 victories instead if not challenged on a given exchange).
 
 ### Using Pseudo-Skills Instead of Difficulties
