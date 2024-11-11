@@ -14,7 +14,7 @@ The [[Create Advantage]] action in [[Fate Core]] makes it easy to model these so
 
 These one-on-one dueling rules introduce something called the **upper hand**. Only the duelist with the upper hand can actually use a skill with the attack action to inflict harm. The other duelist can take any _other_ action, but cannot attack---until _they_ get the upper hand, of course.
 
-How does one get the upper hand? By succeeding with style with a skill _other_ than one that deals harm in physical conflicts ([[Fight]] or [[Shoot]], or whatever the equivalent is in your game). As soon as one combatant succeeds with style with one of these other skills, they get the upper hand. This _replaces_ the action's usual reward for succeeding with style, such as getting a boost or an extra free invocation. You get either the upper hand _or_ the usual reward, but not both.
+How does one get the upper hand? By succeeding with style with a skill _other_ than one that deals harm in physical conflicts ([[Fight]] or [[Shoot]], or whatever the equivalent is in your game). As soon as one combatant succeeds with style with one of these other skills, they get the upper hand. This _replaces_ the action's usual reward for succeeding with style, such as getting a boost or an extra [[free invocation]]. You get either the upper hand _or_ the usual reward, but not both.
 
 Use a token of some kind to represent the upper hand. Whatever it is, it should be something that can easily be handed back and forth, like a coin, a little plastic cocktail sword, an index card with a hand drawn on it, a fencing glove---whatever works for your group.
 
@@ -54,17 +54,17 @@ It's highly recommended that you use the [Stress-Free variant](../customized-too
 > Now it's Xoren's turn. Being an evil cyborg, he grabs a bystander and
 > flings him at Dekka, hoping to [[Create Advantage]] with [[Physique]]. He
 > beats Dekka by 4 [[shift]]s---enough to gain the upper hand---but she uses
-> that free invocation on [All Shall Suffer for My Pain!] to
+> that [[free invocation]] on [All Shall Suffer for My Pain!] to
 > reduce that to 2 [[shift]]s. Her player explains that Xoren, in his
 > righteous rage, accidentally telegraphed his move. The GM buys it.
 > Xoren puts a [[situation aspect]] of [Civilians in Danger] in
-> play, with one free invocation.
+> play, with one [[free invocation]].
 >
 > Dekka still has the upper hand, and she means to use it. Shoving the
 > poor onlooker to one side and springing forward at Xoren with her
 > photon blade, she attacks with [[Fight]] at +4, beating his [[Fight]] defense
 > of +3. He capitalizes on the fact that she's distracted by those
-> [Civilians in Danger], using his free invocation to bump his
+> [Civilians in Danger], using his [[free invocation]] to bump his
 > total up to +5. After trading a couple more [[fate point]]s, Dekka comes
 > out ahead by a single [[shift]]. Since they're using the Stress-Free
 > variant, that means a mild consequence for Xoren---[Faltering

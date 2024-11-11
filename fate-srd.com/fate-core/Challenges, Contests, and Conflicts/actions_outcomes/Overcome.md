@@ -23,6 +23,7 @@ You may occasionally run into situations where it seems appropriate to provide a
 
 For example, on the overcome action it says you get a boost in addition to success when you succeed with style. But if that overcome roll is going to end the scene, or you can't think of a good boost, You may choose to offer a story detail as an extra benefit instead.
 
+> [!info]- Example
 > Landon stalks around the siege tower of the Red Emperor's fortress, trying to sabotage the ballistas. If he succeeds, the army who hired him has a much better chance in the field when they attack tomorrow morning.
 >
 > Amanda says, "Okay, so you make it to the top of the tower, and you start working. But then, you hear footsteps echoing below you in the tower---sounds like the next guard patrol got here just a bit early."

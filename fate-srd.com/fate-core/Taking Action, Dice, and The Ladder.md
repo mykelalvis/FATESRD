@@ -25,7 +25,7 @@ Players, some of the things you'll do in a Fate game require you to [[Rolling th
 
 When you [[Rolling the Dice|roll the dice]], you're trying to get a high enough roll to match or beat your opposition. That opposition is going to come in one of two forms: **active opposition**, from someone rolling dice against you, or **passive opposition**, from an obstacle that just has a set rating on [[the ladder]] for you to overcome. (GMs, you can also just decide your NPCs give passive opposition when you don't want to roll dice for them.)
 
-Generally speaking, if you beat your opposition on [[the ladder]], you [[Success|succeed]] at your [[action]]. A [[tie]] creates some effect, but not to the extent your character was intending. If you [[Success with Style|win by a lot]], something extra happens (like doing more harm to your opponent in a fight).
+Generally speaking, if you beat your opposition on [[the ladder]], you [[Success|succeed]] at your [[Action]]. A [[tie]] creates some effect, but not to the extent your character was intending. If you [[Success with Style|win by a lot]], something extra happens (like doing more harm to your opponent in a fight).
 
 If you don't beat the opposition, either you don't succeed at your action, you succeed at a cost, or something else happens to complicate the [[Four Outcomes|outcome]]. Some game actions have special results when you fail at the roll.
 

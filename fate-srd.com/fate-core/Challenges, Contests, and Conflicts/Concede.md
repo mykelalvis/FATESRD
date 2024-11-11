@@ -14,12 +14,13 @@ When all else fails, you can also just give in. Maybe you're worried that you ca
 
 Concession gives the other person what they wanted from you, or in the case of more than two combatants, removes you as a concern for the opposing side. You're out of the conflict, period.
 
-But it's not all bad. First of all, **you get a [[fate point]] for choosing to concede**. On top of that, if you've sustained any consequences in this conflict, you get an additional [[fate point]] for each consequence. These [[fate point]]s may be used once this conflict is over.
+But it's not all bad. First of all, **you get a [[fate point]] for choosing to concede**. On top of that, if you've sustained any [[consequences]] in this conflict, you get an additional [[fate point]] for each consequence. These [[fate point]]s may be used once this conflict is over.
 
 Second of all, **you get to avoid the worst parts of your fate**. Yes, you lost, and the narration has to reflect that. But you can't use this privilege to undermine the opponent's victory, either---what you say happens has to pass muster with the group.
 
 That can make the difference between, say, being mistakenly left for dead and ending up in the enemy's clutches, in shackles, without any of your stuff---the sort of thing that can happen if you're taken out instead. That's not nothing.
 
+> [!info]- Example
 > Og proves to be too much for Landon to handle in the warehouse conflict, having hit with several devastating attacks in the course of the fight.
 >
 > Before Amanda's next turn, Lenny says, "I concede. I don't want to risk any more consequences."

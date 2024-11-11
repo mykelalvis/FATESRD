@@ -2,42 +2,40 @@
 date created: 2022-10-18 08:08
 ---
 
-# [[Fate Core]]
+# Fate Core
 ![[hero--fate-core.jpg]]
 
-Grab your plasma rifles, spell components, and jetpacks! Name your game; [[Fate Core]] is the foundation that can make it happen. [[Fate Core]] is a flexible system that can support whatever worlds you dream up. Have you always wanted to play a post-apocalyptic spaghetti western with tentacle monsters? Swords and sorcery in space? Wish there was a game based on your favorite series of books, film, or television, but it never happened? [[Fate Core]] is your answer.
+Grab your plasma rifles, spell components, and jetpacks! Name your game; Fate Core is the foundation that can make it happen. Fate Core is a flexible system that can support whatever worlds you dream up. Have you always wanted to play a post-apocalyptic spaghetti western with tentacle monsters? Swords and sorcery in space? Wish there was a game based on your favorite series of books, film, or television, but it never happened? Fate Core is your answer.
 
-[[Fate Core]] is a tabletop roleplaying game about proactive, capable people who lead dramatic lives. The type of drama they experience is up to you. But wherever they go, you can expect a fun storytelling experience full of twists...of fate.
+Fate Core is a tabletop roleplaying game about proactive, capable people who lead dramatic lives. The type of drama they experience is up to you. But wherever they go, you can expect a fun storytelling experience full of twists...of fate.
 
-# 
 - [[The Basics]]
 - [[What You Need To Play]]
 - [[Players and Gamemasters]]
 - The [[Character Sheet]]
-- [[fate-srd.com/fate-srd.com/fate-core/Aspects and Fate Points|Aspects and Fate Points]]
+- [[Aspects and Fate Points]]
 - [[Taking Action, Dice, and The Ladder]]
 - [[Start Playing]]
 - [[Game Creation]]
 - [[Setting Up Your Game]]
 - [Setting Up Your
 - [[Making the Setting Work in Fate]]
-- [[fate-core#A Game's Scale|Scale]]
-- [[fate-core#The Setting's Big Issues|The Setting's Big Issues]]
+- [[Scale]]
+- [[Big Issues|The Setting's Big Issues]]
 - [[Faces and Places]]
 - [[Make Characters]]
 - [[Character Creation]]
 - [[Your Character Idea]]
 - [[the Phase Trio]]
-- [[fate-srd.com/fate-srd.com/fate-core/Skills|Skills]]
+- [[Skills]]
 - [[Stunts and Refresh]]
 - [[Stress and Consequences]]
-- [[fate-core#You're All Set!|You're All Set!]]
+- [[You're All Set]]!
 - [[Quick Character Creation]]
 - [[Types of Aspects]]
 - [[What Aspects Do]]
 - [[Making A Good Aspect]]
-- [[Invoking and Compelling Aspects]]
-- [[Using Aspects For Roleplaying]]
+- [[invoke|Invoking]] and [[compel|Compelling]] [[Aspect]]s
 - [[Fate Point Economy]]
 - [[Skills and Stunts]]
 - [[Building Stunts]]
@@ -83,7 +81,7 @@ Grab your plasma rifles, spell components, and jetpacks! Name your game; [[Fate 
 - [[What To Do During Play]]
 - [[Creating and Playing the Opposition]]
 - [[Scenes, Sessions, and Scenarios]]
-	- [[Defining Scenarios]]
+	- Defining [[Scenario]]s
 	- Defining [[Scene]]s
 	- [[Find Problems]]
 	- [[Ask Story Questions]]

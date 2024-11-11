@@ -14,11 +14,11 @@ Conflicts are either physical or mental in nature, based on the kind of harm you
 
 Setting up a conflict is a little more involved than setting up contests or challenges. Here are the steps:
 
-- Set the scene, describing the environment the conflict takes place in, creating situation aspects and zones, and establishing who's participating and what side they're on.
+- Set the [[scene]], describing the environment the conflict takes place in, creating [[situation aspect]]s and [[zone]]s, and establishing who's participating and [[Establishing Sides|what side they're on]].
 - Determine the [[turn order]].
 - Start the first [[exchange]]:
-- On your turn, take an [[action]] and then resolve it.
-- On other people's turns, [[defend]] or respond to their [[action]]s as necessary.
+- On your turn, take an [[Action]] and then resolve it.
+- On other people's turns, [[defend]] or respond to their [[Action]]s as necessary.
 - At the end of everyone's turn, start again with a new [[exchange]].
 
 You know the conflict is over when everyone on one of the sides has [[Concede|conceded]] or been [[taken out]].

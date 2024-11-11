@@ -48,7 +48,7 @@ For the most part, you'll use the [create an advantage](../four-actions/index.ht
 
 With some skills, it's going to make more sense to stick an advantage to an aspect that's already on some other character's sheet. In this case, the PC or NPC you're targeting would provide active opposition to keep you from being able to use that aspect.
 
-If you're not looking for a free invocation, and you just think it'd make sense if there were a particular [[situation aspect]] in play, you don't need to roll the dice or anything to make new aspects---just suggest them, and if the group thinks they're interesting, write them down.
+If you're not looking for a [[free invocation]], and you just think it'd make sense if there were a particular [[situation aspect]] in play, you don't need to roll the dice or anything to make new aspects---just suggest them, and if the group thinks they're interesting, write them down.
 
 ### For the GM: Extremely Powerful Ninja GM Trick
 

@@ -10,18 +10,18 @@ High technology can be an extra that allows players to gain stunts representing 
 
 #### Tech Level
 
-Technological artifacts can be assigned a **tech level**, an aspect that reflects its relative technological or scientific sophistication. When used against more primitive artifacts, the more sophisticated artifact grants its user an advantage with one free invocation per scene, or two free invocations if the tech level difference is three or more.
+Technological artifacts can be assigned a **tech level**, an aspect that reflects its relative technological or scientific sophistication. When used against more primitive artifacts, the more sophisticated artifact grants its user an advantage with one [[free invocation]] per scene, or two [[free invocation]]s if the tech level difference is three or more.
 
-|   |   |
-|---|---|
-|Tech Level|Description|
-|**Primitive** (+0)|The most basic or earliest types of tools capable of the task|
-|**Archaic** (+1)|Out-of-date and obsolete tools|
-|**Old-Fashioned** (+2)|Slightly dated technology, relatively inefficient or early-stage design|
-|**Conventional** (+3)|Standard technology for the setting|
-|**Advanced** (+4)|Refinements of existing tools and techniques|
-|**Bleeding-Edge** (+5)|Tech which incorporates newly discovered principles or innovative design elements|
-|**Incomprehensible** (+6)|Tech so advanced as to be indistinguishable from magic|
+
+|Tech Level|Rating|Description|
+|---|:-:|---|
+|**Primitive** |(+0)|The most basic or earliest types of tools capable of the task|
+|**Archaic** |(+1)|Out-of-date and obsolete tools|
+|**Old-Fashioned**| (+2)|Slightly dated technology, relatively inefficient or early-stage design|
+|**Conventional** |(+3)|Standard technology for the setting|
+|**Advanced** |(+4)|Refinements of existing tools and techniques|
+|**Bleeding-Edge** |(+5)|Tech which incorporates newly discovered principles or innovative design elements|
+|**Incomprehensible** |(+6)|Tech so advanced as to be indistinguishable from magic|
 
 The tech level also represents a difficulty—with Primitive equivalent to Mediocre (+0) and Incomprehensible equivalent to Fantastic (+6)—against attempts to overcome defenses operating at that level of technological sophistication.
 

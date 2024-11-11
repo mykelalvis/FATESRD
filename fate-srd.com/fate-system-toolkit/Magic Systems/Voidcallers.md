@@ -89,7 +89,7 @@ Technically, these things are pretty Faustian about their bargaining. They gener
 
 ## Doom Points
 
-Doom Points are a rough currency to keep track of all the things that the character didn't account for. Think of them as infernal loopholes, a bucket of things just waiting to go wrong with a summoning. Basically, they give the GM carte blanche to make the situation worse---not that she can't do that anyway, but spending a Doom Point [[shift]]s the blame nicely. A few things that might be done with a spent Doom Point:
+Doom Points are a rough currency to keep track of all the things that the character didn't account for. Think of them as infernal loopholes, a bucket of things just waiting to go wrong with a summoning. Basically, they give the GM carte blanche to make the situation worse---not that she can't do that anyway, but spending a Doom Point shifts the blame nicely. A few things that might be done with a spent Doom Point:
 
 - Allow the creature to use a power outside the scope of the binding, even if only a little at a time.
 - Allow the creature to summon other creatures.

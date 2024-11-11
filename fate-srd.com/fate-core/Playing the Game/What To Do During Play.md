@@ -286,6 +286,7 @@ Invariably, if you play Fate long enough, someone's going to try to affect multi
 
 The easiest way to do this is to [[Create Advantage]] on the scene, rather than on a specific target. A [Gas-Filled Room] has the potential to affect everyone in it, and it's not too much of a stretch to suggest that the [Inspirational Mood] in a room could be contagious. In this context, the aspect presents an excuse to call for a skill roll (using the overcome action) from anyone in the scene who attempts to get past it. Generally speaking, it won't cause damage, but it will make things more difficult for those affected.
 
+> [!info]- Example
 > Landon stalks the battlefield in search of a worthy opponent.
 >
 > "Who's the biggest, toughest-looking guy around here?" Lenny asks Amanda.
@@ -304,12 +305,13 @@ The easiest way to do this is to [[Create Advantage]] on the scene, rather than 
 >
 > "All right," she says, "what's it going to be?"
 >
-> Lenny doesn't hesitate. He writes down a mild mental consequence: [This Guy is Bigger Than I Thought]....
+> Lenny doesn't hesitate. He writes down a mild mental consequence: `This Guy is Bigger Than I Thought....`
 >
 > "Cool. They look at you, then back to Gorlok. He waves a hand dismissively. 'Go, find another to kill,' he growls. 'This one's mine.'"
 
-Things get more complicated when you want to filter specific targets, rather than just affect a whole zone or scene. When that happens, divide your resulting total up against every target, who all get to defend as per normal. Anyone who fails to defend either takes stress or gains an aspect, depending on what you were trying to do. (Note: If you [[Create Advantage]] to put an aspect on multiple targets, you do get a free invocation for each one.)
+Things get more complicated when you want to filter specific targets, rather than just affect a whole zone or scene. When that happens, divide your resulting total up against every target, who all get to defend as per normal. Anyone who fails to [[defend]] either takes [[Stress]] or gains an [[aspect]], depending on what you were trying to do. (Note: If you [[Create Advantage]] to put an aspect on multiple targets, you do get a [[free invocation]] for each one.)
 
+> [!info]- Example
 > Zird the Arcane is unleashing fiery death upon his foes in a magical fashion, as is his wont. He has three such foes, charging at him across a battlefield. Zird figures it's probably Landon's fault he's found himself in this circumstance.
 >
 > Zird's magic uses his [[Lore]] skill, and he does extremely well, getting an Epic (+7) result.
@@ -322,26 +324,29 @@ Things get more complicated when you want to filter specific targets, rather tha
 >
 > The third defender gets a Mediocre (+0) as well, taking a single point of stress. Amanda checks his lone stress box and describes him sacrificing his shield to deflect the blast.
 
-Attacking a whole zone or everyone in a scene is something you're going to have to judge by circumstance, like any other stretch [[fate-core#Judging the Use of Skills and Stunts|use of a skill]]. Depending on the circumstances of your setting, this might be a totally normal thing to do (for example, because everyone uses grenades and explosives), it might be impossible, or it might require a stunt. As long as you can justify it, you don't need to apply any special rules---you roll for the attack, and everyone in the zone defends as normal. Depending on the circumstances, you may even have to defend against your own roll, if you're in the same zone as the attack!
+[[Attack]]ing a whole zone or everyone in a scene is something you're going to have to judge by circumstance, like any other stretch [[fate-core#Judging the Use of Skills and Stunts|use of a skill]]. Depending on the circumstances of your setting, this might be a totally normal thing to do (for example, because everyone uses grenades and explosives), it might be impossible, or it might require a stunt. As long as you can justify it, you don't need to apply any special rules---you roll for the attack, and everyone in the zone [[defend]]s as normal. Depending on the circumstances, you may even have to [[defend]] against your own roll, if you're in the same zone as the [[attack]]!
 
 ### Compels and Multiple Targets
 
-Just a quick note: players who want to compel their way out of a conflict don't get a free lunch on affecting multiple targets, whether it's one aspect or several that justify the compel. A player must spend one [[fate point]] for each target they wish to compel. One [[fate point]] compels one individual, period.
+Just a quick note: players who want to [[compel]] their way out of a [[conflict]] don't get a free lunch on affecting multiple targets, whether it's one [[aspect]] or several that justify the [[compel]]. A player must spend one [[fate point]] for each target they wish to compel. 
+
+One [[fate point]] compels one individual, period.
 
 ### Environmental Hazards
 
-Not every participant in a conflict is another PC or NPC. Plenty of things without self-awareness can potentially threaten PCs or keep them from their goals, whether it's a natural disaster, a cunning mechanical trap, or high-tech automated security.
+Not every participant in a [[conflict]] is another PC or NPC. Plenty of things without self-awareness can potentially threaten PCs or keep them from their goals, whether it's a natural disaster, a cunning mechanical trap, or high-tech automated security.
 
 So, what do you do when the PCs go up against something that isn't a character?
 
-Simple: treat it as a character. (This is the Bronze Rule of Fate: You can treat everything like a character. There are a lot of different ways to work with that in the [[Extras]] section, but let's stay on topic for now.)
+Simple: treat it as a character. (This is [[the Bronze Rule]] of Fate: You can treat everything like a character. There are a lot of different ways to work with that in the [[Extras]] section, but let's stay on topic for now.)
 
 - Is the hazard something that can harm a PC? Give it a skill and let it make attacks just like an opponent.
 - Is it more of a distraction or harassment than a direct threat? Let it create aspects.
 - Does it have sensors it can use to discover a PC's aspects? Give it a skill for that.
 
-And in return, let the PCs use their skills against the threat just like they would an opponent. An automated security system might be vulnerable to "attacks" from a PC's [[Burglary]] skill, or they might escape a trap by winning an [[Athletics]] [[contest|contest]]. If it makes sense for the hazard in question to take a good deal of effort to surpass, give it a stress track and let it take a mild consequence or two. In other words, cleave to whatever makes narrative sense---if a fire is too big for a PC to put out, the scene should focus on avoidance or escape, and work like a [challenge](../challenges/index.html).
+And in return, let the PCs use their skills against the threat just like they would an opponent. An automated security system might be vulnerable to "attacks" from a PC's [[Burglary]] skill, or they might escape a trap by winning an [[Athletics]] [[contest|contest]]. If it makes sense for the hazard in question to take a good deal of effort to surpass, give it a stress track and let it take a mild consequence or two. In other words, cleave to whatever makes narrative sense---if a fire is too big for a PC to put out, the scene should focus on avoidance or escape, and work like a [[challenge]].
 
+> [!info]- Example
 > Cynere, Landon, and Zird are exploring the Caverns of Kazak-Thorn, in pursuit of one of the demonic opponents that Cynere's been so interested in lately. Of course, the demon princess in question doesn't appreciate being hunted by pesky adventurers and has summoned the powers of darkness to stand between our heroes and herself. So it goes.
 >
 > They come to the bottom floor of the cave system, only to find it full of wisps of inky darkness, writhing around snakelike and cutting off the light where they whip about. Zird rolls [[Lore]], and Amanda tells him that they are magical hunger spirits---not individual entities so much as pure expressions of hunger, ready to devour anything they touch. He throws a stone into the corridor and watches the tendrils turn it to ash.
@@ -352,11 +357,11 @@ And in return, let the PCs use their skills against the threat just like they wo
 >
 > Lily says, "I'm willing to go for it. Let's do this."
 >
-> Amanda decides that even though she could put them into a straight-up conflict, it'd be easier and quicker to deal with it as a challenge. She tells them that to get past the shadow summoning, each of them needs [[Will]] to resist the shadows' potent magical aura and [[Stealth]] to move past. Zird can roll [[Lore]] to try and thin the herd with magic. In addition, she says that the spirits can provide active opposition against each attempt, and that failing the [[Will]] roll will be treated like an attack. The three grit their teeth and start to make their way through the cave....
+> Amanda decides that even though she could put them into a straight-up conflict, it'd be easier and quicker to deal with it as a [[challenge]]. She tells them that to get past the shadow summoning, each of them needs [[Will]] to resist the shadows' potent magical aura and [[Stealth]] to move past. Zird can roll [[Lore]] to try and thin the herd with magic. In addition, she says that the spirits can provide active opposition against each attempt, and that failing the [[Will]] roll will be treated like an attack. The three grit their teeth and start to make their way through the cave....
 
 ## Dealing with Aspects
 
-As with skills and stunts, the entire [Aspects and Fate Points](../aspects-fate-points/index.html "Aspects & Fate Points") section is designed to help you judge the use of aspects in the game. As the GM, you have a very important job in managing the flow of fate points to and from the players, giving them opportunities to spend freely in order to succeed and look awesome, and bringing in potential complications to help keep them stocked up on points.
+As with skills and stunts, the entire [[Aspects and Fate Points]] section is designed to help you judge the use of aspects in the game. As the GM, you have a very important job in managing the flow of fate points to and from the players, giving them opportunities to spend freely in order to succeed and look awesome, and bringing in potential complications to help keep them stocked up on points.
 
 ### Invocations
 
@@ -372,19 +377,19 @@ During the game, you should look for opportunities to compel the PCs' aspects at
 
 - Whenever simply succeeding at a skill roll would be bland
 - Whenever any player has one or no [[fate point]]s
-- Whenever someone tries to do something, and you immediately think of some aspect-related way it could go wrong
+- Whenever someone tries to do something, and you immediately think of some [[aspect]]-related way it could go wrong
 
-Remember that there are essentially two types of compels in the game: [decision-based](../invoking-compelling-aspects/index.html "Invoking & Compelling Aspects"), where something complicated occurs as a result of something a character does; and event-based, where something complicated occurs simply as a result of the character being in the wrong situation at the wrong time.
+Remember that there are essentially two types of [[compel]]s in the game: [[Decision compels|decision-based]], where something complicated occurs as a result of something a character does; and [[Event compels|event-based]], where something complicated occurs simply as a result of the character being in the wrong situation at the wrong time.
 
-Of the two, you're going to get the most mileage out of event-based compels---it's already your job to decide how the world responds to the PCs, so you have a lot of leeway to bring unfortunate coincidence into their lives. Most of the time, players are just going to accept you doing this without any problems or minimal negotiation.
+Of the two, you're going to get the most mileage out of [[Event compels|event-based]] compels---it's already your job to decide how the world responds to the PCs, so you have a lot of leeway to bring unfortunate coincidence into their lives. Most of the time, players are just going to accept you doing this without any problems or minimal negotiation.
 
-Decision-based compels are a little trickier. Try to refrain from suggesting decisions to the players, and focus on responding to their decisions with potential complications. It's important that the players retain their sense of autonomy over what their PCs say and do, so you don't want to dictate that to them. If the players are roleplaying their characters according to their aspects, it shouldn't be hard to connect the complications you propose to one of them.
+[[Decision compels|Decision-based]] compels are a little trickier. Try to refrain from suggesting decisions to the players, and focus on responding to their decisions with potential complications. It's important that the players retain their sense of autonomy over what their PCs say and do, so you don't want to dictate that to them. If the players are roleplaying their characters according to their aspects, it shouldn't be hard to connect the complications you propose to one of them.
 
 During play, you'll also need to make clear when a particular compel is "set", meaning that there's no backing out without paying a [[fate point]]. When players propose their own compels, this won't come up, because they're fishing for the point to begin with. When you propose them, you need to give the players room to negotiate with you over what the complication is, before you make a final decision. Be transparent about  this---let them know when the negotiation phase has ended.
 
 #### Weaksauce Compels
 
-In order for the compel mechanic to be effective, you have to take care that you're proposing complications of sufficient dramatic weight. Stay away from superficial consequences that don't really affect the character except to provide color for the scene. If you can't think of an immediate, tangible way that the complication changes what's going on in the game, you probably need to turn up the heat. If someone doesn't go "oh crap" or give a similar visceral reaction, you probably need to turn up the heat. It's not good enough for someone to be angry at the PC---they get angry and they're willing to do something about it in front of everyone. It's not good enough for a business partner to cut them off---he cuts them off and tells the rest of his associates to blacklist them.
+In order for the [[compel]] mechanic to be effective, you have to take care that you're proposing complications of sufficient dramatic weight. Stay away from superficial consequences that don't really affect the character except to provide color for the scene. If you can't think of an immediate, tangible way that the complication changes what's going on in the game, you probably need to turn up the heat. If someone doesn't go "oh crap" or give a similar visceral reaction, you probably need to turn up the heat. It's not good enough for someone to be angry at the PC---they get angry and they're willing to do something about it in front of everyone. It's not good enough for a business partner to cut them off---he cuts them off and tells the rest of his associates to blacklist them.
 
 Also, keep in mind that some players may tend to offer weak compels when they're fishing for [[fate point]]s, because they don't really want to hose their character that badly. Feel free to push for something harder if their initial proposal doesn't actually make the situation that much more dramatic.
 
@@ -394,6 +399,6 @@ With five aspects per PC, it's prohibitively difficult for you to take the sole 
 
 Open-ended prompting can go a long way to create this habit in your players. If you see an opportunity for a potential compel, instead of proposing it directly, ask a leading question instead. "So, you're at the royal ball and you have [The Manners of a Goat]. Lenny, do you think this is going to go smoothly for your character?" Let the player do the work of coming up with the complication and then pass the [[fate point]] along.
 
-Also remind the players that they can compel your NPCs, if they happen to know one of that NPC's aspects. Do the same open-ended prompting when you're about to have an NPC make a decision, and ask the players to fill in the blanks. "So, you know that Duke Orsin is [Woefully Overconfident]....You think he's going to get out of the jousting tournament unscathed? How might that go wrong? You willing to pay a [[fate point]] to say it does?"
+Also remind the players that they can compel your NPCs, if they happen to know one of that NPC's aspects. Do the same open-ended prompting when you're about to have an NPC make a decision, and ask the players to fill in the blanks. "So, you know that Duke Orsin is `Woefully Overconfident`....You think he's going to get out of the jousting tournament unscathed? How might that go wrong? You willing to pay a [[fate point]] to say it does?"
 
 Your main goal should be to enlist the players as partners in bringing the drama, rather than being the sole provider.

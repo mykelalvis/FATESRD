@@ -11,7 +11,7 @@ date updated: 2022-10-21 09:49
 
 If you're the gamemaster, then your job is a little different from everyone else's. This section is going to give you a bunch of tools to make that job easier during play.
 
-The GM's job was discussed a bit in [[The Basics]] but let's take a more detailed look at your unique responsibilities.
+The GM's job was discussed a bit in [[the Basics]] but let's take a more detailed look at your unique responsibilities.
 
 ## Start and End Scenes
 
@@ -19,8 +19,7 @@ One of your primary responsibilities during the game is to decide definitively w
 
 The players will sometimes help you with this, if they're keen on getting to the next bit of action, but sometimes they'll naturally be inclined to spend too much time bantering in character or focusing on minutiae. When that happens, it's your job to step in like a good movie editor and say, "I think we've pretty much milked this scene for all it's worth. What do we want to do next?"
 
-We have more advice on starting and ending scenes in the next section, [Scenes, Sessions, and
-Scenarios](../scenes-sessions-scenarios/index.html "Scenes, Sessions, & Scenarios").
+We have more advice on starting and ending scenes in the next section, [[Scenes, Sessions, and Scenarios]]. 
 
 ### Drama Is Better Than Realism
 
@@ -46,6 +45,7 @@ If a character has an aspect that connects them to someone or something in the w
 
 Also, one of the main uses of the [[[create advantage]] action](../four-actions/index.html) is precisely to give players a way to add details to the world through their characters. Use that to your advantage when you draw a blank or simply want to delegate more control. One good way to do this during play is to answer the player's question with a question, if they ask for information.
 
+> [!info]- Example
 > Ryan: "Is there a way to disrupt this magical construct without killing the subjects trapped in it?"
 >
 > Amanda: "Well, you know that it's using their life force to power itself. If there were a way to do that, what do you think it'd look like? I mean, you're the expert wizard, you tell me."
@@ -57,7 +57,7 @@ Also, one of the main uses of the [[[create advantage]] action](../four-actions/
 
 It's also your job to make most of the moment-to-moment decisions about what's legit and what's not regarding the rules. Most often, you're going to decide when something in the game deserves a roll, what type of action that is (overcome, attack, etc.) and how difficult that roll is. In conflicts, this can get a little more complicated, like determining if a [[situation aspect]] should force someone to make an overcome action, or deciding whether or not a player can justify a particular advantage they're trying to create.
 
-You also judge the appropriateness of any invocations or compels that come up during play, like we talked about in the [Aspects and Fate Points](../aspects-fate-points/index.html "Aspects and Fate Points") section, and make sure that everyone at the table is clear on what's going on. With invocations, this is pretty easy---as long as the player can explain why the aspect is relevant, you're good to go. With compels, it can get a little more complicated, because you need to articulate precisely what complication the player is agreeing to.
+You also judge the appropriateness of any invocations or compels that come up during play, like we talked about in the [[Aspects and Fate Points]] section, and make sure that everyone at the table is clear on what's going on. With invocations, this is pretty easy---as long as the player can explain why the aspect is relevant, you're good to go. With compels, it can get a little more complicated, because you need to articulate precisely what complication the player is agreeing to.
 
 We provide some more tips on judging the use of rules below.
 
@@ -71,5 +71,4 @@ Your job is really to have the "last word" on any rules-related subject, rather 
 
 Finally, you're responsible for making all of the stuff that the PCs encounter and react to in the game. That not only includes NPCs with skills and aspects, but it also includes the aspects on scenes, environments, and objects, as well as the dilemmas and challenges that make up a scenario of Fate. You provide the prompts that give your group a reason to play this game to begin with---what problems they face, what issues they have to resolve, whom they're opposing, and what they'll have to go through in order to win the day.
 
-This job gets a whole section all on its own. See [Scenes, Sessions, and
-Scenarios](../scenes-sessions-scenarios/index.html).
+This job gets a whole section all on its own. See [[Scenes, Sessions, and Scenarios]]

@@ -34,9 +34,9 @@ This means you get what you want at no cost.
 
 This means that you get what you want, but you also get an added benefit on top of that.
 
-### For the GM: Serious Cost Vs. Minor Cost
-
-Moved to [[Serious Cost vs Minor Cost]]
+> [!info] For the GM
+> When you're thinking about costs, think both about the story in play and the game mechanics to help you figure out what would be most appropriate.
+> [[Serious Cost]] Vs. [[Minor Cost]]
 
 ### For the GM: How Hard Should Skill Rolls Be?
 

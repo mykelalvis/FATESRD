@@ -18,7 +18,7 @@ The [[Fight]] skill covers all forms of close-quarters combat (in other words, w
 
 ## [[Fight]] Stunts
 
-- **Heavy Hitter**. When you succeed with style on a [[Fight]] attack and choose to reduce the result by one to gain a boost, you gain a full [[situation aspect]] with a free invocation instead.
+- **Heavy Hitter**. When you succeed with style on a [[Fight]] attack and choose to reduce the result by one to gain a boost, you gain a full [[situation aspect]] with a [[free invocation]] instead.
 - **Backup Weapon**. Whenever someone's about to hit you with a _Disarmed_ [[situation aspect]] or something similar, spend a [[fate point]] to declare you have a backup weapon. Instead of a [[situation aspect]], your opponent gets a boost, representing the momentary distraction you suffer having to switch.
 - **Killing Stroke**. Once per scene, when you force an opponent to take a consequence, you can spend a [[fate point]] to increase the consequence's severity (so mild becomes moderate, moderate becomes severe). If your opponent was already going to take a severe consequence, he must either take a severe consequence and a second consequence or be taken out.
 
@@ -28,4 +28,4 @@ It's a given that most games that you play with Fate will feature a decent amoun
 
 In the examples, we've got [[Fight]] and [[Shoot]] as separate skills, to give us a basic division without getting too much into minutiae. Notably, though, this suggests that fighting with a weapon and fighting bare-handed are pretty much the same---there's no inherent advantage in doing one over the other. It's a pretty common choice to further separate unarmed and armed melee---into Fists and Weapons, for example.
 
-You could specialize even further if you wanted different classes of weapons to have their own skills (Swords, Polearms, Axes, Plasma Guns, Slugthrowers, etc.), but again, we recommend you not go too crazy with this unless it's really important to your setting. Specialized weapon use can also be modeled by using [[extras]].
+You could specialize even further if you wanted different classes of weapons to have their own skills (Swords, Polearms, Axes, Plasma Guns, Slugthrowers, etc.), but again, we recommend you not go too crazy with this unless it's really important to your setting. Specialized weapon use can also be modeled by using [[Extras]].

@@ -698,15 +698,15 @@ If one of the invention's extras bundles two or more identical stunt benefits fo
 
 #### Catches as Aspects
 
-If it makes sense and everyone's agreeable, a catch can manifest as an aspect. This aspect sticks around for as long as it makes sense in the story. It comes with one free invocation (the GM has dibs), or two free invocations if it's the product of a serious catch.
+If it makes sense and everyone's agreeable, a catch can manifest as an aspect. This aspect sticks around for as long as it makes sense in the story. It comes with one [[free invocation]] (the GM has dibs), or two free invocations if it's the product of a serious catch.
 
 Examples might include:
 
-- [Down to the Wire] (Time)
-- [Robot Army Has the Tactical Advantage] (Time)
-- [Uneasy Working Relationship with Dr. Priddy] (Help)
-- [On the FBI's Watch List] (Attention)
-- [Fluctuating Energy Fields] (Bug)
+- `Down to the Wire` (Time)
+- `Robot Army Has the Tactical Advantage` (Time)
+- `Uneasy Working Relationship with Dr. Priddy` (Help)
+- `On the FBI's Watch List` (Attention)
+- `Fluctuating Energy Fields` (Bug)
 
 #### Using Catches
 
@@ -837,8 +837,8 @@ The number of free invocations on the hypothesis aspect (if any) depends on how 
 | ------------- | ------------------------------------------------------- |
 | 0-2           | Failure—it's a mystery!                                 |
 | 3             | Tie—hypothesis aspect                                   |
-| 4-5           | Success—hypothesis aspect with one free invocation      |
-| 6             | Success with Style—as Success, but two free invocations |
+| 4-5           | Success—hypothesis aspect with one [[free invocation]]      |
+| 6             | Success with Style—as Success, but two [[free invocation]]s |
 
 If the PCs _haven't_ scored at least three victories, the phenomenon defies scientific explanation, at least for now. They've failed to shed any light on the situation, and now they're a little worse off for it.
 

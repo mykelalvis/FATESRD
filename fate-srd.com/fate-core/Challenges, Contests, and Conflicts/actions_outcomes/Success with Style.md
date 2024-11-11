@@ -9,4 +9,4 @@ date updated: 2022-10-22 15:26
 
 **If you roll higher than your opposition by 3 or more [[Shift]]s, you succeed with style.**
 
-This means that you get what you want, but you also get an added benefit on top of that.
+This means that you get what you want, but you also get an added benefit on top of that.  This often comes in the form of a [[boost]].

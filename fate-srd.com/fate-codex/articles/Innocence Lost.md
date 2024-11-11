@@ -652,7 +652,7 @@ someone or something intends to harm you.
 
 Heavy Hitter. When you succeed with Style on a [[Fight]] attack and choose
 to reduce the result by one to gain a boost, you gain a full situation
-aspect with a free invocation instead.
+aspect with a [[free invocation]] instead.
 
 Sprinter. You move two zones for free in a conflict without rolling,
 instead of one, provided there are no situation aspects restricting
@@ -1491,7 +1491,7 @@ someone or something intends to harm you.
 
 Heavy Hitter. When you succeed with Style on a [[Fight]] attack and choose
 to reduce the result by one to gain a boost, you gain a full situation
-aspect with a free invocation instead.
+aspect with a [[free invocation]] instead.
 
 Sprinter. You move two zones for free in a conflict without rolling,
 instead of one, provided there are no situation aspects restricting

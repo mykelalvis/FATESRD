@@ -122,7 +122,7 @@ Weapon and Armor do not change the total of an action. Success with style still 
 
 - **Aggressive:** Your opponent does not gain a boost when you tie on a defense action.
 - **Impenetrable:** Increase your Armor value by +1.
-- **Perfect Footwork:** When you succeed with style on defense, you may create a [[situation aspect]] with a free invocation instead of gaining a boost.
+- **Perfect Footwork:** When you succeed with style on defense, you may create a [[situation aspect]] with a [[free invocation]] instead of gaining a boost.
 - **Powerful:** When you tie on attack you create a [[situation aspect]] with one free invoke instead of gaining a boost.
 - **Precise:** Increase the Weapon rating of your main hand by +1.
 
@@ -139,7 +139,7 @@ Weapon and Armor do not change the total of an action. Success with style still 
 - **Buckler:** Gain +1 to your next attack when you succeed on defense.
 - **Cloak:** Gain +1 to [[Create Advantage]] when you obfuscate your weapon.
 - **Empty:** Gain +1 to attack when you swing with both hands.
-- **Gauntlet:** When you succeed with style on defense, create a [Grabbed Blade] aspect with a free invocation rather than take a boost.
+- **Gauntlet:** When you succeed with style on defense, create a [Grabbed Blade] aspect with a [[free invocation]] rather than take a boost.
 - **Main Gauche:** When you succeed with style on defense against an attack you may deal a 2-[[shift]] physical hit with your off hand instead of gaining a boost.
 
 # NPCs

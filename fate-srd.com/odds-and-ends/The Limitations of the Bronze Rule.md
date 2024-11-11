@@ -39,8 +39,7 @@ The best way to look at this issue is to answer three questions about whatever n
 
 **Thing: If something isn't capable of directly taking action, but can be possessed by an actor that can,** then it's a device (in the narrative and possibly common sense) that can have aspects and may convey stunts and other rules to the wielder. Maybe you have a _**Legendary Sword**_ that gives you Weapon:3 against dragons --- that's the sort of thing I'm talking about.
 
-Here's where we get a little weird: in a narrative sense, a _**Raging House Fire**_ or [_**Steranko Security
-System**_](http://leverage.wikia.com/wiki/Steranko_Security_Systems) are capable of taking action. That's a limited set of actions, and they aren't sentient or sapient entities (in most universes, anyway), but they're still taking action against and resisting the actions of the PCs. And many elements that we consider just worthy of possessing can suddenly offer resistance --- the _**Legendary Sword**_ would certainly provide an obstacle for someone trying to destroy it, but it wouldn't act on its own to combat it.
+Here's where we get a little weird: in a narrative sense, a _**Raging House Fire**_ or a [_**Steranko Security System**_](http://leverage.wikia.com/wiki/Steranko_Security_Systems) are capable of taking action. That's a limited set of actions, and they aren't sentient or sapient entities (in most universes, anyway), but they're still taking action against and resisting the actions of the PCs. And many elements that we consider just worthy of possessing can suddenly offer resistance --- the _**Legendary Sword**_ would certainly provide an obstacle for someone trying to destroy it, but it wouldn't act on its own to combat it.
 
 (Unless we, in trying to destroy the sword, learn that it's capable of psychic communication and mental assault, which makes it an actor.)
 

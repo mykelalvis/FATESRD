@@ -87,7 +87,7 @@ Aspects are what make _Fate_ go. They're the clearest, most interesting method f
 
 [[Fate Core]] talks a little bit about this concept, explaining that what was previously known as “invoking for effect” is just a fancy compel. That's true, but maybe that's not all it means to invoke for effect.
 
-When you invoke for effect, you're spending a [[fate point]]—or a free invocation—to create a specifically defined mechanical effect, something other than what a typical aspect is capable of. When you create an aspect, look at it and decide whether or not it needs a special effect attached to it. Maybe your earth mage can invoke One with the Earth to avoid falling down or being moved against his will, or maybe your psychic detective can invoke Mental Eavesdropper to read someone's surface thoughts.
+When you invoke for effect, you're spending a [[fate point]]—or a [[free invocation]]—to create a specifically defined mechanical effect, something other than what a typical aspect is capable of. When you create an aspect, look at it and decide whether or not it needs a special effect attached to it. Maybe your earth mage can invoke One with the Earth to avoid falling down or being moved against his will, or maybe your psychic detective can invoke Mental Eavesdropper to read someone's surface thoughts.
 
 Mechanically, an aspect effect should be worth the [[fate point]] you're spending—the equivalent to two [[shift]]s' worth of potency, just like any other effect of invoking an aspect. Aspect effects should do something, like in the examples above, rather than provide a static bonus. A regular aspect invocation already provides a bonus, so you don't need a special effect that does that, too. An aspect effect is a bit like having an extra rules-exception stunt that you always have to pay for, both in terms of what the effect can accomplish and the amount of complexity it adds to your character.
 
@@ -387,7 +387,7 @@ This is the easiest option to implement, as it's merely a [[shift]] in how you t
 
 **Ally's Shield:** You can invoke Dwarven Shield-Maiden when a nearby ally suffers an attack. When you do, redirect that attack to yourself. Your defense is Average (+1) against that attack.
 
-**Berserk Rage:** When you suffer a physical consequence, you can invoke that consequence for free on your next attack. If you suffer multiple physical consequences, you get a free invocation for each.
+**Berserk Rage:** When you suffer a physical consequence, you can invoke that consequence for free on your next attack. If you suffer multiple physical consequences, you get a [[free invocation]] for each.
 
 **Useful Little Things:** Your pockets are full of useful little things. Whenever you need something, you have it, provided it's not something too unusual (like a map to Jimmy Hoffa's body) or too large to fit in a pocket, belt pouch, or backpack. When you say you have something, the GM should be likely to agree.
 
@@ -395,7 +395,7 @@ This isn't really a mechanical change, just a [[shift]] in how you approach stun
 
 #### Aspected Stunts
 
-For stunts which are tied to aspects, you might view some of their effects as narrowly defined free invocations. Other aspected stunts might require an invocation, as Ally's Shield (above) does, but give something extra or particularly unusual when the aspect is invoked. Such effects should be more potent than a “vanilla” invocation. You could even design a stunt that triggers under particular kinds of compels—just be careful you don't end up neutering the downside with the resulting benefit.
+For stunts which are tied to aspects, you might view some of their effects as narrowly defined [[free invocation]]s. Other aspected stunts might require an invocation, as Ally's Shield (above) does, but give something extra or particularly unusual when the aspect is invoked. Such effects should be more potent than a “vanilla” invocation. You could even design a stunt that triggers under particular kinds of compels—just be careful you don't end up neutering the downside with the resulting benefit.
 
 **Charge Like Ox:** Because you are Strong Like Ox, once per scene, as a single action, you may move two zones in a straight line then make a physical attack.
 
@@ -439,7 +439,7 @@ One thing to keep an eye on when you're adjusting starting stunts is what your p
 
 Of these three options, adjusting refresh has probably the most profound impact on gameplay, because it directly affects the [[fate point]] economy that powers the game. Giving players more [[fate point]]s each session means they're likely to resist compels more often and invoke aspects more often. It gives players more control over the story, which can be a good thing, but also makes it a little harder to challenge them.
 
-Reducing refresh has the opposite effect—players have less control over the story, because they have fewer [[fate point]]s on hand. They have to accept more compels and they don't get to invoke their aspects as often. It also means they'll rely more on free invocations from creating advantages, which might lengthen big fight scenes.
+Reducing refresh has the opposite effect—players have less control over the story, because they have fewer [[fate point]]s on hand. They have to accept more compels and they don't get to invoke their aspects as often. It also means they'll rely more on [[free invocation]]s from creating advantages, which might lengthen big fight scenes.
 
 ### Adjusting Stunt Cost
 
@@ -741,11 +741,11 @@ For most attempts to modify NPC motivations or instincts, the PCs will need to m
 
 > Michael Romero and Amarika Davis are Los Angeles homicide detectives investigating the murder of a wealthy socialite, Richard Bentley. After digging through the case, they discover that Bentley's wife, Sandra Orastin, is the killer. Yet when they show up to arrest her, one of her security guards keeps them from getting close enough to close the case (Instinct: Stop the Cops from Arresting My Boss).
 
-> Knowing that a physical conflict would give Orastin a chance to escape, Amarika tries to talk her way past the guard, beginning with a [[Provoke]] roll to learn the guard's motivation ([[Create Advantage]] with [[Provoke]]). She has a Good (+3) [[Provoke]] and rolls well (+3), bringing her total up to Fantastic (+6). The guard, a nameless NPC with an Average (+1) [[Deceive]], rolls decently (+2), but can't help but reveal his motivation: he doesn't want to get fired by letting his boss get arrested. The GM adds the aspect Motivation: Keep My Job with two free invocations, since Amarika succeeded with style. Amarika asks him why he wants to protect a killer and the guard sputters something about doing his job even though he doesn't like it.
+> Knowing that a physical conflict would give Orastin a chance to escape, Amarika tries to talk her way past the guard, beginning with a [[Provoke]] roll to learn the guard's motivation ([[Create Advantage]] with [[Provoke]]). She has a Good (+3) [[Provoke]] and rolls well (+3), bringing her total up to Fantastic (+6). The guard, a nameless NPC with an Average (+1) [[Deceive]], rolls decently (+2), but can't help but reveal his motivation: he doesn't want to get fired by letting his boss get arrested. The GM adds the aspect Motivation: Keep My Job with two [[free invocation]]s, since Amarika succeeded with style. Amarika asks him why he wants to protect a killer and the guard sputters something about doing his job even though he doesn't like it.
 
 > Michael, seizing on the aspect Amarika discovered, decides that he's going to try to alter the guard's instinct. He suggests that if the guard wants to keep his job, he should help the police arrest Orastin. After all, the guard will definitely lose his job if Michael and Amarika have to arrest him, too.
 
-> Michael has a stronger [[Rapport]] (+3) than [[Provoke]] (+1) skill, so he focuses on convincing the guard instead of scaring him (overcome with [[Rapport]]). Michael's roll is average (+0), but he uses the free invocation on Motivation: Keep My Job to bring his roll up to a Superb (+5) result. The guard, with Fair (+2) [[Will]] rolls poorly (-2), and Michael convinces him that working with the police is the best way to fulfill his Motivation. Michael gains an additional boost Led by the Guards for succeeding with style.
+> Michael has a stronger [[Rapport]] (+3) than [[Provoke]] (+1) skill, so he focuses on convincing the guard instead of scaring him (overcome with [[Rapport]]). Michael's roll is average (+0), but he uses the [[free invocation]] on Motivation: Keep My Job to bring his roll up to a Superb (+5) result. The guard, with Fair (+2) [[Will]] rolls poorly (-2), and Michael convinces him that working with the police is the best way to fulfill his Motivation. Michael gains an additional boost Led by the Guards for succeeding with style.
 
 ---
 
@@ -2265,7 +2265,7 @@ What follows are a number of incomplete magic system components. Some are ways t
 
 #### Channeling
 
-For skill-based magic, add a “Channeling” skill. When you want to do something magical, you use the channeling skill to summon up the power and—hopefully—release it. To do this, use a [[Create Advantage]] action. In this case, the advantage you're looking to create is a Summoned Power aspect. When it comes time to cast the spell—presumably on your next action—make a roll with a skill of Mediocre (+0), but use whatever bonuses you accrued in the advantage creation step—so, generally, you'll get a +2, +4, or +6 through stacked free invocations and potentially paying a [[fate point]]. So far, so good—generate mana, generate an effect. Now to get a little bit more fiddly.
+For skill-based magic, add a “Channeling” skill. When you want to do something magical, you use the channeling skill to summon up the power and—hopefully—release it. To do this, use a [[Create Advantage]] action. In this case, the advantage you're looking to create is a Summoned Power aspect. When it comes time to cast the spell—presumably on your next action—make a roll with a skill of Mediocre (+0), but use whatever bonuses you accrued in the advantage creation step—so, generally, you'll get a +2, +4, or +6 through stacked [[free invocation]]s and potentially paying a [[fate point]]. So far, so good—generate mana, generate an effect. Now to get a little bit more fiddly.
 
 - If you want to cast the spell in one action, then you need to use an aspect—either for free, or by spending a [[fate point]]—without gaining the +2 bonus. This makes fast casting pretty shaky business. There may be a stunt that allows you to fast cast for free.
 
@@ -2587,7 +2587,7 @@ Here's an example of a kung fu stunt tree, for the Drunken Fist Style of kung fu
 
 **The Drunkard Stumbles:** (Requires Falling Drunkard) You stagger and stumble without control, but your enemy always seems to miss you and strike a nearby obstacle, causing damage to themselves. When you dodge a blow with [[Athletics]], your opponent takes one stress, or two stress if you succeed with style.
 
-**Steady the Drunkard:** (Requires Drunkard Swings Wide) You stagger and seem about to fall, so you reach out and grab your opponent's arm to steady yourself. This seemingly unintentional grip blocks chi and paralyzes your opponent. You may place a Chi Blocked [[situation aspect]] with a free invocation on your opponent. Your opponent may not use any kung fu stunts until they remove this aspect.
+**Steady the Drunkard:** (Requires Drunkard Swings Wide) You stagger and seem about to fall, so you reach out and grab your opponent's arm to steady yourself. This seemingly unintentional grip blocks chi and paralyzes your opponent. You may place a Chi Blocked [[situation aspect]] with a [[free invocation]] on your opponent. Your opponent may not use any kung fu stunts until they remove this aspect.
 
 ## Cyberware
 
@@ -2843,7 +2843,7 @@ The Equipment skill represents the resources your squad has available to pursue 
 
 #### Recon Sample Stunts
 
-**Codebreakers:** On a successful Recon roll to [[Create Advantage]] while monitoring enemy communications, you can discover or create one additional aspect (though this doesn't give you an extra free invocation).
+**Codebreakers:** On a successful Recon roll to [[Create Advantage]] while monitoring enemy communications, you can discover or create one additional aspect (though this doesn't give you an extra [[free invocation]]).
 
 **Counterprogramming:** You can use Recon instead of Operations to set a trap when you use the enemy's communications system against them.
 
@@ -3059,7 +3059,7 @@ The [[Create Advantage]] action in [[Fate Core]] makes it easy to model these so
 
 These one-on-one dueling rules introduce something called the upper hand. Only the duelist with the upper hand can actually use a skill with the attack action to inflict harm. The other duelist can take any otheraction, but cannot attack—until they get the upper hand, of course.
 
-How does one get the upper hand? By succeeding with style with a skill other than one that deals harm in physical conflicts ([[Fight]] or [[Shoot]], or whatever the equivalent is in your game). As soon as one combatant succeeds with style with one of these other skills, they get the upper hand. This replaces the action's usual reward for succeeding with style, such as getting a boost or an extra free invocation. You get either the upper hand or the usual reward, but not both.
+How does one get the upper hand? By succeeding with style with a skill other than one that deals harm in physical conflicts ([[Fight]] or [[Shoot]], or whatever the equivalent is in your game). As soon as one combatant succeeds with style with one of these other skills, they get the upper hand. This replaces the action's usual reward for succeeding with style, such as getting a boost or an extra [[free invocation]]. You get either the upper hand or the usual reward, but not both.
 
 Use a token of some kind to represent the upper hand. Whatever it is, it should be something that can easily be handed back and forth, like a coin, a little plastic cocktail sword, an index card with a hand drawn on it, a fencing glove—whatever works for your group.
 
@@ -3082,11 +3082,11 @@ After that, the combatants can do any of the following every turn:
 
 > “Evil?” he spits back. “Spend one day as a cyborg in this wretched wreck of an empire and you'll gain a new appreciation for true evil!”
 
-> She discovers the aspect All Shall Suffer for My Pain!, and chooses to gain the upper hand instead of taking the extra free invocation.
+> She discovers the aspect All Shall Suffer for My Pain!, and chooses to gain the upper hand instead of taking the extra [[free invocation]].
 
-> Now it's Xoren's turn. Being an evil cyborg, he grabs a bystander and flings him at Dekka, hoping to [[Create Advantage]] with [[Physique]]. He beats Dekka by 4 [[shift]]s—enough to gain the upper hand—but she uses that free invocation on All Shall Suffer for My Pain! to reduce that to 2 [[shift]]s. Her player explains that Xoren, in his righteous rage, accidentally telegraphed his move. The GM buys it. Xoren puts a [[situation aspect]] of Civilians in Danger in play, with one free invocation.
+> Now it's Xoren's turn. Being an evil cyborg, he grabs a bystander and flings him at Dekka, hoping to [[Create Advantage]] with [[Physique]]. He beats Dekka by 4 [[shift]]s—enough to gain the upper hand—but she uses that [[free invocation]] on All Shall Suffer for My Pain! to reduce that to 2 [[shift]]s. Her player explains that Xoren, in his righteous rage, accidentally telegraphed his move. The GM buys it. Xoren puts a [[situation aspect]] of Civilians in Danger in play, with one [[free invocation]].
 
-> Dekka still has the upper hand, and she means to use it. Shoving the poor onlooker to one side and springing forward at Xoren with her photon blade, she attacks with [[Fight]] at +4, beating his [[Fight]] defense of +3. He capitalizes on the fact that she's distracted by those Civilians in Danger, using his free invocation to bump his total up to +5. After trading a couple more [[fate point]]s, Dekka comes out ahead by a single [[shift]]. Since they're using the Stress-Free variant, that means a mild consequence for Xoren—Faltering Confidence.
+> Dekka still has the upper hand, and she means to use it. Shoving the poor onlooker to one side and springing forward at Xoren with her photon blade, she attacks with [[Fight]] at +4, beating his [[Fight]] defense of +3. He capitalizes on the fact that she's distracted by those Civilians in Danger, using his [[free invocation]] to bump his total up to +5. After trading a couple more [[fate point]]s, Dekka comes out ahead by a single [[shift]]. Since they're using the Stress-Free variant, that means a mild consequence for Xoren—Faltering Confidence.
 
 ---
 
@@ -3142,7 +3142,7 @@ The quick and dirty hierarchy of speed goes as follows:
 
 - Airplane
 
-When a chase involves a speed mismatch, the faster driver gets a number of free invocations of vehicle aspects equal to the difference between the tiers. This can be mitigated by circumstances—feet and bikes can outpace a car in a traffic jam, and a car might help you catch up with a plane before it's airborne—but it should be enough to cover edge cases.
+When a chase involves a speed mismatch, the faster driver gets a number of [[free invocation]]s of vehicle aspects equal to the difference between the tiers. This can be mitigated by circumstances—feet and bikes can outpace a car in a traffic jam, and a car might help you catch up with a plane before it's airborne—but it should be enough to cover edge cases.
 
 #### Stealing a Car
 

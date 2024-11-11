@@ -984,25 +984,25 @@ Lily says, “Okay, so I raise my sword up and...” (rolls dice, hates the resu
 
 Ryan says, “So I'm trying to decipher the runes in the book and...” (rolls the dice, hates the result) “...and If I Haven't Been There, I've Read About It...” (spends a [[fate point]]) “...and I easily start rambling about their origin.”
 
-##### Free Invocations
+##### [[free invocation]]s
 
 You don't always have to pay a [[fate point]] to invoke an aspect—sometimes it's free.
 
-When you succeed at creating an advantage, you “stick” a free invocation onto an aspect. If you succeed with style, you get two invocations. Some of the other actions also give you free boosts.
+When you succeed at creating an advantage, you “stick” a [[free invocation]] onto an aspect. If you succeed with style, you get two invocations. Some of the other actions also give you free boosts.
 
-You also get to stick a free invocation on any consequences you inflict in a conflict.
+You also get to stick a [[free invocation]] on any consequences you inflict in a conflict.
 
-Free invocations work like normal ones except in two ways: no [[fate point]]s are exchanged, and you can stack them with a normal invocation for a better bonus. So you can use a free invocation and pay a [[fate point]] on the same aspect to get a +4 bonus instead of a +2, two rerolls instead of one, or you can add +4 to another character's roll or increase passive opposition by +4. Or you could split the benefits, getting a reroll and a +2 bonus. You can also stack multiple free invocations together.
+[[free invocation]]s work like normal ones except in two ways: no [[fate point]]s are exchanged, and you can stack them with a normal invocation for a better bonus. So you can use a [[free invocation]] and pay a [[fate point]] on the same aspect to get a +4 bonus instead of a +2, two rerolls instead of one, or you can add +4 to another character's roll or increase passive opposition by +4. Or you could split the benefits, getting a reroll and a +2 bonus. You can also stack multiple [[free invocation]]s together.
 
-After you've used your free invocation, if the aspect in question is still around, you can keep invoking it by spending [[fate point]]s.
+After you've used your [[free invocation]], if the aspect in question is still around, you can keep invoking it by spending [[fate point]]s.
 
 {example}
 
-If you want, you can pass your free invocation to another character. That allows you to get some teamwork going between you and a buddy. This is really useful in a conflict if you want to set someone up for a big blow—have everyone [[Create Advantage]] and pass their free invocations onto one person, then that person stacks all of them up at once for a huge bonus.
+If you want, you can pass your [[free invocation]] to another character. That allows you to get some teamwork going between you and a buddy. This is really useful in a conflict if you want to set someone up for a big blow—have everyone [[Create Advantage]] and pass their [[free invocation]]s onto one person, then that person stacks all of them up at once for a huge bonus.
 
 ###### FOR VETERANS
 
-In other Fate games, free invocations were called “tagging.” We thought this was one bit of jargon too many. You can still call it that if you want—whatever helps you and your table understand the rule.
+In other Fate games, [[free invocation]]s were called “tagging.” We thought this was one bit of jargon too many. You can still call it that if you want—whatever helps you and your table understand the rule.
 
 #### COMPELLING ASPECTS
 
@@ -1133,7 +1133,7 @@ For the most part, you'll use the [[Create Advantage]] action to make new aspect
 
 With some skills, it's going to make more sense to stick an advantage to an aspect that's already on some other character's sheet. In this case, the PC or NPC you're targeting would provide active opposition to keep you from being able to use that aspect.
 
-If you're not looking for a free invocation, and you just think it'd make sense if there were a particular [[situation aspect]] in play, you don't need to roll the dice or anything to make new aspects—just suggest them, and if the group thinks they're interesting, write them down.
+If you're not looking for a [[free invocation]], and you just think it'd make sense if there were a particular [[situation aspect]] in play, you don't need to roll the dice or anything to make new aspects—just suggest them, and if the group thinks they're interesting, write them down.
 
 ##### FOR THE GM: EXTREMELY POWERFUL NINJA GM TRICK
 
@@ -1242,7 +1242,7 @@ We define skills in two ways in Fate—in terms of the game actions that you can
 We cover these in more detail in Actions and Outcomes, but here's a quick reference so that you don't have to flip all the way over there right now.
 
 - [[Overcome]]: True to its name, you tackle some kind of challenge, engaging task, or hindrance related to your skill.
-- [[Create Advantage]]: Whether you're discovering something that already exists about an opponent or creating a situation that helps you succeed, creating advantages allows you to discover and create aspects, and lets you get free invocations of them.
+- [[Create Advantage]]: Whether you're discovering something that already exists about an opponent or creating a situation that helps you succeed, creating advantages allows you to discover and create aspects, and lets you get [[free invocation]]s of them.
 - [[Attack]]: You try to harm someone in a conflict. That harm may be physical, mental, emotional, or social in nature.
 - [[Defend]]: You try to keep someone from harming you, getting past you, or creating an advantage to use against you.
 
@@ -1407,7 +1407,7 @@ Fast Talk. You get a +2 to overcome obstacles with [[Deceive]], provided you don
 Here are some potential options for branching off of that stunt:
 
 - **Quick Disguise.** (requires Fast Talk.) You're able to put together a convincing disguise in a heartbeat, using items from your surroundings. You can roll [[Deceive]] to create a disguise without any time to prepare, in nearly any situation.
-- **Instant Cover.** (requires Fast Talk.) You can whip up a cover story like no one's business, even if you haven't made an effort to establish it beforehand. Any time you overcome an obstacle in public using [[Deceive]], automatically add a [[situation aspect]] representing your cover story, and stick a free invocation on it.
+- **Instant Cover.** (requires Fast Talk.) You can whip up a cover story like no one's business, even if you haven't made an effort to establish it beforehand. Any time you overcome an obstacle in public using [[Deceive]], automatically add a [[situation aspect]] representing your cover story, and stick a [[free invocation]] on it.
 - **Hey, What's That?** (requires Fast Talk.) Gain a +2 bonus whenever you're using [[Deceive]] to momentarily distract someone, as long as part of the distraction involves saying something.
 
 Every one of those stunts thematically relates to very quick, spontaneous uses of [[Deceive]], but they each have a different flavor of awesome.
@@ -1648,7 +1648,7 @@ The [[Fight]] skill covers all forms of close-quarters combat (in other words, w
 
 ###### [[Fight]] Stunts
 
-- **Heavy Hitter**. When you succeed with style on a [[Fight]] attack and choose to reduce the result by one to gain a boost, you gain a full [[situation aspect]] with a free invocation instead.
+- **Heavy Hitter**. When you succeed with style on a [[Fight]] attack and choose to reduce the result by one to gain a boost, you gain a full [[situation aspect]] with a [[free invocation]] instead.
 - **Backup Weapon**. Whenever someone's about to hit you with a Disarmed [[situation aspect]] or something similar, spend a [[fate point]] to declare you have a backup weapon. Instead of a [[situation aspect]], your opponent gets a boost, representing the momentary distraction you suffer having to switch.
 - **Killing Stroke**. Once per scene, when you force an opponent to take a consequence, you can spend a [[fate point]] to increase the consequence's severity (so mild becomes moderate, moderate becomes severe). If your opponent was already going to take a severe consequence, he must either take a severe consequence and a second consequence or be taken out.
 
@@ -1679,7 +1679,7 @@ If that sounds broad, consider the following as just a few of the possibilities 
 ###### [[Investigate]] Stunts
 
 - **Attention to Detail**. You can use [[Investigate]] instead of [[Empathy]] to defend against [[Deceive]] attempts. What others discover through gut reactions and intuition, you learn through careful observation of microexpressions.
-- **Eavesdropper**. On a successful [[Investigate]] roll to [[Create Advantage]] by eavesdropping on a conversation, you can discover or create one additional aspect (though this doesn't give you an extra free invocation).
+- **Eavesdropper**. On a successful [[Investigate]] roll to [[Create Advantage]] by eavesdropping on a conversation, you can discover or create one additional aspect (though this doesn't give you an extra [[free invocation]]).
 - **The Power of Deduction**. Once per scene you can spend a [[fate point]] (and a few minutes of observation) to make a special [[Investigate]] roll representing your potent deductive faculties. For each [[shift]] you make on this roll you discover or create an aspect, on either the scene or the target of your observations, though you may only invoke one of them for free.
 
 ##### [[Lore]]
@@ -1767,7 +1767,7 @@ This skill requires that your target can feel emotions—robots and zombies typi
 ###### [[Provoke]] Stunts
 
 - **Armor of Fear.** You can use [[Provoke]] to defend against [[Fight]] attacks, but only until the first time you're dealt stress in a conflict. You can make your opponents hesitate to attack, but when someone shows them that you're only human your advantage disappears.
-- **[[Provoke]] Violence.** When you [[Create Advantage]] on an opponent using [[Provoke]], you can use your free invocation to become the target of that character's next relevant action, drawing their attention away from another target.
+- **[[Provoke]] Violence.** When you [[Create Advantage]] on an opponent using [[Provoke]], you can use your [[free invocation]] to become the target of that character's next relevant action, drawing their attention away from another target.
 - **Okay, Fine!** You can use [[Provoke]] in place of [[Empathy]] to learn a target's aspects, by bullying them until they reveal one to you. The target defends against this with [[Will]]. (If the GM thinks the aspect is particularly vulnerable to your hostile approach, you get a +2 bonus.)
 
 ##### [[Rapport]]
@@ -1784,7 +1784,7 @@ The [[Rapport]] skill is all about making positive connections to people and eli
 
 ###### [[Rapport]] Stunts
 
-- **Best Foot Forward**. Twice per session, you may upgrade a boost you receive with [[Rapport]] into a full [[situation aspect]] with a free invocation.
+- **Best Foot Forward**. Twice per session, you may upgrade a boost you receive with [[Rapport]] into a full [[situation aspect]] with a [[free invocation]].
 - **Demagogue**. +2 to [[Rapport]] when you're delivering an inspiring speech in front of a crowd. (If there are named NPCs or PCs in the scene, you may target them all simultaneously with one roll rather than dividing up your [[shift]]s.)
 - **Popular**. If you're in an area where you're popular and well-liked, you can use [[Rapport]] in place of [[Contacts]]. You may be able to establish your popularity by spending a [[fate point]] to declare a story detail, or because of prior justification.
 
@@ -1962,7 +1962,7 @@ This means that you get what you want, but you also get an added benefit on top 
 
 When you're thinking about costs, think both about the story in play and the game mechanics to help you figure out what would be most appropriate.
 
-A serious cost should make the current situation worse somehow, either by creating a new problem or exacerbating an existing one. Bring in another source of opposition in this scene or the next one (such as a new opposing NPC or an obstacle to overcome), or ask the player to take a consequence at their lowest free level, or give someone who opposes the PC an advantage with a free invocation.
+A serious cost should make the current situation worse somehow, either by creating a new problem or exacerbating an existing one. Bring in another source of opposition in this scene or the next one (such as a new opposing NPC or an obstacle to overcome), or ask the player to take a consequence at their lowest free level, or give someone who opposes the PC an advantage with a [[free invocation]].
 
 A minor cost should add a story detail that's problematic or bad for the PC, but doesn't necessarily endanger progress. You could also ask the PC to take stress or give someone who opposes the PCs a boost.
 
@@ -2054,9 +2054,9 @@ When you fail, you either don't create the aspect, or you create it but someone 
 
 When you tie, you get a boost instead of the [[situation aspect]] you were going for. This might mean you have to rename the aspect a bit to reflect its temporary nature (Rough Terrain becomes Rocks on the Path).
 
-When you succeed, you create a [[situation aspect]] with a free invocation.
+When you succeed, you create a [[situation aspect]] with a [[free invocation]].
 
-When you succeed with style, you get a [[situation aspect]] with two free invocations instead of one.
+When you succeed with style, you get a [[situation aspect]] with two [[free invocation]]s instead of one.
 
 {example}
 
@@ -2076,9 +2076,9 @@ If you're using [[Create Advantage]] on an existing aspect…
 
 When you fail, you give a free invoke on that aspect to someone else instead. That could be your opponent in a conflict, or any character who could tangibly benefit to your detriment.
 
-When you tie or succeed, you place a free invocation on the aspect.
+When you tie or succeed, you place a [[free invocation]] on the aspect.
 
-When you succeed with style, you place two free invocations on the aspect.
+When you succeed with style, you place two [[free invocation]]s on the aspect.
 
 {example}
 
@@ -2092,7 +2092,7 @@ Ryan rolls. His [[Rapport]] skill is Good (+3), and he manages a +1 on the dice,
 
 Amanda looks at her notes, grins, and says, “Okay, here's what you notice. This merchant is obviously a very social fellow, boisterously engaging other shop owners and potential customers as he makes his rounds. This geniality takes on more of a flirtatious, suggestive air any time he speaks to young men—he can't seem to help that.”
 
-She slides an index card with the aspect Sucker for a Pretty Man written on it, to indicate that the merchant's aspect is now public. Ryan notes that he has a free invocation on that aspect.
+She slides an index card with the aspect Sucker for a Pretty Man written on it, to indicate that the merchant's aspect is now public. Ryan notes that he has a [[free invocation]] on that aspect.
 
 “Pretty man, huh?” Ryan says. “Does he think I'm pretty?”
 
@@ -2318,7 +2318,7 @@ Cynere tries to throw mud in the eyes of Teran the Swift as she's running to sav
 
 She rolls [[Athletics]] to create the advantage and gets a Great (+4). Teran rolls [[Athletics]] to defend and gets a Good (+3).
 
-Teran gets mud in his eyes as Cynere intended, and Lily marks that she has a free invocation on it.
+Teran gets mud in his eyes as Cynere intended, and Lily marks that she has a [[free invocation]] on it.
 
 Because Lily didn't fail, she gets to make her contest roll normally. Amanda decides that being semi-blinded isn't going to stop Teran from continuing to cast, so he also gets to roll normally.
 
@@ -2533,7 +2533,7 @@ Consequences come in three levels of severity—mild, moderate, and severe. Each
 
 When you use a consequence slot, you reduce the [[shift]] value of the attack by the [[shift]] value of the consequence. You can use more than one consequence at a time if they're available. Any of the hit's remaining [[shift]]s must be handled by a stress box to avoid being taken out.
 
-However, there's a penalty. The consequence written in the slot is an aspect that represents the lasting effect incurred from the attack. The opponent who forced you to take a consequence gets a free invocation, and the aspect remains on your character sheet until you've recovered the consequence slot. While it's on your sheet, the consequence is treated like any other aspect, except because the slant on it is so negative, it's far more likely to be used to your character's detriment.
+However, there's a penalty. The consequence written in the slot is an aspect that represents the lasting effect incurred from the attack. The opponent who forced you to take a consequence gets a [[free invocation]], and the aspect remains on your character sheet until you've recovered the consequence slot. While it's on your sheet, the consequence is treated like any other aspect, except because the slant on it is so negative, it's far more likely to be used to your character's detriment.
 
 Unlike stress, a consequence slot may take a long time to recover after the conflict is over. Also unlike stress, you only have one set of consequences; there aren't specific slots for physical versus mental consequences. This means that, if you have to take a mild consequence to reduce a mental hit and your mild consequence slot is already filled with a physical consequence, you're out of luck! You're going to have to use a moderate or severe consequence to absorb that hit (assuming you have one left). The exception to this is the extra consequence slot you would get from a Superb (+5) [[Physique]] or [[Will]] is reserved for physical or mental harm, respectively.
 
@@ -2781,11 +2781,11 @@ Of the three PCs, Cynere has the highest [[Athletics]], at Great (+4). Landon ha
 
 Amanda's temple guardians only have Average (+1) [[Athletics]], but there are five of them, so they roll Superb (+5) for the purposes of the contest.
 
-When you stack advantages, each person takes a [[Create Advantage]] action as usual, and gives whatever free invocations they get to a single character. Remember that multiple free invocations from the same aspect can stack.
+When you stack advantages, each person takes a [[Create Advantage]] action as usual, and gives whatever [[free invocation]]s they get to a single character. Remember that multiple [[free invocation]]s from the same aspect can stack.
 
 Zird and Cynere want to set Landon up for an extremely big hit on Tremendor, the much-feared giant of the Northern Wastes.
 
-Both Cynere and Zird roll to [[Create Advantage]] on their turns, resulting in three free invocations on a Flashy Distraction they make from Zird's magical fireworks (which succeeded to create the advantage) and Cynere's glancing hits (which succeeded with style to add two more free invocations).
+Both Cynere and Zird roll to [[Create Advantage]] on their turns, resulting in three [[free invocation]]s on a Flashy Distraction they make from Zird's magical fireworks (which succeeded to create the advantage) and Cynere's glancing hits (which succeeded with style to add two more [[free invocation]]s).
 
 They pass those to Landon, and on his turn, he uses them all for a gigantic +6 to his attack.
 
@@ -2997,7 +2997,7 @@ One way you can do this is by taking a minor cost to the next level. Instead of 
 
 Other options could include:
 
-- **Reinforce the opposition**. You might clear one of an NPC's stress boxes, improve one of their skills by one step for the scene, or give them a new aspect with a free invocation.
+- **Reinforce the opposition**. You might clear one of an NPC's stress boxes, improve one of their skills by one step for the scene, or give them a new aspect with a [[free invocation]].
 - **Bring in new opposition or a new obstacle**, such as additional enemies or a [[situation aspect]] that worsens the situation.
 - **Delay success.** The task at hand will take much longer than expected.
 - **Give the PC a consequence that follows logically from the circumstances**—mild if they have one available, moderate if they don't.
@@ -3255,7 +3255,7 @@ Lenny doesn't hesitate. He writes down a mild mental consequence: This Guy is Bi
 
 “Cool. They look at you, then back to Gorlok. He waves a hand dismissively. 'Go, find another to kill,' he growls. 'This one's mine.'”
 
-Things get more complicated when you want to filter specific targets, rather than just affect a whole zone or scene. When that happens, divide your resulting total up against every target, who all get to defend as per normal. Anyone who fails to defend either takes stress or gains an aspect, depending on what you were trying to do. (Note: If you [[Create Advantage]] to put an aspect on multiple targets, you do get a free invocation for each one.)
+Things get more complicated when you want to filter specific targets, rather than just affect a whole zone or scene. When that happens, divide your resulting total up against every target, who all get to defend as per normal. Anyone who fails to defend either takes stress or gains an aspect, depending on what you were trying to do. (Note: If you [[Create Advantage]] to put an aspect on multiple targets, you do get a [[free invocation]] for each one.)
 
 {example}
 
@@ -3549,9 +3549,9 @@ Right-sizing the opposition is more of an art than a science, but here are some 
 
 It's easy to fall into the default mode of using the opposition as a direct means to get in the PCs' way, drawing them into a series of conflict scenes until someone is defeated.
 
-However, keep in mind that the NPCs can create advantages just like the PCs can. Feel free to use opposition characters to create scenes that aren't necessarily about stopping the PCs from achieving a goal, but scouting out information about them and stacking up free invocations. Let your bad guys and the PCs have tea together and then bring out the [[Empathy]] rolls. Or instead of having that fight scene take place in the dark alley, let your NPCs show up, gauge the PCs' abilities, and then flee.
+However, keep in mind that the NPCs can create advantages just like the PCs can. Feel free to use opposition characters to create scenes that aren't necessarily about stopping the PCs from achieving a goal, but scouting out information about them and stacking up [[free invocation]]s. Let your bad guys and the PCs have tea together and then bring out the [[Empathy]] rolls. Or instead of having that fight scene take place in the dark alley, let your NPCs show up, gauge the PCs' abilities, and then flee.
 
-Likewise, keep in mind that your NPCs have a home turf advantage in conflicts if the PCs go to them in order to resolve something. So, when you're setting up situation aspects, you can pre-load the NPC with some free invocations if it's reasonable that they've had time to place those aspects. Use this trick in good faith, though—two or three such aspects is probably pushing the limit.
+Likewise, keep in mind that your NPCs have a home turf advantage in conflicts if the PCs go to them in order to resolve something. So, when you're setting up situation aspects, you can pre-load the NPC with some [[free invocation]]s if it's reasonable that they've had time to place those aspects. Use this trick in good faith, though—two or three such aspects is probably pushing the limit.
 
 ##### Change Venues of Conflict
 
@@ -4755,10 +4755,10 @@ If you've played The Dresden Files RPG, you know that we use skill columns for t
 
 ### Aspects
 
-In other Fate games, free invocations were called “tagging.” We thought this was one bit of jargon too many. You can still call it that if you want—whatever helps you and your table understand the rule.
+In other Fate games, [[free invocation]]s were called “tagging.” We thought this was one bit of jargon too many. You can still call it that if you want—whatever helps you and your table understand the rule.
 You might have seen player-driven compels referred to as “invoking for effect.” We thought it was clearer to just call it a compel, no matter who initiates it.
 
-Free invocations now stack with a regular one or stack together with other free invocations on the same aspect. Further, an aspect can hold more than one free invoke at a time.
+[[free invocation]]s now stack with a regular one or stack together with other [[free invocation]]s on the same aspect. Further, an aspect can hold more than one free invoke at a time.
 
 Invoking an aspect attached to another character gives them a [[fate point]] at the end of the scene.
 

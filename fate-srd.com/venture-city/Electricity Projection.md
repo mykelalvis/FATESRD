@@ -16,7 +16,7 @@ You are filled with enough electrical potential to make Tesla blush.
 
 **Conductive Trip:** You can briefly convert your entire body into electricity and push through conductive material. You can use this power to pass through an otherwise impenetrable barrier, such as a door with a metal doorknob, as an action.
 
-**Stunning Blow:** When you succeed with style on a melee attack, give your target the [[situation aspect]] [Stunned] with one free invocation. If they are already [Stunned], add another free invocation to the aspect.
+**Stunning Blow:** When you succeed with style on a melee attack, give your target the [[situation aspect]] `Stunned` with one free invocation. If they are already `Stunned`, add another [[free invocation]] to the aspect.
 
 ### Common Power Synergies
 

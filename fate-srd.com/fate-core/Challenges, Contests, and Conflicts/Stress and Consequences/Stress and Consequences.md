@@ -10,13 +10,13 @@ date created: 2022-10-18 08:08
 
 First, it should be noted that [[Fate Doesn't Have A Damage System]].
 
-When Fate characters find themselves in harm's way---a fairly common occurrence when you're highly competent, proactive, and facing drama at every turn---they have two ways to stand their ground and stay on their feet: **stress** and **consequences**.
+When Fate characters find themselves in harm's way---a fairly common occurrence when you're highly competent, proactive, and facing drama at every turn---they have two ways to stand their ground and stay on their feet: **[[Stress]]** and **[[consequences]]**.
 
-The [[conflict]]s section of the [[challenges-contests-conflicts]] section fully explains what these mean and how they're used. In brief, stress represents [the ephemeral toll](../resolving-attacks/index.html#stress) of participating in a conflict, whereas consequences are [the lingering effects](../resolving-attacks/index.html#consequences), and sometimes quite traumatic ones, of taking harm.
+The [[conflict]]s section of the [[Challenges, Contests, and Conflicts]] section fully explains what these mean and how they're used. In brief, stress represents [the ephemeral toll](../resolving-attacks/index.html#stress) of participating in a conflict, whereas consequences are [the lingering effects](../resolving-attacks/index.html#consequences), and sometimes quite traumatic ones, of taking harm.
 
 ## Stress Tracks
 
-Every PC has two different [[stress]] tracks. The physical stress track deals with physical harm, and the mental stress track mitigates mental harm. The more boxes in a stress track, the more resilient the character is in that regard. By default, a character has two boxes in each stress track.
+Every PC has two different [[Stress]] tracks. The physical stress track deals with physical harm, and the mental stress track mitigates mental harm. The more boxes in a stress track, the more resilient the character is in that regard. By default, a character has two boxes in each stress track.
 
 ## Consequence Slots
 

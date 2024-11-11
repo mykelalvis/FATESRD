@@ -29,7 +29,7 @@ yourself. Your defense is Average (+1) against that attack.
 
 **Berserk Rage:** When you suffer a physical consequence, you can invoke
 that consequence for free on your next attack. If you suffer multiple
-physical consequences, you get a free invocation for each.
+physical consequences, you get a [[free invocation]] for each.
 
 **Useful Little Things:** Your pockets are full of useful little things.
 Whenever you need something, you have it, provided it's not something
@@ -46,7 +46,7 @@ creative with your design, moving beyond +2s and skill swaps.
 ### Aspected Stunts
 
 For stunts which are tied to aspects, you might view some of their
-effects as narrowly defined free invocations. Other aspected stunts
+effects as narrowly defined [[free invocation]]s. Other aspected stunts
 might require an invocation, as Ally's Shield (above) does, but give
 something extra or particularly unusual when the aspect is invoked. Such
 effects should be more potent than a "vanilla" invocation. You could

@@ -15,7 +15,7 @@ aliases:
 
 GMs, answer the following questions when you're setting up a contest:
 
-- What are the "sides"? Is every character in the contest in it for herself, or are there groups of people opposing other groups? If you have multiple characters on a side, they roll together using the teamwork rules.
+- [[Establishing Sides|What are the "sides"]]? Is every character in the contest in it for herself, or are there groups of people opposing other groups? If you have multiple characters on a side, they roll together using the teamwork rules.
 - What environment does the contest take place in? Are there any significant or notable features of that environment you want to define as situation aspects?
 - How are the participants opposing each other? Are they rolling against each other directly (like in a straight sprint race or a poker match), or are they trying to overcome something in the environment (like an obstacle course or a panel of judges)?
 - What skills are appropriate for this contest? Does everyone have to roll the same one, or do several apply?
@@ -75,7 +75,7 @@ If you're providing a bonus via the [[Teamwork]]rules, [[Fail]]ing to [[Create A
 >
 > She rolls [[Athletics]] to create the advantage and gets a Great (+4).   Teran rolls [[Athletics]] to defend and gets a Good (+3).
 >
-> Teran gets mud in his eyes as Cynere intended, and Lily marks that she has a free invocation on it.
+> Teran gets mud in his eyes as Cynere intended, and Lily marks that she has a [[free invocation]] on it.
 >
 > Because Lily didn't [[Fail]], she gets to make her contest roll normally. Amanda decides that being semi-blinded isn't going to stop Teran from continuing to cast, so he also gets to roll normally.
 

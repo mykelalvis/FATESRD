@@ -39,7 +39,7 @@ Whatever genre you're gaming, you'll find a wide array of customizable concepts 
 - [[Refresh (FST)]]
 - [[Modifying the Setting - Making Big Changes]]
 - [[Other Dice]]
-- [[Scale]]
+- [[Scale (FST)]]
 - [[Sidekicks vs. Allies]]
 - [[Wealth]]
 - [[Weapons and Armor Alternatives]]

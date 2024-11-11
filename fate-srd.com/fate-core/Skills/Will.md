@@ -14,7 +14,7 @@ Contests of [[Will]] might reflect particularly challenging games, like chess, o
 
 ![[adv_r.svg|30 ]][[Create Advantage]]: You can use [[Will]] to place aspects on yourself, representing a state of deep concentration or focus.
 
-![[att_r.svg|30 ]][[Attack]]: [[Will]] isn't really used for attacks. That said, in settings where you allow psychic abilities, full-on psychic conflict might be something you can do with this skill. That's the sort of thing that would be added to [[Will]] by [[building stunts]] or [[extras]].
+![[att_r.svg|30 ]][[Attack]]: [[Will]] isn't really used for attacks. That said, in settings where you allow psychic abilities, full-on psychic conflict might be something you can do with this skill. That's the sort of thing that would be added to [[Will]] by [[Building Stunts]] or [[Extras]].
 
 ![[def_r.svg|30 ]][[Defend]]: [[Will]] is the main skill you use to defend against mental attacks from [[Provoke]], representing your control over your reactions.
 

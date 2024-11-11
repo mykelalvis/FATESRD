@@ -18,7 +18,7 @@ The [[Rapport]] skill is all about making positive connections to people and eli
 
 ## [[Rapport]] Stunts
 
-- **Best Foot Forward**. Twice per session, you may upgrade a boost you receive with [[Rapport]] into a full [[situation aspect]] with a free invocation.
+- **Best Foot Forward**. Twice per session, you may upgrade a boost you receive with [[Rapport]] into a full [[situation aspect]] with a [[free invocation]].
 - **Demagogue**. +2 to [[Rapport]] when you're delivering an inspiring speech in front of a crowd. (If there are named NPCs or PCs in the scene, you may target them all simultaneously with one roll rather than dividing up your [[shift]]s.)
 - **Popular**. If you're in an area where you're popular and well-liked, you can use [[Rapport]] in place of [[Contacts]]. You may be able to establish your popularity by spending a [[fate point]] to declare a story detail, or because of prior justification.
 

@@ -23,5 +23,5 @@ This skill requires that your target can feel emotions---robots and zombies typi
 ## [[Provoke]] Stunts
 
 - **Armor of Fear**. You can use [[Provoke]] to defend against [[Fight]] attacks, but only until the first time you're dealt stress in a conflict. You can make your opponents hesitate to attack, but when someone shows them that you're only human your advantage disappears.
-- **[[Provoke]] Violence**. When you [[Create Advantage]] on an opponent using [[Provoke]], you can use your free invocation to become the target of that character's next relevant action, drawing their attention away from another target.
+- **[[Provoke]] Violence**. When you [[Create Advantage]] on an opponent using [[Provoke]], you can use your [[free invocation]] to become the target of that character's next relevant action, drawing their attention away from another target.
 - **Okay, Fine!** You can use [[Provoke]] in place of [[Empathy]] to learn a target's aspects, by bullying them until they reveal one to you. The target defends against this with [[Will]]. (If the GM thinks the aspect is particularly vulnerable to your hostile approach, you get a +2 bonus.)

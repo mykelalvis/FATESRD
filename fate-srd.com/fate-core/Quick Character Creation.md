@@ -50,3 +50,28 @@ If you're out of [[fate point]]s, but want to note down a stunt you have because
 
 You'll also need to reduce your refresh by one for the next session for each extra stunt you take.
 
+## Fate Core character creation
+
+I love Fate Core character creation. But to explain why, I need to tell a story.
+
+I was trying to play Burning Wheel a bit back, never really got the feel for it. Then I had an opportunity to play with someone that did get it, and it changed some of my perceptions. I remember talking about running a "tapestry" game with this guy, and he basically said he didn't see how that could work in Burning Wheel, and I totally didn't understand it.
+
+Character creation seemed normal, and I did a lot of the usual things. Specifically, I had taken an Enemy character, as well as a friend. We worked up backstories for our characters, and awaited the first session.
+
+Then we started playing. It quickly became apparent that the enemy was a significant enemy of the game. It quickly became apparent that the story was about our characters, in a way that a D&D game isn't -it was our story, not a story that you could drop random characters into.
+
+This was one of the first "aha!" moments for me with narrative gaming. Backstories aren't "just" backstories. They're stories. They're what drives the game forward.
+
+And that's why I love Fate character creation.
+
+First, it's one of the few character creation systems that focuses first on who a character is, rather than what a character can do. I find it in many ways hard to create characters in other systems now, as it's an exercise in point optimization. Bleah.
+
+The shared stories also present the party a good reason to know each other, and do a great job of banishing "you meet in a bar".
+
+But the real reason I enjoy character creation in Fate is more than these. It's the Phase Trio. It's creating and enriching stories about these characters. Because each time I go through the exercise, we end up with a plethora of threats and antagonists in the world. We end up with story threads that need to go somewhere, and that I want to find out what happens with. I end up with complex relationships that I want to see resolve in an interesting way.
+
+I can't imagine running a Fate game where character creation didn't influence coming events. And if I played in one where our pasts didn't come into play, I'd kind of feel like something was left out.
+
+I've learned to dislike the term "backstory" when it comes to Fate characters. Backstory implies that it's the past, and in many gaming circles carries the connotation that it's only important from a motivational view after all, the story was probably created before you made your characters. But your character's history isn't that in Fate. It's what drives the game. It's what creates complications, and gives players the chance to decide what type of game they want to play.
+
+---

@@ -638,7 +638,7 @@ You come pre-armed for everyone's inconvenience.
 
 **Critical Hit:** Whenever you cause stress using your natural weapon, you may instead cause a mild consequence, if the target doesn't already have one.
 
-**Bloody Weapon:** When you attack with your natural weapon and succeed with style, give the defender the [[situation aspect]] [Bleeding] with one free invocation. If they are already [Bleeding], add another free invocation to the aspect.
+**Bloody Weapon:** When you attack with your natural weapon and succeed with style, give the defender the [[situation aspect]] [Bleeding] with one [[free invocation]]. If they are already [Bleeding], add another [[free invocation]] to the aspect.
 
 ### Common Power Synergies
 
@@ -1417,7 +1417,7 @@ You are filled with enough electrical potential to make Tesla blush.
 
 **Conductive Trip:** You can briefly convert your entire body into electricity and push through conductive material. You can use this power to pass through an otherwise impenetrable barrier, such as a door with a metal doorknob, as an action.
 
-**Stunning Blow:**When you succeed with style on a melee attack, give your target the [[situation aspect]] [Stunned] with one free invocation. If they are already [Stunned], add another free invocation to the aspect.
+**Stunning Blow:**When you succeed with style on a melee attack, give your target the [[situation aspect]] [Stunned] with one [[free invocation]]. If they are already [Stunned], add another [[free invocation]] to the aspect.
 
 ### Common Power Synergies
 

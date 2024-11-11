@@ -132,7 +132,7 @@ If one of the invention's extras bundles two or more identical stunt benefits fo
 
 #### Catches as Aspects
 
-If it makes sense and everyone's agreeable, a catch can manifest as an aspect. This aspect sticks around for as long as it makes sense in the story. It comes with one free invocation (the GM has dibs), or two free invocations if it's the product of a serious catch.
+If it makes sense and everyone's agreeable, a catch can manifest as an aspect. This aspect sticks around for as long as it makes sense in the story. It comes with one [[free invocation]] (the GM has dibs), or two [[free invocation]]s if it's the product of a serious catch.
 
 Examples might include:
 

@@ -23,5 +23,5 @@ If that sounds broad, consider the following as just a few of the possibilities 
 ## [[Investigate]] Stunts
 
 - **Attention to Detail**. You can use [[Investigate]] instead of [[Empathy]] to defend against [[Deceive]] attempts. What others discover through gut   reactions and intuition, you learn through careful observation of   microexpressions.
-- **Eavesdropper**. On a successful [[Investigate]] roll to [[Create Advantage]] by eavesdropping on a conversation, you can discover or create one additional aspect (though this doesn't give you an extra free invocation).
+- **Eavesdropper**. On a successful [[Investigate]] roll to [[Create Advantage]] by eavesdropping on a conversation, you can discover or create one additional aspect (though this doesn't give you an extra [[free invocation]]).
 - **The Power of Deduction**. Once per scene you can spend a [[fate point]] (and a few minutes of observation) to make a special [[Investigate]] roll representing your potent deductive faculties. For each [[shift]] you make on this roll you discover or create an aspect, on either the scene or the target of your observations, though you may only invoke one of them for free.

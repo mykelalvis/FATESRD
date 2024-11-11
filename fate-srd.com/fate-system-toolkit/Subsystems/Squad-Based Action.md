@@ -75,7 +75,7 @@ The Equipment skill represents the resources your squad has available to pursue 
 
 ### Recon Sample Stunts
 
-- **Codebreakers**: On a successful Recon roll to [[Create Advantage]] while monitoring enemy communications, you can discover or create one additional aspect (though this doesn't give you an extra free invocation).
+- **Codebreakers**: On a successful Recon roll to [[Create Advantage]] while monitoring enemy communications, you can discover or create one additional aspect (though this doesn't give you an extra [[free invocation]]).
 - **Counterprogramming**: You can use Recon instead of Operations to set a trap when you use the enemy's communications system against them.
 
 ## Rolling Squad Skills

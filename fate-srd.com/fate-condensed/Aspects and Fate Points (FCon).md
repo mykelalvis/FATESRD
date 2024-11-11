@@ -96,7 +96,7 @@ When offering a compel, make sure that the complication is a course of action or
 
 "You know, curse your luck, I think that the sand in your eyes means you can't really see anything. Your shots at the shoggoth go wild, puncturing a few barrels that are now gushing gasoline toward the fire pit." This is a much better compel. It changes the scene, ratchets up the tension, and gives the players something new to think about.
 
-For some ideas about what does and doesn't work as a compel, check out the [[Invoking and Compelling Aspects#Types of Compels|discussion of types of compels]] found in [[Fate Core]].
+For some ideas about what does and doesn't work as a compel, check out the discussion of types of [[compels]] found in [[Fate Core]].
 
 #### Events and Decisions
 

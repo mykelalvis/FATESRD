@@ -1,0 +1,1 @@
+A **session** is a single session of play comprised of several scenes and a few hours of gameplay. Think of this as similar to a single episode of a television show. It likely falls into the three-to-four hour range.

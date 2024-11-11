@@ -179,7 +179,7 @@ Alternately, let the players define some of these aspects by exploring these zon
 
 Olivia the scout wants to know what's hiding in the **_Fog_** a couple zones over, so she takes time to Carefully peer into it and see what she can make out. The GM sets the difficulty at Average (+1), then bumps it up by +2 because of that **_Fog_** and another +2 for being two zones away. That doesn't sound so good to Olivia's player. Fortunately, she's able to move a zone closer, lowering the difficulty to Good (+3), and gets a result of Great (+4). Success! Since the scene takes place in a mountain pass, the player suggests that the zone actually contains a **_Fog-Shrouded Chasm_**, and the GM agrees. Someone's in for a surprise.
 
-Each pre-defined zone aspect starts the scene with one free invocation. Aspects "discovered" by the players (that is, by creating an advantage) start with one or two free invocations, as usual.
+Each pre-defined zone aspect starts the scene with one [[free invocation]]. Aspects "discovered" by the players (that is, by creating an advantage) start with one or two [[free invocation]]s, as usual.
 
 GMs are encouraged to use common sense when determining whether an aspect would affect a particular creature or character. For example, flying creatures would be affected by **_Buffeting Winds_** but not by **_Icy Ground_**, and a swamp-dwelling creature would not mind **_Marshy Terrain_** but would be at a disadvantage on **_High Rocky Ground_**.
 
@@ -223,11 +223,11 @@ For one, when you roar and as long as you are in this state, you are limited to 
 
 Olivia is entering a conflict with Lord Marcus Sidonius and Olivia's player wants her to roar with Careful, so she attempts to create the advantage **_Intensely Focused_**. Once she's roaring, she can use the free invoke from that aspect normally, but she's limited to the Careful, Sneaky, and Clever approaches.
 
-Second, the base difficulty to create one of these Roar aspects is +2. The players and the GM take turns rolling for Roar aspects—that's right, the GM can create as many aspects as the players do. How many free invocations are generated for each aspect, however, depends on the roll results.
+Second, the base difficulty to create one of these Roar aspects is +2. The players and the GM take turns rolling for Roar aspects—that's right, the GM can create as many aspects as the players do. How many [[free invocation]]s are generated for each aspect, however, depends on the roll results.
 
 Finally, trying and failing to create a Roar aspect means success at a cost. The Roar aspect will be created, but along with it will come a related consequence for the GM to use against the PC. On a tie, the GM only gets a boost against the PC rather than a consequence. It's a tricky business, transcending the bounds of mortal consciousness and capability. With great ambition comes great risk, and the gods don't take kindly to hubris. Note that minor NPCs who can't take consequences thus can't create a Roar aspect at a cost; they simply fail altogether.
 
-Olivia fails the roll to create the roar aspect **_Intensely Focused_** for her debate against Lord Marcus Sidonius. The GM decides that Olivia will gain the mild consequence **_Oblivious to her Surroundings_**. The GM gets one free invocation of that consequence.
+Olivia fails the roll to create the roar aspect **_Intensely Focused_** for her debate against Lord Marcus Sidonius. The GM decides that Olivia will gain the mild consequence **_Oblivious to her Surroundings_**. The GM gets one [[free invocation]] of that consequence.
 
 Minor GM characters can roar with something they are skilled at, but lose the Roar aspect automatically if they have to use an ability they are bad at.
 
@@ -259,7 +259,7 @@ First, it's part of the setting for a lot of historical material that inspires f
 
 Second, even when Roar aspects aren't used directly against each other, it adds to the fiction by shining a spotlight on each character in conflict and what they're about. These aspects are used in a variety of ways; the Roar phase doesn't guarantee a zero sum between GM and players because some of them are won by way of taking a consequence before the battle even starts.
 
-Third, it lets you create lots of temporary aspects with free invocations you can stack later (see "Invoking for Effect") at the moment in combat when the enemy is not trying to hurt you yet, so you don't have to worry about defending.
+Third, it lets you create lots of temporary aspects with [[free invocation]]s you can stack later (see "Invoking for Effect") at the moment in combat when the enemy is not trying to hurt you yet, so you don't have to worry about defending.
 
 Finally, it's the only way to create certain types of advantages, particularly battle rituals (see **"Magic"**).
 
@@ -756,25 +756,25 @@ Magic rituals typically influence luck in small ways or push and pull on the tar
 
 ## Battle Rituals
 
-A particular type of ritual, called_battle rituals_, are used to affect the priest's entire side of the conflict **before the actual conflict begins**. They work differently from general ritual: instead of creating temporary stunts, the priest uses the battle ritual to create magical situation aspects with free invocations. Battle rituals' effects typically last until the end of the conflict scene.
+A particular type of ritual, called_battle rituals_, are used to affect the priest's entire side of the conflict **before the actual conflict begins**. They work differently from general ritual: instead of creating temporary stunts, the priest uses the battle ritual to create magical situation aspects with [[free invocation]]s. Battle rituals' effects typically last until the end of the conflict scene.
 
 Battle rituals have a fixed difficulty of Fair (+2) to cast.
 
 Optional: If you are using the Roar Phase rules, battle rituals are used _only_ during the Roar phase and call on the power of its transcendent state. After the Roar phase, priests can still cast general rituals that provide temporary stunts for individual targets, but the time for roaring is passed.
 
-**Combat Fury:**The priest intercedes to the unit's god, asking to lend special strength and savagery in combat. Very similar to the Rage ritual below, but fine-tuned for the battlefield. Creates advantages like_Divine Savagery_,_Divine Wrath_, or_Divine Strength_. By spending a [[fate point]] or using a free invocation and invoking for effect, the targets of the ritual can also make one attack lethal (see_"Lethal Attacks"_).
+**Combat Fury:**The priest intercedes to the unit's god, asking to lend special strength and savagery in combat. Very similar to the Rage ritual below, but fine-tuned for the battlefield. Creates advantages like_Divine Savagery_,_Divine Wrath_, or_Divine Strength_. By spending a [[fate point]] or using a [[free invocation]] and invoking for effect, the targets of the ritual can also make one attack lethal (see_"Lethal Attacks"_).
 
-**Troop Movement**:A priest may ask the unit's god for assistance in moving them across the battlefield. Hopefully the god will move them in the intended direction. Creates advantages like _Pushed by a Divine Wind_,_A Burst of Speed_, or_Right Where They Should Be_. By spending a [[fate point]] or using a free invocation and invoking for effect, the targets can also move an extra zone for free.
+**Troop Movement**:A priest may ask the unit's god for assistance in moving them across the battlefield. Hopefully the god will move them in the intended direction. Creates advantages like _Pushed by a Divine Wind_,_A Burst of Speed_, or_Right Where They Should Be_. By spending a [[fate point]] or using a [[free invocation]] and invoking for effect, the targets can also move an extra zone for free.
 
-**O God Avoid Us, Seek Out Those We [[Fight]]**:This battle ritual is similar to the (Bad) Luck ritual above, but placing a temporary mild Divine Interest consequence on the enemy for the scene. Weapons miss, the sun glints off the enemy's armor, etc. Creates advantages like Ze_us Disapproves_,_How Could This Have Missed?_, or_Nope, Not Today_. By spending a [[fate point]] or using a free invocation and invoking for effect, force the next consequence that would result from an attack to be taken as a Divine Interest consequence.
+**O God Avoid Us, Seek Out Those We [[Fight]]**:This battle ritual is similar to the (Bad) Luck ritual above, but placing a temporary mild Divine Interest consequence on the enemy for the scene. Weapons miss, the sun glints off the enemy's armor, etc. Creates advantages like Ze_us Disapproves_,_How Could This Have Missed?_, or_Nope, Not Today_. By spending a [[fate point]] or using a [[free invocation]] and invoking for effect, force the next consequence that would result from an attack to be taken as a Divine Interest consequence.
 
-**Our God [[Will]] Smite Them All!**:War priests use this ritual to whip troops into a frenzy for the scene. Creates advantages like_Smite, SMITE!_,_Our Blows Land True_, or _All At Once!_. By spending a [[fate point]] or using a free invocation and invoking for effect, the targets can also take one additional mild consequence before being taken out (useable only once per conflict per target). After the conflict, the extra mild consequence remains until cleared normally.
+**Our God [[Will]] Smite Them All!**:War priests use this ritual to whip troops into a frenzy for the scene. Creates advantages like_Smite, SMITE!_,_Our Blows Land True_, or _All At Once!_. By spending a [[fate point]] or using a [[free invocation]] and invoking for effect, the targets can also take one additional mild consequence before being taken out (useable only once per conflict per target). After the conflict, the extra mild consequence remains until cleared normally.
 
-**We Are Legion!**:Battle priests use this ritual to bolster the focus and discipline of units for the scene, helping them through the often complex battlefield maneuvers required by commanders. Creates advantages like_Soldiers, Advance!_,_Form Up the Ranks!_, or_To Me, Brothers!_. By spending a [[fate point]] or using a free invocation and invoking for effect, the targets can also ignore adverse terrain aspects for all zones they move through this turn. In other words, these aspects cannot be invoked against them to oppose movement.
+**We Are Legion!**:Battle priests use this ritual to bolster the focus and discipline of units for the scene, helping them through the often complex battlefield maneuvers required by commanders. Creates advantages like_Soldiers, Advance!_,_Form Up the Ranks!_, or_To Me, Brothers!_. By spending a [[fate point]] or using a [[free invocation]] and invoking for effect, the targets can also ignore adverse terrain aspects for all zones they move through this turn. In other words, these aspects cannot be invoked against them to oppose movement.
 
 ### Using skills:
 
-Chaka the shaman, in preparation for the upcoming battle, casts the ritual "Troop Movement" on his scout unit to help them make it through the dense forest and flank the enemy. Chaka's player rolls [+0+-] plus his [[Will]] (+2) versus the difficulty of Fair (+2), for a total of +1 (Average) and a success. The scouts can now use the aspect **_Stalking on Leopards' Feet_** with one free invocation. The group also gets one Divine Interest consequence for the use of magic.
+Chaka the shaman, in preparation for the upcoming battle, casts the ritual "Troop Movement" on his scout unit to help them make it through the dense forest and flank the enemy. Chaka's player rolls [+0+-] plus his [[Will]] (+2) versus the difficulty of Fair (+2), for a total of +1 (Average) and a success. The scouts can now use the aspect **_Stalking on Leopards' Feet_** with one [[free invocation]]. The group also gets one Divine Interest consequence for the use of magic.
 
 ### Using approaches and the Roar phase:
 
@@ -897,7 +897,7 @@ If the tool is in good shape, it becomes fairly easy to guess at the purpose of 
 
 The primary aspect will be something like _Folding Multi-Tool_. Once a hero figures out how to make the various parts move, some potential stunts may come to mind; but now we're looking at many different stunts that apply in many different circumstances.
 
-Instead of trying to list them, it may make more sense to just grant a number of free invocations of the high concept aspect, say one or two per session. It can of course be invoked as normal at the cost of a [[fate point]]. For flavor, it might be renamed to something like _I Have the Tool for That!_.
+Instead of trying to list them, it may make more sense to just grant a number of [[free invocation]]s of the high concept aspect, say one or two per session. It can of course be invoked as normal at the cost of a [[fate point]]. For flavor, it might be renamed to something like _I Have the Tool for That!_.
 
 Because it might be a coveted item that sees a lot of use, the GM might also want to give it a stress track, say one or two boxes, and even a minor consequence to represent some of the tools getting warped or broken.
 

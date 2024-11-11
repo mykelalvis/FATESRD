@@ -48,7 +48,7 @@ For our magicians fighting for the power of the storm, their efforts could be ca
 
 **Time Changing the Contest Instead of Ending It:** This system has time running out end the contest, but that also doesn't have to be the case. Time running out could instead radically change the contest's nature or otherwise cause a major event to happen in the middle of it. This option works only if the progress the characters' have made still matters after the event, and if they can continue to make progress. You could also have multiple layers of timed triggers---something happening after three exchanges, another after the fourth, and so on.
 
-Should the con artists not succeed before the mark is informed, the GM could have the mark play along with the con---the mark doesn't know the identity of those trying to con him, but he has the aspect [Warned] with a free invocation, and perhaps gaining another free invocation with each subsequent exchange.
+Should the con artists not succeed before the mark is informed, the GM could have the mark play along with the con---the mark doesn't know the identity of those trying to con him, but he has the aspect [Warned] with a [[free invocation]], and perhaps gaining another [[free invocation]] with each subsequent exchange.
 
 **Time Having Different Meaning to Participants:** You don't need time to have the same impact on every involved character. Time winning could be life-and-death to one character, a social blow to a third, and a mere inconvenience to another. As long as time running out has some significant impact on at least one character, it will have teeth in the story, because that character will fight to win against time just as the others will fight to win against them.
 
@@ -56,13 +56,13 @@ One of our hackers could be working from a location where tracing wouldn't matte
 
 ## Hostile Invocations
 
-Whenever you invoke another player character's aspects against them---notably but not only consequences---that's a **hostile invocation**, and that character's player gets the [[fate point]]. This rule is [[Invoking and Compelling Aspects|an important part of Fate]], because it's a way to give a player [[fate point]]s. But this doesn't just count for character aspects! If there's an aspect effectively attached to or controlled by a PC, like some aspect-worthy gear they're holding or an advantage they created, and it's invoked against that character, that's a hostile invocation.
+Whenever you [[invoke]] another player character's aspects against them---notably but not only [[consequences]]---that's a **hostile invocation**, and that character's player gets the [[fate point]]. This rule is an important part of Fate, because it's a way to give a player [[fate point]]s. But this doesn't just count for character aspects! If there's an aspect effectively attached to or controlled by a PC, like some [[aspect]]-worthy gear they're holding or an advantage they created, and it's [[invoke]]d against that character, that's a hostile invocation.
 
 If that aspect isn't invoked directly against the character, but the action works against that character's interests (which is generally the only reason you could invoke someone else's aspect), that player still gets the [[fate point]]. This rule is key to remember when one player hostilely invokes another's aspect.
 
 [[Fate Point]]s from hostile invocations can't be spent on the situation where they're gained. They're available starting on the next scene. (Otherwise, you could just spend back and forth and draw a contest out by invoking and counter-invoking each other.)
 
-Oh, and usually everyone can invoke [On Fire] even if one character deliberately created it as an advantage, because no one actually controls that aspect. (Unless you're talking about magic or something else that grants control, hence "usually.") 
+Oh, and usually everyone can invoke `On Fire` even if one character deliberately created it as an advantage, because no one actually controls that aspect. (Unless you're talking about magic or something else that grants control, hence "usually.") 
 
 ## Chases as Contests
 
@@ -225,7 +225,7 @@ There are a couple different ways to interfere with a contest.
 
 **Indirect Interference:** Aspects can be invoked to raise the
 difficulty. Notably, consequences sustained in the exchange probably
-have their free invocation spend to this end.
+have their [[free invocation]] spend to this end.
 
 **Opposing Action:** If another side is able to directly interfere, like
 a rival warlock working to banish your spell, then they roll as the

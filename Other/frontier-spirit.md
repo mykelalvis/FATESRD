@@ -111,7 +111,7 @@ Your gear has an aspect as well, which can be invoked or compelled based on its 
 
 **Aircar:** Using your aircar, you can fly very quickly at tree-top height. You can transport up to four other people and a small amount of cargo, but can't fly with anything really heavy.
 
-**Autodoc:** When using your autodoc to treat wounds or disease with [[#Science]], once per session you can improve the outcome by one step: failure to tie, tie to success, or success to success with style. If you initially succeeded with style, you can create an aspect with one free invocation instead of gaining a boost.
+**Autodoc:** When using your autodoc to treat wounds or disease with [[#Science]], once per session you can improve the outcome by one step: failure to tie, tie to success, or success to success with style. If you initially succeeded with style, you can create an aspect with one [[free invocation]] instead of gaining a boost.
 
 **Handheld Expert System:** Once per session, you can use your handheld expert system to automatically succeed on creating an advantage with [[#Science]] against passive opposition equal to or less than your [[#Science]] rank.
 

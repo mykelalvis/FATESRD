@@ -136,7 +136,7 @@ pass, the player suggests that the zone actually contains a
 [_**Fog-Shrouded Chasm**_], and the GM agrees. Someone's in
 for a surprise.
 
-Each pre-defined zone aspect starts the scene with one free invocation.
+Each pre-defined zone aspect starts the scene with one [[free invocation]].
 Aspects "discovered" by the players (that is, by creating an
 advantage) start with one or two free invocations, as usual.
 
@@ -269,7 +269,7 @@ thus can't create a Roar aspect at a cost; they simply fail altogether.
 Olivia fails the roll to create the roar aspect [_**Intensely
 Focused**_] for her debate against Lord Marcus Sidonius. The GM
 decides that Olivia will gain the mild consequence [_**Oblivious to her
-Surroundings**_]. The GM gets one free invocation of that
+Surroundings**_]. The GM gets one [[free invocation]] of that
 consequence.
 
 Minor GM characters can roar with something they are skilled at, but

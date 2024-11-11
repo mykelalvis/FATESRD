@@ -108,8 +108,8 @@ The number of free invocations on the hypothesis aspect (if any) depends on how 
 | ------------- | --------------------------------------------------------- |
 | 0-2           | Failure---it's a mystery!                                 |
 | 3             | Tie---hypothesis aspect                                   |
-| 4-5           | Success---hypothesis aspect with one free invocation      |
-| 6             | Success with Style---as Success, but two free invocations |
+| 4-5           | Success---hypothesis aspect with one [[free invocation]]      |
+| 6             | Success with Style---as Success, but two [[free invocation]]s |
 
 If the PCs _haven't_ scored at least three victories, the phenomenon defies scientific explanation, at least for now. They've failed to shed any light on the situation, and now they're a little worse off for it.
 
