@@ -138,7 +138,7 @@ Some people just like to blow things up. Where Repair is for the building or bre
 
 ### STUNTS
 
-I'm Taking Them with Me. Get a +2 to overcome or [[attack]] actions with Demolitions whenever you put yourself at significant risk to incur maximum damage. Consequences will likely come from the action, depending on the situation.
+I'm Taking Them with Me. Get a +2 to overcome or [[Attack]] actions with Demolitions whenever you put yourself at significant risk to incur maximum damage. Consequences will likely come from the action, depending on the situation.
 
 Who Needs a Key? Use Demolitions instead of [[Burglary]] when dealing with vaults, banks, jails, fortifications---anything where you need to get in, or get something out.
 
@@ -158,7 +158,7 @@ In the field, it's not just what languages you speak, but how you speak them: ho
 
 The Long O Means We're in Lyon. You can pinpoint your location based on the regional differences in accent when you listen in on a few spoken phrases in a language you understand.
 
-Heart of a People. When you speak another language, you understand a people. Use Language in place of [[Empathy]] to [[create advantage]] when dealing with native speakers.
+Heart of a People. When you speak another language, you understand a people. Use Language in place of [[Empathy]] to [[Create Advantage]] when dealing with native speakers.
 
 ### Group Consequences
 
@@ -260,7 +260,7 @@ Average (+1) [[Burglary]], [[Investigate]], Language, Repair, [[Will]]
 
 Trust Me. You naturally inspire trust. Use [[Rapport]] instead of [[Deceive]] when attempting to overcome and make someone believe your lies or cover story.
 
-Extraction Point. You always find a way to get your people out. When a cell is trapped or captured, gain +2 to [[create advantage]] with Intel or [[Contacts]] to find a way to free them.
+Extraction Point. You always find a way to get your people out. When a cell is trapped or captured, gain +2 to [[Create Advantage]] with Intel or [[Contacts]] to find a way to free them.
 
 Knockout. You're good at fighting with your fists. Gain +2 to attack whenever using [[Fight]] in a fistfight or bare-knuckle brawl.
 
@@ -382,11 +382,11 @@ Average (+1) [[Burglary]], [[Contacts]], Repair, [[Shoot]]
 
 ### STUNTS
 
-Just Another Villager. It's easy for you to speak with local accents and dialects. Use Language instead of [[Deceive]] when attempting to overcome or [[create advantage]] to blend in.
+Just Another Villager. It's easy for you to speak with local accents and dialects. Use Language instead of [[Deceive]] when attempting to overcome or [[Create Advantage]] to blend in.
 
 15 Seconds to Kill a Man. You are a lethal weapon. Once per session, you can spend a [[fate point]] to add +4 to a [[Fight]] roll.
 
-Absolutely Fabulous. You can still dazzle people with your glamour and sophistication. Get a +2 to [[create advantage]] with [[Deceive]] or [[Rapport]] when you're stylishly dressed.
+Absolutely Fabulous. You can still dazzle people with your glamour and sophistication. Get a +2 to [[Create Advantage]] with [[Deceive]] or [[Rapport]] when you're stylishly dressed.
 
 ### Stress
 
@@ -430,7 +430,7 @@ Average (+1) [[Contacts]], [[Deceive]], [[Investigate]], [[Rapport]]
 
 ### STUNTS
 
-I Read It in the Briefing. You've read all the briefings. Every single one. Twice. Get a +2 bonus to [[create advantage]] with Intel when it's related to the mission at hand, or any of your past missions.
+I Read It in the Briefing. You've read all the briefings. Every single one. Twice. Get a +2 bonus to [[Create Advantage]] with Intel when it's related to the mission at hand, or any of your past missions.
 
 Shoulder to Cry On. You have an uncanny sense for people's emotional state, and can lend a friendly ear...especially when they have information waiting to come out. Use [[Empathy]] instead of [[Rapport]] in any roll to do with gaining someone's trust.
 

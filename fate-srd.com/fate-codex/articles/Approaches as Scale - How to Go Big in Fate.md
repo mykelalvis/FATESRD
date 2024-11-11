@@ -149,7 +149,7 @@ instead choosing to plant her feet when on the ground. While those feet
 are planted, though, her Forceful tail will be slapping characters
 around left and right.
 
-If a human-scale character wants to [[create advantage]] on one of those
+If a human-scale character wants to [[Create Advantage]] on one of those
 body parts/zones, you can either have them roll versus the passive
 difficulty, or you can make a roll with the approach to reflect the
 dragon's active defense against being `Tied Down`, for example.
@@ -263,7 +263,7 @@ a success with style, then it generates an additional invoke of that
 aspect.
 
 This brings up another new rule to use for created advantages: use
-whatever someone rolls to [[create advantage]] as the target number
+whatever someone rolls to [[Create Advantage]] as the target number
 needed to hit to overcome the aspect. If you're human-scale, treat that
 as normal (a 4 to create the advantage means a 4 to overcome). For
 giant-scale threats, double that number. So if a giant-scale threat ends

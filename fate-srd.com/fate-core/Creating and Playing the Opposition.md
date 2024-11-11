@@ -177,8 +177,8 @@ Skills:
 Stress: 3 physical boxes, 4 mental boxes
 Stunts:
 
-- **Takes One to Know One**. Use [[Deceive]] instead of [[Empathy]] to [[create advantage]] in social situations.
-- **Feint Master**. +2 to use [[Deceive]] to [[create advantage]] in a physical conflict.
+- **Takes One to Know One**. Use [[Deceive]] instead of [[Empathy]] to [[Create Advantage]] in social situations.
+- **Feint Master**. +2 to use [[Deceive]] to [[Create Advantage]] in a physical conflict.
 - **Riposte**. If you succeed with style on a [[Fight]] defense, you can   choose to inflict a 2-[[shift]] hit rather than take a boost.
 
 ## Playing The Opposition

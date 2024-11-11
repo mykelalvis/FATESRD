@@ -16,7 +16,7 @@ To make a fictional analogy, an arc is a lot like a single book. It tells its ow
 
 ## Defining Campaigns
 
-When you have multiple arcs that are connected and told in a sequence, and that have an overarching story or theme that runs through all of them, you have a campaign. [Campaigns are long, taking months or even years to complete](../building-campaign/index.html) (if you ever do).
+When you have multiple arcs that are connected and told in a sequence, and that have an overarching story or theme that runs through all of them, you have a campaign. [[Building A Campaign|Campaigns are long, taking months or even years to complete]] (if you ever do).
 
 Of course, that doesn't need to be as scary as it might sound. Yes, a campaign is long and large and complex. You don't, however, need to come up with the whole thing at once. As with an arc, you may have an idea where it begins and ends (and that can be helpful), but you really only need to plan an arc at a time.
 

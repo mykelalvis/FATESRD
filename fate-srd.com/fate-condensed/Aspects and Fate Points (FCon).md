@@ -16,7 +16,7 @@ In essence, "aspects are always true" means that **aspects can grant or withdraw
 
 That's not to say you can create any aspect you want and use its truth like a club. Aspects grant a lot of power to shape the story, yes, but with that power comes the responsibility to play within the story's constraints. Aspects have to line up with the table's sense of what actually passes muster. **If an aspect doesn't pass the sniff test, it needs to be reworded.**
 
-Sure, you might _like_ to use [[create advantage]] to inflict the aspect [Dismembered] on that fungal super-soldier, but that clearly steps on the toes of the attack action, and besides, it takes a bit more work to lop her arm off than that (could work as a consequence, though---see the next page). You might _say_ you're the [World's Best Shot], but you'll need to back that up with your skills. And as much as you'd like to make yourself [Bulletproof], removing permission for someone to use small arms fire to harm you, that is unlikely to fly unless the game you're playing involves using aspects-as-superpowers.
+Sure, you might _like_ to use [[Create Advantage]] to inflict the aspect [Dismembered] on that fungal super-soldier, but that clearly steps on the toes of the attack action, and besides, it takes a bit more work to lop her arm off than that (could work as a consequence, though---see the next page). You might _say_ you're the [World's Best Shot], but you'll need to back that up with your skills. And as much as you'd like to make yourself [Bulletproof], removing permission for someone to use small arms fire to harm you, that is unlikely to fly unless the game you're playing involves using aspects-as-superpowers.
 
 ## What Kinds of Aspects Are There?
 

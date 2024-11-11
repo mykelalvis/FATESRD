@@ -1,6 +1,6 @@
 # Aspect
 
-An [[aspect]] is a word or phrase that describes something special about a person, place, thing, situation, or group. Almost anything you can think of can have aspects. A person might be the [Greatest Swordswoman on the Cloud Sea]. A room might be [On Fire] after you knock over an oil lamp. After a time-travel encounter with a dinosaur, you might be [Terrified]. Aspects let you change the story in ways that go along with your character's tendencies, skills, or problems.
+An [[aspect]] is a word or phrase that describes something special about a person, place, thing, situation, or group. Almost anything you can think of can have aspects. A person might be the `Greatest Swordswoman on the Cloud Sea`. A room might be `On Fire` after you knock over an oil lamp. After a time-travel encounter with a dinosaur, you might be `Terrified`. Aspects let you change the story in ways that go along with your character's tendencies, skills, or problems.
 
 Generally, you or someone else in the game will [[invoke]] a given aspect, usually paying a [[Fate Point]] to do so.
 
@@ -8,7 +8,7 @@ See [[The-Book-of-Hanz-Fate-Core-Thought-of-the-Day#What Do Aspects Do?|the Book
 
 ## Always True
 
-An aspect is always true, even when it's not being [[invoke]]d.
+An aspect is always true, even when it's not being [[invoke|invoked]].
 
 ## Grant Permission
 

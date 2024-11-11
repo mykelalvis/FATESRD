@@ -193,7 +193,7 @@ STUNTS
 
 
 
-`Experimental Helo Pack`: When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly [[create advantage]] or overcome an obstacle if flying would be both possible and helpful.
+`Experimental Helo Pack`: When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly [[Create Advantage]] or overcome an obstacle if flying would be both possible and helpful.
 
 `Gadgeteer`: Because I am a Gadgeteer, once per session I may declare that I have an especially useful device that lets me eliminate one [[situation aspect]]. 
 (May take one more stunt without reducing refresh!)

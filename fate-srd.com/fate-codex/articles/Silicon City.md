@@ -471,7 +471,7 @@ Average (+1) [[Athletics]], [[Contacts]], [[Notice]], [[Rapport]]
 roll using Hack, you may immediately create a second aspect with a free
 invoke as your programming subroutines locate additional information.
 
-**Part Man, Part Machine, All Cop.** +2 to [[overcome]] actions with
+**Part Man, Part Machine, All Cop.** +2 to [[Overcome]] actions with
 [[Athletics]] if you are pursuing a subject to make an arrest.
 
 **Hardwired Sensors.** You may use [[Fight]] instead of [[Notice]] to detect
@@ -659,7 +659,7 @@ Mediocre (+0) Flashy
 ### Stunts
 
 **Investigator's Eye.** Because I have an investigator's eye, I get a +2
-to Carefully [[create advantage]] while studying someone for clues.
+to Carefully [[Create Advantage]] while studying someone for clues.
 
 **Freeze!** When I yell at nameless NPCs to freeze, I get a +2 to
 Flashily overcome their defenses.

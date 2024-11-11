@@ -61,18 +61,18 @@ Grab your plasma rifles, spell components, and jetpacks! Name your game; [[Fate 
 	- [[Stealth]]
 	- [[Will]]
 - [[Actions and Outcomes]]
-- [[Four Actions]]
+- [[Action|Four Actions]]
 - [[Four Outcomes]]
 - [[Challenges, Conflicts, and Contests]]
-	- [[Challenge]]s
-	- [[Contest]]s
-	- [[Conflict]]s
+	- [[challenge]]s
+	- [[contest]]s
+	- [[conflict]]s
 - [[Setting the Scene]]
 - [[Establishing Sides]]
 - [[Turn Order]]
 - The [[Exchange]]
 - [[Resolving Attacks]]
-- [[Conceding the Conflict]]
+- [[Concede]]
 - Getting [[Taken Out]]
 - [[Movement]]
 - [[Advantages in a Conflict]]
@@ -84,7 +84,7 @@ Grab your plasma rifles, spell components, and jetpacks! Name your game; [[Fate 
 - [[Creating and Playing the Opposition]]
 - [[Scenes, Sessions, and Scenarios]]
 	- [[Defining Scenarios]]
-	- [[Defining Scenes]]
+	- Defining [[Scene]]s
 	- [[Find Problems]]
 	- [[Ask Story Questions]]
 	- [[Establish Opposition]]
@@ -118,4 +118,4 @@ Grab your plasma rifles, spell components, and jetpacks! Name your game; [[Fate 
 - [[Fred Hicks]]
 - [[Rob Donoghue]]
 
-![[FateSRDLogo.svg]] [YouTube](https://www.youtube.com/FateSRD.html)
+![[FateSRDLogo.jpg]] [YouTube](https://www.youtube.com/FateSRD.html)

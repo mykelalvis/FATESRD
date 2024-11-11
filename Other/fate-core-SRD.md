@@ -786,7 +786,7 @@ Every game of Fate has a few different kinds of aspects: game aspects, character
 
 Game aspects are permanent fixtures of the game, hence the name. While they might change over time, they're never going to go away. If you've already gone through game creation, you've already defined these—the current or impending issues that you came up with. They describe problems or threats that exist in the world, which are going to be the basis for your game's story.
 
-Everyone can invoke, compel, or [[create advantage]] on a game aspect at any time; they're always there and available for anyone's use.
+Everyone can invoke, compel, or [[Create Advantage]] on a game aspect at any time; they're always there and available for anyone's use.
 
 #### Character Aspects
 
@@ -821,11 +821,11 @@ Sometimes situation aspects become obstacles that characters need to overcome. O
 
 A consequence is more permanent than a [[situation aspect]], but not quite as permanent as a character aspect. They're a special kind of aspect you take in order to avoid getting taken out in a conflict, and they describe lasting injuries or problems that you take away from a conflict (Dislocated Shoulder, Bloody Nose, Social Pariah).
 
-Consequences stick around for a variable length of time, from a few scenes to a scenario or two, depending on how severe they are. Because of their negative phrasing, you're likely to get compelled a lot when you have them, and anyone who can justifiably benefit from the consequence can invoke it or [[create advantage]] on it.
+Consequences stick around for a variable length of time, from a few scenes to a scenario or two, depending on how severe they are. Because of their negative phrasing, you're likely to get compelled a lot when you have them, and anyone who can justifiably benefit from the consequence can invoke it or [[Create Advantage]] on it.
 
 #### Boosts
 
-Boosts are a super-transient kind of aspect. You get a boost when you're trying to [[create advantage]] but don't succeed well enough, or as an added benefit to succeeding especially well at an action. You get to invoke them for free, but as soon as you do, the aspect goes away.
+Boosts are a super-transient kind of aspect. You get a boost when you're trying to [[Create Advantage]] but don't succeed well enough, or as an added benefit to succeeding especially well at an action. You get to invoke them for free, but as soon as you do, the aspect goes away.
 
 If you want, you can also allow another character to invoke your boost, if it's relevant and could help them out.
 
@@ -998,7 +998,7 @@ After you've used your free invocation, if the aspect in question is still aroun
 
 {example}
 
-If you want, you can pass your free invocation to another character. That allows you to get some teamwork going between you and a buddy. This is really useful in a conflict if you want to set someone up for a big blow—have everyone [[create advantage]] and pass their free invocations onto one person, then that person stacks all of them up at once for a huge bonus.
+If you want, you can pass your free invocation to another character. That allows you to get some teamwork going between you and a buddy. This is really useful in a conflict if you want to set someone up for a big blow—have everyone [[Create Advantage]] and pass their free invocations onto one person, then that person stacks all of them up at once for a huge bonus.
 
 ###### FOR VETERANS
 
@@ -1129,7 +1129,7 @@ Finally, if at any point it simply makes no sense for a [[situation aspect]] to 
 
 In addition to your character aspects, game aspects, and the situation aspects that the GM presents, you have the ability to create, discover, or gain access to other aspects as you play.
 
-For the most part, you'll use the [[create advantage]] action to make new aspects. When you describe the action that gives you an advantage, the context should tell you if it requires a new aspect or if it derives from an existing one. If you're bringing a new circumstance into play—like throwing sand in someone's eyes—you're indicating that you need a new [[situation aspect]].
+For the most part, you'll use the [[Create Advantage]] action to make new aspects. When you describe the action that gives you an advantage, the context should tell you if it requires a new aspect or if it derives from an existing one. If you're bringing a new circumstance into play—like throwing sand in someone's eyes—you're indicating that you need a new [[situation aspect]].
 
 With some skills, it's going to make more sense to stick an advantage to an aspect that's already on some other character's sheet. In this case, the PC or NPC you're targeting would provide active opposition to keep you from being able to use that aspect.
 
@@ -1141,9 +1141,9 @@ So, if you don't have any aspects made up for a scene or an NPC, just ask the pl
 
 ##### Secret or Hidden Aspects
 
-Some skills also let you use the [[create advantage]] action to reveal aspects that are hidden, either on NPCs or environments—in this case, the GM simply tells you what the aspect is if you get a tie or better on the roll. You can use this to “fish” for aspects if you're not precisely sure what to look for—doing well on the roll is sufficient justification for being able to find something advantage-worthy.
+Some skills also let you use the [[Create Advantage]] action to reveal aspects that are hidden, either on NPCs or environments—in this case, the GM simply tells you what the aspect is if you get a tie or better on the roll. You can use this to “fish” for aspects if you're not precisely sure what to look for—doing well on the roll is sufficient justification for being able to find something advantage-worthy.
 
-Generally speaking, we assume that most of the aspects in play are public knowledge for the players. The PCs' character sheets are sitting on the table, and probably the main and supporting NPCs are as well. That doesn't always mean the characters know about those aspects, but that's one of the reasons why the [[create advantage]] action exists—to help you justify how a character learns about other characters.
+Generally speaking, we assume that most of the aspects in play are public knowledge for the players. The PCs' character sheets are sitting on the table, and probably the main and supporting NPCs are as well. That doesn't always mean the characters know about those aspects, but that's one of the reasons why the [[Create Advantage]] action exists—to help you justify how a character learns about other characters.
 
 Also, remember that aspects can help deepen the story only if you get to use them—aspects that are never discovered might as well never have existed in the first place. So most of the time, the players should always know what aspects are available for their use, and if there's a question as to whether or not the character knows, use the dice to help you decide.
 
@@ -1305,7 +1305,7 @@ Here are some examples of adding a bonus to an action:
 
 {example}
 
-Arcane Expert. Gain a +2 bonus to [[create advantage]] using [[Lore]], whenever the situation has specifically to do with the supernatural or occult.
+Arcane Expert. Gain a +2 bonus to [[Create Advantage]] using [[Lore]], whenever the situation has specifically to do with the supernatural or occult.
 Lead in the Air. You really like emptying magazines. Any time you're using a fully automatic weapon and you succeed at a [[Shoot]] attack, you automatically create a Fair (+2) opposition against movement in that zone until your next turn, because of all the lead in the air. (Normally, you'd need to take a separate action to set up this kind of interference, but with the stunt, it's free.)
 Child of the Court. Gain a +2 bonus to any attempt to overcome obstacles with [[Rapport]] when you're at an aristocratic function, such as a royal ball.
 Players, when you're building stunts that give an action bonus, look out for situations that seem like they'd only come up rarely in play. Like, the Arcane Expert stunt above would be inappropriate if your game doesn't deal with the supernatural a lot, and Child of the Court will be useless if your campaign doesn't deal with the nobility on a fairly regular basis. If you don't think you'll use the stunt at least twice in most of your game sessions, change the condition associated with the bonus.
@@ -1462,7 +1462,7 @@ The [[Athletics]] skill represents your character's general level of physical fi
 
 [[Athletics]] is all but ubiquitous among every genre appropriate for Fate—it would only be unnecessary in a game that focused exclusively on interpersonal interaction and had no physical conflict.
 
-[[Overcome]]: [[Athletics]] allows you to overcome any obstacle that requires physical movement—jumping, running, climbing, swimming, etc. If it resembles something you'd do in the decathlon, you roll [[Athletics]]. You use [[overcome]] actions with [[Athletics]] to move between zones in a conflict if there's a [[situation aspect]] or other obstacle in your way. You also roll [[Athletics]] to chase or race in any contests or challenges that rely on these types of activities.
+[[Overcome]]: [[Athletics]] allows you to overcome any obstacle that requires physical movement—jumping, running, climbing, swimming, etc. If it resembles something you'd do in the decathlon, you roll [[Athletics]]. You use [[Overcome]] actions with [[Athletics]] to move between zones in a conflict if there's a [[situation aspect]] or other obstacle in your way. You also roll [[Athletics]] to chase or race in any contests or challenges that rely on these types of activities.
 
 [[Create Advantage]]: When you're creating an advantage with [[Athletics]], you're jumping to high ground, running faster than the opponent can keep up with, or performing dazzling acrobatic maneuvers in order to confound your foes.
 
@@ -1475,10 +1475,10 @@ You might decide that [[Athletics]] is inappropriate for defense against firearm
 ###### [[Athletics]] Stunts
 
 - **Sprinter**. You move two zones for free in a conflict without rolling, instead of one, provided there are no situation aspects restricting movement.
-- **Hardcore Parkour**. +2 to [[overcome]] actions with [[Athletics]] if you are in a chase across rooftops or a similarly precarious environment.
+- **Hardcore Parkour**. +2 to [[Overcome]] actions with [[Athletics]] if you are in a chase across rooftops or a similarly precarious environment.
 - **Dazing Counter**. When you succeed with style on a defend action against an opponent's [[Fight]] roll, you automatically counter with some sort of nerve punch or stunning blow. You get to attach theDazed [[situation aspect]] to your opponent with a free invoke, instead of just a boost.
 
-##### [[Burglary]]
+##### Burglary
 
 The [[Burglary]] skill covers your character's aptitude for stealing things and getting into places that are off-limits.
 
@@ -1492,9 +1492,9 @@ In genres that rely on the use of a lot of technology, this skill also includes 
 
 [[Defend]]: Same here. It's not really a conflict skill, so there's not a lot of opportunity to use it to defend
 
-###### [[Burglary]] Stunts
+###### Burglary Stunts
 
-- **Always a Way Out**. +2 on [[Burglary]] rolls made to [[create advantage]] whenever you're trying to escape from a location.
+- **Always a Way Out**. +2 on [[Burglary]] rolls made to [[Create Advantage]] whenever you're trying to escape from a location.
 - **Security Specialist**. You don't have to be present to provide active opposition to someone trying to overcome security measures you put in place or worked on. (Normally, a character would roll against passive opposition for that.)
 - **Talk the Talk**. You can use [[Burglary]] in place of [[Contacts]] whenever you're dealing specifically with other thieves and burglars.
 
@@ -1506,7 +1506,7 @@ In genres that rely on the use of a lot of technology, this skill also includes 
 
 [[Create Advantage]]: [[Contacts]] allows you to know who the perfect person to talk to is for anything you might need, or to decide that you know the perfect person already. It's likely that you'll create story details with this skill, represented by aspects. (“Hey, guys, my contacts tell me that Joe Steel is the Best Mechanic For A Thousand Miles—we should talk to him.”)
 
-You can also [[create advantage]] that represents what the word on the street is about a particular individual, object, or location, based on what your contacts tell you. These aspects almost always deal with reputation more than fact, such as Known as a Mean Guy or Notorious Swindler. Whether that person lives up to their reputation is anybody's guess, though that doesn't invalidate the aspect—people often have misleading reputations that complicate their lives.
+You can also [[Create Advantage]] that represents what the word on the street is about a particular individual, object, or location, based on what your contacts tell you. These aspects almost always deal with reputation more than fact, such as Known as a Mean Guy or Notorious Swindler. Whether that person lives up to their reputation is anybody's guess, though that doesn't invalidate the aspect—people often have misleading reputations that complicate their lives.
 
 [[Contacts]] could also be used to create aspects that represent using your information network to plant or acquire information.
 
@@ -1517,7 +1517,7 @@ You can also [[create advantage]] that represents what the word on the street is
 ###### [[Contacts]] Stunts
 
 - **Ear to the Ground**. Whenever someone initiates a conflict against you in an area where you've built a network of contacts, you use [[Contacts]] instead of [[Notice]] to determine turn order, because you got tipped off in time.
-- **Rumormonger**. +2 to [[create advantage]] when you plant vicious rumors about someone else.
+- **Rumormonger**. +2 to [[Create Advantage]] when you plant vicious rumors about someone else.
   The Weight of Reputation. You can use [[Contacts]] instead of [[Provoke]] to create advantages based on the fear generated by the sinister reputation you've cultivated for yourself and all the shady associates you have. You should have an appropriate aspect to pair with this stunt.
 
 ##### [[Crafts]]
@@ -1604,7 +1604,7 @@ You can also just read the [[Athletics]] description, and then make it about a v
 
 ![[att_r.svg|30 ]][[Attack]]: [[Drive]] isn't usually used as an attack skill (though stunts can certainly alter this). If you want to ram a vehicle, you can attack with [[Drive]], but you take the same [[shift]]s of harm you inflict.
 
-![[def_r.svg|30 ]][[Defend]]: Avoiding damage to a vehicle in a physical conflict is one of the most common uses of [[Drive]]. You can also use it to defend against advantages being created against you or [[overcome]] actions of someone trying to move past you in a vehicle.
+![[def_r.svg|30 ]][[Defend]]: Avoiding damage to a vehicle in a physical conflict is one of the most common uses of [[Drive]]. You can also use it to defend against advantages being created against you or [[Overcome]] actions of someone trying to move past you in a vehicle.
 
 ###### [[Drive]] Stunts
 
@@ -1644,7 +1644,7 @@ The [[Fight]] skill covers all forms of close-quarters combat (in other words, w
 
 [[Attack]]: This is self-explanatory. You make physical attacks with [[Fight]]. Remember, this is for close-in work, so you have to be in the same zone as your opponent
 
-[[Defend]]: You use [[Fight]] to defend against any other attack or [[create advantage]] attempt made with [[Fight]], as well as pretty much any action where violently interposing yourself could prevent it from happening. You can't use this skill to defend against [[Shoot]] attacks, unless the setting is fantastical enough that you can catch missiles or swat them from the air or use laser swords to deflect blasters.
+[[Defend]]: You use [[Fight]] to defend against any other attack or [[Create Advantage]] attempt made with [[Fight]], as well as pretty much any action where violently interposing yourself could prevent it from happening. You can't use this skill to defend against [[Shoot]] attacks, unless the setting is fantastical enough that you can catch missiles or swat them from the air or use laser swords to deflect blasters.
 
 ###### [[Fight]] Stunts
 
@@ -1679,7 +1679,7 @@ If that sounds broad, consider the following as just a few of the possibilities 
 ###### [[Investigate]] Stunts
 
 - **Attention to Detail**. You can use [[Investigate]] instead of [[Empathy]] to defend against [[Deceive]] attempts. What others discover through gut reactions and intuition, you learn through careful observation of microexpressions.
-- **Eavesdropper**. On a successful [[Investigate]] roll to [[create advantage]] by eavesdropping on a conversation, you can discover or create one additional aspect (though this doesn't give you an extra free invocation).
+- **Eavesdropper**. On a successful [[Investigate]] roll to [[Create Advantage]] by eavesdropping on a conversation, you can discover or create one additional aspect (though this doesn't give you an extra free invocation).
 - **The Power of Deduction**. Once per scene you can spend a [[fate point]] (and a few minutes of observation) to make a special [[Investigate]] roll representing your potent deductive faculties. For each [[shift]] you make on this roll you discover or create an aspect, on either the scene or the target of your observations, though you may only invoke one of them for free.
 
 ##### [[Lore]]
@@ -1767,7 +1767,7 @@ This skill requires that your target can feel emotions—robots and zombies typi
 ###### [[Provoke]] Stunts
 
 - **Armor of Fear.** You can use [[Provoke]] to defend against [[Fight]] attacks, but only until the first time you're dealt stress in a conflict. You can make your opponents hesitate to attack, but when someone shows them that you're only human your advantage disappears.
-- **[[Provoke]] Violence.** When you [[create advantage]] on an opponent using [[Provoke]], you can use your free invocation to become the target of that character's next relevant action, drawing their attention away from another target.
+- **[[Provoke]] Violence.** When you [[Create Advantage]] on an opponent using [[Provoke]], you can use your free invocation to become the target of that character's next relevant action, drawing their attention away from another target.
 - **Okay, Fine!** You can use [[Provoke]] in place of [[Empathy]] to learn a target's aspects, by bullying them until they reveal one to you. The target defends against this with [[Will]]. (If the GM thinks the aspect is particularly vulnerable to your hostile approach, you get a +2 bonus.)
 
 ##### [[Rapport]]
@@ -1853,7 +1853,7 @@ The [[Stealth]] skill allows you to avoid detection, both when hiding in place a
 ###### [[Stealth]] Stunts
 
 - **Face in the Crowd**. +2 to any [[Stealth]] roll to blend into a crowd. What a “crowd” means will depend on the environment—a subway station requires more people to be crowded than a small bar.
-- **Ninja Vanish**. Once per scene, you can vanish while in plain sight by spending a [[fate point]], using a smoke pellet or other mysterious technique. This places the Vanished boost on you. While you're vanished, no one can attack or [[create advantage]] on you until after they've succeeded at an overcome roll with [[Notice]] to suss out where you went (basically meaning they have to give up an exchange to try). This aspect goes away as soon as you invoke it, or someone makes that overcome roll.
+- **Ninja Vanish**. Once per scene, you can vanish while in plain sight by spending a [[fate point]], using a smoke pellet or other mysterious technique. This places the Vanished boost on you. While you're vanished, no one can attack or [[Create Advantage]] on you until after they've succeeded at an overcome roll with [[Notice]] to suss out where you went (basically meaning they have to give up an exchange to try). This aspect goes away as soon as you invoke it, or someone makes that overcome roll.
 - **Slippery Target**. Provided you're in darkness or shadow, you can use [[Stealth]] to defend against [[Shoot]] attacks from enemies that are at least one zone away.
 
 ##### [[Will]]
@@ -2038,9 +2038,9 @@ He describes how he hastily dismantles the ballista, applying rather violent sab
 
 ##### Create an Advantage
 
-Use the [[create advantage]] action to make a [[situation aspect]] that gives you a benefit, or to claim a benefit from any aspect you have access to.
+Use the [[Create Advantage]] action to make a [[situation aspect]] that gives you a benefit, or to claim a benefit from any aspect you have access to.
 
-The [[create advantage]] action covers a broad range of endeavors, unified around the theme of using your skills to take advantage (hence the name) of the environment or situation you're in.
+The [[Create Advantage]] action covers a broad range of endeavors, unified around the theme of using your skills to take advantage (hence the name) of the environment or situation you're in.
 
 Sometimes, that means you're doing something to actively change your circumstances (like throwing sand in an opponent's eyes or setting something on fire), but it could also mean that you're discovering new information that helps you (like learning the weakness of a monster through research), or taking advantage of something you've previously observed (like your opponent's predisposition to a bad temper).
 
@@ -2048,7 +2048,7 @@ When you roll to create an advantage, you must specify whether you're creating a
 
 Opposition might be active or passive, depending on the circumstances. If your target is another character, their roll always counts as a defend action.
 
-If you're using [[create advantage]] to make a new aspect…
+If you're using [[Create Advantage]] to make a new aspect…
 
 When you fail, you either don't create the aspect, or you create it but someone else gets the free invoke—whatever you end up doing works to someone else's advantage instead. That could be your opponent in a conflict, or any character who could tangibly benefit to your detriment. You may have to reword the aspect to show that the other character benefits instead—work it out with the recipient in whichever way makes the most sense.
 
@@ -2066,13 +2066,13 @@ The first couple of exchanges have not gone well, and she's taken a couple of bi
 
 Amanda nods, and Lily asks, “Can I knock some of it over in order to trip these guys up a bit? I imagine if they're big, clodhopping golems, they aren't as agile as I am.”
 
-She says, “Sounds fine to me. Sounds like you're trying to [[create advantage]] with [[Athletics]]. One of the golems gets to roll a defend action against you, just because it's close enough to get in your way.”
+She says, “Sounds fine to me. Sounds like you're trying to [[Create Advantage]] with [[Athletics]]. One of the golems gets to roll a defend action against you, just because it's close enough to get in your way.”
 
 Cynere has [[Athletics]] at Great (+4). Lily rolls and gets a +1, for a Superb (+5) result. The nearest golem rolls to defend and only gets a Fair (+2). Cynere succeeds with style! Lily places the aspect Cluttered Floor on the scene and notes that she can invoke that aspect twice for free.
 
 Amanda describes the golems' difficulty with their footing, and now Cynere's got a little bit of an advantage in the coming exchange...
 
-If you're using [[create advantage]] on an existing aspect…
+If you're using [[Create Advantage]] on an existing aspect…
 
 When you fail, you give a free invoke on that aspect to someone else instead. That could be your opponent in a conflict, or any character who could tangibly benefit to your detriment.
 
@@ -2136,7 +2136,7 @@ Now Drisban needs to use stress or consequences to stay in the fight!
 
 Use the defend action to avoid an attack or prevent someone from creating an advantage against you.
 
-Whenever someone attacks you in a conflict or tries to [[create advantage]] on you, you always get a chance to defend. As with attacks, this isn't always about avoiding physical sources of danger—some of the skills allow you to defend against attempts to harm your mind or damage your resolve.
+Whenever someone attacks you in a conflict or tries to [[Create Advantage]] on you, you always get a chance to defend. As with attacks, this isn't always about avoiding physical sources of danger—some of the skills allow you to defend against attempts to harm your mind or damage your resolve.
 
 Because you roll to defend as a reaction, your opposition is almost always active. If you're rolling a defend action against passive opposition, it's because the environment is hostile to you somehow (like a blazing fire), or the attacking NPC isn't important enough for the GM to bother with dice.
 
@@ -2191,7 +2191,7 @@ A single overcome action is sufficient to deal with a straightforward goal or ob
 
 Sometimes, however, things get complicated. It's not enough to pick the lock, because you also have to hold off the hordes of attacking zombies and set up the magical ward that's going to keep pursuers off your back. It's not enough to disarm the bomb, because you also have to land the crashing blimp and keep the unconscious scientist you're rescuing from getting hurt in said landing.
 
-A challenge is a series of [[overcome]] actions that you use to resolve an especially complicated or dynamic situation. Each overcome action uses a different skill to deal with one task or part of the situation, and you take the individual results as a whole to figure out how the situation resolves.
+A challenge is a series of [[Overcome]] actions that you use to resolve an especially complicated or dynamic situation. Each overcome action uses a different skill to deal with one task or part of the situation, and you take the individual results as a whole to figure out how the situation resolves.
 
 GMs, when you're trying to figure out if it's appropriate to call for a challenge, ask yourself the following questions:
 
@@ -2241,7 +2241,7 @@ If you have any boosts that went unused in the challenge, feel free to keep them
 
 ###### Advantages in a Challenge
 
-You can try to [[create advantage]] during a challenge, for yourself or to help someone else out. Creating an advantage doesn't count towards completing one of the challenge goals, but failing the roll could create a cost or problem that negatively impacts one of the other goals. Be careful using this tactic; advantages can help complete tasks more effectively and create momentum, but trying to create them is not without risk.
+You can try to [[Create Advantage]] during a challenge, for yourself or to help someone else out. Creating an advantage doesn't count towards completing one of the challenge goals, but failing the roll could create a cost or problem that negatively impacts one of the other goals. Be careful using this tactic; advantages can help complete tasks more effectively and create momentum, but trying to create them is not without risk.
 
 ###### Attacks in a Challenge
 
@@ -2306,11 +2306,11 @@ Amanda and Lily describe how she snatches Zird just before Teran finishes his sp
 
 ###### Creating Advantages in a Contest
 
-During any exchange, you can try to [[create advantage]] before you make your contest roll. If you're targeting another participant, they get to defend normally. If someone can interfere with your attempt, they provide active opposition as normal.
+During any exchange, you can try to [[Create Advantage]] before you make your contest roll. If you're targeting another participant, they get to defend normally. If someone can interfere with your attempt, they provide active opposition as normal.
 
-Doing this carries an additional risk—failing to [[create advantage]] means you forfeit your contest roll, which means there's no way you can make progress in the current exchange. If you at least tie, you get to make your contest roll normally.
+Doing this carries an additional risk—failing to [[Create Advantage]] means you forfeit your contest roll, which means there's no way you can make progress in the current exchange. If you at least tie, you get to make your contest roll normally.
 
-If you're providing a bonus via the Teamwork rules, failing to [[create advantage]] means the lead character doesn't benefit from your help this exchange.
+If you're providing a bonus via the Teamwork rules, failing to [[Create Advantage]] means the lead character doesn't benefit from your help this exchange.
 
 {example}
 
@@ -2385,7 +2385,7 @@ Considering our warehouse again, Amanda thinks about what might make good situat
 
 She decides that there are enough crates in here to make free movement a potential problem, so she picks Heavy Crates and Cramped as aspects. The loading door is open, which means that there's a large dock with water in it, so she also picks Open to the Water as a [[situation aspect]], figuring that someone might try to knock someone in.
 
-As the scene unfolds, players might suggest features of the environment that are perfect as aspects. If the GM described the scene as being poorly lit, a player should be able to invoke the Shadows to help on a [[Stealth]] roll even if she hadn't previously established it as an aspect. If the feature would require some intervention on the part of the characters in the scene to become aspect-worthy, then that's the purview of the [[create advantage]] action. Usually the barn doesn't catch On Fire! without someone kicking over the lantern. Usually.
+As the scene unfolds, players might suggest features of the environment that are perfect as aspects. If the GM described the scene as being poorly lit, a player should be able to invoke the Shadows to help on a [[Stealth]] roll even if she hadn't previously established it as an aspect. If the feature would require some intervention on the part of the characters in the scene to become aspect-worthy, then that's the purview of the [[Create Advantage]] action. Usually the barn doesn't catch On Fire! without someone kicking over the lantern. Usually.
 
 ##### Zones
 
@@ -2461,11 +2461,11 @@ GMs, if you have a lot of nameless NPCs in your scene, feel free to have them us
 
 However, if you have a secondary objective in the conflict scene, you might need to roll an overcome action instead. You'll encounter this most often if you want to move between zones but there's a [[situation aspect]] in place making that problematic.
 
-Regardless, you only get to make one skill roll on your turn in an exchange, unless you're defending against someone else's action—you can do that as many times as you want. You can even make [[defend]] actions on behalf of others, so long as you fulfill two conditions: it has to be reasonable for you to interpose yourself between the attack and its target, and you have to suffer the effects of any failed rolls.
+Regardless, you only get to make one skill roll on your turn in an exchange, unless you're defending against someone else's action—you can do that as many times as you want. You can even make [[Defend]] actions on behalf of others, so long as you fulfill two conditions: it has to be reasonable for you to interpose yourself between the attack and its target, and you have to suffer the effects of any failed rolls.
 
 ###### Full Defense
 
-If you want, you can forgo your action for the exchange to concentrate on defense. You don't get to do anything proactive, but you do get to roll all [[defend]] actions for the exchange at a +2 bonus.
+If you want, you can forgo your action for the exchange to concentrate on defense. You don't get to do anything proactive, but you do get to roll all [[Defend]] actions for the exchange at a +2 bonus.
 
 {example}
 
@@ -2473,7 +2473,7 @@ In the first exchange of our warehouse fight, Cynere goes first. Lily has Cynere
 
 On Ryan's turn, he has Zird do a full defense—normally, he'd be able to defend and get an action this exchange, but instead, he gets a +2 to his defense rolls until his next turn.
 
-On Lenny's turn, he has Landon [[create advantage]] by placing an aspect on Og called Hemmed In, hoping to corner him between some crates. That's his action for the exchange.
+On Lenny's turn, he has Landon [[Create Advantage]] by placing an aspect on Og called Hemmed In, hoping to corner him between some crates. That's his action for the exchange.
 
 Amanda goes last, and she just has all of her NPCs attack their chosen targets.
 
@@ -2690,9 +2690,9 @@ The thug up top swallows hard, bringing his crossbow to bear...
 
 ##### Advantages in a Conflict
 
-Remember that aspects you create as advantages follow all the rules for situation aspects—the GM can use them to justify [[overcome]] actions, they last until they're made irrelevant or the scene is over, and in some cases they represent as much a threat to you as an opponent.
+Remember that aspects you create as advantages follow all the rules for situation aspects—the GM can use them to justify [[Overcome]] actions, they last until they're made irrelevant or the scene is over, and in some cases they represent as much a threat to you as an opponent.
 
-When you [[create advantage]] in a conflict, think about how long you want that aspect to stick around and whom you want to have access to it. It's difficult for anyone besides you and your friends to justify using an advantage you stick to a character, but it's also easier to justify getting rid of it—one overcome action could undo it. It's harder to justify getting rid of an aspect on the environment (seriously, who is going to move that Huge Bookcase you just knocked over?), but anyone in the scene could potentially find a reason to take advantage of it.
+When you [[Create Advantage]] in a conflict, think about how long you want that aspect to stick around and whom you want to have access to it. It's difficult for anyone besides you and your friends to justify using an advantage you stick to a character, but it's also easier to justify getting rid of it—one overcome action could undo it. It's harder to justify getting rid of an aspect on the environment (seriously, who is going to move that Huge Bookcase you just knocked over?), but anyone in the scene could potentially find a reason to take advantage of it.
 
 ###### COVER FIRE AND OTHER IMPOSITIONS
 
@@ -2715,7 +2715,7 @@ In terms of options for advantages, the sky's the limit. Pretty much any situati
 
 As stated above, you may find yourself in a situation where you want to do something else while your friends are fighting. You might be disarming a death trap, searching for a piece of information, or checking for hidden assailants.
 
-In order to do this, GMs, set the player up with a modified form of challenge. One of the tasks is likely “defend yourself”—in any exchange where someone attacks you or tries to [[create advantage]] on you, you must defend successfully in order to be able to take one of the other actions in the challenge. So long as no one has successfully attacked you or stuck an advantage on you, you can use your action to roll for one of the challenge goals.
+In order to do this, GMs, set the player up with a modified form of challenge. One of the tasks is likely “defend yourself”—in any exchange where someone attacks you or tries to [[Create Advantage]] on you, you must defend successfully in order to be able to take one of the other actions in the challenge. So long as no one has successfully attacked you or stuck an advantage on you, you can use your action to roll for one of the challenge goals.
 
 ###### FREE ACTIONS
 
@@ -2781,11 +2781,11 @@ Of the three PCs, Cynere has the highest [[Athletics]], at Great (+4). Landon ha
 
 Amanda's temple guardians only have Average (+1) [[Athletics]], but there are five of them, so they roll Superb (+5) for the purposes of the contest.
 
-When you stack advantages, each person takes a [[create advantage]] action as usual, and gives whatever free invocations they get to a single character. Remember that multiple free invocations from the same aspect can stack.
+When you stack advantages, each person takes a [[Create Advantage]] action as usual, and gives whatever free invocations they get to a single character. Remember that multiple free invocations from the same aspect can stack.
 
 Zird and Cynere want to set Landon up for an extremely big hit on Tremendor, the much-feared giant of the Northern Wastes.
 
-Both Cynere and Zird roll to [[create advantage]] on their turns, resulting in three free invocations on a Flashy Distraction they make from Zird's magical fireworks (which succeeded to create the advantage) and Cynere's glancing hits (which succeeded with style to add two more free invocations).
+Both Cynere and Zird roll to [[Create Advantage]] on their turns, resulting in three free invocations on a Flashy Distraction they make from Zird's magical fireworks (which succeeded to create the advantage) and Cynere's glancing hits (which succeeded with style to add two more free invocations).
 
 They pass those to Landon, and on his turn, he uses them all for a gigantic +6 to his attack.
 
@@ -2827,7 +2827,7 @@ You don't have to shoulder the whole burden of making up world details yourself.
 
 If a character has an aspect that connects them to someone or something in the world, make that player your resident “expert” on whatever the aspect refers to. So if someone has Scars from the Great War, poll that player for information whenever the Great War comes up in conversation. “You notice that this sergeant is wearing a veteran's mark, which is a rare decoration from the War. What hardcore crap do you have to do to get one of those? Do you have one?” Some players will defer back to you, and that's fine, but it's important that you keep making the offer so as to foster a collaborative atmosphere.
 
-Also, one of the main uses of the [[create advantage]] action is precisely to give players a way to add details to the world through their characters. Use that to your advantage when you draw a blank or simply want to delegate more control. One good way to do this during play is to answer the player's question with a question, if they ask for information.
+Also, one of the main uses of the [[Create Advantage]] action is precisely to give players a way to add details to the world through their characters. Use that to your advantage when you draw a blank or simply want to delegate more control. One good way to do this during play is to answer the player's question with a question, if they ask for information.
 
 {example}
 
@@ -3047,7 +3047,7 @@ For others, it's not so clear. What's happens when you get a lot of [[shift]]s o
 Here are a few choice options.
 
 - **Go Gonzo with the Narration**: It might seem superfluous, but it's important to celebrate a great roll with a suitable narration of over the top success. This is a great time to take the suggestions above for Making Failure Awesome and applying them here. Let the success affect something else, in addition to what the PC was going for, and bring the player into the process of selling it by prompting them to make up cool details. “Three extra [[shift]]s on that [[Burglary]] roll—tell me, is anyone ever going to be able to lock that crypt again?” “So you got five [[shift]]s on that [[Contacts]] roll—tell me, where does Nicky the Fink usually go when he's running out on his wife, and what do you say when you find him there?”
-- **Add an Aspect**: You can express additional effects of a good roll by placing an aspect on the PC or on the scene, essentially letting them [[create advantage]] for free. “So your [[Resources]] roll to bribe the guard succeeded with four [[shift]]s. She'll let you through the gate all right, and she'll also act as Available Backup if you should need some help later.”
+- **Add an Aspect**: You can express additional effects of a good roll by placing an aspect on the PC or on the scene, essentially letting them [[Create Advantage]] for free. “So your [[Resources]] roll to bribe the guard succeeded with four [[shift]]s. She'll let you through the gate all right, and she'll also act as Available Backup if you should need some help later.”
 - **Reducing Time**: If it's important to get something done fast, then you can use extra [[shift]]s to decrease the time that it takes to do an action.
 
 ##### Dealing with Time
@@ -3079,7 +3079,7 @@ Nothing creates tension like a good deadline. The heroes only have a certain num
 
 Some of the game's default actions are made to take advantage of deadline pressure, such as challenges or contests—they each limit the number of rolls that a player can make before something happens, for better or for worse.
 
-You don't have to limit yourself to using just those two, though. If you set a hard deadline for something bad in one of your scenarios, you can start keeping track of the amount of time everything takes, and use it as a way to keep the pressure on. (“Oh, so you want to browse all the town's historical archives? Well, you have three days until the ritual—I can give you a [[Lore]] roll, but just the attempt is probably going to eat up one of those days.”) Remember, nearly everything takes time. Even a basic attempt to [[create advantage]] using [[Empathy]] requires you to sit with the target for a little while, and if every action the PCs are taking is chipping away at a clock, it may be time they don't have.
+You don't have to limit yourself to using just those two, though. If you set a hard deadline for something bad in one of your scenarios, you can start keeping track of the amount of time everything takes, and use it as a way to keep the pressure on. (“Oh, so you want to browse all the town's historical archives? Well, you have three days until the ritual—I can give you a [[Lore]] roll, but just the attempt is probably going to eat up one of those days.”) Remember, nearly everything takes time. Even a basic attempt to [[Create Advantage]] using [[Empathy]] requires you to sit with the target for a little while, and if every action the PCs are taking is chipping away at a clock, it may be time they don't have.
 
 Of course, it'd be no fun if there was nothing they could do to improve a deadline situation, and it'd be no fun if the crawl toward the deadline was predictable.
 
@@ -3229,7 +3229,7 @@ Here are some tools to help you handle things with grace and speed.
 
 Invariably, if you play Fate long enough, someone's going to try to affect multiple people at once in a conflict. Explosions are a staple of physical conflict, but are by no means the only example—consider tear gas or some kind of high-tech stunner. You can extend this to mental conflict also. For example, you might use [[Provoke]] to establish dominance in a room with your presence, or [[Rapport]] to make an inspirational speech that affects everyone listening.
 
-The easiest way to do this is to [[create advantage]] on the scene, rather than on a specific target. A Gas-Filled Room has the potential to affect everyone in it, and it's not too much of a stretch to suggest that the Inspirational Mood in a room could be contagious. In this context, the aspect presents an excuse to call for a skill roll (using the overcome action) from anyone in the scene who attempts to get past it. Generally speaking, it won't cause damage, but it will make things more difficult for those affected.
+The easiest way to do this is to [[Create Advantage]] on the scene, rather than on a specific target. A Gas-Filled Room has the potential to affect everyone in it, and it's not too much of a stretch to suggest that the Inspirational Mood in a room could be contagious. In this context, the aspect presents an excuse to call for a skill roll (using the overcome action) from anyone in the scene who attempts to get past it. Generally speaking, it won't cause damage, but it will make things more difficult for those affected.
 
 {example}
 
@@ -3255,7 +3255,7 @@ Lenny doesn't hesitate. He writes down a mild mental consequence: This Guy is Bi
 
 “Cool. They look at you, then back to Gorlok. He waves a hand dismissively. 'Go, find another to kill,' he growls. 'This one's mine.'”
 
-Things get more complicated when you want to filter specific targets, rather than just affect a whole zone or scene. When that happens, divide your resulting total up against every target, who all get to defend as per normal. Anyone who fails to defend either takes stress or gains an aspect, depending on what you were trying to do. (Note: If you [[create advantage]] to put an aspect on multiple targets, you do get a free invocation for each one.)
+Things get more complicated when you want to filter specific targets, rather than just affect a whole zone or scene. When that happens, divide your resulting total up against every target, who all get to defend as per normal. Anyone who fails to defend either takes stress or gains an aspect, depending on what you were trying to do. (Note: If you [[Create Advantage]] to put an aspect on multiple targets, you do get a free invocation for each one.)
 
 {example}
 
@@ -3526,8 +3526,8 @@ Average (+1) [[Lore]] and [[Physique]]
 
 Stress: 3 physical boxes, 4 mental boxes
 Stunts:
-Takes One to Know One. Use [[Deceive]] instead of [[Empathy]] to [[create advantage]] in social situations.
-Feint Master. +2 to use [[Deceive]] to [[create advantage]] in a physical conflict.
+Takes One to Know One. Use [[Deceive]] instead of [[Empathy]] to [[Create Advantage]] in social situations.
+Feint Master. +2 to use [[Deceive]] to [[Create Advantage]] in a physical conflict.
 Riposte. If you succeed with style on a [[Fight]] defense, you can choose to inflict a 2-[[shift]] hit rather than take a boost.
 
 #### PLAYING THE OPPOSITION
@@ -4731,7 +4731,7 @@ The magical skills are Create, Destroy, Learn, and Change. Each order prioritize
 
 You get one free stunt from among those possessed by your order, and you can get more by spending refresh. You can invoke or be compelled by the order's aspects as though they were your own.
 
-You call on your magical skills when something makes the use of your mundane skills impossible. For example, if you can no longer interrogate a suspect because the torture has killed him, you'd make an overcome roll with Learn to discover what you need to know through magic. If someone is suffering a deep, dark depression that no normal care can address, [[create advantage]] with Change to alter their mood.
+You call on your magical skills when something makes the use of your mundane skills impossible. For example, if you can no longer interrogate a suspect because the torture has killed him, you'd make an overcome roll with Learn to discover what you need to know through magic. If someone is suffering a deep, dark depression that no normal care can address, [[Create Advantage]] with Change to alter their mood.
 
 ## CHEAT SHEET
 
@@ -4768,7 +4768,7 @@ Scene aspects have been renamed to situation aspects, to clear up some confusion
 
 ### Actions and Stuff
 
-The list of actions has been greatly reduced from previous Fate games down to four: overcome, create an advantage, attack, and defend. Movement is now a function of the overcome action, [[create advantage]] subsumes assess/declare/maneuver from previous games under one banner, and blocks can be handled a number of different ways.
+The list of actions has been greatly reduced from previous Fate games down to four: overcome, create an advantage, attack, and defend. Movement is now a function of the overcome action, [[Create Advantage]] subsumes assess/declare/maneuver from previous games under one banner, and blocks can be handled a number of different ways.
 
 The game is no longer based on a binary pass/fail. Now there are four outcomes: fail or succeed at cost, tie (succeed at minor cost), succeed, and succeed with style. Each outcome now has a mechanical or story-driven effect, based on what action it's attached to. Succeeding with style is basically taking spin from previous versions of Fate and applying it across the board.
 

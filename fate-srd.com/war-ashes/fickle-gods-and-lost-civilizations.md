@@ -564,7 +564,7 @@ danger---a merchant won't attack an armed warrior, but she may be
 short-tempered and unhelpful.
 
 **Raw Nerves:** For one scene, you or an ally get +2 to [[Provoke]] when
-[[create advantage]] by goading the target into anger.
+[[Create Advantage]] by goading the target into anger.
 
 **I'm Not Gonna Take It Anymore:** As a one-time effect lasting one
 scene, the target gets angry whenever a particular topic comes up.
@@ -580,7 +580,7 @@ target location attracts no attention unless and until someone does
 something noteworthy, like screaming for help, having a fight, etc.
 
 **Snug As a Bug in a Rug:** For one scene, the target gets +2 to
-Sneakily [[create advantage]] by hiding.
+Sneakily [[Create Advantage]] by hiding.
 
 **Augury: **A peek into the near-future. Creates temporary stunts like:
 
@@ -813,7 +813,7 @@ have to work to discover.
 
 If the site is still in fairly good shape, it may be easy to discover
 the high concept aspect Ancient Lighthouse, or the aspect can even be
-known already without the need to [[create advantage]] to discover it.
+known already without the need to [[Create Advantage]] to discover it.
 
 However, the GM may add one to three less obvious aspects if the site is
 important to the adventure. For example, it might have [_Hidden Crypt

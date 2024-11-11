@@ -226,7 +226,7 @@ Bought Powers   B-List Hero   Private Police       Anti-Hero       Politican
 You're one of the ones in the lime-light. A crime-fighting mascot. +3
 [[Rapport]], +2 [[Contacts]], +1 [[Will]]
 
-Famous ([[Rapport]]): Add +2 to [[Rapport]] when you [[create advantage]] related
+Famous ([[Rapport]]): Add +2 to [[Rapport]] when you [[Create Advantage]] related
 to your excellent reputation.
 
 **Anti-Hero**
@@ -234,7 +234,7 @@ to your excellent reputation.
 You're a superhero who, for branding reasons, is expected to be gritty
 and badass and not a boy scout. +3 [[Provoke]], +2 [[Physique]], +1 [[Will]]
 
-Famous ([[Provoke]]): Add +2 to [[Provoke]] when you [[create advantage]] related
+Famous ([[Provoke]]): Add +2 to [[Provoke]] when you [[Create Advantage]] related
 to your fearsome reputation.
 
 **B-List Hero**
@@ -633,7 +633,7 @@ respects you for your good works.
 You're actually a supervillain. You commit real crimes in a bizarrely
 flamboyant way. Why? +2 [[Provoke]]
 
-Famous ([[Provoke]]): Add +2 to [[Provoke]] when you [[create advantage]] related
+Famous ([[Provoke]]): Add +2 to [[Provoke]] when you [[Create Advantage]] related
 to your fearsome reputation.
 
 **Wanted Criminal**

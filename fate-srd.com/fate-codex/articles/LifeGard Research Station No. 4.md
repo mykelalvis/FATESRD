@@ -351,7 +351,7 @@ Average (+1) [[Empathy]], [[Notice]], [[Physique]], [[Rapport]]
 the zombie virus, no zombie she can see can act before her in an
 exchange.
 
-**Well-Stocked Lab.** +2 to [[overcome]] actions made in her lab with
+**Well-Stocked Lab.** +2 to [[Overcome]] actions made in her lab with
 [[Investigate]] and [[Lore]].
 
 **Wannabe Rodeo Star.** Grant can use her Ride skill when attempting to

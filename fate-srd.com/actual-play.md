@@ -70,4 +70,4 @@ in several or all of these formats.
 - [Young Heroes of Fate](https://anchor.fm/youngheroesoffate) by _Encounter Roleplay_. Podcast. [[Fate Core]], Venture City
 - [Zombies Ate My Coworker](https://www.youtube.com/playlista524.html?list=PLm_elIkObrOo9xNg9Fekf4TQeM8kQjv9Q&fbclid=IwAR3Tbb_d-2DtAEgCgAFOdXTibfcUp6OayDK-74tfadH7U925ewbAxiwsJdY) by _RadioMultiverse_. Video
 - 
--.![[FateSRDLogo.svg]]- [YouTube](https://www.youtube.com/FateSRD.html)
+-.![[FateSRDLogo.jpg]]- [YouTube](https://www.youtube.com/FateSRD.html)

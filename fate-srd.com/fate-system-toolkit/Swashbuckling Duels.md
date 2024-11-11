@@ -2,54 +2,23 @@
 date created: 2022-10-18 08:09
 ---
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]
 
 [[Fate System Toolkit]]
 
 # Swashbuckling Duels
 
-The kind of cinematic, heroic action that typifies swashbuckling stories
-is near and dear to [[Fate Core]]'s heart---that's just the nature of the
-game. But those climactic one-on-one fights between our hero and a
-dastardly villain almost always involve a lot of back-and-forth before
-one of them lands a blow. In the meantime, they might trade witty
-repartee or provocative insults, swing from chandeliers, leap off
-balconies, baffle their opponent with their cloak, or a thousand other
-things. Look at D'Artagnan and Jussac in The Three Musketeers, Errol
-Flynn and Basil Rathbone in the 1938 film The Adventures of Robin Hood,
-Cyrano's poetry-laden duel with Valvert in Rostand's Cyrano de Bergerac,
-or Luke Skywalker and Darth Vader's duel in The Empire Strikes Back.
+The kind of cinematic, heroic action that typifies swashbuckling stories is near and dear to [[Fate Core]]'s heart---that's just the nature of the game. But those climactic one-on-one fights between our hero and a dastardly villain almost always involve a lot of back-and-forth before one of them lands a blow. In the meantime, they might trade witty repartee or provocative insults, swing from chandeliers, leap off balconies, baffle their opponent with their cloak, or a thousand other things. Look at D'Artagnan and Jussac in The Three Musketeers, Errol Flynn and Basil Rathbone in the 1938 film The Adventures of Robin Hood, Cyrano's poetry-laden duel with Valvert in Rostand's Cyrano de Bergerac, or Luke Skywalker and Darth Vader's duel in The Empire Strikes Back.
 
-The [[create advantage]] action in [[Fate Core]] makes it easy to model these
-sorts of conflicts, but most players will still gravitate toward the
-most efficient means of dispatching the opposition, especially if there
-aren't other PCs around to give them an excuse to create situation
-aspects. That's what this hack does---require players to rely on skills
-other than [[Fight]] in a conflict, with colorful results.
+The [[Create Advantage]] action in [[Fate Core]] makes it easy to model these sorts of conflicts, but most players will still gravitate toward the most efficient means of dispatching the opposition, especially if there aren't other PCs around to give them an excuse to create situation aspects. That's what this hack does---require players to rely on skills other than [[Fight]] in a conflict, with colorful results.
 
-These one-on-one dueling rules introduce something called the **upper
-hand**. Only the duelist with the upper hand can actually use a skill
-with the attack action to inflict harm. The other duelist can take any
-_other_ action, but cannot attack---until _they_ get the upper hand, of
-course.
+These one-on-one dueling rules introduce something called the **upper hand**. Only the duelist with the upper hand can actually use a skill with the attack action to inflict harm. The other duelist can take any _other_ action, but cannot attack---until _they_ get the upper hand, of course.
 
-How does one get the upper hand? By succeeding with style with a skill
-_other_ than one that deals harm in physical conflicts ([[Fight]] or [[Shoot]],
-or whatever the equivalent is in your game). As soon as one combatant
-succeeds with style with one of these other skills, they get the upper
-hand. This _replaces_ the action's usual reward for succeeding with
-style, such as getting a boost or an extra free invocation. You get
-either the upper hand _or_ the usual reward, but not both.
+How does one get the upper hand? By succeeding with style with a skill _other_ than one that deals harm in physical conflicts ([[Fight]] or [[Shoot]], or whatever the equivalent is in your game). As soon as one combatant succeeds with style with one of these other skills, they get the upper hand. This _replaces_ the action's usual reward for succeeding with style, such as getting a boost or an extra free invocation. You get either the upper hand _or_ the usual reward, but not both.
 
-Use a token of some kind to represent the upper hand. Whatever it is, it
-should be something that can easily be handed back and forth, like a
-coin, a little plastic cocktail sword, an index card with a hand drawn
-on it, a fencing glove---whatever works for your group.
+Use a token of some kind to represent the upper hand. Whatever it is, it should be something that can easily be handed back and forth, like a coin, a little plastic cocktail sword, an index card with a hand drawn on it, a fencing glove---whatever works for your group.
 
-At the beginning of a physical conflict between two (and only two)
-participants, determine the turn order, as usual. If this involves a
-skill roll, and one of the two succeeds with style, they start the
-conflict with the upper hand---they got the jump on the other guy.
+At the beginning of a physical conflict between two (and only two) participants, determine the turn order, as usual. If this involves a skill roll, and one of the two succeeds with style, they start the conflict with the upper hand---they got the jump on the other guy.
 
 After that, the combatants can do any of the following every turn:
 
@@ -58,10 +27,7 @@ After that, the combatants can do any of the following every turn:
 - Do something else---put down situation aspects, try to escape the
   conflict, etc.
 
-It's highly recommended that you use the [Stress-Free
-variant](../customized-tools/index.html) with these rules. Otherwise,
-there's a real risk of combats dragging out, instead of knocking _down_
-and dragging out.
+It's highly recommended that you use the [Stress-Free variant](../customized-tools/index.html) with these rules. Otherwise, there's a real risk of combats dragging out, instead of knocking _down_ and dragging out.
 
 > Dekka, an Imperial Lawkeeper of Porthos V, is facing off against her
 > arch-nemesis Xoren, the scheming cyborg and would-be usurper of the
@@ -86,7 +52,7 @@ and dragging out.
 > invocation.
 >
 > Now it's Xoren's turn. Being an evil cyborg, he grabs a bystander and
-> flings him at Dekka, hoping to [[create advantage]] with [[Physique]]. He
+> flings him at Dekka, hoping to [[Create Advantage]] with [[Physique]]. He
 > beats Dekka by 4 [[shift]]s---enough to gain the upper hand---but she uses
 > that free invocation on [All Shall Suffer for My Pain!] to
 > reduce that to 2 [[shift]]s. Her player explains that Xoren, in his

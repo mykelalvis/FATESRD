@@ -2,7 +2,7 @@
 date created: 2022-10-18 08:09
 ---
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]
 
 [[Fate System Toolkit]]
 
@@ -30,7 +30,7 @@ know what problem you're solving when you make the change.
 ## Larger Steps
 
 Nothing says skills need to progress smoothly. Suppose that each "rank"
-of a skill was actually two steps on the ladder---you might now have a
+of a skill was actually two steps on [[the ladder]]---you might now have a
 pyramid of 1 Superb (+5), 2 Good (+3) and 3 or 4 Average (+1), and if
 you're feeling mean, move the default down to Poor (-1).
 

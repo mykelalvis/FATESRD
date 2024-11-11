@@ -29,7 +29,7 @@ Because I have **[describe item]**, I can substitute my **[pick one: [[Fight]], 
 >
 > **Knight's Shield**: Because I have my knight's shield, I get +2 to defend with [[Fight]] from opponents coming from my left.
 >
-> **Sword of Theseus**: Because I wield the ancient sword of the hero Theseus, I can use [[Fight]] instead of [[Provoke]] to [[create advantage]] by  intimidating my opponents when they have a clear view of the brandished sword.
+> **Sword of Theseus**: Because I wield the ancient sword of the hero Theseus, I can use [[Fight]] instead of [[Provoke]] to [[Create Advantage]] by  intimidating my opponents when they have a clear view of the brandished sword.
 
 With approaches:
 
@@ -37,7 +37,7 @@ Because I have **[describe item]**, I get +2 when I **[pick one: Carefully, Clev
 
 > **Two-Handed Battle Axe**: Because my trusty two-handed battle axe has a mighty arc, I get a +2 when I Quickly attack from above (such as leaping off a building).
 
-> **My Father's Helmet**: Because I have my father's helmet, I get a +2 bonus when I Flashily [[create advantage]] by yelling a short encouragement to my troops on the battlefield.
+> **My Father's Helmet**: Because I have my father's helmet, I get a +2 bonus when I Flashily [[Create Advantage]] by yelling a short encouragement to my troops on the battlefield.
 
 > **Round Buckler**: Because I have a round buckler, I get a +2 when I Carefully defend when facing only one opponent.
 

@@ -573,7 +573,7 @@ Average (+1): Knocking### Scene 2: The Grind
 
 Once the PCs are deep in the house, the ghost will try to place aspects
 on the scene to hinder the PCs and get them to fear it. It gets one
-[[create advantage]] roll for every PC die roll. Throughout, make sure the
+[[Create Advantage]] roll for every PC die roll. Throughout, make sure the
 PCs understand that something is interfering with them. They are
 necromancers; they'll know what to do. This scene involves gathering the
 information, tools, and resources required to summon the ghost.

@@ -100,8 +100,8 @@ Between breakthroughs, a character may only use this option once.
 
 Some groups may feel contests involve too many attempts to create advantages per exchange. For those groups, try the following method: In each exchange of a contest, each participant may choose only one of these three options:
 
-- Make the [[overcome]] roll for their side.
-- Roll to [[create advantage]], but no teamwork bonus.
+- Make the [[Overcome]] roll for their side.
+- Roll to [[Create Advantage]], but no teamwork bonus.
 - Provide their teamwork bonus to their side's overcome roll or another's attempt to create an advantage. Don't roll.
 
 ## Full Defense
@@ -134,7 +134,7 @@ Generally speaking, a hazard's skill rating should be at least as high as the PC
 
 A hazard acts in the initiative just like the PCs and their enemies do. If your rules require everyone to roll for initiative, hazards will roll with their rating. On its turn each exchange, a hazard acts as implied by its name, and rolls with its rating. If it attacks and hits with a tie or better, add its Weapon rating to its [[shift]]s. Hazards can attack or create advantages; they can't be attacked, and they don't overcome obstacles.
 
-If a player wants to overcome or [[create advantage]] against a hazard, they'll face passive opposition equal to the hazard's skill rating.
+If a player wants to overcome or [[Create Advantage]] against a hazard, they'll face passive opposition equal to the hazard's skill rating.
 
 ### Blocks
 
@@ -209,7 +209,7 @@ When applying scale to two opposing forces or individuals, compare the sides' le
 
 - +1 per level of difference to their action _before_ the roll
 - +2 per level of difference to the result _after_ the roll, _if_ the roll succeeds
-- 1 additional free invoke per level of difference to the results of a successful [[create advantage]] action
+- 1 additional free invoke per level of difference to the results of a successful [[Create Advantage]] action
 
 Frequent and rigid application of scale rules may put player characters at a distinct disadvantage. Compensate by generously affording those players opportunities to subvert scale disadvantage in clever ways. Viable options include researching a target for weaknesses, changing the venue to one where scale doesn't apply, or altering goals so that their opponent cannot leverage their scale advantage.
 
@@ -249,7 +249,7 @@ But remember, for monsters and other big threats it's acceptable to [break the r
 
 Both of these methods are about drawing out the final confrontation by running the group through a clock-is-ticking-down activity before they can actually go after the big bad directly.
 
-With **challenge immunity**, your big bad cannot be affected directly (mentally, physically, or both) until the group beats a challenge (e.g., dismantling the source of its power, figuring out what its weakness is, etc). The big bad, meanwhile, can act freely and may attack them during their efforts, oppose their overcome or [[create advantage]] efforts with its defend rolls, assail their free invokes with its own overcomes, or prepare for their eventual breakthrough by creating advantages of its own.
+With **challenge immunity**, your big bad cannot be affected directly (mentally, physically, or both) until the group beats a challenge (e.g., dismantling the source of its power, figuring out what its weakness is, etc). The big bad, meanwhile, can act freely and may attack them during their efforts, oppose their overcome or [[Create Advantage]] efforts with its defend rolls, assail their free invokes with its own overcomes, or prepare for their eventual breakthrough by creating advantages of its own.
 
 With **contest immunity**, the group must win a contest to be able to directly attack the big bad---and the big bad gets to attack them while they're trying. If the big bad wins the contest, it gets to pull off its scheme and get away unscathed.
 
@@ -304,7 +304,7 @@ If you wish to be selective about your targets, you may **split your effort**. R
 
 In some special circumstances, as with an explosion or similar, you may make a **zone attack** against everyone in one zone, friend and foe alike. Here, you don't split your effort; every target must defend against your total roll. The circumstances and method must be right for doing this; often the GM will require you to invoke an aspect or use a stunt to gain permission.
 
-If you wish to [[create advantage]] affecting a whole zone or group, **target the scene** instead: place a single aspect on the zone or the scene itself rather than placing separate aspects on each of the targets. This has the added advantage of reducing overall book-keeping. If someone insists on creating a separate aspect on each target, they should be constrained to the effort splitting method.
+If you wish to [[Create Advantage]] affecting a whole zone or group, **target the scene** instead: place a single aspect on the zone or the scene itself rather than placing separate aspects on each of the targets. This has the added advantage of reducing overall book-keeping. If someone insists on creating a separate aspect on each target, they should be constrained to the effort splitting method.
 
 With any of these methods, all of the targets should occupy the same zone. The GM may allow the occasional exception due to method and circumstance.
 

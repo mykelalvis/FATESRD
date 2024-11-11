@@ -30,7 +30,7 @@ A hazard acts in the initiative just like the PCs and their enemies do. If your 
 
 On its turn each exchange, a hazard acts as implied by its name, and rolls with its rating. If it attacks and succeeds, add its Weapon rating to its [[shift]]s. Hazards can attack or create advantages; they can't be attacked, and they don't overcome obstacles.
 
-If a player wants to overcome or [[create advantage]] against a hazard, they'll face passive opposition equal to the hazard's rating.
+If a player wants to overcome or [[Create Advantage]] against a hazard, they'll face passive opposition equal to the hazard's rating.
 
 > Joan is near the window, and there's a _Distant Sniper_ out there, a hazard with a Superb (+5) rating and Weapon:4. At the beginning of the conflict, the sniper used its Superb (+5) rating to determine its initiative. Now that it has a chance to act, it attacks Joan, rolling an Epic (+6) result! That's a tough attack to defend against, and if Joan can't, the sniper's Weapon:4 will deal a lot of stress to her.
 

@@ -15,7 +15,7 @@ But sometimes things are a little more complex.
 
 ## Challenges
 
-A [[challenge]] is a series of [[overcome]] and [[create advantage]] actions that you use to resolve an especially complicated situation. Each overcome action deals with one task or part of the situation, and you take the individual results together to figure out how the situation resolves.
+A [[challenge]] is a series of [[Overcome]] and [[Create Advantage]] actions that you use to resolve an especially complicated situation. Each overcome action deals with one task or part of the situation, and you take the individual results together to figure out how the situation resolves.
 
 To set up a challenge, decide what individual tasks or goals make up the situation, and treat each one as a separate overcome roll.
 

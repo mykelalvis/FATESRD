@@ -167,7 +167,7 @@ For the other three aspects, come up with some unique shticks that your boss rel
 
 A good boss has highly rated skills, and lots of them. Bosses are far more versatile than either hitters or threats and, unlike those two types of enemies, it's entirely within your purview to make a boss who's both good at dealing damage _and_good at taking it.
 
-First, look at the highest-rated PC skill. Either give your boss one skill rated at two steps higher, or two skills rated at one step higher. If your boss has one apex skill, give her two skills rated at one step lower, then three rated at one step below that, and so on until you've filled out every step of the ladder down to Fair (+2). If the boss has two apex skills, give her three rated at one step below, then four, and so on down until Fair (+2). All of her other skills are Average (+1).
+First, look at the highest-rated PC skill. Either give your boss one skill rated at two steps higher, or two skills rated at one step higher. If your boss has one apex skill, give her two skills rated at one step lower, then three rated at one step below that, and so on until you've filled out every step of [[the ladder]] down to Fair (+2). If the boss has two apex skills, give her three rated at one step below, then four, and so on down until Fair (+2). All of her other skills are Average (+1).
 
 Your boss should prioritize skills that support her personality. The corrupt police captain probably has high social skills, some good combat skills, and skills like [[Drive]], [[Lore]], and [[Crafts]] down toward the bottom of her pyramid. The necromancer general probably prioritizes [[Lore]] above all else, then goes on to prioritize things like [[Resources]], [[Provoke]], [[Contacts]], and [[Crafts]], then leaves more physically oriented skills for the bottom of her pyramid. Of course, you can always subvert these expectations.
 
@@ -265,7 +265,7 @@ A hazard acts in the initiative just like the PCs and their enemies do. If your 
 
 On its turn each exchange, a hazard acts as implied by its name, and rolls with its rating. If it attacks and succeeds, add its Weapon rating to its [[shift]]s. Hazards can attack or create advantages; they can't be attacked, and they don't overcome obstacles.
 
-If a player wants to overcome or [[create advantage]] against a hazard, they'll face passive opposition equal to the hazard's rating.
+If a player wants to overcome or [[Create Advantage]] against a hazard, they'll face passive opposition equal to the hazard's rating.
 
 > Joan is near the window, and there's a _[Distant Sniper]_ out there, a hazard with a Superb (+5) rating and Weapon:4. At the beginning of the conflict, the sniper used its Superb (+5) rating to determine its initiative. Now that it has a chance to act, it attacks Joan, rolling an Epic (+6) result! That's a tough attack to defend against, and if Joan can't, the sniper's Weapon:4 will deal a lot of stress to her.
 

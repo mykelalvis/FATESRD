@@ -337,9 +337,9 @@ more about the world and their characters.### Discovering Primal World
 
 Primal World uses the [Discovery
 action](../actions-intent-discover-fate-core/index.html), as detailed in
-Fate Codex issue 1.7, page 6. You can use [[create advantage]] if you're not
+Fate Codex issue 1.7, page 6. You can use [[Create Advantage]] if you're not
 familiar with the discover action, but you'll have to remind players
-that [[create advantage]] can be used to unearth new information.## Character Advancement
+that [[Create Advantage]] can be used to unearth new information.## Character Advancement
 
 Over the course of Primal World, characters will learn more about the
 world, and in turn grow and develop themselves. By the end of each

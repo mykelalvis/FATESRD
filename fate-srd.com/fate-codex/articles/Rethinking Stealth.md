@@ -211,7 +211,7 @@ other kinds of [[Stealth]] rolls is that a player only uses Hiding when
 someone is already aware of their presence and is actively looking for
 them.
 
-Like Sneaking, Hiding is a [[create advantage]] roll. When you want to
+Like Sneaking, Hiding is a [[Create Advantage]] roll. When you want to
 hide, roll [[Stealth]] against the highest [[Notice]] of the opposition. On a
 success, your character gains a [Hidden] [[situation aspect]] to
 describe their success at avoiding detection. Like with other situation
@@ -262,7 +262,7 @@ the game.
 
 > Back in the fantasy adventure, the party has launched a surprise
 > attack on the band of orcs. The party's wizard started things off by
-> conjuring up a Foggy Mist, and Gary used [[create advantage]] to give
+> conjuring up a Foggy Mist, and Gary used [[Create Advantage]] to give
 > his rogue the Hidden aspect, before attacking on the second round.
 >
 > Alice: Okay, round three. The orc chief pulls the knife out of his

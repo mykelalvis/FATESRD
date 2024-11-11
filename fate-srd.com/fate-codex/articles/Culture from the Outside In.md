@@ -262,10 +262,10 @@ really help.
 
 #### [[Athletics]]
 
-- **(Rebel) Master of the Street.** +2 to [[overcome]] actions with
+- **(Rebel) Master of the Street.** +2 to [[Overcome]] actions with
   [[Athletics]] when in a city.
 
-- **(Paragon) Master of the Wood.** +2 to [[overcome]] actions with
+- **(Paragon) Master of the Wood.** +2 to [[Overcome]] actions with
   [[Athletics]] when you are in a forest.
 
 #### [[Fight]]

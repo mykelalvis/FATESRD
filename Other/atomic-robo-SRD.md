@@ -59,7 +59,7 @@ The [[Athletics]] skill represents your character's general level of physical fi
 
 ![[def_r.svg|30 ]][[Defend]]: Dodge close-quarters or ranged attacks in a physical conflict.
 
-![[def_r.svg|30 ]][[Defend]]: Counter efforts to [[create advantage]] against you, if you're in a position to physically interfere with whomever's making the attempt, or to keep someone from moving past a certain point.
+![[def_r.svg|30 ]][[Defend]]: Counter efforts to [[Create Advantage]] against you, if you're in a position to physically interfere with whomever's making the attempt, or to keep someone from moving past a certain point.
 
 ### Combat (2 skill points)
 
@@ -113,7 +113,7 @@ By a similar token, the advantage might be an aspect you're putting forward as a
 
 ![[def_r.svg|30 ]][[Defend]]: See through lies and deceptions to someone's true intent.
 
-![[def_r.svg|30 ]][[Defend]]: Counter someone's attempt to [[create advantage]] against you in a social context. Generally speaking, this usually requires direct contact with them. If you're working through an intermediary, [[Contacts]] is probably a more appropriate skill to use.
+![[def_r.svg|30 ]][[Defend]]: Counter someone's attempt to [[Create Advantage]] against you in a social context. Generally speaking, this usually requires direct contact with them. If you're working through an intermediary, [[Contacts]] is probably a more appropriate skill to use.
 
 ### [[Notice]] (1 skill point)
 
@@ -398,8 +398,8 @@ Alternately, for a stunt with a little more breadth, you can split up that +2 bo
 
 **Examples:**
 
-- **Expert Marksman:** +1 to attack or [[create advantage]] with Combat when using a firearm.
-- **Martial Artist:** +1 to [[create advantage]] with Combat or [[Athletics]] when fighting unarmed.
+- **Expert Marksman:** +1 to attack or [[Create Advantage]] with Combat when using a firearm.
+- **Martial Artist:** +1 to [[Create Advantage]] with Combat or [[Athletics]] when fighting unarmed.
 
 ### Add a New Action to a Skill
 
@@ -752,7 +752,7 @@ Everyone taking part cites a reason why they're getting involved by compelling a
 
 ### Step Two: Establish the First Fact
 
-Next, all participants roll _simultaneously_ to [[create advantage]] using a relevant skill against a difficulty of Good (+3). Each player can (and is encouraged to) use a different skill. The relevance of the skill here will depend entirely on the situation at hand. In any case, it should be a skill that covers something the player will want to talk about more, or that sparks an idea.
+Next, all participants roll _simultaneously_ to [[Create Advantage]] using a relevant skill against a difficulty of Good (+3). Each player can (and is encouraged to) use a different skill. The relevance of the skill here will depend entirely on the situation at hand. In any case, it should be a skill that covers something the player will want to talk about more, or that sparks an idea.
 
 Whoever succeeds _and_ has the highest result (make a note of number) is the “winner.” The winner gets to do two things. First, they record one or more victories, depending on the margin of success.
 

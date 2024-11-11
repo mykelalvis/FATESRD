@@ -253,7 +253,7 @@ Create an Advantage: Study the zombies and use your scientific know-how to figur
 
 ### Stunts
 
-Mortician. You are used to studying corpses and death. Take +2 to [[create advantage]] with Science when you have a dead body in front of you to study.
+Mortician. You are used to studying corpses and death. Take +2 to [[Create Advantage]] with Science when you have a dead body in front of you to study.
 
 Doctor. You're as experienced and trained as an emergency room doctor---something rare and incredibly valuable nowadays. Once per session, if you have the supplies for medical treatment and the time to apply it, you can reduce a Moderate Consequence to Mild.
 
@@ -273,7 +273,7 @@ Defend: Keeping yourself alive, that's what it's all about. When you are clingin
 
 ### Stunts
 
-Forager. You are an expert at finding food in the wilderness. Take +2 to [[create advantage]] with Survival when hunting for food in the wild.
+Forager. You are an expert at finding food in the wilderness. Take +2 to [[Create Advantage]] with Survival when hunting for food in the wild.
 
 Home in the Wild. Once per session, you can simply disappear from any scene while you are in the wild, taking cover in camouflage and the natural environment. You can reappear in any scene later in the wild, or coming out of the wild.
 
@@ -291,7 +291,7 @@ Create an Advantage: Give a speech, make a war cry, create a plan, and get the o
 
 Listen to Me. Once per session, you can interrupt a fight between people by shouting at them to listen to you. This counts as compel on the combatants, and they get a [[fate point]] if they listen to you.
 
-Here's the Plan.... When you [[create advantage]] with Leadership by coming up with a complex tactical plan in advance, the plan starts with
+Here's the Plan.... When you [[Create Advantage]] with Leadership by coming up with a complex tactical plan in advance, the plan starts with
 two free invokes on it, usable by anyone who was part of the plan.
 
 ## Motivation
@@ -490,7 +490,7 @@ Average (+1) [[Fight]], [[Investigate]], Science, [[Shoot]]
 
 "I Made It Heavy for a Reason!" Take +2 when attacking with [[Fight]] when you are using your own book as a weapon.
 
-Name Carries Weight. Take +2 to [[create advantage]] when you are using [[Rapport]] to get someone on your side by relying on your fame and
+Name Carries Weight. Take +2 to [[Create Advantage]] when you are using [[Rapport]] to get someone on your side by relying on your fame and
 status.
 
 _Free slot for another stunt._

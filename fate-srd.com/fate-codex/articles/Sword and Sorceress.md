@@ -186,7 +186,7 @@ First, ask the players if they're interested in doing a contest for each other's
 - In the gladiator ring, having a duel, a contest of flirtatious wrestling.
 - In the market, stealing flowers, a contest of clever thievery.
 
-In a contest, you go back and forth, setting up a series of [[overcome]] actions until you get to a conclusion. In this case, you're competing for the same thing (each other's affections) so there isn't really a winner or loser here, merely someone who's showing off more, is more flashy, or becomes the ultimate initiator of the intimate scene. The win condition should be defined ahead of time, so everyone knows exactly what you're competing for. Remember, these types of contests are a flirtation. The ultimate goal here isn't sex---you don't win sex from flirtation. You might compete to see who makes the first move, who asks who on a date, or for one person to reveal how they feel about the other first.
+In a contest, you go back and forth, setting up a series of [[Overcome]] actions until you get to a conclusion. In this case, you're competing for the same thing (each other's affections) so there isn't really a winner or loser here, merely someone who's showing off more, is more flashy, or becomes the ultimate initiator of the intimate scene. The win condition should be defined ahead of time, so everyone knows exactly what you're competing for. Remember, these types of contests are a flirtation. The ultimate goal here isn't sex---you don't win sex from flirtation. You might compete to see who makes the first move, who asks who on a date, or for one person to reveal how they feel about the other first.
 
 ## Sexy, Not Sexist
 

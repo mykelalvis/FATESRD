@@ -22,5 +22,5 @@ A deadly cabal of nobles and clergy threaten to usurp Her Majesty Queen Marie-HÃ
 
 - [[PK Sullivan]]
 
-- ![[FateSRDLogo.svg]]
+- ![[FateSRDLogo.jpg]]
 - [YouTube](https://www.youtube.com/FateSRD.html)

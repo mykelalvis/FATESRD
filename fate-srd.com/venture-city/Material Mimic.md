@@ -8,7 +8,7 @@ Venture City
 
 You are what you touch.
 
-**Basic Material Mimicry:** While in contact with any material---iron, stone, wood, and so on---you can alter your body to mimic that substance, turning into a living statue. To do so, [[create advantage]] using [[Physique]] against Fair (+2) opposition. If you succeed, you gain an aspect reflecting your new state, such as [Body of Steel]. You may only have one such aspect at once, and it goes away if you break contact with the substance you're mimicking.
+**Basic Material Mimicry:** While in contact with any material---iron, stone, wood, and so on---you can alter your body to mimic that substance, turning into a living statue. To do so, [[Create Advantage]] using [[Physique]] against Fair (+2) opposition. If you succeed, you gain an aspect reflecting your new state, such as [Body of Steel]. You may only have one such aspect at once, and it goes away if you break contact with the substance you're mimicking.
 
 ### Enhancements
 

@@ -315,5 +315,5 @@ The magical skills are Create, Destroy, Learn, and Change. Each order prioritize
 
 You get one free stunt from among those possessed by your order, and you can get more by spending refresh. You can invoke or be compelled by the order's aspects as though they were your own.
 
-You call on your magical skills when something makes the use of your mundane skills impossible. For example, if you can no longer interrogate a suspect because the torture has killed him, you'd make an overcome roll with Learn to discover what you need to know through magic. If someone is suffering a deep, dark depression that no normal care can address, [[create advantage]] with Change to alter their mood.
+You call on your magical skills when something makes the use of your mundane skills impossible. For example, if you can no longer interrogate a suspect because the torture has killed him, you'd make an overcome roll with Learn to discover what you need to know through magic. If someone is suffering a deep, dark depression that no normal care can address, [[Create Advantage]] with Change to alter their mood.
 

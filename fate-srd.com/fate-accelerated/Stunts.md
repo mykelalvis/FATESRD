@@ -21,7 +21,7 @@ For example:
 > - Because I am a World-Class Duelist, I get a +2 when I Flashily attack when engaged in a one-on-one swordfight.
 > - Because I have a Big Kite Shield, I get a +2 when I Forcefully defend when I use my shield in close combat.
 
-Sometimes, if the circumstance is especially restrictive, you can apply the stunt to both the [[create advantage]] action and the overcome action.
+Sometimes, if the circumstance is especially restrictive, you can apply the stunt to both the [[Create Advantage]] action and the overcome action.
 
 The second type of stunt lets you make something true, do something cool, or otherwise ignore the usual rules in some way. Use this template:
 

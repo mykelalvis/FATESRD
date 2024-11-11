@@ -3,7 +3,7 @@ date created: 2022-10-18 08:09
 date updated: 2022-10-18 08:09
 ---
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]
 
 [[Fate System Toolkit]]
 

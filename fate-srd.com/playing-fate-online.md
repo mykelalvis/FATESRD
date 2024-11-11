@@ -65,4 +65,4 @@ like. <https://www.dreadunicorngames.com/blog/2020/11/17/roll20-for-non-tactica
 
 Aside
 
-![[FateSRDLogo.svg]]OTHER](../index.html)- [YouTube](https://www.youtube.com/FateSRD.html)
+![[FateSRDLogo.jpg]]OTHER](../index.html)- [YouTube](https://www.youtube.com/FateSRD.html)

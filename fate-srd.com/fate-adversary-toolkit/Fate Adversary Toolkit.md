@@ -28,4 +28,4 @@ Antagonists. Obstacles. Villains. Impediments. Call them what you will, but a gr
 - [[Lara Turner]]
 -
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]

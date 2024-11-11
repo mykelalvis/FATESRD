@@ -34,7 +34,7 @@ During play, the GM can set difficulties for tasks like tracking an enemy ship w
 - Matched: The target is moving at the same speed as your ship.
 - Slower: The target is moving more slowly than your ship.
 
-If you're dealing with multiple ships, you can assign absolute velocities using the ladder, so a high-speed interceptor may be moving at Fantastic (+6) speed, while a bulk transport on a low-fuel transfer orbit may only be moving at Mediocre (+0) speed. Ships with high thrust can change speed faster than ships with low thrust; ships with high specific impulse can accelerate and decelerate over longer periods of time than ships with low specific impulse.
+If you're dealing with multiple ships, you can assign absolute velocities using [[the ladder]], so a high-speed interceptor may be moving at Fantastic (+6) speed, while a bulk transport on a low-fuel transfer orbit may only be moving at Mediocre (+0) speed. Ships with high thrust can change speed faster than ships with low thrust; ships with high specific impulse can accelerate and decelerate over longer periods of time than ships with low specific impulse.
 
 ### Bearing
 

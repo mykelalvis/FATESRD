@@ -27,7 +27,7 @@ This is a new version of Fate, which was developed by [Evil Hat Productions](htt
 
 ## Actions and Stuff
 
-- **The list of actions has been greatly reduced from previous Fate games down to four: overcome, create an advantage, attack, and defend.** Movement is now a function of the overcome action, [[create advantage]] subsumes assess/declare/maneuver from previous games under one banner, and blocks can be handled a number of different ways.
+- **The list of actions has been greatly reduced from previous Fate games down to four: overcome, create an advantage, attack, and defend.** Movement is now a function of the overcome action, [[Create Advantage]] subsumes assess/declare/maneuver from previous games under one banner, and blocks can be handled a number of different ways.
 - **The game is no longer based on a binary pass/fail.** Now there are four outcomes: fail or succeed at cost, tie (succeed at minor cost), succeed, and succeed with style. Each outcome now has a mechanical or story-driven effect, based on what action it's attached to. Succeeding with style is basically taking spin from previous versions of Fate and applying it across the board.
 - **Challenges and contests have been greatly simplified and  redesigned.**
 - **Zone borders have been replaced by the use of situation aspects to determine if it's even worth rolling for movement.** Moving one zone with an action is always free if there's nothing in the way.

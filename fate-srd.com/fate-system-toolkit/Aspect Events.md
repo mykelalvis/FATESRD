@@ -20,10 +20,10 @@ If you don't check off all the aspects by the time the PCs wrap things up, that'
 
 Here's an example:
 
-- [Explosions and Fire!]
-- [A Rash of Murders]
-- [Citywide Panic]
-- [Under Terrorist Threat]
-- [Three Hours to Detonation]
-- [Smoking Crater]
+- `Explosions and Fire!`
+- `A Rash of Murders
+- `Citywide Panic`
+- `Under Terrorist Threat`
+- `Three Hours to Detonation`
+- `Smoking Crater`
 

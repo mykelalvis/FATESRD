@@ -40,7 +40,7 @@ Condensing the gist of a system from nearly 300 pages down to about 50 pages of 
 *   “Balsera Style” initiative (also known as “elective action order” or “popcorn initiative”) is the default rather than using skills to determine turn order (**page XX**).
 *   Advancement functions a little differently; we've eliminated significant milestones and finessed major milestones to compensate (**page XX**).
 *   We've removed the notion of active opposition as separate from the defend action (**page XX**). This has a few minor ripple effects, particularly overcome's tie result (**page XX**).
-*   [[create advantage]] has been tweaked to offer better clarity and agency around the discovery of existing unknown aspects (**page XX**).
+*   [[Create Advantage]] has been tweaked to offer better clarity and agency around the discovery of existing unknown aspects (**page XX**).
 *   Full defense is presented as optional and has been altered a bit to accommodate the expanded scope of the defend action (**page XX**). Other standard rules options are presented as well, starting on **page XX**.
 
 # Getting Started
@@ -603,7 +603,7 @@ Whenever you take action, follow these steps:
 
 If the character's action faces a fixed obstacle or otherwise tries to alter the world rather than a character or creature, their action faces a static **difficulty** rating. These actions include picking locks, barring doors, and tactically assessing an enemy camp. The GM may decide that the presence of certain aspects (on the character, the scene, or something else) justifies changing the difficulty.
 
-At other times, an enemy will provide **opposition** against the character's action by using a defend action (**page XX**). In these cases, the GM will also roll the dice and follow the same rules as in the previous section, using any skills, stunts, or aspects the enemy has. Any time you roll to attack an enemy or to [[create advantage]] directly against them, the enemy will roll to defend against it.
+At other times, an enemy will provide **opposition** against the character's action by using a defend action (**page XX**). In these cases, the GM will also roll the dice and follow the same rules as in the previous section, using any skills, stunts, or aspects the enemy has. Any time you roll to attack an enemy or to [[Create Advantage]] directly against them, the enemy will roll to defend against it.
 
 Opposition can take many forms. Struggling with a cultist over the ritual dagger has a clear opponent. Or you might be opposed by the power of an ancient ritual that must be overcome to save the world. Cracking the safe in the First Metropolitan Bank to access the safe deposit boxes is a challenge with risk of discovery, but it's up to the GM if you're rolling against _opposition_ from the patrolling guards or the _difficulty_ presented by the safe itself.
 
@@ -627,7 +627,7 @@ Often you'll invoke one of your character aspects. You may also invoke a [[situa
 
 ### Using Stunts
 
-<a id="_idTextAnchor006"></a>Stunts may give you a bonus to your roll, provided you meet the criteria written in the stunt, such as the circumstances, action, or skill used. You may wish to use [[create advantage]] (**page XX**) to introduce aspects that line up with those circumstances. Keep your stunts' circumstances in mind when you describe your actions too, and set yourself up for success.
+<a id="_idTextAnchor006"></a>Stunts may give you a bonus to your roll, provided you meet the criteria written in the stunt, such as the circumstances, action, or skill used. You may wish to use [[Create Advantage]] (**page XX**) to introduce aspects that line up with those circumstances. Keep your stunts' circumstances in mind when you describe your actions too, and set yourself up for success.
 
 Normally, stunts give you a +2 bonus in a narrow circumstance with no cost; you may use them anytime they apply. Some rare and exceptionally powerful stunts may require you to spend a [[fate point]] to use them.
 
@@ -827,7 +827,7 @@ The default list of skills follows these guidelines:
 *   [[Provoke]] can be used to make a mental attack.
 *   [[Will]] can be used to defend against mental attacks.
 
-Other skills may gain permission to attack or defend under special circumstances, as determined by the GM or table consensus. Some stunts may grant broader, guaranteed permission when circumstances might otherwise not do so. When a skill can't be used to attack or defend but might help with it, prepare for it by using that skill with the [[create advantage]] action, and use the free invokes generated on your next attack or defend roll.
+Other skills may gain permission to attack or defend under special circumstances, as determined by the GM or table consensus. Some stunts may grant broader, guaranteed permission when circumstances might otherwise not do so. When a skill can't be used to attack or defend but might help with it, prepare for it by using that skill with the [[Create Advantage]] action, and use the free invokes generated on your next attack or defend roll.
 
 # Aspects and Fate Points
 
@@ -841,7 +841,7 @@ In essence, “aspects are always true” means that **aspects can grant or with
 
 That's not to say you can create any aspect you want and use its truth like a club. Aspects grant a lot of power to shape the story, yes, but with that power comes the responsibility to play within the story's constraints. Aspects have to line up with the table's sense of what actually passes muster. **If an aspect doesn't pass the sniff test, it needs to be reworded.**
 
-Sure, you might _like_ to use [[create advantage]] to inflict the aspect **Dismembered** on that fungal super-soldier, but that clearly steps on the toes of the attack action, and besides, it takes a bit more work to lop her arm off than that (could work as a consequence, though—see the next page). You might _say_ you're the **World's Best Shot**, but you'll need to back that up with your skills. And as much as you'd like to make yourself **Bulletproof**, removing permission for someone to use small arms fire to harm you, that is unlikely to fly unless the game you're playing involves using aspects-as-superpowers.
+Sure, you might _like_ to use [[Create Advantage]] to inflict the aspect **Dismembered** on that fungal super-soldier, but that clearly steps on the toes of the attack action, and besides, it takes a bit more work to lop her arm off than that (could work as a consequence, though—see the next page). You might _say_ you're the **World's Best Shot**, but you'll need to back that up with your skills. And as much as you'd like to make yourself **Bulletproof**, removing permission for someone to use small arms fire to harm you, that is unlikely to fly unless the game you're playing involves using aspects-as-superpowers.
 
 ## What Kinds of Aspects Are There?
 
@@ -945,7 +945,7 @@ Hostile invocations help you in the current moment. In addition to your own aspe
 
 ## How Can I Add and Remove Aspects?
 
-You can create or discover a [[situation aspect]] using the [[create advantage]] action (**page XX**). You may also create boosts that way, or as a result of a tie or success with style when you overcome an obstacle, attack, or defend.
+You can create or discover a [[situation aspect]] using the [[Create Advantage]] action (**page XX**). You may also create boosts that way, or as a result of a tie or success with style when you overcome an obstacle, attack, or defend.
 
 You can remove an aspect provided you can think of a way your character could do so—blast the **Raging Fire** with a fire extinguisher, use evasive maneuvers to escape the pursuing guard that's **On Your Tail**. Depending on the situation, that might require an overcome action (**page XX**); in this case, an opponent could use a defend action to try to preserve the aspect, if they can describe how they do so.
 
@@ -1001,7 +1001,7 @@ When setting the scene, the GM should think of interesting and dynamic environme
 
 Anyone can invoke and compel these aspects, so remember to take them into account when you wrestle that cultist to the ground amid the **Caustic Slime Covering Everything**.
 
-More situation aspects can be written down as the scene plays out. If it makes sense that there are **Deep Shadows** in the recesses of the catacombs, go ahead and write that down when a player asks if there are any shadows they can use to hide. Other aspects come into play because characters use the [[create advantage]] action. Things like **Flames Everywhere!** don't just happen without character action. Well. Usually.
+More situation aspects can be written down as the scene plays out. If it makes sense that there are **Deep Shadows** in the recesses of the catacombs, go ahead and write that down when a player asks if there are any shadows they can use to hide. Other aspects come into play because characters use the [[Create Advantage]] action. Things like **Flames Everywhere!** don't just happen without character action. Well. Usually.
 
 #### Free Invokes on the scene's aspects?
 
@@ -1029,13 +1029,13 @@ Fate offers three methods for teamwork: combining the same skill from multiple c
 
 When you combine skills, figure out who has the highest level in the skill among the participants. Each other participant who has at least Average (+1) in that skill adds a +1 to the highest person's skill level. Providing support like this uses your action for the exchange. Supporters face the same costs and consequences as the person making the roll. The maximum total bonus a team may provide this way is equal to the highest person's skill level.
 
-Otherwise, you can [[create advantage]] on your turn and let an ally use the free invokes when it makes sense that they can. Outside of your turn, you may invoke an aspect to add a bonus to someone else's roll.
+Otherwise, you can [[Create Advantage]] on your turn and let an ally use the free invokes when it makes sense that they can. Outside of your turn, you may invoke an aspect to add a bonus to someone else's roll.
 
 ## Challenges
 
 Many of the difficulties your characters face can be handled with a single roll in the course of a scene—disarm the bomb, find the tome of eldritch lore, or decode the cypher. But sometimes things are more fluid, more complicated, and it's just not as simple as finding the tome of eldritch lore because the yacht you're searching is careening through Hong Kong harbor while a monsoon rages outside and the boat's library is on fire—which is totally not your fault.
 
-In complicated circumstances with no opposition, you'll want to use a [[challenge]]: a series of [[overcome]] actions that tackle a bigger issue. Challenges let the entire group work together in a scene, and they keep things dynamic.
+In complicated circumstances with no opposition, you'll want to use a [[challenge]]: a series of [[Overcome]] actions that tackle a bigger issue. Challenges let the entire group work together in a scene, and they keep things dynamic.
 
 To set up a challenge, the GM considers the situation and picks a number of skills that can contribute to the success of the group. Treat each action as a separate overcome roll.
 
@@ -1049,7 +1049,7 @@ A [[contest]] is when two or more sides are in direct opposition but there isn't
 
 At the start of a contest, everyone involved declares their intent, what they hope to get out of it. If there are multiple PCs involved, they can be on the same or different sides, depending on their goals—_e.g.,_ in a foot race, each character might be on their own side. **If the PCs can't or aren't trying to harm the enemy, the GM can still declare a goal of harming or killing the PCs.**
 
-Contests take place over a series of exchanges (**page XX**), during which each side will take an overcome action to do something to achieve their goals. Only one character on each side takes the overcome action in each exchange, but their allies can provide teamwork and try to create advantages to assist (which comes with some risk—see below). The [[overcome]] actions can be against passive difficulties—if the contestants are facing separate environmental challenges—or compared against one another when they're in direct competition.
+Contests take place over a series of exchanges (**page XX**), during which each side will take an overcome action to do something to achieve their goals. Only one character on each side takes the overcome action in each exchange, but their allies can provide teamwork and try to create advantages to assist (which comes with some risk—see below). The [[Overcome]] actions can be against passive difficulties—if the contestants are facing separate environmental challenges—or compared against one another when they're in direct competition.
 
 At the end of each exchange, compare the efforts of each side's action. The side with the highest effort marks a **victory**. If the victor succeeds with style—and no one else did—then they mark **two** victories. The first one to three victories wins the contest. (You can always decide instead to run an extended contest requiring more victories, though we recommend no more than five.)
 
@@ -1059,7 +1059,7 @@ In contests where something is trying to harm any of the contestants, the PCs ta
 
 ### Creating Advantages in a Contest
 
-During any exchange, your side can try to create advantages before making your overcome roll. If you're targeting another participant, they get to defend. If someone can interfere, they may oppose it with a defend roll as normal. Each participant may attempt to [[create advantage]] in addition to rolling or providing a teamwork bonus (**page XX**). If you fail to create an advantage, you have a choice: either your side forfeits its overcome roll, or you may “succeed at a cost” (preserving your roll or teamwork bonus) by giving the other side a free invoke instead. If you at least tie, proceed as normal with your roll or bonus.
+During any exchange, your side can try to create advantages before making your overcome roll. If you're targeting another participant, they get to defend. If someone can interfere, they may oppose it with a defend roll as normal. Each participant may attempt to [[Create Advantage]] in addition to rolling or providing a teamwork bonus (**page XX**). If you fail to create an advantage, you have a choice: either your side forfeits its overcome roll, or you may “succeed at a cost” (preserving your roll or teamwork bonus) by giving the other side a free invoke instead. If you at least tie, proceed as normal with your roll or bonus.
 
 ## Conflicts
 
@@ -1401,7 +1401,7 @@ Generally speaking, a hazard's skill rating should be at least as high as the PC
 
 A hazard acts in the initiative just like the PCs and their enemies do. If your rules require everyone to roll for initiative, hazards will roll with their rating. On its turn each exchange, a hazard acts as implied by its name, and rolls with its rating. If it attacks and succeeds, add its Weapon rating to its [[shift]]s. Hazards can attack or create advantages; they can't be attacked, and they don't overcome obstacles.
 
-If a player wants to overcome or [[create advantage]] against a hazard, they'll face passive opposition equal to the hazard's rating.
+If a player wants to overcome or [[Create Advantage]] against a hazard, they'll face passive opposition equal to the hazard's rating.
 
 ### Blocks
 
@@ -1474,7 +1474,7 @@ When applying scale to two opposing forces or individuals, compare the sides' le
 
 *   +1 per level of difference to their action _before_ the roll
 *   +2 per level of difference to the result _after_ the roll, _if_ the roll succeeds
-*   1 additional free invoke per level of difference to the results of a successful [[create advantage]] action
+*   1 additional free invoke per level of difference to the results of a successful [[Create Advantage]] action
 
 Frequent and rigid application of scale rules may put player characters at a distinct disadvantage. Compensate by generously affording those players opportunities to subvert scale disadvantage in clever ways. Viable options include researching a target for weaknesses, changing the venue to one where scale doesn't apply, or altering goals so that their opponent cannot leverage their scale advantage.
 
@@ -1514,7 +1514,7 @@ But remember, for monsters and other big threats it's acceptable to break the ru
 
 Both of these methods are about drawing out the final confrontation by running the group through a clock-is-ticking-down activity before they can actually go after the big bad directly.
 
-With **challenge immunity**, your big bad cannot be affected directly (mentally, physically, or both) until the group beats a challenge (e.g., dismantling the source of its power, figuring out what its weakness is, etc). The big bad, meanwhile, can act freely and may attack them during their efforts, oppose their overcome or [[create advantage]] efforts with its defend rolls, assail their free invokes with its own overcomes, or prepare for their eventual breakthrough by creating advantages of its own.
+With **challenge immunity**, your big bad cannot be affected directly (mentally, physically, or both) until the group beats a challenge (e.g., dismantling the source of its power, figuring out what its weakness is, etc). The big bad, meanwhile, can act freely and may attack them during their efforts, oppose their overcome or [[Create Advantage]] efforts with its defend rolls, assail their free invokes with its own overcomes, or prepare for their eventual breakthrough by creating advantages of its own.
 
 With **contest immunity**, the group must win a contest to be able to directly attack the big bad—and the big bad gets to attack them while they're trying. If the big bad wins the contest, it gets to pull off its scheme and get away unscathed.
 
@@ -1569,7 +1569,7 @@ Sophie faces a trio of goons and wants to strike at all three in a flurry of thr
 
 In some special circumstances, as with an explosion or similar, you may make a **zone attack** against everyone in one zone, friend and foe alike. Here, you don't split [[shift]]s; every target must defend against your total roll. The circumstances and method must be right for doing this; often the GM will require you to invoke an aspect or use a stunt to gain permission.
 
-If you wish to [[create advantage]] affecting a whole zone or group, **target the scene** instead: place a single aspect on the zone or the scene itself rather than placing separate aspects on each of the targets. This has the added advantage of reducing overall book-keeping. If someone insists on creating a separate aspect on each target, they should be constrained to the [[shift]] splitting method.
+If you wish to [[Create Advantage]] affecting a whole zone or group, **target the scene** instead: place a single aspect on the zone or the scene itself rather than placing separate aspects on each of the targets. This has the added advantage of reducing overall book-keeping. If someone insists on creating a separate aspect on each target, they should be constrained to the [[shift]] splitting method.
 
 With any of these methods, all of the targets should occupy the same zone. The GM may allow the occasional exception due to method and circumstance.
 

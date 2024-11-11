@@ -26,4 +26,4 @@ date updated: 2022-10-19 07:37
 - [[Robert Hanz]]
 - [[Sophie Lagacé]]
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]

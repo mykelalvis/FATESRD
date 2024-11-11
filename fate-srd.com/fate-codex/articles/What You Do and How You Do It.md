@@ -64,7 +64,7 @@ If you're playing in a setting featuring magic, you could just add in a new "Mag
 
 ### New Rules
 
-Mixing and matching different approaches and skills also gives the GM the opportunity to add a bit of "crunch" to Fate. For example, a GM could rule that in this game, all Forceful [[Fight]] rolls cause 2 extra points of Stress in order to give musclebound warriors an edge on their nimble Quick opponents, or make it impossible to Quickly [[create advantage]] in combat to push players to use other approaches.
+Mixing and matching different approaches and skills also gives the GM the opportunity to add a bit of "crunch" to Fate. For example, a GM could rule that in this game, all Forceful [[Fight]] rolls cause 2 extra points of Stress in order to give musclebound warriors an edge on their nimble Quick opponents, or make it impossible to Quickly [[Create Advantage]] in combat to push players to use other approaches.
 
 ### Tweaking Milestones
 

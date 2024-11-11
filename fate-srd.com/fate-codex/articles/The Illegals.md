@@ -271,7 +271,7 @@ New BFF: You ingratiate yourself into people's lives with remarkable ease. Add +
 
 Ruthless Brutality: When you fight, you fight with brutal efficiency. Once per scene, add an additional free invoke to an aspect of your choice when you make a successful attack with [[Fight]].
 
-Lady of 1000 Looks: You are extremely skilled at disguise. Add +2 to overcome or [[create advantage]] with [[Deceive]] when you're in one of your disguises.
+Lady of 1000 Looks: You are extremely skilled at disguise. Add +2 to overcome or [[Create Advantage]] with [[Deceive]] when you're in one of your disguises.
 
 ### Stress
 
@@ -355,7 +355,7 @@ Average (+1) [[Athletics]], [[Contacts]], Repair, [[Shoot]]
 
 ### Stunts
 
-Eagle Eye: You have a keen eye that can pick out details others might miss. Any time you [[create advantage]] with [[Investigate]], create an additional [[situation aspect]]. If you succeed with style, add a free invoke to the additional aspect.
+Eagle Eye: You have a keen eye that can pick out details others might miss. Any time you [[Create Advantage]] with [[Investigate]], create an additional [[situation aspect]]. If you succeed with style, add a free invoke to the additional aspect.
 
 Bad Cop: You might work _mostly_ by the book, but why should you let the perps know that? Use [[Deceive]] instead of [[Provoke]] whenever you're intimidating a suspect or witness into giving you the information you want.
 

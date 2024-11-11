@@ -77,7 +77,7 @@ Each approach is rated with a bonus. **Choose one at Good (+3), two at Fair (+2)
 
 Fate uses a ladder of adjectives and numbers to rate a character's approaches, the result of a roll, difficulty ratings for simple checks, etc.
 
-Here's the ladder:
+Here's [[the ladder]]:
 
 ---
 

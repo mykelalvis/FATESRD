@@ -3,14 +3,13 @@ date created: 2022-10-18 08:09
 date updated: 2022-10-22 14:13
 ---
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]
 
 [[Fate System Toolkit]]
 
 # Other Dice
 
-Don't have your Fate dice or Deck of Fate handy? Here are some
-alternatives to get your game going.
+Don't have your Fate dice or Deck of Fate handy? Here are some alternatives to get your game going.
 
 ## D6-D6
 

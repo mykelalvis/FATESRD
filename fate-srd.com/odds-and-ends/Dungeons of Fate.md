@@ -452,7 +452,7 @@ level system. A heated debate with a king might have a level of 4 with
 four stress boxes and a default score of 4 for the purposes of
 overcoming, attacking, or defending. A powerful rune-encrusted fire
 pillar trap might have a level of 3, with three stress boxes and a
-default of 3 for attacks, defenses, and [[overcome]] actions. This
+default of 3 for attacks, defenses, and [[Overcome]] actions. This
 level-based challenge system is similar to the D&D 4e skill challenge
 system but are much easier to run.
 
@@ -486,7 +486,7 @@ scenes.
 ## Designed for the Lazy Dungeon Master
 
 The GM never rolls the dice in Dungeons of Fate. Players always roll to
-Attack, Defend, Overcome, or [[create advantage]] against the level of
+Attack, Defend, Overcome, or [[Create Advantage]] against the level of
 the challenge whether that challenge is a monster, a trap, or a
 situation.
 

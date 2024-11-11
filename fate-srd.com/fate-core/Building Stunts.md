@@ -39,7 +39,7 @@ You can also use this to establish any effect worth two [[shift]]s as an additio
 
 Here are some examples of adding a bonus to an action:
 
-- **Arcane Expert.** Gain a +2 bonus to [[create advantage]] using [[Lore]], whenever the situation has specifically to do with the supernatural or occult.
+- **Arcane Expert.** Gain a +2 bonus to [[Create Advantage]] using [[Lore]], whenever the situation has specifically to do with the supernatural or occult.
 - **Lead in the Air.** You really like emptying magazines. Any time you're using a fully automatic weapon and you succeed at a [[Shoot]] attack, you automatically create a Fair (+2) opposition against movement in that zone until your next turn, because of all the lead in the air. (Normally, you'd need to take a separate action to set up this kind of interference, but with the stunt, it's free.)
 - **Child of the Court.** Gain a +2 bonus to any attempt to overcome obstacles with [[Rapport]] when you're at an aristocratic function, such as a royal ball.
 

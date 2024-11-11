@@ -132,26 +132,20 @@ Online](static/2cfbebc01241c37999e57e395777c075/a1eb1/play-online.jpg)
   ![#iHunt]
   ![#iHunt](static/42e841219443792adfd18222fd522861/a1eb1/hero--ihunt.jpg)
 
-  ### #iHunt ➡️
+  ### `#iHunt`➡️
 
-  **#iHunt is a story telling game about killing monsters in the gig
+  **`#iHunt` is a story telling game about killing monsters in the gig
   economy.** A gig app called #iHunt offers them more money than you
   have ever made to hit the streets and kill monsters that go bump in
   the night.
 
 ## Worlds of Adventure SRDs
 
-- [](frontier-spirit/index.html)
-
-  ![Frontier
-  Spirit]
-  ![Frontier
-  Spirit](static/2dbf3c9fc3a624d3ff4d43da6921330f/a1eb1/hero--frontier-spirit.jpg)
+- ![[hero--frontier-spirit.jpg]]
 
   ### [[Frontier Spirit]] ➡️
 
-  Natural disasters, storms, subsistence, and even basic survival on
-  an alien spirit world unused to coexisting with sentient creatures
+  Natural disasters, storms, subsistence, and even basic survival on an alien spirit world unused to coexisting with sentient creatures
 
 - [](gods-and-monsters/index.html)
 
@@ -190,7 +184,7 @@ Online](static/2cfbebc01241c37999e57e395777c075/a1eb1/play-online.jpg)
   **All for one and one for all!** No skill swashbuckling and
   conspiracies.
 
-![[FateSRDLogo.svg]]OTHER](index.html)
+![[FateSRDLogo.jpg]]OTHER](index.html)
 
  - [Fate Stuntmaker](https://fate-srd.com/stunt-maker/)
 

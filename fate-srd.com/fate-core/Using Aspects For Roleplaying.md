@@ -56,9 +56,9 @@ So, if you don't have any aspects made up for a scene or an NPC, just ask the pl
 
 ## Secret or Hidden Aspects
 
-Some skills also let you use the [[create advantage]] action to reveal aspects that are hidden, either on NPCs or environments---in this case, the GM simply tells you what the aspect is if you get a tie or better on the roll. You can use this to "fish" for aspects if you're not precisely sure what to look for---doing well on the roll is sufficient justification for being able to find something advantage-worthy.
+Some skills also let you use the [[Create Advantage]] action to reveal aspects that are hidden, either on NPCs or environments---in this case, the GM simply tells you what the aspect is if you get a tie or better on the roll. You can use this to "fish" for aspects if you're not precisely sure what to look for---doing well on the roll is sufficient justification for being able to find something advantage-worthy.
 
-Generally speaking, it is assumed that most of the aspects in play are public knowledge for the players. The PCs' character sheets are sitting on the table, and probably the main and supporting NPCs are as well. That doesn't always mean the characters know about those aspects, but that's one of the reasons why the [[create advantage]] action exists---to help you justify how a character learns about other characters.
+Generally speaking, it is assumed that most of the aspects in play are public knowledge for the players. The PCs' character sheets are sitting on the table, and probably the main and supporting NPCs are as well. That doesn't always mean the characters know about those aspects, but that's one of the reasons why the [[Create Advantage]] action exists---to help you justify how a character learns about other characters.
 
 Also, remember that aspects can help deepen the story only if you get to use them---aspects that are never discovered might as well never have existed in the first place. So most of the time, the players should always know what aspects are available for their use, and if there's a question as to whether or not the character knows, use the dice to help you decide.
 

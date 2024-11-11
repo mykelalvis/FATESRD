@@ -344,7 +344,7 @@ because the magic can be cooked right into the liquid. An alchemist can
 make potions with magical effects from any of the magic disciplines,
 provided she has at least 10 minutes (depending on the desired effect)
 to prepare it and the proper ingredients. This too can be handled as a
-[[create advantage]] roll.
+[[Create Advantage]] roll.
 
 ### Dragontongue
 
@@ -382,7 +382,7 @@ not exhaustive and are provided as guidelines rather than rules.
 
 You have mastered control over the air. This discipline allows you to
 fly for short bursts ([[Athletics]]), push and pull the air ([[Physique]]/casting skill), and even attack with it ([[Shoot]]). You can
-[[create advantage]] to allow yourself or someone else to fly for longer
+[[Create Advantage]] to allow yourself or someone else to fly for longer
 periods of time (casting skill). The difficulty for creating an
 advantage to allow flight should be around Fantastic (+6). You can also
 animate the air into a creature capable of following commands ([[Provoke]]),

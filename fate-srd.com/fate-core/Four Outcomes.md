@@ -6,19 +6,19 @@ date created: 2022-10-18 08:08
 
 # Four Outcomes
 
-**When you roll the dice, either you're going to [[Fail]],[[tie]], [[Success|succeed]], or [[Success with Style|succeed with style]].**
+**When you roll the dice, either you're going to [[Fail]],[[Tie]], [[Success|succeed]], or [[Success with Style|succeed with style]].**
 
-Every roll you make in a Fate game results in one of four outcomes, generally speaking. The specifics may change a little depending on what kind of [[Four Actions|action you're taking]], but all the game actions fit this general pattern.
+Every roll you make in a Fate game results in one of four outcomes, generally speaking. The specifics may change a little depending on what kind of [[Action|action you're taking]], but all the game actions fit this general pattern.
 
 ## Fail
 
-**If you roll lower than your opposition, you [[fail]].**
+**If you roll lower than your opposition, you [[Fail]].**
 
-This means one of several things: you don't get what you want, you get [[What To Do During Play#Succeed at a Cost|what you want at a serious cost]], or you suffer some negative mechanical consequence. Sometimes, it means more than one of those. It's the GM's job to determine an appropriate cost.
+This means one of several things: you don't get what you want, you get [[Success with Serious Cost|what you want at a serious cost]], or you suffer some negative mechanical consequence. Sometimes, it means more than one of those. It's the GM's job to determine an appropriate cost.
 
 ## Tie
 
-**If you roll the same as your opposition, you [[tie]].**
+**If you roll the same as your opposition, you [[Tie]].**
 
 This means either [[Success with Minor Cost| you get what you want, but at a minor cost]], or you get a lesser version of what you wanted.
 
@@ -42,7 +42,7 @@ Moved to [[Serious Cost vs Minor Cost]]
 
 For active opposition, you don't really need to worry about how hard the roll is---just use the NPC's skill level and roll the dice like the players do, letting the chips fall where they may. There are guidelines about NPC skill levels in [[Running the Game]].
 
-For passive opposition, you have to decide what rank on the ladder the player has to beat. It's more an art than a science, but there are some guidelines to help you.
+For passive opposition, you have to decide what rank on [[the ladder]] the player has to beat. It's more an art than a science, but there are some guidelines to help you.
 
 Anything that's two or more steps higher than the PC's skill level---Fair (+2) skill and Great (+4) opposition, for example--- means that the player will probably fail or need to invoke aspects to succeed.
 

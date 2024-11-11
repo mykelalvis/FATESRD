@@ -32,11 +32,11 @@ Robo).
 The first step to any Core update of the Dresden Files RPG is to
 implement the four actions. Nearly all skills in DFRPG can translate
 directly to their Core counterparts, with a few exceptions we'll discuss
-later. Assessments and declarations become [[create advantage]] actions.
+later. Assessments and declarations become [[Create Advantage]] actions.
 Replace tags with boosts.
 
-Maneuvers are [[create advantage]] actions. For any [[create advantage]] or
-[[overcome]] actions involving teamwork, one character makes the skill roll,
+Maneuvers are [[Create Advantage]] actions. For any [[Create Advantage]] or
+[[Overcome]] actions involving teamwork, one character makes the skill roll,
 then adds one to the roll result for each character assisting who has at
 least +1 in the skill being rolled.
 
@@ -230,7 +230,7 @@ different from the [[Lore]] skill in DFRPG. This variant is a new weird
 Science skill that includes any kind of knowledge or field of study that
 pertains to the supernatural. You can specialize in different fields of
 [[Lore]] just like a Science skill (e.g., [[Lore]]: Portals, or [[Lore]]: Faerie
-Courts). [[Lore]] can be used to [[create advantage]] and overcome. (See
+Courts). [[Lore]] can be used to [[Create Advantage]] and overcome. (See
 "Science, It's Special," AR69.)
 
 Note that [[Lore]] doesn't replace Science and it's perfectly valid for a
@@ -335,7 +335,7 @@ or make a brief shopping trip. (1 benefit)
 - Flaw: Weight of a Reputation
 
 +2 to overcome with [[Will]] when dispelling hostile magic. +2 to counter
-attempts to [[create advantage]] against you with magic. (2 benefits)
+attempts to [[Create Advantage]] against you with magic. (2 benefits)
 
 ### The Challenge of Thaumaturgy
 
@@ -344,7 +344,7 @@ like DFRPG, but they've also added something new to the mix---the
 challenge (FC147)---and it's perfect for thaumaturgy. A challenge occurs
 when a group of players wants to achieve a goal that's fairly complex
 but isn't combat (though some combat may occur). The GM runs the
-challenge as a series of [[overcome]] actions, each one using a different
+challenge as a series of [[Overcome]] actions, each one using a different
 skill, and narrating the events as they unfold. Players can create
 advantages during the challenge, though if they fail then they're no
 closer to their goal and often give their enemies a bonus.

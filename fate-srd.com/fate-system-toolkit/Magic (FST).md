@@ -1,8 +1,9 @@
 ---
 date created: 2022-10-18 08:09
+date updated: 2024-11-11 09:00
 ---
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]
 
 [[Fate System Toolkit]]
 
@@ -17,6 +18,7 @@ We don't stop and talk through those steps in play because we understand them im
 Games, on the other hand, need rules. The consistency of rules makes behavior---without rhyme or reason, it's just madness.
 
 The good news is that there's a sweet spot that you can aim for. While it's true that magic is a convenience of authors, those who use it willy-nilly produce tepid, mushy fantasy. Giving magic rules is not just good gaming, it's good fiction. If you can find the spot where those two priorities overlap, then you've got the workings of a great magic system.
+
 ## The Basics
 
 The simple test for this is whether or not your magic system makes sense without the game.
@@ -35,11 +37,11 @@ There's no single answer to that, and while that's rather the point, it's also i
 
 You'd still be missing things, but for ease of application we're going to seize upon a few key threads and boil it down to these five factors:
 
-- **Tone**: Is magic a neutral force, a flavored force, or something with opinions?
-- **Cost**: Does magic demand a price, a risk, or neither?
-- **Limits**: Does magic follow strict rules? Is it flexible and open-ended? What are the limits on magic?
-- **Availability**: Is magic universally available, so everyone in a setting might have it? Is it rare enough that only some people have it, possibly including all the PCs? Or is it rare enough that only one or two PCs might have access to it?
-- **Source**: Where does magic come from?
+- **[[#Tone]]**: Is magic a neutral force, a flavored force, or something with opinions?
+- **[[#Cost]]**: Does magic demand a price, a risk, or neither?
+- **[[#Limits]]**: Does magic follow strict rules? Is it flexible and open-ended? What are the limits on magic?
+- **[[#Availability]]**: Is magic universally available, so everyone in a setting might have it? Is it rare enough that only some people have it, possibly including all the PCs? Or is it rare enough that only one or two PCs might have access to it?
+- **[[#Source]]**: Where does magic come from?
 
 ### Tone
 
@@ -67,13 +69,13 @@ The final factor is the most and least important---it doesn't matter much what t
 
 You're under no obligation to share this explanation with your players, and in fact this is an area where we actually encourage a little discretion. Not because you can't trust players with this information, but because your magic system is going to feel a hell of a lot less magical after you've explained it all. A little bit of mystery is essential to the magical feel.
 
-[[Notice]] that none of these factors ask "What does magic do?" since the answer to that is another question: What does it _need_ to do? Hopefully you have a grasp on that, because if you don't know that, nothing else is going to work. "Because I need to have a magic system" is not a good enough answer.
+Notice that none of these factors ask "What does magic do?" since the answer to that is another question: What does it _need_ to do? Hopefully you have a grasp on that, because if you don't know that, nothing else is going to work. "Because I need to have a magic system" is not a good enough answer.
 
 ## Magic and Fate
 
 The purpose of rules is to give you the tools to translate your speaking and imagining into a structure that lets them be shared. That presupposes that you have something you _want_ to share.
 
-Fate is a representational game. That is, if you have an idea in your head, it provides you the tools needed to express that in play. Need characters to be able to do something? Make sure there's a skill for that. Have a trick you want them to do? Create a stunt. Want to drive home a thematic element? Put an aspect on it. 
+Fate is a representational game. That is, if you have an idea in your head, it provides you the tools needed to express that in play. Need characters to be able to do something? Make sure there's a skill for that. Have a trick you want them to do? Create a stunt. Want to drive home a thematic element? Put an aspect on it.
 
 These same tools are available to you when you want to add magic into your game. But just like the rest of play, there is no one single right tool. Depending upon what magic looks like in your game, different mechanics may be the right way to capture it.
 
@@ -85,7 +87,7 @@ And that's how we end up back at punching. If you know Fate's rules well, then i
 
 The skills are an easy avenue into magic, whatever skills you use. The main question to ask is whether it repurposes existing skills or demands the creation of a new magic skill. Each approach has specific strengths, and it's worth thinking about them when designing a system. If you're going to soup-up existing skills, then you end up with a bit of a challenge in covering all skills. You can, of course, opt to only make certain skills magical, but you need to be careful not to create super-skills this way.
 
-Creating a new skill can solve a lot of problems, especially since you can create multiple skills if you want to differentiate between magical disciplines. There's also a subtle cost to it, since buying up that skill is going to mean some "real" skill gets neglected. 
+Creating a new skill can solve a lot of problems, especially since you can create multiple skills if you want to differentiate between magical disciplines. There's also a subtle cost to it, since buying up that skill is going to mean some "real" skill gets neglected.
 
 While there's no right answer, when in doubt, go with a new skill. Converting existing skills to magic is more labor intensive, and it's something you should only do when you already have a clear vision you're acting to serve.
 
@@ -104,4 +106,3 @@ Stunts can absolutely serve as the basis of a magic system, especially if stunts
 ### Extras as Magic
 
 Extras are basically their own magic system as written. A magic system may provide explanations and justifications for specific extras, but the system itself is robust and easily used for any number of effects.
-

@@ -269,7 +269,7 @@ The most obvious hack is to replace the pyramid, with a column system—as is us
 
 ### Larger Steps
 
-Nothing says skills need to progress smoothly. Suppose that each “rank” of a skill was actually two steps on the ladder—you might now have a pyramid of 1 Superb (+5), 2 Good (+3) and 3 or 4 Average (+1), and if you're feeling mean, move the default down to Poor (-1).
+Nothing says skills need to progress smoothly. Suppose that each “rank” of a skill was actually two steps on [[the ladder]]—you might now have a pyramid of 1 Superb (+5), 2 Good (+3) and 3 or 4 Average (+1), and if you're feeling mean, move the default down to Poor (-1).
 
 Why do this? Suppose you have a small skill list, as you might for professions or approaches. You get a heroically potent pyramid—more so than the default, even—for a smaller list. It also strongly separates the “tiers” of skill level, something that may be thematically appropriate in certain genres.
 
@@ -281,17 +281,17 @@ If taking this tack, some extra thought will need to go into aspect selection so
 
 ## Other Skill Functions
 
-Skills already let you do a wide range of things, but they can be even more flexible than they initially appear. If you take a look at the skill list, you can see that every single skill has the [[overcome]] and [[create advantage]] actions checked. This opens a lot of possibilities, even for skills that don't seem to have a lot of interesting uses.
+Skills already let you do a wide range of things, but they can be even more flexible than they initially appear. If you take a look at the skill list, you can see that every single skill has the [[Overcome]] and [[Create Advantage]] actions checked. This opens a lot of possibilities, even for skills that don't seem to have a lot of interesting uses.
 
 If a character has a high rank in a skill, Good (+3) or higher, this means that they are an expert in that particular area of endeavor. They possess deep knowledge within the narrow range covered by the skill. This knowledge covers the tools and trappings used by the skill and knowledge of other people who use the skill at the same high level.
 
 The three attack skills—[[Fight]], [[Shoot]], and [[Provoke]]—are most often used in combat. That doesn't mean combat is the only situation where these skills are useful. A character with the [[Shoot]] skill can identify ranged weapons, knows details about their care and maintenance, and knows where to obtain them. The same goes for [[Fight]], regarding hand-to-hand weapons.
 
-This opens up lots of possibilities for overcome or [[create advantage]] actions. A [[Shoot]] expert could use their skill in an overcome action to find a gun seller in a new place, for example. [[Shoot]] could be used to [[create advantage]] by identifying the type of gun by the sound of its shot and filling in details on the limitations of the model, or by noticing that an enemy's weapon has not been properly cared for and could possibly malfunction.
+This opens up lots of possibilities for overcome or [[Create Advantage]] actions. A [[Shoot]] expert could use their skill in an overcome action to find a gun seller in a new place, for example. [[Shoot]] could be used to [[Create Advantage]] by identifying the type of gun by the sound of its shot and filling in details on the limitations of the model, or by noticing that an enemy's weapon has not been properly cared for and could possibly malfunction.
 
-[[Provoke]] might seem to be a harder skill to expand, but with [[Provoke]], an expert could [[create advantage]] to discover an opponent is bluffing, or to identify which person in a group of opponents is the biggest threat.
+[[Provoke]] might seem to be a harder skill to expand, but with [[Provoke]], an expert could [[Create Advantage]] to discover an opponent is bluffing, or to identify which person in a group of opponents is the biggest threat.
 
-You can use other skills in a similar way. [[Burglary]] experts can find tools or other practitioners of the trade, or even identify the trademark techniques of other burglars they know by the traces they leave behind. [[Drive]] experts can identify vehicles and use [[create advantage]] to talk about the subtle edges or disadvantages a particular make has when compared against another vehicle.
+You can use other skills in a similar way. [[Burglary]] experts can find tools or other practitioners of the trade, or even identify the trademark techniques of other burglars they know by the traces they leave behind. [[Drive]] experts can identify vehicles and use [[Create Advantage]] to talk about the subtle edges or disadvantages a particular make has when compared against another vehicle.
 
 Skills that normally do not allow you to attack or defend—[[Burglary]], [[Crafts]], [[Investigate]], [[Lore]], and [[Resources]]—have lots of options for additional actions, and in the right circumstances might be used to attack or defend. In the right situation, [[Crafts]] could be used to create an attack through the construction of a dangerous trap, for instance. [[Burglary]] could be used for defense, if a character sets up countermeasures based on their detailed knowledge of security precautions. These should be very specific and very limited applications, but it can be quite rewarding to allow players to use these skills in a way that stretches their capabilities a bit.
 
@@ -499,7 +499,7 @@ Cover: You have a cover identity you can assume. Describe your cover identity, c
 
 Criminal Underbelly: Whenever you enter a settlement for the first time, you can spend a [[fate point]] to declare that the local criminals know you. Choose one of the following: they have a lead on a promising job, they'll give you and your companions free room and board for a few weeks, or they'll help you with something right now but you might owe them afterward.
 
-Not a Threat: Choose [[Deceive]] or [[Stealth]] when you take this stunt. When you [[create advantage]] with that skill to make yourself as non-threatening or unobtrusive as possible, enemies will find other targets for as long as that aspect exists. As soon as you successfully attack someone, the aspect goes away.
+Not a Threat: Choose [[Deceive]] or [[Stealth]] when you take this stunt. When you [[Create Advantage]] with that skill to make yourself as non-threatening or unobtrusive as possible, enemies will find other targets for as long as that aspect exists. As soon as you successfully attack someone, the aspect goes away.
 
 ---
 
@@ -525,7 +525,7 @@ Aspects: Blood and Glory, Everyone Fears the Horde, “Pain Is for the Weak.”,
 
 You may use Orc to resist pain, call upon the spirits for aid, or perform feats of brute strength. In addition, pick one of the following flavors; you can pick more at the cost of one stunt or refresh each.
 
-Blood Rage: When you use Orc to [[create advantage]] representing an overpowering battle-fury, you get an extra invocation on that aspect if you succeed or succeed with style.
+Blood Rage: When you use Orc to [[Create Advantage]] representing an overpowering battle-fury, you get an extra invocation on that aspect if you succeed or succeed with style.
 
 Thick Skin: You may use Orc instead of [[Physique]] to determine your physical stress and consequences, and you get one additional minor physical consequence.
 
@@ -741,7 +741,7 @@ For most attempts to modify NPC motivations or instincts, the PCs will need to m
 
 > Michael Romero and Amarika Davis are Los Angeles homicide detectives investigating the murder of a wealthy socialite, Richard Bentley. After digging through the case, they discover that Bentley's wife, Sandra Orastin, is the killer. Yet when they show up to arrest her, one of her security guards keeps them from getting close enough to close the case (Instinct: Stop the Cops from Arresting My Boss).
 
-> Knowing that a physical conflict would give Orastin a chance to escape, Amarika tries to talk her way past the guard, beginning with a [[Provoke]] roll to learn the guard's motivation ([[create advantage]] with [[Provoke]]). She has a Good (+3) [[Provoke]] and rolls well (+3), bringing her total up to Fantastic (+6). The guard, a nameless NPC with an Average (+1) [[Deceive]], rolls decently (+2), but can't help but reveal his motivation: he doesn't want to get fired by letting his boss get arrested. The GM adds the aspect Motivation: Keep My Job with two free invocations, since Amarika succeeded with style. Amarika asks him why he wants to protect a killer and the guard sputters something about doing his job even though he doesn't like it.
+> Knowing that a physical conflict would give Orastin a chance to escape, Amarika tries to talk her way past the guard, beginning with a [[Provoke]] roll to learn the guard's motivation ([[Create Advantage]] with [[Provoke]]). She has a Good (+3) [[Provoke]] and rolls well (+3), bringing her total up to Fantastic (+6). The guard, a nameless NPC with an Average (+1) [[Deceive]], rolls decently (+2), but can't help but reveal his motivation: he doesn't want to get fired by letting his boss get arrested. The GM adds the aspect Motivation: Keep My Job with two free invocations, since Amarika succeeded with style. Amarika asks him why he wants to protect a killer and the guard sputters something about doing his job even though he doesn't like it.
 
 > Michael, seizing on the aspect Amarika discovered, decides that he's going to try to alter the guard's instinct. He suggests that if the guard wants to keep his job, he should help the police arrest Orastin. After all, the guard will definitely lose his job if Michael and Amarika have to arrest him, too.
 
@@ -1223,7 +1223,7 @@ While there are specific rules and limitations on what Stormcalling does based o
 
 In each case, the force that is summoned must be expressed externally to the character doing the summoning in a literal fashion. That means Stormcalling does not allow a user to give himself the “Strength of Earth” to land a mighty blow, but it does let him hit something REALLY hard with a rock. Any description of effect must be couched in terms of how summoning, projecting, and crudely shaping the force in question can get said effect.
 
-**[Overcome] Overcome:** Stormcalling tends to be a bit crude for all but the most direct of [[overcome]] actions, such as knocking something down. But it definitely excels at that.
+**[Overcome] Overcome:** Stormcalling tends to be a bit crude for all but the most direct of [[Overcome]] actions, such as knocking something down. But it definitely excels at that.
 
 **[Create] Create an Advantage:** The creation of advantages is a common effect of Stormcalling, summoning up walls of fire or opening up pits in the floor. The more concrete storms—Earthquake and Glacier—tend to be strongest at this sort of effect, as their efforts tend to be more durable.
 
@@ -1497,7 +1497,7 @@ Depending on the time and place, the Shadow is either a roguish trickster or an 
 
 ##### Blessings
 
-###### [[Burglary]]
+###### Burglary
 
 **The Accounting of Small Things:** Once you have successfully stolen something small enough to fit in a pocket, it is gone until you choose to reveal it again. No amount of searching—or even stripping—will reveal the purloined item. You may only have one such item at a time hidden in this fashion.
 
@@ -1681,7 +1681,7 @@ Don't want to read it all? Just do this:
 
 - Buy a skill called “Magic.”
 
-- Take a half hour in a dark room with someone's name, a voodoo doll, or similar accouterments, and make a Magic roll to [[create advantage]] against the target of the spell.
+- Take a half hour in a dark room with someone's name, a voodoo doll, or similar accouterments, and make a Magic roll to [[Create Advantage]] against the target of the spell.
 
 - Put an aspect appropriate to a curse or blessing on the target. It lasts for three days, seven if you succeed with style.
 
@@ -1771,7 +1771,7 @@ It's also possible for this to be a more overtly magical system. In that case yo
 
 ##### Combat Curses
 
-Assuming a more overt style of magic, a variant on this would allow for “combat casting” of blessings and curses. This is very different from the traditional image of the mage casting lightning bolts, but it suits lower magic settings very well. In this case, spells can be cast on any target in sight, and by and large, this allows for colorful [[create advantage]] effects.
+Assuming a more overt style of magic, a variant on this would allow for “combat casting” of blessings and curses. This is very different from the traditional image of the mage casting lightning bolts, but it suits lower magic settings very well. In this case, spells can be cast on any target in sight, and by and large, this allows for colorful [[Create Advantage]] effects.
 
 By default, these must be invisible effects, but can still cause bad choices to be made, weapons to miss and so on. However, if the GM deems it appropriate, then certain color may be allowed to make these overtly magical—such as a fire priest creating fiery advantages.
 
@@ -1969,7 +1969,7 @@ In an example of the Bronze Rule, Battle Wisps are still Average creatures with 
 
 ###### Training your Battle Wisps
 
-Battle wisps start with 2 stress boxes, one mild consequence, and 4 skills at Average (+0): Strength, Speed, Skill, and Toughness. (Yes, there's a skill called Skill. Cope.) These are, respectively, used to make attack, overcome, create an advantage, and [[defend]] actions in Wisp combat. Toughness is also the defense against attacks.
+Battle wisps start with 2 stress boxes, one mild consequence, and 4 skills at Average (+0): Strength, Speed, Skill, and Toughness. (Yes, there's a skill called Skill. Cope.) These are, respectively, used to make attack, overcome, create an advantage, and [[Defend]] actions in Wisp combat. Toughness is also the defense against attacks.
 
 Wisps may earn advances by winning battles, or through training. Exactly how advances are earned depends on the situation, but each advance may be spent to:
 
@@ -2265,7 +2265,7 @@ What follows are a number of incomplete magic system components. Some are ways t
 
 #### Channeling
 
-For skill-based magic, add a “Channeling” skill. When you want to do something magical, you use the channeling skill to summon up the power and—hopefully—release it. To do this, use a [[create advantage]] action. In this case, the advantage you're looking to create is a Summoned Power aspect. When it comes time to cast the spell—presumably on your next action—make a roll with a skill of Mediocre (+0), but use whatever bonuses you accrued in the advantage creation step—so, generally, you'll get a +2, +4, or +6 through stacked free invocations and potentially paying a [[fate point]]. So far, so good—generate mana, generate an effect. Now to get a little bit more fiddly.
+For skill-based magic, add a “Channeling” skill. When you want to do something magical, you use the channeling skill to summon up the power and—hopefully—release it. To do this, use a [[Create Advantage]] action. In this case, the advantage you're looking to create is a Summoned Power aspect. When it comes time to cast the spell—presumably on your next action—make a roll with a skill of Mediocre (+0), but use whatever bonuses you accrued in the advantage creation step—so, generally, you'll get a +2, +4, or +6 through stacked free invocations and potentially paying a [[fate point]]. So far, so good—generate mana, generate an effect. Now to get a little bit more fiddly.
 
 - If you want to cast the spell in one action, then you need to use an aspect—either for free, or by spending a [[fate point]]—without gaining the +2 bonus. This makes fast casting pretty shaky business. There may be a stunt that allows you to fast cast for free.
 
@@ -2575,7 +2575,7 @@ Here's an example of a kung fu stunt tree, for the Drunken Fist Style of kung fu
 
 **The Drunkard's Stagger:** You sway and stagger on your feet, evading enemy blows seemingly by chance. When you succeed in a defensive [[Athletics]] roll using this technique, you gain +1 on your next attack against the opponent who tried to hit you. If you succeed with style, gain +2.
 
-**The Drunken Shove:** Your rude and artless push contains a greater power than seems possible. You gain +2 to use [[Physique]] to [[create advantage]] on an opponent by knocking them off balance.
+**The Drunken Shove:** Your rude and artless push contains a greater power than seems possible. You gain +2 to use [[Physique]] to [[Create Advantage]] on an opponent by knocking them off balance.
 
 **Drinking from the Jug:** You pause to take a swig of wine from your jug, fortifying yourself for the battle. When you have a drink during a fight, clear your lowest stress box. This requires you to take an entire action drinking.
 
@@ -2675,7 +2675,7 @@ Flaw: Still Working Out the Bugs
 ## Stunts
 
 CLANG!: Spend a [[fate point]] to secure the magnetic grapnel to a metallic object in a dramatic way, grabbing a swiftly moving vehicle, a falling pulse rifle, or the wall on the other side of a yawning chasm in an oddly built space station.
-Trick Shots: +2 to [[create advantage]] with [[Shoot]] when you use the grapnel gun to swing around, disarm an opponent, or create a barrier.
+Trick Shots: +2 to [[Create Advantage]] with [[Shoot]] when you use the grapnel gun to swing around, disarm an opponent, or create a barrier.
 Cost: 2 refresh
 
 Gadgets don't have to be literal “gadgets,” either. For example, you can just as easily use these rules to create magic items in a fantasy setting.
@@ -2805,7 +2805,7 @@ The Operations skill measures your unit's ability to work together on the battle
 
 **[Overcome] Overcome:** Operations allows you to overcome obstacles as a unit, such as when you lay down cover fire to reach a wounded soldier safely or work together to climb over a wall.
 
-**[Create] Create an Advantage:** When you [[create advantage]] with Operations, your unit is setting traps (Ambush!) or charging directly at the barricades (Panicked Grunts).
+**[Create] Create an Advantage:** When you [[Create Advantage]] with Operations, your unit is setting traps (Ambush!) or charging directly at the barricades (Panicked Grunts).
 
 **[Attack] Attack:** Operations allows your squad to launch coordinated attacks against targets and should be rolled instead of an individual character's [[Fight]] or [[Shoot]] whenever the squad acts as a unit.
 
@@ -2831,7 +2831,7 @@ The Equipment skill represents the resources your squad has available to pursue 
 
 **Hi-Tech Gear:** You can use Equipment instead of Operations in any situation where raw technological superiority would win the day.
 
-**Well-Stocked:** You gain a +2 on all Equipment rolls made to [[create advantage]] when you are accessing your preexisting supplies.
+**Well-Stocked:** You gain a +2 on all Equipment rolls made to [[Create Advantage]] when you are accessing your preexisting supplies.
 
 ### Recon
 
@@ -2843,7 +2843,7 @@ The Equipment skill represents the resources your squad has available to pursue 
 
 #### Recon Sample Stunts
 
-**Codebreakers:** On a successful Recon roll to [[create advantage]] while monitoring enemy communications, you can discover or create one additional aspect (though this doesn't give you an extra free invocation).
+**Codebreakers:** On a successful Recon roll to [[Create Advantage]] while monitoring enemy communications, you can discover or create one additional aspect (though this doesn't give you an extra free invocation).
 
 **Counterprogramming:** You can use Recon instead of Operations to set a trap when you use the enemy's communications system against them.
 
@@ -2902,7 +2902,7 @@ If the unit has a leader attached to it, the leader may give up their action to 
 | Regardless, no unit can take the same action twice in a turn, and attacking always ends a player's turn. |
 | -------------------------------------------------------------------------------------------------------- |
 
-> If you have a unit with a leader attached, it can move one zone and attack, [[create advantage]] and attack, and so on, but it can't attack twice, [[create advantage]] twice, or attack and then [[create advantage]] or move.
+> If you have a unit with a leader attached, it can move one zone and attack, [[Create Advantage]] and attack, and so on, but it can't attack twice, [[Create Advantage]] twice, or attack and then [[Create Advantage]] or move.
 
 ---
 
@@ -3055,7 +3055,7 @@ Everyone on the winning side gets a [[fate point]]. Every player who defeated an
 
 The kind of cinematic, heroic action that typifies swashbuckling stories is near and dear to [[Fate Core]]'s heart—that's just the nature of the game. But those climactic one-on-one fights between our hero and a dastardly villain almost always involve a lot of back-and-forth before one of them lands a blow. In the meantime, they might trade witty repartee or provocative insults, swing from chandeliers, leap off balconies, baffle their opponent with their cloak, or a thousand other things. Look at D'Artagnan and Jussac in _The Three Musketeers_, Errol Flynn and Basil Rathbone in the 1938 film _The Adventures of Robin Hood_, Cyrano's poetry-laden duel with Valvert in Rostand's _Cyrano de Bergerac_, or Luke Skywalker and Darth Vader's duel in _The Empire Strikes Back_.
 
-The [[create advantage]] action in [[Fate Core]] makes it easy to model these sorts of conflicts, but most players will still gravitate toward the most efficient means of dispatching the opposition, especially if there aren't other PCs around to give them an excuse to create situation aspects. That's what this hack does—require players to rely on skills other than [[Fight]] in a conflict, with colorful results.
+The [[Create Advantage]] action in [[Fate Core]] makes it easy to model these sorts of conflicts, but most players will still gravitate toward the most efficient means of dispatching the opposition, especially if there aren't other PCs around to give them an excuse to create situation aspects. That's what this hack does—require players to rely on skills other than [[Fight]] in a conflict, with colorful results.
 
 These one-on-one dueling rules introduce something called the upper hand. Only the duelist with the upper hand can actually use a skill with the attack action to inflict harm. The other duelist can take any otheraction, but cannot attack—until they get the upper hand, of course.
 
@@ -3084,7 +3084,7 @@ After that, the combatants can do any of the following every turn:
 
 > She discovers the aspect All Shall Suffer for My Pain!, and chooses to gain the upper hand instead of taking the extra free invocation.
 
-> Now it's Xoren's turn. Being an evil cyborg, he grabs a bystander and flings him at Dekka, hoping to [[create advantage]] with [[Physique]]. He beats Dekka by 4 [[shift]]s—enough to gain the upper hand—but she uses that free invocation on All Shall Suffer for My Pain! to reduce that to 2 [[shift]]s. Her player explains that Xoren, in his righteous rage, accidentally telegraphed his move. The GM buys it. Xoren puts a [[situation aspect]] of Civilians in Danger in play, with one free invocation.
+> Now it's Xoren's turn. Being an evil cyborg, he grabs a bystander and flings him at Dekka, hoping to [[Create Advantage]] with [[Physique]]. He beats Dekka by 4 [[shift]]s—enough to gain the upper hand—but she uses that free invocation on All Shall Suffer for My Pain! to reduce that to 2 [[shift]]s. Her player explains that Xoren, in his righteous rage, accidentally telegraphed his move. The GM buys it. Xoren puts a [[situation aspect]] of Civilians in Danger in play, with one free invocation.
 
 > Dekka still has the upper hand, and she means to use it. Shoving the poor onlooker to one side and springing forward at Xoren with her photon blade, she attacks with [[Fight]] at +4, beating his [[Fight]] defense of +3. He capitalizes on the fact that she's distracted by those Civilians in Danger, using his free invocation to bump his total up to +5. After trading a couple more [[fate point]]s, Dekka comes out ahead by a single [[shift]]. Since they're using the Stress-Free variant, that means a mild consequence for Xoren—Faltering Confidence.
 

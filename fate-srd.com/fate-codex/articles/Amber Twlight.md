@@ -295,7 +295,7 @@ components.
   security measures.
 - **New Stunt---Remote Control (Intrusion):** Skilled hackers can
     not only disable devices, but also use them for their own needs.
-    When you use Intrusion to [[create advantage]] on a device, the
+    When you use Intrusion to [[Create Advantage]] on a device, the
     aspect will show that you completely control it---for example,
     [Jacked In, In Control].
 
@@ -463,7 +463,7 @@ small antennae on their forehead and large wasp-like wings on their
 back. Their clothes also change, transforming into flowing robes or
 skin-tight suits depending on the Fairie's preferences.
 
-To transform, you'll [[create advantage]] using [[Will]]. Succeeding
+To transform, you'll [[Create Advantage]] using [[Will]]. Succeeding
 transforms you into _**Faery Form**_. Succeeding at a cost usually
 inflicts Hunger stress. You can invoke your _**Faery Form**_ to augment
 your Fairie magic, fly at normal walking speed, or dazzle anyone with

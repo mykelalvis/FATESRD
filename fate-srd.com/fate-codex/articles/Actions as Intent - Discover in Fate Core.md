@@ -32,15 +32,15 @@ And thus the debate begins: does a skill establish an arena of conflict or does 
 
 The subtle genius of [[Fate Core]] is that it separates the arena of conflict---a skill---from the action's intention. Differentiating the arena from the intent makes [[Shoot]] or [[Athletics]] or [[Rapport]] about more than just one mode of interaction with objects in the fiction. Instead, each skill delineates an arena of conflict and the actions allow the players to mix and match intents as needed. Players can use a skill to charge through a problem and then turn around and use the same skill to patiently prepare for future conflicts.
 
-For example, you can use [[Provoke]] to overcome a weak-willed guard blocking your path, [[create advantage]] by inspiring [Carnal Lust] or [Intense Jealousy] in a target, or inflict mental stress with a focused attack. In some versions of [[Fate Core]], you might even be able to use it to defend against some actions. (There's another article I could write here about why some skills can't attack or defend....)
+For example, you can use [[Provoke]] to overcome a weak-willed guard blocking your path, [[Create Advantage]] by inspiring [Carnal Lust] or [Intense Jealousy] in a target, or inflict mental stress with a focused attack. In some versions of [[Fate Core]], you might even be able to use it to defend against some actions. (There's another article I could write here about why some skills can't attack or defend....)
 
 ### Overcome
 
-When characters choose to overcome an obstacle, they intend to move past the obstacle _right now_. Moving past opposition can happen in stages as part of a challenge, but overcome is usually about an immediate attempt to move past a problem---which is why most experienced Fate players try to [[create advantage]] or two before rolling to overcome.
+When characters choose to overcome an obstacle, they intend to move past the obstacle _right now_. Moving past opposition can happen in stages as part of a challenge, but overcome is usually about an immediate attempt to move past a problem---which is why most experienced Fate players try to [[Create Advantage]] or two before rolling to overcome.
 
 ### Create Advantage
 
-Create advantage, unlike overcome, is future oriented. When characters create advantages, they intend to _prepare_ for future rolls and establish the context for future action by creating aspects. Clever players use [[create advantage]] to create aspects that [[shift]] or redefine conflicts, but those aspects still need to be compelled or invoked to resolve the situation.
+Create advantage, unlike overcome, is future oriented. When characters create advantages, they intend to _prepare_ for future rolls and establish the context for future action by creating aspects. Clever players use [[Create Advantage]] to create aspects that [[shift]] or redefine conflicts, but those aspects still need to be compelled or invoked to resolve the situation.
 
 ### Attack
 
@@ -52,11 +52,11 @@ Characters can defend against more than attacks: they might oppose other charact
 
 ## Learning New Information
 
-Of course, [[create advantage]] is also used to learn more about a situation or a character in the scene. [[Empathy]], for example, is often used to uncover existing aspects or place an existing aspect on a target. Unfortunately, the overlap between preparation and learning isn't as clean and simple as we might like it to be.
+Of course, [[Create Advantage]] is also used to learn more about a situation or a character in the scene. [[Empathy]], for example, is often used to uncover existing aspects or place an existing aspect on a target. Unfortunately, the overlap between preparation and learning isn't as clean and simple as we might like it to be.
 
 ### Preparation vs. Learning
 
-[[create advantage]] works primarily because preparation and learning have some overlap. If a vigilante superhero detective runs tests on fragments of a bullet found at a crime scene, he's both trying to learn something about the murderer and prepare for future confrontations. Ideally, the vigilante learns something meaningful about his opposition that he can also call upon later in the story to assist him in capturing the villain.
+[[Create Advantage]] works primarily because preparation and learning have some overlap. If a vigilante superhero detective runs tests on fragments of a bullet found at a crime scene, he's both trying to learn something about the murderer and prepare for future confrontations. Ideally, the vigilante learns something meaningful about his opposition that he can also call upon later in the story to assist him in capturing the villain.
 
 But preparation often doesn't have any learning component at all. If our friendly neighborhood hedge magician is cooking up a [Potion of Strength], it's unlikely she suddenly gains any knowledge during the ritual. The same goes for a kid detective gathering up [A Crew of Misfits] or a rugged space marine equipping a [Heavy Minigun]. Characters can clearly get ready for a future conflict without learning any new information about their opposition.
 
@@ -70,11 +70,11 @@ Determining fictional positioning in Fate frequently means creating aspects, but
 
 The lack of mechanics around fictional positioning sometimes leads players to want to create aspects for everything. But if every new piece of information warrants an aspect, you end up "spamming" aspects, overwhelming the narrative with ten aspects on the table that are never reincorporated into the fiction. When every invoke is a free invoke on a new aspect, we miss the satisfaction of returning to the aspects that grounded the story in the first place.
 
-In my experience, most players intuitively understand that aspect spamming distracts from the narrative, and they limit their [[create advantage]] actions to meaningful moments of preparation. And since the vocabulary of [[create advantage]] doesn't imply discovery to most players, those [[create advantage]] actions don't usually involve listening, learning, observing. Characters prepare, act, and react, but they don't take much time to learn in any formal sense, even when they're creating aspects.
+In my experience, most players intuitively understand that aspect spamming distracts from the narrative, and they limit their [[Create Advantage]] actions to meaningful moments of preparation. And since the vocabulary of [[Create Advantage]] doesn't imply discovery to most players, those [[Create Advantage]] actions don't usually involve listening, learning, observing. Characters prepare, act, and react, but they don't take much time to learn in any formal sense, even when they're creating aspects.
 
 #### The Player's Gaze
 
-One solution to the absence of [[create advantage]] actions dedicated to learning is to just give players the information they need when they need it. Compels are great for this, since the GM can introduce information that's complicated---"No, I am your father"; tricksy---"I am not left-handed either"; or downright devastating---"What's in the box?" Information is often less important than action, so giving the players the information they need to get to the action is the priority.
+One solution to the absence of [[Create Advantage]] actions dedicated to learning is to just give players the information they need when they need it. Compels are great for this, since the GM can introduce information that's complicated---"No, I am your father"; tricksy---"I am not left-handed either"; or downright devastating---"What's in the box?" Information is often less important than action, so giving the players the information they need to get to the action is the priority.
 
 But this model isn't really collaborative; the GM delivers information and the players act on that information. The magic of roleplaying is that information is really part of a broader conversation between the players and the GM. **The questions the players ask are as important as the answers the GM gives because they determine what parts of the world get defined.** Discovery only has a collaborative element if the players have an equal say in what merits disclosure.
 
@@ -95,9 +95,9 @@ the gunman ([[Empathy]]), or the position the gunman is occupying ([[Notice]]). 
 
 After you finish your discover action, you may want to create an aspect on the scene by creating an advantage with your new knowledge or taking advantage of the boost you created if you succeeded with style.
 
-### Using [[create advantage]] and Discover
+### Using [[Create Advantage]] and Discover
 
-If you include discover as an action, players can't use [[create advantage]] to learn new information. All of those actions now fall under discover. Players can use [[create advantage]] to capitalize on the information they've gained, such as using [[Provoke]] to place the aspect [Hot Tempered] on an NPC after discovering the NPC's weakness using [[Empathy]].**When you fail using discover**, you either ask a question of the Gamemaster related to the skill you used at a major cost or the opposition asks questions about your character, delving into your secrets and weaknesses.
+If you include discover as an action, players can't use [[Create Advantage]] to learn new information. All of those actions now fall under discover. Players can use [[Create Advantage]] to capitalize on the information they've gained, such as using [[Provoke]] to place the aspect [Hot Tempered] on an NPC after discovering the NPC's weakness using [[Empathy]].**When you fail using discover**, you either ask a question of the Gamemaster related to the skill you used at a major cost or the opposition asks questions about your character, delving into your secrets and weaknesses.
 
 **When you tie with** **discover**, you ask one question of the Gamemaster related to the skill you used at a minor cost. 
 
@@ -162,7 +162,7 @@ If you want to cut attack, let overcome do the heavy lifting for you during comb
 This has a few huge advantages:
 
 - **Avoids the Arms Race:** Without an attack action, there's no longer any advantage to having a +10 to a roll. Anything above 3 [[shift]]s (a success with style) is wasted. Players can focus more on non-combat skills---and spend more [[fate point]]s outside of combat---even if combat is a solid chunk of the game.
-- **Cuts Down on Conflicts:** Since overcome doesn't inflict stress, many fights are over after a single roll. Characters have to choose to stay in, marking stress boxes and consequences to represent that they aren't willing to give up the fight just yet. That's always the case in Fate, but treating attacks as [[overcome]] actions helps dramatize the choice.
+- **Cuts Down on Conflicts:** Since overcome doesn't inflict stress, many fights are over after a single roll. Characters have to choose to stay in, marking stress boxes and consequences to represent that they aren't willing to give up the fight just yet. That's always the case in Fate, but treating attacks as [[Overcome]] actions helps dramatize the choice.
 - **Diversifies Takedowns:** In addition to minimizing fights, it also puts social, mental, and physical skills on the same level. Taking someone out with [[Deceive]] or [[Provoke]] works the same as taking someone out with [[Fight]] or [[Shoot]]. Staying in the fight against mental and social attacks works the same too!
 
 ### Passive Discovery

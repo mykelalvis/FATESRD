@@ -120,7 +120,7 @@ order---work with the skill we'll naturally call "Survival." But that's
 not enough, because it doesn't cover those characters in fiction
 mentioned above; it doesn't cover the expertise needed to survive in
 those worlds. For that, we're going to borrow some of [[Lore]]'s
-functionality, where knowledge is useful for [[overcome]] actions and
+functionality, where knowledge is useful for [[Overcome]] actions and
 creating advantages.
 
 At this point, you might be thinking, "Wait, but [[Lore]] covers those
@@ -220,7 +220,7 @@ well. Here are a couple more stunts tailored specifically for Survival.
   Survival for [[Empathy]] and [[Rapport]] situations with animals.
 
 - **Master of the Wild.** Pick some sort of terrain or broad
-  environment. Once per scene, when you [[create advantage]] that
+  environment. Once per scene, when you [[Create Advantage]] that
   involves spending a little time scavenging or manipulating the local
   area, you can give that aspect an additional free invoke.
 
@@ -254,7 +254,7 @@ This concept centers around rewarding characters with high competence in
 any field (which is every character in a Fate game) by ensuring they
 never miss key information. In automatic discovery, all of your skills
 rated at Good and higher have an additional benefit: they always succeed
-at [[overcome]] actions or creating advantages that involve passive
+at [[Overcome]] actions or creating advantages that involve passive
 discovery---i.e., any time when the GM would normally call for a skill
 roll to spot or hear something that is reflexive and takes no time or
 effort. No roll is required; the characters are just that good. Now

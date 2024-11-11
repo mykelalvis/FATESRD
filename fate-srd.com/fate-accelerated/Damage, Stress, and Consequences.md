@@ -44,7 +44,7 @@ A major downside of consequences is that each consequence is a new aspect that y
 
 > Let's say that you get hit really hard and take a 4-[[shift]] hit. You check Box 2 on your stress track, which leaves you with 2 [[shift]]s to deal with. If you can't, you're taken out, so it's time for a consequence. You can choose to write a new aspect in the consequence slot labeled 2---say, [Sprained Ankle]. Those final 2 [[shift]]s are taken care of and you can keep fighting!
 
-If you're unable to absorb all of a hit's [[shift]]s---by checking a stress box, taking consequences, or both---you're [[taken out]].
+If you're unable to absorb all of a hit's [[shift]]s---by checking a stress box, taking consequences, or both---you're [[Taken Out]].
 
 ## What Happens When I Get Taken Out?
 

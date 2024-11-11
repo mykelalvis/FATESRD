@@ -286,7 +286,7 @@ your choice ([[Fate Core]] System, page 207).
 stress to gain a +2 bonus to attack rolls using said attack spell.
 
 **Green Thumb.** When you cast a spell to control the local plant life,
-you gain a +2 to your [[create advantage]] roll.
+you gain a +2 to your [[Create Advantage]] roll.
 
 **Magic Missile.** When attacking multiple targets and splitting your
 [[shift]]s ([[Fate Core]] System, page 206) you get a +2 to your attack roll.

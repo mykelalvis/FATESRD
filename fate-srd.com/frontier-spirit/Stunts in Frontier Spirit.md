@@ -123,7 +123,7 @@ extremely rare on a colony.
 Each character can have at most one stunt representing a piece of "space
 opera" technology, above and beyond the capabilities of 21st-century
 science. Characters can cobble together jerry-rigged high-tech devices
-using [[create advantage]] with Craft or Science, or borrow or lease them
+using [[Create Advantage]] with Craft or Science, or borrow or lease them
 with [[Contacts]] or [[Resources]]. A stunt gives permanent access and
 ownership, and guarantees reliability.
 

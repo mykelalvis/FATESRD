@@ -60,7 +60,7 @@ Creating an advantage is anything you do to try to help yourself or one of your 
 
 **If you're creating a new aspect or discovering an existing one:**
 
-- **If you fail:**Either you don't create or discover the aspect at all, or you create or discover it but an opponent gets to invoke the aspect for free. The second option works best if the aspect you create or discover is something that other people could take advantage of (like [Rough Terrain]). You may have to reword the aspect to show that it benefits the other character instead of you---work it out in whatever way makes the most sense with the player who gets the free invocation. You can still invoke the aspect if you'd like, but it'll cost you a [[fate point]].
+- **If you fail:** Either you don't create or discover the aspect at all, or you create or discover it but an opponent gets to invoke the aspect for free. The second option works best if the aspect you create or discover is something that other people could take advantage of (like `Rough Terrain`). You may have to reword the aspect to show that it benefits the other character instead of you---work it out in whatever way makes the most sense with the player who gets the free invocation. You can still invoke the aspect if you'd like, but it'll cost you a [[fate point]].
 - **If you tie:** If you're creating a new aspect, you get a boost. Name it and invoke it once for free---after that, the boost goes away. If you're trying to discover an existing aspect, treat this as a success (see below).
 - **If you succeed**: You create or discover the aspect, and you or an ally may invoke it once for free. Write the aspect on an index card or sticky note and place it on the table.
 - **If you succeed with style**: You create or discover the aspect, and you or an ally may invoke it twice for free. Usually you can't invoke the same aspect twice on the same roll, but this is an exception; success with style gives you a BIG advantage!
@@ -71,7 +71,7 @@ Creating an advantage is anything you do to try to help yourself or one of your 
 - **If you tie or succeed**: You get one free invocation on the aspect for you or an ally to use later. You might want to draw a circle or a box on the aspect's note card, and check it off when that invocation is used.
 - **If you succeed with style**: You get two free invocations on the aspect, which you can let an ally use, if you wish.### Actions & Outcomes: The 30-Second Version
 
-**[[create advantage]] when creating or discovering aspects:**
+**[[Create Advantage]] when creating or discovering aspects:**
 
 - **Fail:** Don't create or discover, or you do but your opponent (not you) gets a free invocation.
 - **Tie:** Get a boost if creating new, or treat as success if looking for existing.
@@ -87,8 +87,8 @@ Creating an advantage is anything you do to try to help yourself or one of your 
 
 ![[oc_r.svg|30 ]][[Overcome]]:
 
-- ****Fail:**** Fail, or succeed at a serious cost.
-- ****Tie:**** Succeed at minor cost.
+- ****Fail:**** Fail, or succeed at a [[serious cost]].
+- ****Tie:**** Succeed at [[minor cost]].
 - **Succeed:** You accomplish your goal.
 - **Succeed with Style:** You accomplish your goal and generate a boost.
 
@@ -97,14 +97,14 @@ Creating an advantage is anything you do to try to help yourself or one of your 
 - **Fail:** No effect.
 - ****Tie:**** Attack doesn't harm the target, but you gain a boost.
 - **Succeed:** Attack hits and causes damage.
-- ****Succeed with Style:**** Attack hits and causes damage. May reduce damage by one to generate a boost.
+- ****Succeed with Style:**** Attack hits and causes damage. May reduce damage by one to generate a [[boost]].
 
 ![[def_r.svg|30 ]][[Defend]]:
 
 - **Fail:** You suffer the consequences of your opponent's success.
 - **Tie:** Look at your opponent's action to see what happens.
 - **Succeed:** Your opponent doesn't get what they want.
-- **Succeed with Style:** Your opponent doesn't get what they want, and you get a boost.
+- **Succeed with Style:** Your opponent doesn't get what they want, and you get a [[boost]].
 
 ### Overcome
 
@@ -127,7 +127,7 @@ Use an attack when you try to hurt someone, whether physically or mentally---swi
 
 ### Defend
 
-Use defend when you're actively trying to stop someone from doing any of the other three actions---you're parrying a sword strike, trying to stay on your feet, blocking a doorway, and the like. Usually this action is performed on someone else's turn, reacting to their attempt to attack, overcome, or create an advantage. You may also roll to oppose some non-[[attack]] actions, or to defend against an attack on someone else, if you can explain why you can. Usually it's fine if most people at the table agree that it's reasonable, but you can also point to an relevant [[situation aspect]] to justify it. When you do, you become the target for any bad results.
+Use defend when you're actively trying to stop someone from doing any of the other three actions---you're parrying a sword strike, trying to stay on your feet, blocking a doorway, and the like. Usually this action is performed on someone else's turn, reacting to their attempt to attack, overcome, or create an advantage. You may also roll to oppose some non-[[Attack]] actions, or to defend against an attack on someone else, if you can explain why you can. Usually it's fine if most people at the table agree that it's reasonable, but you can also point to an relevant [[situation aspect]] to justify it. When you do, you become the target for any bad results.
 
 - **If you fail**: You're on the receiving end of whatever your opponent's success gives them.
 - **If you tie or succeed**: Things don't work out too badly for you; look at the description of your opponent's action to see what happens.

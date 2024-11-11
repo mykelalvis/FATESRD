@@ -159,7 +159,7 @@ After that, you can use popcorn initiative (each player chooses who goes
 next) or go in order of descending [[Empathy]].The opposing lead negotiator resists these attempts to create
 advantages---usually with [[Will]]---with the hope of turning them around so
 they create free invokes for the opposition. Sometimes in [[Fate Core]], a
-failure to [[create advantage]] results in nothing happening; in a
+failure to [[Create Advantage]] results in nothing happening; in a
 negotiation, it _always_ leads to the opposition getting free invokes on
 new aspects. If one character starts waving a gun, for example, with a
 successful defense the opposition might create the aspect [More Guns
@@ -197,14 +197,14 @@ they have weapons as well.
 > succeeding once she adds in a +1 for each of the other robbers. She
 > gets [We Still Have Guns] with one free invoke.### Who gets to help?
 
-During the [[create advantage]] phase, characters can only lend a +1 to a
+During the [[Create Advantage]] phase, characters can only lend a +1 to a
 roll if they aren't creating an advantage themselves. They can still,
 however, spend [[fate point]]s to increase someone's roll if they can invoke
 an appropriate aspect. Mobs, who usually have very low rolls, are
 usually best suited to supporting one NPC instead of trying to create
 advantages on their own.### Phase 4: Make a Final Roll
 
-Once the [[create advantage]] phase is over, the two lead negotiators make
+Once the [[Create Advantage]] phase is over, the two lead negotiators make
 an opposed [[Rapport]] roll to determine the outcome of the negotiation,
 making use of their free invokes. The negotiation is over after this
 single roll---no repeats---and both sides are bound by the stakes of the

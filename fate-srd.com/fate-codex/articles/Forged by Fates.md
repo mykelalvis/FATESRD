@@ -765,7 +765,7 @@ cannot attack this round of the conflict. If you succeed with style, you
 gain a boost against that target. If you fail, the target gets a +2 to
 attacks against you due to your obvious advance.
 
-`I Know a Guy...or Girl`. +2 to [[create advantage]] with [[Contacts]] when you
+`I Know a Guy...or Girl`. +2 to [[Create Advantage]] with [[Contacts]] when you
 find someone with which you've had a previous romantic relationship.
 
 ### Stress
@@ -819,7 +819,7 @@ use [[Athletics]] instead of [[Fight]].
 singing a song about your adventures with Odell using Mythology, add an
 extra free invoke to the aspect you create, even on a tie.
 
-`Crafter of the People`. +2 to [[create advantage]] by using [[Crafts]] to make
+`Crafter of the People`. +2 to [[Create Advantage]] by using [[Crafts]] to make
 something useful for others in a scene.
 
 ### Stress

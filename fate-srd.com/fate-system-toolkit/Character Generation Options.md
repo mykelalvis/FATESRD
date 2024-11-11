@@ -2,7 +2,7 @@
 date created: 2022-10-18 08:09
 ---
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]
 
 [[Fate System Toolkit]]
 
@@ -67,7 +67,7 @@ A race in Fate provides a number of aspects; choose at least one but not more th
 **Criminal Underbelly:** Whenever you enter a settlement for the first time, you can spend a [[fate point]] to declare that the local criminals know you. Choose one of the following: they have a lead on a promising job, they'll give you and your companions free room and board for a few weeks, or they'll help you with something right now but you might owe them afterward.
 
 **Not a Threat:** Choose [[Deceive]] or [[Stealth]] when you take this stunt.
-When you [[create advantage]] with that skill to make yourself as
+When you [[Create Advantage]] with that skill to make yourself as
 non-threatening or unobtrusive as possible, enemies will find other
 targets for as long as that aspect exists. As soon as you successfully
 attack someone, the aspect goes away.
@@ -97,7 +97,7 @@ chosen skill.
 
 You may use Orc to resist pain, call upon the spirits for aid, or perform feats of brute strength. In addition, pick one of the following flavors; you can pick more at the cost of one stunt or refresh each.
 
-**Blood Rage:** When you use Orc to [[create advantage]] representing an overpowering battle-fury, you get an extra invocation on that aspect if you succeed or succeed with style.
+**Blood Rage:** When you use Orc to [[Create Advantage]] representing an overpowering battle-fury, you get an extra invocation on that aspect if you succeed or succeed with style.
 
 **Thick Skin:** You may use Orc instead of [[Physique]] to determine your physical stress and consequences, and you get one additional minor physical consequence.
 

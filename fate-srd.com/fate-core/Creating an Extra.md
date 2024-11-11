@@ -110,7 +110,7 @@ People who are trained in Collegia magic are able to use their knowledge to perf
 
 ![[att_r.svg|30 ]][[Attack]]: Use [[Lore]] to directly harm someone with magic, whether through conjuring of elements or mental assault. Targets can defend against this with [[Athletics]] or [[Will]] depending on the nature of the attack, or [[Lore]] if the target also has magical training.
 
-[D][[Defend]]: Use [[Lore]] to defend against hostile magics or other supernatural effects.
+![[def_r.svg|30]]: Use [[Lore]] to defend against hostile magics or other supernatural effects.
 
 ## Extras and Advancement
 

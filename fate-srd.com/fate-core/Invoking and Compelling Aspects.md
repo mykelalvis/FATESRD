@@ -65,7 +65,7 @@ After you've used your free invocation, if the aspect in question is still aroun
 
 > Cynere succeeds on an attack, and causes her opponent to take the [Cut Across the Gut] consequence. On the next exchange, she attacks him again, and she can invoke that for free because she put it there, giving her a +2 or a reroll.
 
-If you want, you can pass your free invocation to another character.  That allows you to get some teamwork going between you and a buddy. This is really useful in a conflict if you want to set someone up for a big blow---have everyone [[create advantage]] and pass their free invocations onto one person, then that person stacks all of them up at once for a huge bonus.
+If you want, you can pass your free invocation to another character.  That allows you to get some teamwork going between you and a buddy. This is really useful in a conflict if you want to set someone up for a big blow---have everyone [[Create Advantage]] and pass their free invocations onto one person, then that person stacks all of them up at once for a huge bonus.
 
 ### For Veterans
 

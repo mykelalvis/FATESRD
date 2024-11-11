@@ -8,7 +8,7 @@ Venture City
 
 You are what you want to be.
 
-**Basic Shape-Shifting:** You can change your form into that of any creature. You can use [[Will]] to [[create advantage]] of [Creature Form]. The opposition is generally Fair (+2), though it increases for particularly large or small shapes and for complex transformations like a swarm of bees. Your new shape persists until you decide to end it or get taken out.
+**Basic Shape-Shifting:** You can change your form into that of any creature. You can use [[Will]] to [[Create Advantage]] of [Creature Form]. The opposition is generally Fair (+2), though it increases for particularly large or small shapes and for complex transformations like a swarm of bees. Your new shape persists until you decide to end it or get taken out.
 
 ### Enhancements
 

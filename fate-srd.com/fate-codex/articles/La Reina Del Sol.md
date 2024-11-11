@@ -308,7 +308,7 @@ disposal.
 #### ALTERNATE STUNT
 
 **At Dawn:** When you challenge someone to a duel, treat any success to
-[[create advantage]] with [[Provoke]] as a success with style. If the opponent
+[[Create Advantage]] with [[Provoke]] as a success with style. If the opponent
 wins the roll, they cannot add any free invokes but still may create an
 aspect on the scene.
 
@@ -324,5 +324,5 @@ example, plotting just off screen to secure the throne for herself.
 #### ALTERNATE STUNT
 
 **Distractions:** Roll with [[Resources]] instead of [[Burglary]] when you
-wastefully display a resource to [[create advantage]] for yourself.
+wastefully display a resource to [[Create Advantage]] for yourself.
 

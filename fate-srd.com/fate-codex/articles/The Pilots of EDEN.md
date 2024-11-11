@@ -249,7 +249,7 @@ The Science skill demonstrates a character's knowledge of the natural laws of th
 ### Stunts
 
 - **First Contact Protocols.** Use Science instead of [[Empathy]] when you attempt to communicate with an alien species.
-- **The Wonders of Anatomy.** Gain +2 to [[create advantage]] using Science when attempting to discover an enemy's biological weakness.### Pilot Stress Boxes and Consequences
+- **The Wonders of Anatomy.** Gain +2 to [[Create Advantage]] using Science when attempting to discover an enemy's biological weakness.### Pilot Stress Boxes and Consequences
 
 Characters in _**The Pilots of EDEN**_ aren't as hardy as normal Fate characters. To balance the extra consequences granted to by a Mech Suit, this setting uses Fate Accelerated's single stress track of 3 boxes. Characters receive the standard (Mild 2, Moderate 4, Severe 6) personal consequence boxes.
 
@@ -382,7 +382,7 @@ Average (+1): [[Athletics]]
 
 **Electricity Glands.** +2 to attack with [[Shoot]] when using electricity. Weapon:2.
 
-**Chameleon [[Stealth]] Cells.** +2 to [[create advantage]] with [[Stealth]] when using the natural environment to hide.
+**Chameleon [[Stealth]] Cells.** +2 to [[Create Advantage]] with [[Stealth]] when using the natural environment to hide.
 
 **Armor Plated Skin.** Defend against physical attacks using [[Physique]] when upright. Armor:1.
 
@@ -433,7 +433,7 @@ Average (+1): [[Deceive]], [[#History]], [[#Science]], [[Shoot]]
 ### Stunts
 
 - **Heavily Shielded.** You may use [[#Operate]] instead of [[Athletics]] to defend when using your Mech. Armor:1.
-- **Gravity Generator.** +2 to [[create advantage]] using [[Shoot]] when using your Gravity Generator. Weapon:2.
+- **Gravity Generator.** +2 to [[Create Advantage]] using [[Shoot]] when using your Gravity Generator. Weapon:2.
 - **Tech-Head.** +2 to overcome using [[#Repair]] when working on a Mech you've patched up before.
 
 ### Stress
@@ -470,7 +470,7 @@ Average (+1): Infiltration, [[Rapport]], Repair, [[Will]]
 ### Stunts
 
 - **Expert Observer.** +2 to overcome when using Science to try to understand a subject you have spent several minutes observing.
-- **Enhanced Sensor Package.** +2 to [[create advantage]] using [[Notice]] when trying to analyze enemy weaknesses on the battlefield.
+- **Enhanced Sensor Package.** +2 to [[Create Advantage]] using [[Notice]] when trying to analyze enemy weaknesses on the battlefield.
 - **Electricity Staff.** Weapon:4. Armor:1.
 
 ### Stress
@@ -507,7 +507,7 @@ Average (+1): [[Investigate]], [[Rapport]], [[Shoot]], [[Will]]
 ### Stunts
 
 - **Hardlight Energy Sword.** +2 to attack using [[Fight]] when outnumbered. Weapon:4.
-- **Suppressing Fire.** +2 to [[create advantage]] using [[Shoot]] when trying to pin the enemy down.
+- **Suppressing Fire.** +2 to [[Create Advantage]] using [[Shoot]] when trying to pin the enemy down.
 - **Neural Holosensors.** Use [[Notice]] instead of [[Shoot]] when targeting enemies at least one zone away.
 
 ### Stress

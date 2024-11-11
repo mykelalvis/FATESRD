@@ -4,7 +4,7 @@ date created: 2022-10-18 08:11
 
 # Contact Us
 
-![[FateSRDLogo.svg]]OTHER](../index.html)
+![[FateSRDLogo.jpg]]OTHER](../index.html)
 
 - [YouTube](https://www.youtube.com/FateSRD.html)
 

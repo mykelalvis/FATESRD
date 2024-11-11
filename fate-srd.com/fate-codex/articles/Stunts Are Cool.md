@@ -27,9 +27,9 @@ I also tend to limit the stunt benefit to one of the four actions---attack, defe
 For example, say I'm in a [[Fate Core]] game set in 17th-century France, and I want to give Vivienne, my swashbuckling-poet character, a signature rapier called Chanticleer, because I've always liked that name. I might represent Chanticleer as any of these stunts below, each of which is plausibly worth one stunt benefit:
 
 - +2 to attack with [[Fight]] when wielding Chanticleer
-- +1 to attack or [[create advantage]] with [[Fight]] when wielding Chanticleer
+- +1 to attack or [[Create Advantage]] with [[Fight]] when wielding Chanticleer
 - +1 to defend with [[Fight]] or [[Athletics]] when wielding Chanticleer
-- +1 to [[create advantage]] with [[Fight]] or [[Provoke]] when wielding Chanticleer
+- +1 to [[Create Advantage]] with [[Fight]] or [[Provoke]] when wielding Chanticleer
 - +2 with [[Fight]] when wielding Chanticleer against royalty
 - +1 with Chanticleer against nameless NPCs
 
@@ -39,7 +39,7 @@ So that's one of the two basic models for stunts. The other substitutes one skil
 
 For example, if I want Chanticleer be an embodiment of Vivienne's reputation as an impressive swordswoman, I might do something like this:
 
-**Use [[Fight]] instead of [[Provoke]] to [[create advantage]] through intimidation when you show off Chanticleer.**
+**Use [[Fight]] instead of [[Provoke]] to [[Create Advantage]] through intimidation when you show off Chanticleer.**
 
 But! If her [[Fight]] was Great (+4) and her [[Provoke]] was Good (+3), this stunt would be worth less than one stunt benefit---I may as well give her a +2 bonus to [[Provoke]] in those same circumstances. You get the idea. It's not all about the numbers, but it's at least a little about the numbers.
 

@@ -274,7 +274,7 @@ Poor (--1) Dodging Attacks
 
 ### Stunts
 
-**Slippery.** In the event that someone tries to [[create advantage]] that would keep you from leaving a zone or scene, spend a [[fate point]] to turn that [[situation aspect]] into a boost.
+**Slippery.** In the event that someone tries to [[Create Advantage]] that would keep you from leaving a zone or scene, spend a [[fate point]] to turn that [[situation aspect]] into a boost.
 
 ### Stress
 □

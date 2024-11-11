@@ -43,7 +43,7 @@ Because I have **[describe item]**, I can substitute my **[pick one: [[Fight]], 
 
 > **Knight's Shield**: Because I have my knight's shield, I get +2 to defend with [[Fight]] from opponents coming from my left.
 
-> **Sword of Theseus**: Because I wield the ancient sword of the hero Theseus, I can use [[Fight]] instead of [[Provoke]] to [[create advantage]] by intimidating my opponents when they have a clear view of the brandished sword.
+> **Sword of Theseus**: Because I wield the ancient sword of the hero Theseus, I can use [[Fight]] instead of [[Provoke]] to [[Create Advantage]] by intimidating my opponents when they have a clear view of the brandished sword.
 
 With approaches:
 
@@ -51,7 +51,7 @@ Because I have **[describe item]**, I get +2 when I **[pick one: Carefully, Clev
 
 > **Two-Handed Battle Axe**: Because my trusty two-handed battle axe has a mighty arc, I get a +2 when I Quickly attack from above (such as leaping off a building).
 
-> **My Father's Helmet**: Because I have my father's helmet, I get a +2 bonus when I Flashily [[create advantage]] by yelling a short encouragement to my troops on the battlefield.
+> **My Father's Helmet**: Because I have my father's helmet, I get a +2 bonus when I Flashily [[Create Advantage]] by yelling a short encouragement to my troops on the battlefield.
 
 > **Round Buckler**: Because I have a round buckler, I get a +2 when I Carefully defend when facing only one opponent.
 
@@ -175,7 +175,7 @@ If a zone has more than one potentially interesting feature, either combine the 
 
 Normally it's the GM's job to assign zone aspects, but that doesn't mean they all have to be done in advance. If the PCs are in a starting position that prohibits them from seeing the entire battlefield—due to a closed door, outcropping of rock, heavy fog, or the like, feel free to leave them blank and fill them in as the PCs gain visibility to them.
 
-Alternately, let the players define some of these aspects by exploring these zones. Handling zone aspects in this way gives the players more control over their situation and lends a little more unpredictability to the combat. This is a [[create advantage]] action, typically using Clever or Careful, and can be done from another zone, provided the character in question can see into the unexplored zone. Generally speaking, you can't replace an existing zone aspect, unless the aspect itself is responsible for obscuring the zone in the first place. The difficulty for this task should be fairly low, such as Average (+1) or Fair (+2). If it makes sense that a zone aspect would make the task more difficult, increase it by +2 for every such aspect. Likewise, if the unexplored aspect is more than one zone away from the character, increase the difficulty by +2 for every zone that separates them.
+Alternately, let the players define some of these aspects by exploring these zones. Handling zone aspects in this way gives the players more control over their situation and lends a little more unpredictability to the combat. This is a [[Create Advantage]] action, typically using Clever or Careful, and can be done from another zone, provided the character in question can see into the unexplored zone. Generally speaking, you can't replace an existing zone aspect, unless the aspect itself is responsible for obscuring the zone in the first place. The difficulty for this task should be fairly low, such as Average (+1) or Fair (+2). If it makes sense that a zone aspect would make the task more difficult, increase it by +2 for every such aspect. Likewise, if the unexplored aspect is more than one zone away from the character, increase the difficulty by +2 for every zone that separates them.
 
 Olivia the scout wants to know what's hiding in the **_Fog_** a couple zones over, so she takes time to Carefully peer into it and see what she can make out. The GM sets the difficulty at Average (+1), then bumps it up by +2 because of that **_Fog_** and another +2 for being two zones away. That doesn't sound so good to Olivia's player. Fortunately, she's able to move a zone closer, lowering the difficulty to Good (+3), and gets a result of Great (+4). Success! Since the scene takes place in a mountain pass, the player suggests that the zone actually contains a **_Fog-Shrouded Chasm_**, and the GM agrees. Someone's in for a surprise.
 
@@ -306,7 +306,7 @@ It's a good idea to indicate weight advantage on the battle map using Fate dice,
 
 Weight comes into play whenever common sense dictates it would be relevant. Always include it when attacking or defending, but not necessarily when creating an advantage or overcoming. It depends entirely on context. Generally speaking, if the mere presence of allies in a zone would help accomplish something, it's reasonable to include the weight advantage.
 
-> _Rolf wants to [[create advantage]] against the horde of goblins he's fighting by toppling a ruined wall onto them. He and his allies outweigh the goblins in their zone, but in this case that's not really helping him since he's acting alone, so he'll roll as usual._
+> _Rolf wants to [[Create Advantage]] against the horde of goblins he's fighting by toppling a ruined wall onto them. He and his allies outweigh the goblins in their zone, but in this case that's not really helping him since he's acting alone, so he'll roll as usual._
 >
 > _Later, channeling his ancestors of old, he attempts to create another advantage by intimidating the opposition with a savage battle cry. In this case, the GM rules that the presence of his allies around him makes Rolf's threats more credible, so he rolls the dice and can change one result to_[+]_._
 
@@ -346,7 +346,7 @@ Sure, you can do that too. See**"Groups of Minions"**for more details.
 
 While they outweigh their opponents, swarms can't be damaged by normal attacks that don't affect an entire zone, nor are they affected by opposed movement -- there's just too many of them to try to make them go anywhere they don't want to go. Without a weapon such as an alchemical explosion, you have to invoke an aspect for effect to make your attack affect a wide area, like**_Boiling Oil_**or**_Flooded Room_**.
 
-_Olivia and Rolf have run into three big (weight 2) swarms of vampire bats spread out around the ancient ruins they were exploring. Right now the heroes are outweighed so their particular weapons are useless against the swarm. With all his might, Rolf knocks one of the giant pillars loose and uses the [[create advantage]] action to add the aspect**Wobbly Pillar**. On her action Olivia invokes the aspect for effect and is able to attack one of the swarms by pushing the pillar and letting it crash down on the bats._
+_Olivia and Rolf have run into three big (weight 2) swarms of vampire bats spread out around the ancient ruins they were exploring. Right now the heroes are outweighed so their particular weapons are useless against the swarm. With all his might, Rolf knocks one of the giant pillars loose and uses the [[Create Advantage]] action to add the aspect**Wobbly Pillar**. On her action Olivia invokes the aspect for effect and is able to attack one of the swarms by pushing the pillar and letting it crash down on the bats._
 
 ## Movement on the Battlefield
 
@@ -398,7 +398,7 @@ Most maneuvers allow your character to move to a more favorable location (e.g., 
 
 > _Rolf shouts a mighty battle cry and runs into the fray in the adjacent**Foredeck**zone, attacking two pirate sailors. He doubles his weight thanks to the charge, so no one is outweighed. Alas for Rolf, the pirates defend with style, gaining not only a boost as normal but an**additional**boost for the failed charge._
 
-**Full Defense**: When you [[create advantage]] to improve your defenses against attacks this turn, you create a**_Full Defense_**aspect that you can invoke freely once for every attack made against you, but the advantage goes away once you take any other action.
+**Full Defense**: When you [[Create Advantage]] to improve your defenses against attacks this turn, you create a**_Full Defense_**aspect that you can invoke freely once for every attack made against you, but the advantage goes away once you take any other action.
 
 **Full Attack**: When you fully commit to an attack while disregarding your own safety, you can make an attack lethal (see**"Lethal Attacks"**). To do this, you must describe what you are doing and overcome a Good (+2) difficulty using an appropriate approach; on a success, your next attack will be lethal. However, your give your opponent a boost that works in their favor when they attack you, such as**_Exposed_**. A risky trade-off for adding extra oomph to your attack.
 
@@ -454,7 +454,7 @@ Some creatures are just naturally deadly! For example, creatures that are venomo
 
 Sometimes the players come up with a brilliant plan that leaves the enemy at a serious disadvantage. If they put serious (and successful) effort into creating conditions that would make their attack much more dangerous, the GM can decide to declare that an attack will do lethal damage.
 
-> _The heroes know they are badly outnumbered by the goblin pack roaming the area, so they decide to create an ambush to even things out. The GM offers to treat this as a challenge. The heroes will have to [[create advantage]] by locating a suitable ambush spot, create a second advantage by preparing the location, and overcome the goblins' wariness to bring them into the prepared trap. Deliah scouts out the perfect bottleneck in a narrow rocky pass; Rolf piles boulders above, ready to trigger an avalanche; and Olivia brews a fantastic-smelling stew that should attract goblins for leagues around. They prepared well and described their actions interestingly, so the GM declares that the ambush will indeed be lethal, both the direct damage caused by the avalanche and the heroes' first attack in battle._
+> _The heroes know they are badly outnumbered by the goblin pack roaming the area, so they decide to create an ambush to even things out. The GM offers to treat this as a challenge. The heroes will have to [[Create Advantage]] by locating a suitable ambush spot, create a second advantage by preparing the location, and overcome the goblins' wariness to bring them into the prepared trap. Deliah scouts out the perfect bottleneck in a narrow rocky pass; Rolf piles boulders above, ready to trigger an avalanche; and Olivia brews a fantastic-smelling stew that should attract goblins for leagues around. They prepared well and described their actions interestingly, so the GM declares that the ambush will indeed be lethal, both the direct damage caused by the avalanche and the heroes' first attack in battle._
 
 Often such situations will be represented by lots of preparatory aspects and boosts, which will in turn convert into substantial bonuses. The GM should not give a deadly outcome in that situation -- the bonuses will be damaging enough. But it may be useful in a situation where the GM knows the players will be able to do all that preparation, and just skip over it in favor of making the initial attacks lethal rather than stretching out an otherwise unimportant conflict.
 
@@ -652,7 +652,7 @@ Magic rituals typically influence luck in small ways or push and pull on the tar
 
 **Charisma:**While related to love, this turns it on its head by improving the target's general presence and demeanor. It's sometimes a subject of ridicule—specifically, ridiculing those who would need such a ritual -- but it sees a lot of quiet use. Creates temporary stunts like:
 
-**Great Hair:** For one scene, the target gets +2 to Flashily [[create advantage]] when good looks would matter.
+**Great Hair:** For one scene, the target gets +2 to Flashily [[Create Advantage]] when good looks would matter.
 
 **Isn't That the Famous Guy?:** As a one-time effect lasting one scene, the target is treated like a Very Important Person by those they meet.
 
@@ -726,7 +726,7 @@ Magic rituals typically influence luck in small ways or push and pull on the tar
 
 **I Swear, If They Ask One More Time:** As a one-time effect lasting one scene, the target snaps at the next person who talks to them or approaches them. This does not mean the target will place themselves in danger—a merchant won't attack an armed warrior, but she may be short-tempered and unhelpful.
 
-**Raw Nerves:** For one scene, you or an ally get +2 to [[Provoke]] when [[create advantage]] by goading the target into anger.
+**Raw Nerves:** For one scene, you or an ally get +2 to [[Provoke]] when [[Create Advantage]] by goading the target into anger.
 
 **I'm Not Gonna Take It Anymore:** As a one-time effect lasting one scene, the target gets angry whenever a particular topic comes up.
 
@@ -736,7 +736,7 @@ Magic rituals typically influence luck in small ways or push and pull on the tar
 
 **Nothing Going On Here:** As a one-time effect lasting one scene, the target location attracts no attention unless and until someone does something noteworthy, like screaming for help, having a fight, etc.
 
-**Snug As a Bug in a Rug:** For one scene, the target gets +2 to Sneakily [[create advantage]] by hiding.
+**Snug As a Bug in a Rug:** For one scene, the target gets +2 to Sneakily [[Create Advantage]] by hiding.
 
 **Augury:**A peek into the near-future. Creates temporary stunts like:
 
@@ -843,7 +843,7 @@ The best way to work through this is to work through a few examples. First, let'
 
 **Example 1: An Ancient lighthouse.**
 
-If the site is still in fairly good shape, it may be easy to discover the high concept aspect Ancient Lighthouse, or the aspect can even be known already without the need to [[create advantage]] to discover it.
+If the site is still in fairly good shape, it may be easy to discover the high concept aspect Ancient Lighthouse, or the aspect can even be known already without the need to [[Create Advantage]] to discover it.
 
 However, the GM may add one to three less obvious aspects if the site is important to the adventure. For example, it might have _Hidden Crypt Deep Below_ if you want a scene or even a whole adventure about poking in the depths beneath the lighthouse, or _Line Up the Two Fires to Navigate Through the Reefs_ if the lighthouse is a navigation clue to help the heroes reach their destination, or _Secret of the Undying Flame_ if this is really about the liquid fuel which the Ancients had devised to keep the beacon lit.
 

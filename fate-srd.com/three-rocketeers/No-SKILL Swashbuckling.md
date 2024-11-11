@@ -52,7 +52,7 @@ Even more than most [[Fate Core]] games, the players need to be clear as to what
 
 - Attacks harm your opponent.
 - Defense prevents harm.
-- [[create advantage]] changes the story for someone's benefit by introducing new aspects into play.
+- [[Create Advantage]] changes the story for someone's benefit by introducing new aspects into play.
 - Overcome removes some obstacle, often an aspect, that stands in the way.
 
 What action is being taken should be clearly stated before the dice are picked up or skill bonuses are tallied.
@@ -69,25 +69,25 @@ Since _Three Rocketeers_ does not have a skill list, stunts need to be handled a
 
 **Dual Wield:** Because I am trained to use a sword in each hand, when I fight with two swords I use the Main Hand element for each blade.
 
-**Former Gendarme:** Because I was once a gendarme, I get +1 to [[create advantage]] or overcome when I get help from my former colleagues.
+**Former Gendarme:** Because I was once a gendarme, I get +1 to [[Create Advantage]] or overcome when I get help from my former colleagues.
 
 **Genius:** Because I am the smartest person in the room, I get +2 to overcome puzzles and traps.
 
-**Giant:** Because I am a giant of a person, I get +2 to [[overcome]] actions when I break things.
+**Giant:** Because I am a giant of a person, I get +2 to [[Overcome]] actions when I break things.
 
 **Idealistic:** Because I am idealistic, I gain +2 to defend against intimidation and threats.
 
 **Master of Disguise:** Because I am a master of disguise with a knack for being in the right place at the right time, once per session I can join a scene already in progress, having posed as a minor character.
 
-**One For All!:** Because I fight for my friends, when I [[create advantage]] by giving a rallying cry and succeed with style my fellow heroes gain +3 when they invoke the resulting aspect.
+**One For All!:** Because I fight for my friends, when I [[Create Advantage]] by giving a rallying cry and succeed with style my fellow heroes gain +3 when they invoke the resulting aspect.
 
-**Pub Legend:** Because I am a legend in bars across the world, I get +2 to [[create advantage]] by gathering information in the pub.
+**Pub Legend:** Because I am a legend in bars across the world, I get +2 to [[Create Advantage]] by gathering information in the pub.
 
-**Racing Sloop:** Because I have a fast, sleek, racing ship, I gain +2 to [[overcome]] actions when I put the pedal to the metal in racing contests.
+**Racing Sloop:** Because I have a fast, sleek, racing ship, I gain +2 to [[Overcome]] actions when I put the pedal to the metal in racing contests.
 
 **Rocket Racer:** Because I am a master pilot I get +2 to overcome in chases when I fly through narrow or twisting spaces.
 
-**Up, Up, and Away:** Because I am a high-flying daredevil I get +2 to [[overcome]] actions when I perform a swashbuckling maneuver that includes swinging, climbing, or flying.
+**Up, Up, and Away:** Because I am a high-flying daredevil I get +2 to [[Overcome]] actions when I perform a swashbuckling maneuver that includes swinging, climbing, or flying.
 
 ## Swordplay Stunts
 
@@ -108,11 +108,11 @@ Weapon and Armor do not change the total of an action. Success with style still 
 
 ### Appearance
 
-- **Acrobatic:** Gain +1 to [[create advantage]] when using obstacles,   furniture, or terrain for superior positioning.
-- **Flashy:** Gain +1 to [[create advantage]] when intimidating an opponent with a demonstration of your style.
+- **Acrobatic:** Gain +1 to [[Create Advantage]] when using obstacles,   furniture, or terrain for superior positioning.
+- **Flashy:** Gain +1 to [[Create Advantage]] when intimidating an opponent with a demonstration of your style.
 - **Quick:** Gain +1 when determining turn order.
 - **Steady:** When you succeed with style creating an advantage, gain +1 to your next defense roll.
-- **Subtle:** Invoking your fencing aspect to [[create advantage]] based on misdirection grants +3 instead of +2.
+- **Subtle:** Invoking your fencing aspect to [[Create Advantage]] based on misdirection grants +3 instead of +2.
 
 ### Edge
 
@@ -125,7 +125,7 @@ Weapon and Armor do not change the total of an action. Success with style still 
 ### Main Hand
 
 - **Broadsword:** Weapon:1.
-- **Cutlass:** Gain +1 to [[create advantage]] when you try to disarm your opponent.
+- **Cutlass:** Gain +1 to [[Create Advantage]] when you try to disarm your opponent.
 - **Rapier:** Invoking your Swordplay aspect for a bonus on an attack grants a +3 instead of +2.
 - **Saber:** When you invoke a [[situation aspect]] about your fencing style that you created as an obstacle, increase the opposition by an additional +1.
 - **Small Sword:** Gain +1 to attack an enemy who has already acted in the round.
@@ -133,7 +133,7 @@ Weapon and Armor do not change the total of an action. Success with style still 
 ### Off Hand
 
 - **Buckler:** Gain +1 to your next attack when you succeed on defense.
-- **Cloak:** Gain +1 to [[create advantage]] when you obfuscate your weapon.
+- **Cloak:** Gain +1 to [[Create Advantage]] when you obfuscate your weapon.
 - **Empty:** Gain +1 to attack when you swing with both hands.
 - **Gauntlet:** When you succeed with style on defense, create a [Grabbed Blade] aspect with a free invocation rather than take a boost.
 - **Main Gauche:** When you succeed with style on defense against an attack you may deal a 2-[[shift]] physical hit with your off hand  instead of gaining a boost.

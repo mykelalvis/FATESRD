@@ -2,7 +2,7 @@
 date created: 2022-10-18 08:09
 ---
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]
 
 [[Fate System Toolkit]]
 
@@ -91,7 +91,7 @@ boss altogether ([[Rapport]] to modify motivation).
 >
 > Knowing that a physical conflict would give Orastin a chance to
 > escape, Amarika tries to talk her way past the guard, beginning with a
-> [[Provoke]] roll to learn the guard's motivation ([[create advantage]] with
+> [[Provoke]] roll to learn the guard's motivation ([[Create Advantage]] with
 > [[Provoke]]). She has a Good (+3) [[Provoke]] and rolls well (+3), bringing
 > her total up to Fantastic (+6). The guard, a nameless NPC with an
 > Average (+1) [[Deceive]], rolls decently (+2), but can't help but reveal

@@ -12,7 +12,7 @@ Every game of Fate has a few different kinds of aspects: game aspects, character
 
 Game aspects are permanent fixtures of the game, hence the name. While they might change over time, they're never going to go away. If you've already gone through game creation, you've already defined these---[the current or impending issues](../setting%e2%80%99s-big-issues/index.html) that you came up with. They describe problems or threats that exist in the world, which are going to be the basis for your game's story.
 
-Everyone can invoke, compel, or [[create advantage]] on a game aspect at any time; they're always there and available for anyone's use.
+Everyone can invoke, compel, or [[Create Advantage]] on a game aspect at any time; they're always there and available for anyone's use.
 
 ## Character Aspects
 
@@ -48,11 +48,11 @@ Sometimes situation aspects become obstacles that characters need to [overcome](
 A consequence is more permanent than a [[situation aspect]], but not quite as permanent as a character aspect. They're a special kind of aspect you take in order to avoid getting taken out in a conflict, and they describe lasting injuries or problems that you take away from a [conflict](../conflicts/index.html "Conflict") ([Dislocated Shoulder], [Bloody Nose], [Social Pariah]).
 
 Consequences stick around for a variable length of time, from a few scenes to a scenario or two, depending on how severe they are. Because of their negative phrasing, you're likely to get compelled a lot when you have them, and anyone who can justifiably benefit from the
-consequence can invoke it or [[create advantage]] on it.
+consequence can invoke it or [[Create Advantage]] on it.
 
 ## Boosts
 
-Boosts are a super-transient kind of aspect. You get a boost when you're trying to [[create advantage]] but don't succeed well enough, or as an added benefit to succeeding especially well at an action. You get to invoke them for free, but as soon as you do, the aspect goes away.
+Boosts are a super-transient kind of aspect. You get a boost when you're trying to [[Create Advantage]] but don't succeed well enough, or as an added benefit to succeeding especially well at an action. You get to invoke them for free, but as soon as you do, the aspect goes away.
 
 If you want, you can also allow another character to invoke your boost, if it's relevant and could help them out.
 
@@ -62,7 +62,7 @@ The following was posted on Ryan Macklin's Web site for clearer language that sh
 
 #### Boosts
 
-Boosts are temporary, free-floating invocations that happen when you get a momentary benefit that isn't lasting enough to be an aspect. You get a boost when you're trying to [[create advantage]] but don't succeed well enough, or as an added benefit to succeeding especially well at an action (notably defending). You invoke boosts just like you would for an aspect, for the +2, reroll, or other effect that a free invoke can
+Boosts are temporary, free-floating invocations that happen when you get a momentary benefit that isn't lasting enough to be an aspect. You get a boost when you're trying to [[Create Advantage]] but don't succeed well enough, or as an added benefit to succeeding especially well at an action (notably defending). You invoke boosts just like you would for an aspect, for the +2, reroll, or other effect that a free invoke can
 do.  As with aspect invocations, you need to describe what's happening that makes that boost relevant to your action.
 
 Once you invoke the boost, it goes away. They go away on their own fairly quickly---usually after the next action when you could use them---so use them as soon as possible! If you want, you can allow another character to invoke your boost, though it needs to be relevant to their action and could help them out.

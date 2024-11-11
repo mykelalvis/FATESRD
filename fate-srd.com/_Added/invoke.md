@@ -2,6 +2,7 @@
 date created: 2022-10-22 17:03
 aliases:
 - invoking aspects
+- invoked
 ---
 
 # Invoking Aspects
@@ -17,7 +18,7 @@ What does invoking the aspect get you? Choose one of the following effects:
 
 - **Add a +2 bonus to your total.** This costs a [[fate point]].
 - **Reroll the dice.** This option is best if you rolled really lousy (usually a −3 or −4 showing on the dice). This costs a [[fate point]].
-- **Confront an opponent with the aspect.** You use this option when your opponent is trying something and you think an existing aspect   would make it harder for them. For instance, an alien thug wants to draw his blaster pistol, but he's [Buried in Debris]; you   spend a [[fate point]] to invoke that aspect, and now your opponent's level of difficulty is increased by +2.
+- **Confront an opponent with the aspect.** You use this option when your opponent is trying something and you think an existing aspect   would make it harder for them. For instance, an alien thug wants to draw his blaster pistol, but he's `Buried in Debris`; you   spend a [[fate point]] to invoke that aspect, and now your opponent's level of difficulty is increased by +2.
 - **Help an ally with the aspect.** Use this option when a friend could use some help and you think an existing aspect would make it   easier for them. You spend a [[fate point]] to invoke the aspect, and now your friend gets a +2 on their roll.
 
 > **Important**: You can only invoke any aspect once on a given dice roll; you can't spend a stack of [[fate point]]s on one aspect and get a huge bonus from it. However, you can invoke several different aspects on the same roll.
@@ -26,7 +27,7 @@ If you're invoking an aspect to add a bonus or reroll your dice, wait until afte
 
 ## Free invocations
 
-[[How to Do Stuff#Actions|Sometimes you can invoke an aspect for free]], without paying a [[fate point]]. If you create or discover an aspect through the [[create advantage]] action, the first invocation on it (by you or an ally) is free (if you succeeded with style, you get two freebies). If you cause a consequence through an attack, you or an ally can invoke it once for free. A [[Boost]]is a special kind of aspect that grants one free invocation, then it vanishes.
+[[How to Do Stuff#Actions|Sometimes you can invoke an aspect for free]], without paying a [[fate point]]. If you create or discover an aspect through the [[Create Advantage]] action, the first invocation on it (by you or an ally) is free (if you succeeded with style, you get two freebies). If you cause a consequence through an attack, you or an ally can invoke it once for free. A [[boost]]is a special kind of aspect that grants one free invocation, then it vanishes.
 
 ---
 More transplanted data
@@ -55,7 +56,7 @@ To do this, you'll spend a [[fate point]]. You should try to justify your story 
 
 > Zird the Arcane gets captured with his friends by some tribesfolk from the Sagroth Wilds. The three heroes are unceremoniously dumped before the chieftain, and Amanda describes the chieftain addressing them in a strange, guttural tongue.
 >
-> Ryan looks at his sheet and says, "Hey, I have [If I Haven't Been There, I've Read About It] on my sheet. Can I declare that I've studied this language at some point, so we can communicate?"
+> Ryan looks at his sheet and says, "Hey, I have `If I Haven't Been There, I've Read About It` on my sheet. Can I declare that I've studied this language at some point, so we can communicate?"
 >
 > Amanda thinks that's perfectly reasonable to assume. Ryan tosses over a [[fate point]] and describes Zird answering in the chieftain's own speech, which turns all eyes in the village (including those of his friends) on him in a moment of surprise.
 >

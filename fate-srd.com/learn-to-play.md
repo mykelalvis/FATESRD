@@ -114,4 +114,4 @@ together a lot of actual play videos you can learn from. Enjoy!
 
   ### [One Shot --- Learn to Play the Fate RPG](https://www.youtube.com/watch564c.html?v=2cNCmo3Lqs4)
 
-  Apr 06, 2021![[FateSRDLogo.svg]]OTHER](../index.html)- [YouTube](https://www.youtube.com/FateSRD.html)
+  Apr 06, 2021![[FateSRDLogo.jpg]]OTHER](../index.html)- [YouTube](https://www.youtube.com/FateSRD.html)

@@ -256,7 +256,7 @@ Ramming a ship requires two exchanges. On the first exchange, your ship's naviga
 
 **Repairs:** The ship's crew can roll Craft to attempt to remove damage-related aspects from the ship. During a conflict, the crew cannot attempt to recover damage-related consequences, but they can create aspects to represent temporary repairs, such as [Held Together with Twine and Hope] or [We Didn't Need That Gear Anyway]. Any character on the ship can invoke a temporary repair aspect in response to an opponent invoking a consequence on the ship.
 
-**Gunnery:** A ship can fire its guns at a single target per exchange. This can be represented as an attack action or [[create advantage]] action, attempting to create an aspect on an enemy ship, such as [Shredded Sails]. The targeted vessel can defend or actively oppose, as appropriate, using Sail.
+**Gunnery:** A ship can fire its guns at a single target per exchange. This can be represented as an attack action or [[Create Advantage]] action, attempting to create an aspect on an enemy ship, such as [Shredded Sails]. The targeted vessel can defend or actively oppose, as appropriate, using Sail.
 
 **Signaling:** Once per exchange, a ship can transmit a single message using its signaling lanterns. To judge whether a message can be sent during a single exchange, assume that signaling speed is roughly similar to that of Morse code—about forty words per minute. Normally, signaling does not require a roll, but it does use the signaling character's action for the exchange.
 

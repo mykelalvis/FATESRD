@@ -45,4 +45,4 @@ Aside
 - [Privacy Policy](../privacy-policy/index.html)
 - [Fate SRD in  Spanish](https://fate.1d12monos.com/index.html)
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]

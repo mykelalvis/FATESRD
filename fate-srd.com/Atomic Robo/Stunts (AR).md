@@ -33,8 +33,8 @@ Alternately, for a stunt with a little more breadth, you can split up that +2 bo
 
 **Examples:**
 
-- **Expert Marksman:** +1 to attack or [[create advantage]] with Combat when using a firearm.
-- **Martial Artist:** +1 to [[create advantage]] with Combat or [[Athletics]] when fighting unarmed.
+- **Expert Marksman:** +1 to attack or [[Create Advantage]] with Combat when using a firearm.
+- **Martial Artist:** +1 to [[Create Advantage]] with Combat or [[Athletics]] when fighting unarmed.
 
 ### Add a New Action to a Skill
 

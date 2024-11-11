@@ -154,7 +154,7 @@ always be a possible consequence.
 
 #### Stunts
 
-**Blood Sisters:** When you use [[Rapport]] to [[create advantage]] on a
+**Blood Sisters:** When you use [[Rapport]] to [[Create Advantage]] on a
 friendly NPC, gain an additional free invoke on the aspect you create,
 even on a tie.
 
@@ -337,7 +337,7 @@ particularly from the monstrous child's point of view.
 #### Stunts
 
 **Purity of Purpose:** Survival is what you're best at. Gain +2 to
-[[create advantage]] using [[Crafts]] whenever you're stranded in a hostile
+[[Create Advantage]] using [[Crafts]] whenever you're stranded in a hostile
 environment, like someone else's body.
 
 **Get Away From Her, You Bitch:** Treat any success where you are

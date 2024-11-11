@@ -211,7 +211,7 @@ Characters may use [[Burglary]] to disable an alarm, thus making it more
 difficult to sound the alarm. If successful, remove the alarm label. The
 opposition is equal to the Security of the House.
 
-Leading up to the heist, characters may [[create advantage]] (maybe using
+Leading up to the heist, characters may [[Create Advantage]] (maybe using
 [[Rapport]] to get a job within the House) that gives them authority to be
 in one or two of the zones. Guards can't actively target the character
 in such zones.

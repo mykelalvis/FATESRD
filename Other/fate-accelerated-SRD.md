@@ -160,7 +160,7 @@ Describe your character's appearance and give them a name.
 
 In Fate, we use a ladder of adjectives and numbers to rate a character's approaches, the result of a roll, difficulty ratings for simple checks, etc.
 
-Here's the ladder:
+Here's [[the ladder]]:
 
 |    |           |
 | -- | --------- |
@@ -344,7 +344,7 @@ If you're trying to take advantage of an aspect you already know about:
 
 **ACTIONS & OUTCOMES: THE 30-SECOND VERSION**
 
-**[[create advantage]] when creating or discovering aspects:**
+**[[Create Advantage]] when creating or discovering aspects:**
 
 - **Fail:** Don't create or discover, or you do but your opponent (not you) gets a free invocation.
 
@@ -354,7 +354,7 @@ If you're trying to take advantage of an aspect you already know about:
 
 - **Succeed with Style: **Create or discover the aspect, get two free invocations on it.
 
-**[[create advantage]] on an aspect you already know about:**
+**[[Create Advantage]] on an aspect you already know about:**
 
 - **Fail:** No additional benefit.
 
@@ -422,7 +422,7 @@ Use an attack when you try to hurt someone, whether physically or mentally—swi
 
 ###>Defend</h3>
 
-Use defend when you're actively trying to stop someone from doing any of the other three actions—you're parrying a sword strike, trying to stay on your feet, blocking a doorway, and the like. Usually this action is performed onsomeone else's turn, reacting to their attempt to attack, overcome, or create an advantage. You may also roll to oppose some non-[[attack]] actions, or to defend against an attack on someone else, if you can explain why you can. Usually it's fine if most people at the table agree that it's reasonable, but you can also point to an relevant [[situation aspect]] to justify it. When you do, you become the target for any bad results.
+Use defend when you're actively trying to stop someone from doing any of the other three actions—you're parrying a sword strike, trying to stay on your feet, blocking a doorway, and the like. Usually this action is performed onsomeone else's turn, reacting to their attempt to attack, overcome, or create an advantage. You may also roll to oppose some non-[[Attack]] actions, or to defend against an attack on someone else, if you can explain why you can. Usually it's fine if most people at the table agree that it's reasonable, but you can also point to an relevant [[situation aspect]] to justify it. When you do, you become the target for any bad results.
 
 - If you fail: You're on the receiving end of whatever your opponent's success gives them.
 
@@ -472,7 +472,7 @@ But sometimes things are a little more complex.
 
 ## Challenges
 
-A challenge is a series of [[overcome]] and [[create advantage]] actions that you use to resolve an especially complicated situation. Each overcome action deals with one task or part of the situation, and you take the individual results together to figure out how the situation resolves.
+A challenge is a series of [[Overcome]] and [[Create Advantage]] actions that you use to resolve an especially complicated situation. Each overcome action deals with one task or part of the situation, and you take the individual results together to figure out how the situation resolves.
 
 To set up a challenge, decide what individual tasks or goals make up the situation, and treat each one as a separate overcome roll.
 
@@ -647,7 +647,7 @@ Character Aspects: These aspects are on your character sheet, such as your  and 
 Examples: Captain of the Skyship Nimbus; On the Run From the Knights of the Circle;Attention to Detail; I Must Protect My Brother 
 ---
 
-Situation Aspects: These aspects describe the surroundings that the action is taking place in. This includes aspects you create or discover using the [[create advantage]] action. A [[situation aspect]] usually vanishes at the end of the scene it was part of, or when someone takes some action that would change or get rid of it. Essentially, they last only as long as the situational element they represent lasts. 
+Situation Aspects: These aspects describe the surroundings that the action is taking place in. This includes aspects you create or discover using the [[Create Advantage]] action. A [[situation aspect]] usually vanishes at the end of the scene it was part of, or when someone takes some action that would change or get rid of it. Essentially, they last only as long as the situational element they represent lasts. 
 ---
 
 Examples: On Fire; Bright Sunlight; Crowd of Angry People; Knocked to the Ground 
@@ -705,7 +705,7 @@ Important: You can only invoke any aspect once on a given dice roll; you can't s
 
 If you're invoking an aspect to add a bonus or reroll your dice, wait until after you've rolled to do it. No sense spending a [[fate point]] if you don't need to!
 
-Free invocations: , without paying a [[fate point]]. If you create or discover an aspect through the [[create advantage]] action, the first invocation on it (by you or an ally) is free (if you succeeded with style, you get two freebies). If you cause a consequence through an attack, you or an ally can invoke it once for free. A  is a special kind of aspect that grants one free invocation, then it vanishes.
+Free invocations: , without paying a [[fate point]]. If you create or discover an aspect through the [[Create Advantage]] action, the first invocation on it (by you or an ally) is free (if you succeeded with style, you get two freebies). If you cause a consequence through an attack, you or an ally can invoke it once for free. A  is a special kind of aspect that grants one free invocation, then it vanishes.
 
 ###>Compelling Aspects</h3>
 
@@ -785,7 +785,7 @@ For example:
 
 ---
 
-Sometimes, if the circumstance is especially restrictive, you can apply the stunt to both the [[create advantage]] action and the overcome action.
+Sometimes, if the circumstance is especially restrictive, you can apply the stunt to both the [[Create Advantage]] action and the overcome action.
 
 The second type of stunt lets you make something true, do something cool, or otherwise ignore the usual rules in some way. Use this template:
 
@@ -1242,7 +1242,7 @@ STUNTS
 
 
 
-Experimental Helo Pack: When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly [[create advantage]] or overcome an obstacle if flying would be both possible and helpful.
+Experimental Helo Pack: When I use my Experimental Helo Pack, I gain a +2 bonus to Quickly [[Create Advantage]] or overcome an obstacle if flying would be both possible and helpful.
 
 Gadgeteer: Because I am a Gadgeteer, once per session I may declare that I have an especially useful device that lets me eliminate one [[situation aspect]]. (May take one more stunt without reducing refresh!)
 

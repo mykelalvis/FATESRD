@@ -88,7 +88,7 @@ The Pandora away team, point-of-first-contact for the science ship
 
 In addition to a countdown clock, fronts also contain a number of special rule revisions that focus play on the important themes of the setting.
 
-**Black Ichor:** The Arch generates a black ichor that, when ingested, grants a mental connection to the Founders across time and space. Those who imbibe it gain a +2 to all overcome or [[create advantage]] rolls when attempting to understand Founder-Tech. However, consuming the ichor has a downside: the consumer grows more alien and Founder-like, their body slowly becoming a biomechanical monstrosity with a psychology distant and removed from the present temporal concerns of its current universe.
+**Black Ichor:** The Arch generates a black ichor that, when ingested, grants a mental connection to the Founders across time and space. Those who imbibe it gain a +2 to all overcome or [[Create Advantage]] rolls when attempting to understand Founder-Tech. However, consuming the ichor has a downside: the consumer grows more alien and Founder-like, their body slowly becoming a biomechanical monstrosity with a psychology distant and removed from the present temporal concerns of its current universe.
 
 **Arch Activity:** In addition to the events described in the front, every two hours there's a chance of Arch activity occurring. Roll four fate dice. Starting in the top-left corner, move one column right for each +, and one row down for each -. The result determines what, if anything, comes out of the Arch.
 
@@ -143,7 +143,7 @@ Hitler, obsessed with the occult, has heard of the Arch and believes that he cou
 
 #### Alternate Stunt
 
-**Enhanced Understanding:** The Arch subtly bends its surroundings in ways that aid in scientific understanding or advancements. Anyone nearby with scientific background or training gains a +2 bonus to all [[create advantage]] or overcome rolls when attempting to achieve a scientific breakthrough.
+**Enhanced Understanding:** The Arch subtly bends its surroundings in ways that aid in scientific understanding or advancements. Anyone nearby with scientific background or training gains a +2 bonus to all [[Create Advantage]] or overcome rolls when attempting to achieve a scientific breakthrough.
 
 ### Urban Horror
 

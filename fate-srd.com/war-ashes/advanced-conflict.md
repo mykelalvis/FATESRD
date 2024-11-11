@@ -113,7 +113,7 @@ leave them blank and fill them in as the PCs gain visibility to them.
 Alternately, let the players define some of these aspects by exploring
 these zones. Handling zone aspects in this way gives the players more
 control over their situation and lends a little more unpredictability to
-the combat. This is a [[create advantage]] action, typically using Clever
+the combat. This is a [[Create Advantage]] action, typically using Clever
 or Careful, and can be done from another zone, provided the character in
 question can see into the unexplored zone. Generally speaking, you
 can't replace an existing zone aspect, unless the aspect itself is
@@ -457,7 +457,7 @@ entirely on context. Generally speaking, if the mere presence of allies
 in a zone would help accomplish something, it's reasonable to include
 the weight advantage.
 
-> _Rolf wants to [[create advantage]] against the horde of goblins he's
+> _Rolf wants to [[Create Advantage]] against the horde of goblins he's
 > fighting by toppling a ruined wall onto them. He and his allies
 > outweigh the goblins in their zone, but in this case that's not
 > really helping him since he's acting alone, so he'll roll as usual._
@@ -534,7 +534,7 @@ _Olivia and Rolf have run into three big (weight 2) swarms of vampire
 bats spread out around the ancient ruins they were exploring. Right now
 the heroes are outweighed so their particular weapons are useless
 against the swarm. With all his might, Rolf knocks one of the giant
-pillars loose and uses the [[create advantage]] action to add the
+pillars loose and uses the [[Create Advantage]] action to add the
 aspect [**Wobbly Pillar**]. On her action Olivia invokes the
 aspect for effect and is able to attack one of the swarms by pushing the
 pillar and letting it crash down on the bats._
@@ -652,7 +652,7 @@ they defended with style.
 > Alas for Rolf, the pirates defend with style, gaining not only a boost
 > as normal but an **additional *_boost for the failed charge._
 
-**Full Defense**: When you [[create advantage]] to improve your defenses
+**Full Defense**: When you [[Create Advantage]] to improve your defenses
 against attacks this turn, you create a ***[Full
 Defense] ***aspect that you can invoke freely once for every
 attack made against you, but the advantage goes away once you take any

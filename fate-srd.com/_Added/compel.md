@@ -1,3 +1,7 @@
+---
+date created: 2024-11-11 11:15
+---
+
 # Compelling Aspects
 
 If you're in a situation where having or being around a certain aspect means your character's life is more dramatic or complicated, anyone can compel the aspect. You can even compel it on yourself---that's called a self-compel. Compels are the most common way for players to earn more [[fate point]]s.
@@ -6,7 +10,7 @@ There are two types of compels.
 
 ## Decision compels
 
-This sort of compel suggests the answer to a decision your character has to make. If your character is [Princess of Alaria], for example, you may need to stay to lead the defense of the Royal Alarian Castle rather than fleeing to safety. Or if you have a [Defiant Streak a Mile Wide], maybe you can't help but mouth off to the Dean of Discipline when he questions you.
+This sort of compel suggests the answer to a decision your character has to make. If your character is `Princess of Alaria`, for example, you may need to stay to lead the defense of the Royal Alarian Castle rather than fleeing to safety. Or if you have a `Defiant Streak a Mile Wide`, maybe you can't help but mouth off to the Dean of Discipline when he questions you.
 
 ## Event compels
 

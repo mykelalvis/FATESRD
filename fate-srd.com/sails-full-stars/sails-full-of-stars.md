@@ -31,5 +31,5 @@ In the year 1850, three empires struggle for control of the solar system- the Ot
  
 
 
-- ![[FateSRDLogo.svg]]
+- ![[FateSRDLogo.jpg]]
 - [YouTube](https://www.youtube.com/FateSRD.html)

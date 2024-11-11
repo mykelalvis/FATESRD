@@ -23,7 +23,7 @@ Everyone taking part cites a reason why they're getting involved by compelling a
 
 ### Step Two: Establish the First Fact
 
-Next, all participants roll _simultaneously_ to [[create advantage]] using a relevant skill against a difficulty of Good (+3). Each player can (and is encouraged to) use a different skill. The relevance of the skill here will depend entirely on the situation at hand. In any case, it should be a skill that covers something the player will want to talk about more, or that sparks an idea.
+Next, all participants roll _simultaneously_ to [[Create Advantage]] using a relevant skill against a difficulty of Good (+3). Each player can (and is encouraged to) use a different skill. The relevance of the skill here will depend entirely on the situation at hand. In any case, it should be a skill that covers something the player will want to talk about more, or that sparks an idea.
 
 Whoever succeeds _and_ has the highest result (make a note of number) is the "winner." The winner gets to do two things. First, they record one or more victories, depending on the margin of success.
 

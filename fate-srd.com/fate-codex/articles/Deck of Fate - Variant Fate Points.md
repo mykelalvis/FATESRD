@@ -126,7 +126,7 @@ cards quickly and challenging every result. If you do this, however,
 players will need to accept a lot more compels to collect enough fate
 cards to keep up the pace.## Free Invokes
 
-When you use a [[create advantage]] roll to create a new aspect with free
+When you use a [[Create Advantage]] roll to create a new aspect with free
 invokes---or add free invokes to an existing aspect---draw a number of
 cards to your hand from the Deck of Fate equal to the number of free
 invokes you create. Place that number of cards from your hand face up
@@ -171,7 +171,7 @@ The goal of variant [[fate point]]s is to give aspects some new depth and
 variety, creating that moment when a special feature of your character
 makes all the difference in the world. It suits settings where big
 changes in momentum are fun---like space opera---and gives players new
-ways to use [[create advantage]] to work together. At the same time, it
+ways to use [[Create Advantage]] to work together. At the same time, it
 retains the key parts of Fate that matter to a coherent story, and it
 will challenge your group to continue to add narrative detail every time
 a card is played. I hope you enjoy it at your table!

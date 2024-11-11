@@ -43,7 +43,7 @@ When setting the scene, the GM should think of interesting and dynamic environme
 
 Anyone can invoke and compel these aspects, so remember to take them into account when you wrestle that cultist to the ground amid the [Caustic Slime Covering Everything].
 
-More situation aspects can be written down as the scene plays out. If it makes sense that there are [Deep Shadows] in the recesses of the catacombs, go ahead and write that down when a player asks if there are any shadows they can use to hide. Other aspects come into play because characters use the [[create advantage]] action. Things like [Flames Everywhere!] don't just happen without character action. Well. Usually.
+More situation aspects can be written down as the scene plays out. If it makes sense that there are [Deep Shadows] in the recesses of the catacombs, go ahead and write that down when a player asks if there are any shadows they can use to hide. Other aspects come into play because characters use the [[Create Advantage]] action. Things like [Flames Everywhere!] don't just happen without character action. Well. Usually.
 
 #### Free Invokes on the scene's aspects?
 
@@ -71,13 +71,13 @@ Fate offers three methods for teamwork: combining the same skill from multiple c
 
 When you combine skills, figure out who has the highest level in the skill among the participants. Each other participant who has at least Average (+1) in that skill adds a +1 to the highest person's skill level. Providing support like this uses your action. Supporters face the same costs and consequences as the person making the roll. The maximum total bonus a team may provide this way is equal to the highest person's skill level.
 
-Otherwise, you can [[create advantage]] on your turn and let an ally use the free invokes when it makes sense that they can. Outside of your turn, you may invoke an aspect to add a bonus to someone else's roll.
+Otherwise, you can [[Create Advantage]] on your turn and let an ally use the free invokes when it makes sense that they can. Outside of your turn, you may invoke an aspect to add a bonus to someone else's roll.
 
 ## Challenges
 
 Many of the difficulties your characters face can be handled with a single roll in the course of a scene---disarm the bomb, find the tome of eldritch lore, or decode the cypher. But sometimes things are more fluid, more complicated, and it's just not as simple as finding the tome of eldritch lore because the yacht you're searching is careening through Hong Kong harbor while a monsoon rages outside and the boat's library is on fire---which is totally not your fault.
 
-In complicated circumstances with no opposition, you'll want to use a [[challenge]]: a series of [[overcome]] actions that tackle a bigger issue. [[Challenge]]s let the entire group work together in a scene, and they keep things dynamic.
+In complicated circumstances with no opposition, you'll want to use a [[challenge]]: a series of [[Overcome]] actions that tackle a bigger issue. [[challenge]]s let the entire group work together in a scene, and they keep things dynamic.
 
 To set up a challenge, the GM considers the situation and picks a number of skills that can contribute to the success of the group. Treat each action as a separate overcome roll. Teamwork actions are allowed, but may introduce costs or complications, such as running out of time or other inefficiencies.
 
@@ -91,7 +91,7 @@ A [[contest]] is when two or more sides are in direct opposition but there isn't
 
 At the start of a contest, everyone involved declares their intent, what they hope to get out of it. If there are multiple PCs involved, they can be on the same or different sides, depending on their goals---_e.g.,_ in a foot race, each character might be on their own side. **In a contest, the PCs can't or aren't trying to harm the enemy. External threats (e.g., erupting volcano, angry god) may attack any or all sides; those threats might also be a participant in the contest.**
 
-Contests occur over a series of exchanges. Each side takes one overcome action to do something to achieve their goals during each exchange. Only one character on each side takes the overcome action in each exchange, but their allies can provide teamwork and try to create advantages to assist (which comes with some risk---see below). The [[overcome]] actions can be against passive difficulties---if the contestants are facing separate environmental challenges---or compared against one another when they're in direct competition.
+Contests occur over a series of exchanges. Each side takes one overcome action to do something to achieve their goals during each exchange. Only one character on each side takes the overcome action in each exchange, but their allies can provide teamwork and try to create advantages to assist (which comes with some risk---see below). The [[Overcome]] actions can be against passive difficulties---if the contestants are facing separate environmental challenges---or compared against one another when they're in direct competition.
 
 At the end of each exchange, compare the efforts of each side's action. The side with the highest effort marks a **victory**. If the victor succeeds with style---and no one else did---then they mark **two** victories. The first one to three victories wins the contest. (You can always decide instead to run an extended contest requiring more victories, though we recommend no more than five.)
 
@@ -101,7 +101,7 @@ In contests where a threat is trying to harm any of the contestants, everyone on
 
 ### Creating Advantages in a Contest
 
-During any exchange, your side can try to create advantages before making your overcome roll. The target, or anyone else who can reasonably interfere, may oppose with a defend roll as normal. Each participant may attempt to [[create advantage]] in addition to rolling or providing a [[#Teamwork|teamwork bonus]]. If you fail to create an advantage, you have a choice: either your side forfeits its overcome roll, or you may "succeed at a cost" (preserving your roll or teamwork bonus) by giving the other side a free invoke instead. If you at least tie, proceed as normal with your roll or bonus.
+During any exchange, your side can try to create advantages before making your overcome roll. The target, or anyone else who can reasonably interfere, may oppose with a defend roll as normal. Each participant may attempt to [[Create Advantage]] in addition to rolling or providing a [[#Teamwork|teamwork bonus]]. If you fail to create an advantage, you have a choice: either your side forfeits its overcome roll, or you may "succeed at a cost" (preserving your roll or teamwork bonus) by giving the other side a free invoke instead. If you at least tie, proceed as normal with your roll or bonus.
 
 ## Conflicts
 
@@ -111,7 +111,7 @@ Conflicts may seem the most straightforward---after all, the history of roleplay
 
 Conflicts can be physical or mental. Physical conflicts can be shoot-outs, sword-fights, or ramming extradimensional beings with trucks. Mental conflicts include arguments with loved ones, interrogations, and eldritch assaults upon the mind.
 
-Timing matters when using some kinds of [teamwork](index.html#teamwork). You can invoke an aspect on your ally's behalf to improve their roll at any time. You can help an ally before their turn comes around by creating an advantage or giving a +1 bonus as your action. If they take their turn ahead of you in the exchange, you can't [[create advantage]] to help them, but you can use up your turn (skipping it for that exchange) to give them a +1 teamwork bonus.
+Timing matters when using some kinds of [teamwork](index.html#teamwork). You can invoke an aspect on your ally's behalf to improve their roll at any time. You can help an ally before their turn comes around by creating an advantage or giving a +1 bonus as your action. If they take their turn ahead of you in the exchange, you can't [[Create Advantage]] to help them, but you can use up your turn (skipping it for that exchange) to give them a +1 teamwork bonus.
 
 ### Taking Harm
 
@@ -147,7 +147,7 @@ Charles is still battling the ghoul. It claws at him, this time rolling a [00++]
 
 #### Getting Taken Out
 
-If you can't absorb all the [[shift]]s of a hit with stress and consequences, you're []**taken out**.
+If you can't absorb all the [[shift]]s of a hit with stress and consequences, you're [[Taken Out]].
 
 Getting taken out is bad. Whoever took you out decides what happens. Given dangerous situations and powerful enemies, this could mean you're dead, but that's not the only possibility. The outcome must be in keeping with the scope and scale of the conflict at hand---you won't die of shame if you lose an argument---but changes to your character sheet (and more) are possible. The outcome should also fit within the boundaries your group has established---if your group feels that characters should never get killed without the player's consent, that's perfectly valid.
 
@@ -155,13 +155,13 @@ But even when death is on the table (it's best to be clear about that before a r
 
 Follow the fiction when describing how someone---or something---is taken out. Was a cultist taken out by a barrage of machine gun fire? A spray of red fills the air as they slump with a wet thump to the ground. Were you hurled from the truck as it crossed the 26th Street overpass? You disappear over the edge and are left behind as the conflict rumbles on along the Dan Ryan. Keep death in mind when discussing the terms of being taken out, but often it's just as interesting to cheat death.
 
-The ghoul gets in a very lucky hit, dealing a Legendary (+8) attack against Charles's Poor (-1) defense. By this point in the conflict, all of Charles's stress boxes are full, as is his moderate consequence slot. Even if he were to take a mild and a severe consequence at once, absorbing eight [[shift]]s, it wouldn't be enough. As a result, Charles is taken out. The ghoul gets to decide his fate. The GM would be within their rights to have the ghoul kill Charles then and there...but getting killed isn't the most interesting result.
+> The ghoul gets in a very lucky hit, dealing a Legendary (+8) attack against Charles's Poor (-1) defense. By this point in the conflict, all of Charles's stress boxes are full, as is his moderate consequence slot. Even if he were to take a mild and a severe consequence at once, absorbing eight [[shift]]s, it wouldn't be enough. As a result, Charles is taken out. The ghoul gets to decide his fate. The GM would be within their rights to have the ghoul kill Charles then and there...but getting killed isn't the most interesting result.
 
-Instead, the GM declares that Charles survives, getting knocked out and dragged to the ghoul's lair, consequences intact. Charles will wake up lost and very fragile in the pitch-dark catacombs beneath the city. Because he was taken out, Charles has no choice but to accept the terms laid before him.
+> Instead, the GM declares that Charles survives, getting knocked out and dragged to the ghoul's lair, consequences intact. Charles will wake up lost and very fragile in the pitch-dark catacombs beneath the city. Because he was taken out, Charles has no choice but to accept the terms laid before him.
 
 #### Conceding
 
-So how do you keep from dying horribly---or worse? You can interrupt any action in a conflict to []**concede** as long as the dice haven't hit the table yet. Just give in. Tell everyone that you're done, that you can't keep going. Your character loses and exits the conflict, but **you gain a [[fate point]]** plus an extra one for each consequence they took in the current conflict.
+So how do you keep from dying horribly---or worse? You can interrupt any action in a conflict to **concede** as long as the dice haven't hit the table yet. Just give in. Tell everyone that you're done, that you can't keep going. Your character loses and exits the conflict, but **you gain a [[fate point]]** plus an extra one for each consequence they took in the current conflict.
 
 Also, concession means _you_ declare the terms of your loss and how you exit the conflict. You can escape the monsters and live to fight another
 day. It is a loss, though. You'll have to give your foe something they want. You can't concede and describe how you heroically save the day---that's not on the table anymore.

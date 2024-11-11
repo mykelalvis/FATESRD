@@ -2,7 +2,7 @@
 date created: 2022-10-18 08:09
 ---
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]
 
 [[Fate System Toolkit]]
 
@@ -10,7 +10,7 @@ date created: 2022-10-18 08:09
 
 Skills already let you do a wide range of things, but they can be even
 more flexible than they initially appear. If you take a look at the
-skill list, you can see that every single skill has the [[overcome]] and [[create advantage]] actions checked. This opens a lot of possibilities,
+skill list, you can see that every single skill has the [[Overcome]] and [[Create Advantage]] actions checked. This opens a lot of possibilities,
 even for skills that don't seem to have a lot of interesting uses.
 
 If a character has a high rank in a skill, Good (+3) or higher, this
@@ -29,13 +29,13 @@ hand-to-hand weapons.
 This opens up lots of possibilities for overcome or create an advantage
 actions. A [[Shoot]] expert could use their skill in an overcome action to
 find a gun seller in a new place, for example. [[Shoot]] could be used to
-[[create advantage]] by identifying the type of gun by the sound of its
+[[Create Advantage]] by identifying the type of gun by the sound of its
 shot and filling in details on the limitations of the model, or by
 noticing that an enemy's weapon has not been properly cared for and
 could possibly malfunction.
 
 [[Provoke]] might seem to be a harder skill to expand, but with [[Provoke]], an
-expert could [[create advantage]] to discover an opponent is bluffing, or
+expert could [[Create Advantage]] to discover an opponent is bluffing, or
 to identify which person in a group of opponents is the biggest threat.
 
 You can use other skills in a similar way. [[Burglary]] experts can find

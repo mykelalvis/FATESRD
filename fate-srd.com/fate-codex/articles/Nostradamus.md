@@ -399,7 +399,7 @@ giving you orders. You need [[Will]] for that.
 
 **Control, Don't Feel.** Once per session, you can gird yourself against
 what's to come by giving yourself orders and instructions. Roll Command
-against a Fair (+2) difficulty to [[create advantage]] on yourself with
+against a Fair (+2) difficulty to [[Create Advantage]] on yourself with
 two free invokes on a success and three free invokes on a success with
 style.
 

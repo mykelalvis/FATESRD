@@ -597,7 +597,7 @@ Material Mimic
 
 You are what you touch.
 
-**Basic Material Mimicry:** While in contact with any material—iron, stone, wood, and so on—you can alter your body to mimic that substance, turning into a living statue. To do so, [[create advantage]] using [[Physique]] against Fair (+2) opposition. If you succeed, you gain an aspect reflecting your new state, such as [Body of Steel]. You may only have one such aspect at once, and it goes away if you break contact with the substance you're mimicking.
+**Basic Material Mimicry:** While in contact with any material—iron, stone, wood, and so on—you can alter your body to mimic that substance, turning into a living statue. To do so, [[Create Advantage]] using [[Physique]] against Fair (+2) opposition. If you succeed, you gain an aspect reflecting your new state, such as [Body of Steel]. You may only have one such aspect at once, and it goes away if you break contact with the substance you're mimicking.
 
 ### Enhancements
 
@@ -907,7 +907,7 @@ Shape-Shifting
 
 You are what you want to be.
 
-**Basic Shape-Shifting:** You can change your form into that of any creature. You can use [[Will]] to [[create advantage]] of [Creature Form]. The opposition is generally Fair (+2), though it increases for particularly large or small shapes and for complex transformations like a swarm of bees. Your new shape persists until you decide to end it or get taken out.
+**Basic Shape-Shifting:** You can change your form into that of any creature. You can use [[Will]] to [[Create Advantage]] of [Creature Form]. The opposition is generally Fair (+2), though it increases for particularly large or small shapes and for complex transformations like a swarm of bees. Your new shape persists until you decide to end it or get taken out.
 
 ### Enhancements
 

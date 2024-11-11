@@ -344,7 +344,7 @@ ways, characters may also make Create Advantage, Overcome, or Defend
 rolls using this skill.
 
 **[[Investigate]]:** [[Investigate]] allows Ghosts to uncover previously hidden
-details about mortals. [[Shift]]s on this [[create advantage]] roll are opposed
+details about mortals. [[Shift]]s on this [[Create Advantage]] roll are opposed
 by a difficulty set by the GM, based on how outlandish the new details
 are; for instance, uncovering that someone is left-handed would be
 easier than uncovering that someone is secretly the head of a worldwide
@@ -352,7 +352,7 @@ criminal organization.
 
 **[[Lore]]:** [[Lore]] can be used to provide mortals with a mental flash of
 inspiration, gifting them with knowledge they did not previously
-possess. [[Shift]]s on this Overcome or [[create advantage]] roll are opposed by
+possess. [[Shift]]s on this Overcome or [[Create Advantage]] roll are opposed by
 a difficulty set by the GM, based on how improbable their insight is.
 
 **[[Notice]]:** [[Notice]] can be used to focus a mortal's attention on
@@ -360,14 +360,14 @@ something specific or alert them to danger. If successful, the GM
 focuses the mortal's attention on something of the Ghost's choice.
 
 **[[Physique]]:** [[Physique]] can be used to create impassable spiritual
-barriers. [[Shift]]s on this [[create advantage]] roll are opposed by a
+barriers. [[Shift]]s on this [[Create Advantage]] roll are opposed by a
 difficulty set by the GM, based on how large the desired barrier is,
 with excess [[Shift]]s setting the difficulty of the Overcome roll needed to
 pass through the barrier. These barriers can be invoked to block mortals
 from harm.
 
 **[[Provoke]]:** [[Provoke]] can be used to implant mental suggestions in a
-mortal or a non-sentient being. [[Shift]]s on this [[create advantage]] or
+mortal or a non-sentient being. [[Shift]]s on this [[Create Advantage]] or
 Overcome roll are opposed by the target's Careful, Forceful, or [[Will]], as
 appropriate.
 

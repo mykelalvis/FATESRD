@@ -889,4 +889,4 @@ something to the list, [let us know](../contact-us/index.html).
 - [Traditional Magic for
   Fate](https://ambergwitz.itch.io/traditional-magic-for-fate)
 
-![[FateSRDLogo.svg]]OTHER](../index.html)- [YouTube](https://www.youtube.com/FateSRD.html)
+![[FateSRDLogo.jpg]]OTHER](../index.html)- [YouTube](https://www.youtube.com/FateSRD.html)

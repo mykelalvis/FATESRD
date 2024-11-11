@@ -149,7 +149,7 @@ Mediocre (+0) Quick
 
 Because I am an [Escape Artist], once per game session I can find a way out from a conflict or tense situation, no matter how impossible it seems.
 
-Because I [Have Many Friends], I get +2 when I Cleverly [[create advantage]] by surrounding myself with mooks.
+Because I [Have Many Friends], I get +2 when I Cleverly [[Create Advantage]] by surrounding myself with mooks.
 
 ## Naomi Pine
 
@@ -173,7 +173,7 @@ Mediocre (+0) Forceful
 
 Because I am a [Tastemaker], I get +2 when I Cleverly attack someone by insulting their personal style.
 
-Because I [Have Dirt on Everyone], I get +2 when I Sneakily [[create advantage]] by blackmailing one of Anthony's memories.
+Because I [Have Dirt on Everyone], I get +2 when I Sneakily [[Create Advantage]] by blackmailing one of Anthony's memories.
 
 ### The Lairs
 
@@ -336,7 +336,7 @@ The arguments draw on what the SPIRITs have learned about the client and may inv
 
 Remind them of _The Christmas Carol_---their argument can be kind and beautiful or scary and intimidating. They can sneak up to their point or outright tell the client what they need to know. Let the players decide their own approach.
 
-The story or scenario allows the players to [[create advantage]] to raise their roll by framing the argument to be its most persuasive. Players can also invoke any positive aspects from the dossier that fit within their argument, building to a final roll at the conclusion of the argument against the difficulty set by the GM.
+The story or scenario allows the players to [[Create Advantage]] to raise their roll by framing the argument to be its most persuasive. Players can also invoke any positive aspects from the dossier that fit within their argument, building to a final roll at the conclusion of the argument against the difficulty set by the GM.
 
 The client's initial resistance overall is a +30 challenge, divided evenly into three. For each figment the SPIRITs disempowered, the resistance lowers by 5 points. If the SPIRITs defeat all three figments, the challenge level is +15. This means that the difficulty of each of the three arguments must overcome will range from +5 to +10. Any leftover points are assigned at the GM's discretion.
 
@@ -397,7 +397,7 @@ Mediocre (+0) Sneaky
 
 Because I _Mask My Skills_ with humor, I get +2 when I Forcefully attack by deciding to take something seriously.
 
-Because I have a _Perfect Memory_, I can [[create advantage]] once per session from my recollections of any room in the mental landscape.
+Because I have a _Perfect Memory_, I can [[Create Advantage]] once per session from my recollections of any room in the mental landscape.
 
 [Open Slot]
 
@@ -428,7 +428,7 @@ Mediocre (+0) Flashy
 
 Because _Silence Is My Weapon_, I get +2 when I Carefully overcome someone's reluctance to talk by silently waiting them out.
 
-Because _People Misjudge Me_, I get +2 when I Cleverly [[create advantage]] by surprising someone with a well-timed quip.
+Because _People Misjudge Me_, I get +2 when I Cleverly [[Create Advantage]] by surprising someone with a well-timed quip.
 
 [Open Slot]
 

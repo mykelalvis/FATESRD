@@ -248,7 +248,7 @@ world. You gain a +2 bonus to [[Rapport]] rolls when dealing with
 supernatural entities.
 
 **Hidden Among Humanity:** You gain a +2 to Hide rolls when attempting
-to [[create advantage]] to pretend that you're just a normal human being.
+to [[Create Advantage]] to pretend that you're just a normal human being.
 
 ### Awakened Human (Esoteric Agent)
 
@@ -750,7 +750,7 @@ Heightened Senses. Elisa gains a +2 to [[Notice]] rolls when overcoming an
 advantage at night.
 
 Sure Shot. Elisa gains a +2 bonus to [[Shoot]] rolls when attempting to
-[[create advantage]] to slow a target.
+[[Create Advantage]] to slow a target.
 
 ### Stress
 
@@ -1087,7 +1087,7 @@ world. You gain a +2 bonus to [[Rapport]] rolls when dealing with
 supernatural entities.
 
 **Hidden Among Humanity:** You gain a +2 to Hide rolls when attempting
-to [[create advantage]] to pretend that you're just a normal human being.
+to [[Create Advantage]] to pretend that you're just a normal human being.
 
 ### Awakened Human (Esoteric Agent)
 
@@ -1589,7 +1589,7 @@ Heightened Senses. Elisa gains a +2 to [[Notice]] rolls when overcoming an
 advantage at night.
 
 Sure Shot. Elisa gains a +2 bonus to [[Shoot]] rolls when attempting to
-[[create advantage]] to slow a target.
+[[Create Advantage]] to slow a target.
 
 ### Stress
 

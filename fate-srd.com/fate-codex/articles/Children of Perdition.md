@@ -755,7 +755,7 @@ Average (+1) [[Investigate]], [[Physique]], [[Resources]], [[Shoot]]
 
 ### Stunts
 
-**Born to Ride:** When rolling Ride for [[overcome]] actions, treat any
+**Born to Ride:** When rolling Ride for [[Overcome]] actions, treat any
 success as a success with style and failure as a tie.
 
 **Chain Gang:** +2 on all [[Fight]] rolls when wielding a chain as a weapon.

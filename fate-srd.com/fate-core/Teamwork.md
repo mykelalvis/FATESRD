@@ -18,11 +18,11 @@ If you fail a roll to combine skills, all of the participants share in the poten
 >
 > Amanda's temple guardians only have Average (+1) [[Athletics]], but there are five of them, so they roll Superb (+5) for the purposes of the contest.
 
-When you stack advantages, each person takes a [[create advantage]] action as usual, and gives whatever free invocations they get to a single character. Remember that multiple free invocations from the same aspect can stack.
+When you stack advantages, each person takes a [[Create Advantage]] action as usual, and gives whatever free invocations they get to a single character. Remember that multiple free invocations from the same aspect can stack.
 
 > Zird and Cynere want to set Landon up for an extremely big hit on Tremendor, the much-feared giant of the Northern Wastes.
 >
-> Both Cynere and Zird roll to [[create advantage]] on their turns, resulting in three free invocations on a [Flashy Distraction] they make from Zird's magical fireworks (which succeeded to create the advantage) and Cynere's glancing hits (which succeeded with style to add two more free invocations).
+> Both Cynere and Zird roll to [[Create Advantage]] on their turns, resulting in three free invocations on a [Flashy Distraction] they make from Zird's magical fireworks (which succeeded to create the advantage) and Cynere's glancing hits (which succeeded with style to add two more free invocations).
 >
 > They pass those to Landon, and on his turn, he uses them all for a gigantic +6 to his attack.[]
 

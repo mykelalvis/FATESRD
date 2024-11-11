@@ -10,7 +10,7 @@ If you are looking to license _Fate_ for your own work, visit [Evil Hat's offici
 
 Aside
 
-![[FateSRDLogo.svg]]OTHER](../index.html)- [YouTube](https://www.youtube.com/FateSRD.html)
+![[FateSRDLogo.jpg]]OTHER](../index.html)- [YouTube](https://www.youtube.com/FateSRD.html)
 
 - [Twitter](https://twitter.com/Fate_SRD.html)
 - [About This Site](../about-site/index.html)

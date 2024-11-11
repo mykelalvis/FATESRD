@@ -2,7 +2,7 @@
 date created: 2022-10-18 08:09
 ---
 
-![[FateSRDLogo.svg]]
+![[FateSRDLogo.jpg]]
 
 [[Fate System Toolkit]]
 
@@ -20,8 +20,7 @@ While zones divide up big areas like parking lots and stadiums---showing how dif
 
 ## Dangerous Zone Aspects
 
-Zones can also create drama by restricting movement and providing threats the characters have to overcome. For example, a zone on a battlefield might have the aspect [Taking Heavy Fire], requiring characters to make an [[Athletics]] roll to avoid taking damage as they run through the firefight. Some zones might also disappear after a specified number of turns. Collapsing bridges, sinking ships, and
-closing doors all push characters to move quickly as the battlefield [[shift]]s around them and give the players a chance to force NPCs into those zones to contend with the threats as well.
+Zones can also create drama by restricting movement and providing threats the characters have to overcome. For example, a zone on a battlefield might have the aspect [Taking Heavy Fire], requiring characters to make an [[Athletics]] roll to avoid taking damage as they run through the firefight. Some zones might also disappear after a specified number of turns. Collapsing bridges, sinking ships, and closing doors all push characters to move quickly as the battlefield [[shift]]s around them and give the players a chance to force NPCs into those zones to contend with the threats as well.
 
 ## Mental or Social Zones
 

@@ -53,7 +53,7 @@ The [[Athletics]] skill represents your character's general level of physical fi
 
 ![[def_r.svg|30 ]][[Defend]]: Dodge close-quarters or ranged attacks in a physical conflict.
 
-![[def_r.svg|30 ]][[Defend]]: Counter efforts to [[create advantage]] against you, if you're in a position to physically interfere with whomever's making the attempt, or to keep someone from moving past a certain point.
+![[def_r.svg|30 ]][[Defend]]: Counter efforts to [[Create Advantage]] against you, if you're in a position to physically interfere with whomever's making the attempt, or to keep someone from moving past a certain point.
 
 ### Combat (2 skill points)
 
@@ -112,7 +112,7 @@ attempts with false information.
 
 ![[def_r.svg|30 ]][[Defend]]: See through lies and deceptions to someone's true intent.
 
-![[def_r.svg|30 ]][[Defend]]: Counter someone's attempt to [[create advantage]] against you in a social context. Generally speaking, this usually requires direct contact with them. If you're working through an intermediary, [[Contacts]] is probably a more appropriate skill to use.
+![[def_r.svg|30 ]][[Defend]]: Counter someone's attempt to [[Create Advantage]] against you in a social context. Generally speaking, this usually requires direct contact with them. If you're working through an intermediary, [[Contacts]] is probably a more appropriate skill to use.
 
 ### [[Notice]] (1 skill point)
 
