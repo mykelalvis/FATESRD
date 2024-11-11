@@ -3,3 +3,4 @@
 TEQ/
 *.code-workspace
 *.pdf
+.DS_Store

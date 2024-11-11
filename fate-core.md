@@ -4245,7 +4245,7 @@ An extra in Fate is a pretty broad term. We use it to describe anything that's t
 Some examples of extras include:
 
 - Magic and supernatural powers
-- Specialized gear or equipment, like enchanted arms and armor in a fantasy game or hyper-tech in a sci-fi game
+- Specialized gear or equipment, like enchanted arms and armor in a fantasy game or hyper-tech in a sci-figame
 - Vehicles owned by the characters
 - Organizations or locations that the characters rule or have a lot of influence over
 
@@ -4821,5 +4821,7 @@ Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 Fate Core System and Fate Accelerated Edition © 2013 by Evil Hat Productions, LLC. Developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue.
 
 OPEN CONTENT
+
+
 
 All content in this docment is considered open content.
