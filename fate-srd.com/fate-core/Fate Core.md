@@ -81,8 +81,8 @@ Fate Core is a tabletop roleplaying game about proactive, capable people who lea
 - [[What To Do During Play]]
 - [[Creating and Playing the Opposition]]
 - [[Scenes, Sessions, and Scenarios]]
-	- Defining [[Scenario]]s
-	- Defining [[Scene]]s
+	- [[Defining Scenarios]]
+	- [[Defining the Scene]]
 	- [[Find Problems]]
 	- [[Ask Story Questions]]
 	- [[Establish Opposition]]

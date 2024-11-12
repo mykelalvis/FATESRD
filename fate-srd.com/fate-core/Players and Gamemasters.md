@@ -20,4 +20,4 @@ All of the rules examples in this site refer to the same example game and settin
 
 The participants are Lenny, Lily, Ryan, and Amanda. Amanda is the GM. Lenny plays a thuggish swordsman named Landon. Lily plays the nimble, dashing, and dangerous Cynere, who also happens to love swords. Ryan plays Zird the Arcane, a wizard who, by contrast, has absolutely no love for swords.
 
-Check out [Game Creation](../game-creation/index.html) to see how this game came about. There are character sheets for the example PCs for you to check out. (Currently no example character sheets. -Site Editor)
+Check out [[Game Creation]] to see how this game came about. There are character sheets for the example PCs for you to check out. (Currently no example character sheets. -Site Editor)

@@ -69,7 +69,7 @@ The two main ways to limit a stunt are by keeping its effects to a specific acti
 
 For the best results, use both---have the stunt restricted to a specific action, which can only be used in a very specific in-game situation. If you're worried about the situation being too narrow, back up and think of the ways the skill might be used in play. If you can see the stunt being relevant to one of those uses, you're probably on the right track. If you can't, you may need to adjust the stunt a little to make sure it'll come up.
 
-You can also restrict a stunt by only allowing it to be used once in a certain period of game time, such as once per [[conflict]], once per [[Scene]], or once per [[session]].
+You can also restrict a stunt by only allowing it to be used once in a certain period of game time, such as once per [[conflict]], once per [[scene]], or once per [[session]].
 
 ### Fate Point-Powered Stunts
 

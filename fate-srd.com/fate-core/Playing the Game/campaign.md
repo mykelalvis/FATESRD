@@ -1,0 +1,3 @@
+# Campaign
+
+The sum of all the time you've sat at a table playing this particular game of Fate---every [[session]], every [[scenario]], every [[arc]]. Technically, there's no upper limit to how long a campaign can be. Some groups go for years; others get to the end of an [[arc]] and then stop. It is presumed that a typical group will go for a few [[arc]]s (or about ten [[scenario]]s) before having a grand finale and moving on to another game (hopefully another Fate game!). You might set up your campaign as a kind of "super-arc," where there's one massive [[conflict]] that everything else is a smaller part of, or it might simply consist of the smaller individual stories that you tell in your [[scenario]]s.

@@ -62,7 +62,7 @@ Rather than "modeling the world" or going for "realism," try setting difficultie
 
 (Functionally, this is the same as setting a consistent difficulty and assessing a circumstantial penalty to the roll to reflect rushing the task or some other unfavorable condition. But psychologically, the difference between a high difficulty and a lower difficulty with a penalty is vast and shouldn't be underestimated. A player facing a higher difficulty will often feel like they're being properly challenged, while that same player facing a large penalty, likely chosen at the GM's discretion, will often feel discouraged by it.)
 
-Setting a difficulty low is mainly about showcasing a PC's awesomeness, letting them shine in a particular moment and reminding us why this character is in the spotlight. You can also set lower difficulties during periods when you know the PCs are low on [[fate point]]s, giving them the chance to take compels in order to get more. You should also set lower difficulties on anything that's in the way of the PC's getting to the [[Scene|main action of a scene]]---you don't want them to get stalled at the evil overlord's drawbridge if the point of the scene is confronting the evil overlord!
+Setting a difficulty low is mainly about showcasing a PC's awesomeness, letting them shine in a particular moment and reminding us why this character is in the spotlight. You can also set lower difficulties during periods when you know the PCs are low on [[fate point]]s, giving them the chance to take compels in order to get more. You should also set lower difficulties on anything that's in the way of the PC's getting to the main action of a [[scene]]---you don't want them to get stalled at the evil overlord's drawbridge if the point of the scene is confronting the evil overlord!
 
 Finally, some actions should take lower difficulties by default, especially if no one's contesting or resisting them. Unopposed efforts to create advantages in a conflict should never be harder than Average (+1) or Fair (+2), and neither should attempts to put an aspect on an object or location. Remember that opposition doesn't have to always take the form of an NPC getting in the way---if the evil mastermind has hidden the evidence in his office away from prying eyes, you might consider that a form of opposition, even though the mastermind might not be physically present.
 
@@ -72,9 +72,9 @@ Setting the difficulty right at the PC's skill level is, as you might imagine, s
 
 ### Important: Justify Your Choice
 
-Your only other constraint in setting difficulties goes back to [[the Silver Rule]] above---you need to make sure that your choices make sense in the context of the narrative you're creating. While you shouldn't go crazy with trying to model the world too much and thus box yourself into a useless set of constraints ("Locks in the village of Glenwood are generally of Good quality, due to their proximity to a rich iron mine."), don't look at this purely as a numbers game either. If the only reason for setting a difficulty at Superb (+5) is because it's two higher than the PC's skill level and you want to bleed his [[fate point]]s off, you strain credibility.
+Your only other constraint in setting difficulties goes back to [[the Silver Rule]] --- you need to make sure that your choices make sense in the context of the narrative you're creating. While you shouldn't go crazy with trying to model the world too much and thus box yourself into a useless set of constraints ("Locks in the village of Glenwood are generally of Good quality, due to their proximity to a rich iron mine."), don't look at this purely as a numbers game either. If the only reason for setting a difficulty at Superb (+5) is because it's two higher than the PC's skill level and you want to bleed his [[fate point]]s off, you strain credibility.
 
-In that sense, you can look at setting difficulties as being a lot like invoking aspects---there needs to be a good reason that backs up your choice in the story. It's totally okay if that justification is something you're about to make up, rather than something you know beforehand. Situation aspects are a great tool for this---if the players already know that the cave they're in is [Pitch Black] and [Cramped as Hell], it's easy to justify why it's so hard to stay quiet as they [[Stealth]] through the tunnels. No one will bat an eye at you looking at the relevant situation aspects and giving a +2 to the opposition for each one, because it mirrors the invoke bonus they get.
+In that sense, you can look at setting difficulties as being a lot like invoking aspects---there needs to be a good reason that backs up your choice in the story. It's totally okay if that justification is something you're about to make up, rather than something you know beforehand. Situation aspects are a great tool for this---if the players already know that the cave they're in is `Pitch Black` and `Cramped as Hell`, it's easy to justify why it's so hard to stay quiet as they [[Stealth]] through the tunnels. No one will bat an eye at you looking at the relevant situation aspects and giving a +2 to the opposition for each one, because it mirrors the invoke bonus they get.
 
 Either way, don't skip the justification part---either let the players know what it is immediately when you tell them the difficulty, or shrug mysteriously and then let them find out soon thereafter (as in, the time it takes to think it up).
 
@@ -91,7 +91,7 @@ For others, it's not so clear. What's happens when you get a lot of [[shift]]s o
 Here are a few choice options.
 
 - **Go Gonzo with the Narration**: It might seem superfluous, but it's important to celebrate a great roll with a suitable narration of over the top success. This is a great time to take the suggestions above for [[#Making Failure Awesome]] and applying them here. Let the success affect something else, in addition to what the PC was going for, and bring the player into the process of selling it by prompting them to make up cool details. "Three extra [[shift]]s on that [[Burglary]] roll---tell me, is anyone ever going to be able to lock that crypt again?" "So you got five [[shift]]s on that [[Contacts]] roll---tell me, where does Nicky the Fink usually go when he's running out on his wife, and what do you say when you find him there?"
-- **Add an Aspect**: You can express additional effects of a good roll by placing an aspect on the PC or on the scene, essentially letting them [[Create Advantage]] for free. "So your [[Resources]] roll to bribe the guard succeeded with four [[shift]]s. She'll let you through the gate all right, and she'll also act as [Available Backup] if you should need some help later."
+- **Add an Aspect**: You can express additional effects of a good roll by placing an aspect on the PC or on the scene, essentially letting them [[Create Advantage]] for free. "So your [[Resources]] roll to bribe the guard succeeded with four [[shift]]s. She'll let you through the gate all right, and she'll also act as `Available Backup` if you should need some help later."
 - **Reducing Time**: If it's important to get something done fast, then you can [[#Dealing with Time|use extra [[shift]]s]] to decrease the time that it takes to do an action.
 
 ## Dealing with Time
@@ -102,29 +102,12 @@ There are two kinds of time in Fate: **game time** and **story time**.
 
 Game time is how to organize play in terms of the real players sitting at the table. Each unit of game time corresponds to a certain amount of real time. They are:
 
-#### Exchange
-
-An [[Exchange]] is the amount of time it takes all participants in a conflict to take a turn, which includes doing an action and responding to any action taken against them. This usually doesn't take longer than a few minutes.
-
-#### Scene
-
-The amount of time it takes to resolve a conflict, deal with a single prominent situation, or accomplish a goal. Scenes vary in length, from a minute or two if it's just a quick description and some dialogue, to a half hour or more in the case of a major set piece battle against a main NPC.
-
-#### Session
-
-The sum total of all the scenes you run through in a single sitting. A session ends when you and your friends pack it up for the night and go home. For most people, a session is about 2 to 4 hours, but there is no theoretical limit---if you have few obligations, then you're only really limited by the need for food and sleep. A minor milestone usually occurs after a session.
-
-#### Scenario
-
-One or more sessions of play, but usually no more than four. Most of the time, the sessions that make up a scenario will definitively resolve some kind of problem or dilemma presented by the GM, or wrap up a storyline (see Scenes, Sessions, and Scenarios for more on scenarios). A significant milestone usually occurs at the end of a scenario. You can look at this like an episode of a television show---the number of sessions it takes to tell one story.
-
-#### Arc
-
-Several scenarios, usually between two and four. An arc typically culminates in an event that brings great change to the game world, building up from the resolution of the scenarios. You can look at an arc like a season of a television show, where individual episodes lead to a tumultuous climax. You're not always guaranteed to have a recognizable arc, just like not all TV shows have a plotline that carries through the whole season---it's possible to bounce from situation to situation without having a defined plot structure. Major milestones usually happen at the end of an arc.
-
-#### Campaign
-
-The sum of all the time you've sat at a table playing this particular game of Fate---every session, every scenario, every arc. Technically, there's no upper limit to how long a campaign can be. Some groups go for years; others get to the end of an arc and then stop. It is presumed that a typical group will go for a few arcs (or about ten scenarios) before having a grand finale and moving on to another game (hopefully another Fate game!). You might set up your campaign as a kind of "super-arc," where there's one massive conflict that everything else is a smaller part of, or it might simply consist of the smaller individual stories that you tell in your scenarios.
+- [[Exchange]]
+- [[scene]]
+- [[session]]
+- [[scenario]]
+- [[arc]]
+- [[campaign]]
 
 ### Story Time
 
@@ -192,6 +175,7 @@ Remember that if you do this with a conflict or a contest, that you scale each e
 
 There's no rule that says you're required to keep your rolls consistent in terms of story time. One cool trick you can do is use the result of one roll to segue into another roll that takes place over a much smaller period in time, or vice versa. This is a great way to open a new scene, contest, or conflict, or just introduce a change of pace.
 
+> [!info]- Example
 > During the aforementioned six-month break, Cynere has been researching the demon compatriots of the horrific Arc'yeth, who soul-burned her in the last arc of the campaign. She decides to go it alone, even though Zird offered to help, and ends up rolling her newly acquired Average (+1) [[Lore]] to succeed at an overcome roll.
 >
 > She ends up doing really well, and Amanda describes Cynere getting lost in research for a few months. Then Amanda says, "Awesome. You return home with the dirt of the trail on you, weary to the bone, hands stained with ink, but your search has uncovered the hiding place of Arc'yeth's right hand in the Circle of Thirteen, a minor demon named Tan'shael (all these apostrophes!). You fall into bed, ready to start the search in the morning... and are wakened in the middle of the night by a crashing sound coming from your study."
@@ -238,6 +222,7 @@ From the player's point of view, there's almost no way to know what you've made 
 
 If you're really comfortable with improvising, this means that you can come to the table with very little prepared beforehand, and let the players' reactions and questions build everything for you. You may need to ask some prompting questions first, to narrow down the scope of what information the player's looking for, but after that, the sky's the limit.
 
+> [!info]- Example
 > Zird the Arcane is scouting an ancient ritual site, looking for a good place to work on banishing the curse that's been placed on the nearby village of Belwitch, the mayor of which is paying him good money for the effort.
 >
 > Ryan says, "I'm going to spend some time in a local library, researching some history about the site. I'd like to use [[Lore]] to create an advantage."

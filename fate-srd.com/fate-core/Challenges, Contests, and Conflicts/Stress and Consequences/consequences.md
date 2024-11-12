@@ -67,7 +67,7 @@ Whether you change the consequence's name or not---and sometimes it might not ma
 
 Then, you just have to wait the time.
 
-- For a **mild consequence**, you only have to wait one whole [[Scene]] after the recovery action,
+- For a **mild consequence**, you only have to wait one whole [[scene]] after the recovery action,
   and then you can remove the [[aspect]] and clear the slot.
 - For a **moderate consequence**, you have to wait one whole [[session]] after the recovery action (which means if you do the recovery action in the middle of a [[session]], you should recover sometime in the middle of next [[session]]).
 - For a **severe consequence**, you have to wait one whole [[scenario]] after the recovery action.

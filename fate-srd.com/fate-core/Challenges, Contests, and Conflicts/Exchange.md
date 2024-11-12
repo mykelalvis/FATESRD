@@ -25,3 +25,7 @@ If you want, you can forgo your action for the exchange to concentrate on defens
 > On Lenny's turn, he has Landon [[Create Advantage]] by placing an aspect on Og called [Hemmed In], hoping to corner him between some crates. That's his action for the exchange.
 >
 > Amanda goes last, and she just has all of her NPCs attack their chosen targets.
+
+#### Exchange
+
+An [[Exchange]] is the amount of time it takes all participants in a conflict to take a turn, which includes doing an action and responding to any action taken against them. This usually doesn't take longer than a few minutes.

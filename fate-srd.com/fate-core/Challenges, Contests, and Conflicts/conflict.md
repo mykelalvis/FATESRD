@@ -14,7 +14,7 @@ Conflicts are either physical or mental in nature, based on the kind of harm you
 
 Setting up a conflict is a little more involved than setting up contests or challenges. Here are the steps:
 
-- Set the [[scene]], describing the environment the conflict takes place in, creating [[situation aspect]]s and [[zone]]s, and establishing who's participating and [[Establishing Sides|what side they're on]].
+- [[Defining the Scene|Set the scene]], describing the environment the conflict takes place in, creating [[situation aspect]]s and [[zone]]s, and establishing who's participating and [[Establishing Sides|what side they're on]].
 - Determine the [[turn order]].
 - Start the first [[exchange]]:
 - On your turn, take an [[Action]] and then resolve it.

@@ -1,0 +1,5 @@
+An **arc** is a series of sessions that often contain plot elements that carry over from session to session. Those plot elements don't have to conclude within an arc, but there are usually significant developments and changes that come about over the course of it. Think of this as similar to a third- or half-season of a television show. It's likely comprised of about four sessions of play.
+
+#### Arc
+
+Several [[scenario]]s, usually between two and four. An arc typically culminates in an event that brings great change to the game world, building up from the resolution of the scenarios. You can look at an arc like a season of a television show, where individual episodes lead to a tumultuous climax. You're not always guaranteed to have a recognizable arc, just like not all TV shows have a plotline that carries through the whole season---it's possible to bounce from situation to situation without having a defined plot structure. Major milestones usually happen at the end of an arc.

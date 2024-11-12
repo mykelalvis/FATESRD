@@ -12,6 +12,6 @@ What do you do with them?
 
 It's time to get into the real meat of the game: creating and playing through scenarios.
 
-- [[Scenario|Defining Scenario]]s
-- [[Scene]]
+- [[Defining Scenarios]]
+- [[Defining the Scene]]
 - [[The Scenario In Play]]

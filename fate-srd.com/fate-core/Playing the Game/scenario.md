@@ -1,0 +1,3 @@
+#### Scenario
+
+One or more [[session]]s of play, but usually no more than four. Most of the time, the [[session]]s that make up a scenario will definitively resolve some kind of problem or dilemma presented by the GM, or wrap up a storyline (see [[Scenes, Sessions, and Scenarios]] for more on scenarios). A [[significant milestone]] usually occurs at the end of a scenario. You can look at this like an episode of a television show---the number of sessions it takes to tell one story.
