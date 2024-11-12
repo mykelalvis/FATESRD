@@ -12,6 +12,7 @@ When you combine skills, figure out who has the highest skill level among the pa
 
 If you fail a roll to combine skills, all of the participants share in the potential costs---whatever complication affects one character affects all of them, or everyone has to take consequences. Alternatively, you can impose a cost that affects all the characters the same.
 
+> [!info]- Example
 > Continuing with our temple chase example, because it's group vs. group, everyone decides it'd be easier to just combine skills.
 >
 > Of the three PCs, Cynere has the highest [[Athletics]], at Great (+4). Landon has Good (+3) [[Athletics]] and Zird has Average (+1) [[Athletics]], so they each contribute +1. Cynere rolls the contest on behalf of the PCs at Fantastic (+6).
@@ -20,6 +21,7 @@ If you fail a roll to combine skills, all of the participants share in the poten
 
 When you stack advantages, each person takes a [[Create Advantage]] action as usual, and gives whatever free invocations they get to a single character. Remember that multiple free invocations from the same aspect can stack.
 
+> [!info]- Example
 > Zird and Cynere want to set Landon up for an extremely big hit on Tremendor, the much-feared giant of the Northern Wastes.
 >
 > Both Cynere and Zird roll to [[Create Advantage]] on their turns, resulting in three free invocations on a [Flashy Distraction] they make from Zird's magical fireworks (which succeeded to create the advantage) and Cynere's glancing hits (which succeeded with style to add two more free invocations).
